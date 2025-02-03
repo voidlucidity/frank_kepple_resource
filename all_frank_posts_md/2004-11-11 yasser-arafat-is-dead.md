@@ -1,12 +1,13 @@
 ---
 topic_title: "Yasser Arafat is dead"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/yasser-arafat-is-dead
-num_views: 1950
+topic_id: 15249
 num_posts: 5
 date_first: 2004-11-11
 date_last: 2004-11-13
-tags: []
+num_views: 1950
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2004-11-11 10:03:37](https://www.astralpulse.com/forums/index.php?msg=133267), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

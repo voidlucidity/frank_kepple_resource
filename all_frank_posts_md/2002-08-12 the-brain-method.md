@@ -1,12 +1,13 @@
 ---
 topic_title: "The Brain method"
 topic_url: https://www.astralpulse.com/forums/welcome-to-permanent-astral-topics!/the-brain-method
-num_views: 43299
+topic_id: 1647
 num_posts: 44
 date_first: 2002-08-12
 date_last: 2003-10-23
-tags: []
+num_views: 43299
 summary: ""
+tags: []
 ---
 
 ## \#0/43 (43) [2002-08-12 04:12:06](https://www.astralpulse.com/forums/index.php?msg=117382), [rodentmouse](https://www.astralpulse.com/forums/profile/?u=554) United Kingdom ##

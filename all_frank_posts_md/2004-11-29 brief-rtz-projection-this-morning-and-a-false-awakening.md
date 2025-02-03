@@ -1,12 +1,13 @@
 ---
 topic_title: "Brief RTZ projection this morning and a false awakening."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/brief-rtz-projection-this-morning-and-a-false-awakening
-num_views: 1505
+topic_id: 15510
 num_posts: 3
 date_first: 2004-11-29
 date_last: 2004-11-29
-tags: []
+num_views: 1505
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2004-11-29 17:23:53](https://www.astralpulse.com/forums/index.php?msg=135303), [Sampson](https://www.astralpulse.com/forums/profile/?u=4884) Luxembourg ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Iraqis Cheer in the Streets"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/iraqis-cheer-in-the-streets
-num_views: 10013
+topic_id: 4110
 num_posts: 32
 date_first: 2003-04-09
 date_last: 2003-04-15
-tags: []
+num_views: 10013
 summary: ""
+tags: []
 ---
 
 ## \#0/31 (30) [2003-04-09 14:30:45](https://www.astralpulse.com/forums/index.php?msg=119822), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

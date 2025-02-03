@@ -1,12 +1,13 @@
 ---
 topic_title: "So I can will anything when i'm in the astral plane.. ?.."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/so-i-can-will-anything-when-i-m-in-the-astral-plane
-num_views: 1646
+topic_id: 16380
 num_posts: 5
 date_first: 2005-01-11
 date_last: 2005-01-13
-tags: []
+num_views: 1646
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-01-11 21:00:29](https://www.astralpulse.com/forums/index.php?msg=142380), [Quo Animo](https://www.astralpulse.com/forums/profile/?u=7853)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Sexual Supression"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/sexual-supression
-num_views: 11154
+topic_id: 14942
 num_posts: 36
 date_first: 2004-10-21
 date_last: 2004-11-03
-tags: []
+num_views: 11154
 summary: ""
+tags: []
 ---
 
 ## \#0/35 (0) [2004-10-21 20:08:56](https://www.astralpulse.com/forums/index.php?msg=131018), [halfphased](https://www.astralpulse.com/forums/profile/?u=2995) USA ##

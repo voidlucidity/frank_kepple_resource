@@ -1,12 +1,13 @@
 ---
 topic_title: "Good Rundown?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/good-rundown
-num_views: 2389
+topic_id: 19647
 num_posts: 4
 date_first: 2005-07-02
 date_last: 2005-07-03
-tags: []
+num_views: 2389
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-07-02 12:19:06](https://www.astralpulse.com/forums/index.php?msg=168812), Stookie  ##

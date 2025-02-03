@@ -1,12 +1,13 @@
 ---
 topic_title: "Is the imagination in F2?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/is-the-imagination-in-f2
-num_views: 7060
+topic_id: 19550
 num_posts: 17
 date_first: 2005-06-25
 date_last: 2005-07-04
-tags: []
+num_views: 7060
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (0) [2005-06-25 13:25:05](https://www.astralpulse.com/forums/index.php?msg=167919), [Froglet](https://www.astralpulse.com/forums/profile/?u=5969) USA ##

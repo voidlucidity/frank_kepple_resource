@@ -1,12 +1,13 @@
 ---
 topic_title: "Two Questions"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/two-questions
-num_views: 5387
+topic_id: 2603
 num_posts: 15
 date_first: 2002-11-16
 date_last: 2002-11-27
-tags: []
+num_views: 5387
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (14) [2002-11-16 16:26:52](https://www.astralpulse.com/forums/index.php?msg=118335), [Galgorth](https://www.astralpulse.com/forums/profile/?u=138) USA ##

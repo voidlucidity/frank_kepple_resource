@@ -1,12 +1,13 @@
 ---
 topic_title: "Construct your own talk-through tape?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/construct-your-own-talk-through-tape
-num_views: 4389
+topic_id: 3411
 num_posts: 7
 date_first: 2003-02-08
 date_last: 2003-02-11
-tags: []
+num_views: 4389
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2003-02-08 05:44:38](https://www.astralpulse.com/forums/index.php?msg=119134), [psaunder](https://www.astralpulse.com/forums/profile/?u=1618) Australia ##

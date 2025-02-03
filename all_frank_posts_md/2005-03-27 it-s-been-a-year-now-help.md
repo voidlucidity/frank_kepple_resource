@@ -1,12 +1,13 @@
 ---
 topic_title: "It's been a year now... help."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/it-s-been-a-year-now-help
-num_views: 1653
+topic_id: 18202
 num_posts: 6
 date_first: 2005-03-27
 date_last: 2005-03-28
-tags: []
+num_views: 1653
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-03-27 01:46:42](https://www.astralpulse.com/forums/index.php?msg=157782), [french_hustler](https://www.astralpulse.com/forums/profile/?u=5248) France ##

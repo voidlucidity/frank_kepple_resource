@@ -1,12 +1,13 @@
 ---
 topic_title: "How to enter the 'black void' - the inner sanctum"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/how-to-enter-the-black-void-the-inner-sanctum
-num_views: 4671
+topic_id: 1736
 num_posts: 6
 date_first: 2002-08-26
 date_last: 2002-08-27
-tags: []
+num_views: 4671
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-08-26 06:01:21](https://www.astralpulse.com/forums/index.php?msg=117471), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Simple way to simulate some of the OBE sensations"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/simple-way-to-simulate-some-of-the-obe-sensations
-num_views: 2032
+topic_id: 3218
 num_posts: 6
 date_first: 2003-01-20
 date_last: 2003-01-21
-tags: []
+num_views: 2032
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2003-01-20 09:27:26](https://www.astralpulse.com/forums/index.php?msg=118944), [Kodemaster](https://www.astralpulse.com/forums/profile/?u=426)(Global Moderator) USA ##

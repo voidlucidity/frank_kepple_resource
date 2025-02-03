@@ -1,12 +1,13 @@
 ---
 topic_title: "Another question for Frank"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/another-question-for-frank
-num_views: 8519
+topic_id: 19847
 num_posts: 18
 date_first: 2005-07-16
 date_last: 2005-07-30
-tags: []
+num_views: 8519
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (0) [2005-07-16 05:25:13](https://www.astralpulse.com/forums/index.php?msg=170424), [halfphased](https://www.astralpulse.com/forums/profile/?u=2995) USA ##

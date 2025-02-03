@@ -1,12 +1,13 @@
 ---
 topic_title: "Purpose behind the noises?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/purpose-behind-the-noises
-num_views: 3424
+topic_id: 1591
 num_posts: 13
 date_first: 2002-08-04
 date_last: 2002-08-05
-tags: []
+num_views: 3424
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2002-08-04 07:59:52](https://www.astralpulse.com/forums/index.php?msg=117326), [jilola](https://www.astralpulse.com/forums/profile/?u=755) Ireland ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Kundalini"
 topic_url: https://www.astralpulse.com/forums/welcome-to-energy-body-and-the-chakras/kundalini
-num_views: 44144
+topic_id: 1016
 num_posts: 93
 date_first: 2002-05-28
 date_last: 2004-05-29
-tags: []
+num_views: 44144
 summary: ""
+tags: []
 ---
 
 ## \#0/92 (92) [2002-05-28 13:04:11](https://www.astralpulse.com/forums/index.php?msg=116754), [distant bell](https://www.astralpulse.com/forums/profile/?u=318) Sweden ##

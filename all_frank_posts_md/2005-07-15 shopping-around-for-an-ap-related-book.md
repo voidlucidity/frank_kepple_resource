@@ -1,12 +1,13 @@
 ---
 topic_title: "Shopping around for an AP related book."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/shopping-around-for-an-ap-related-book
-num_views: 4474
+topic_id: 19833
 num_posts: 11
 date_first: 2005-07-15
 date_last: 2005-07-24
-tags: []
+num_views: 4474
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-07-15 02:40:02](https://www.astralpulse.com/forums/index.php?msg=170265), [m3th](https://www.astralpulse.com/forums/profile/?u=9397)  ##

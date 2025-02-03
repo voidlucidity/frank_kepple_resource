@@ -1,12 +1,13 @@
 ---
 topic_title: "Alas another newbie"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/alas-another-newbie
-num_views: 3327
+topic_id: 17047
 num_posts: 6
 date_first: 2005-02-04
 date_last: 2005-02-14
-tags: []
+num_views: 3327
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-02-04 23:35:18](https://www.astralpulse.com/forums/index.php?msg=147173), [abijhadvedvishnavati](https://www.astralpulse.com/forums/profile/?u=8215) USA ##

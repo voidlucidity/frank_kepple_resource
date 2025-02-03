@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE, AP, NDE,  etc. <--IT'S ALL IN YOUR MIND!!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/obe-ap-nde-etc-lt-it-s-all-in-your-mind%21%21
-num_views: 9254
+topic_id: 1643
 num_posts: 25
 date_first: 2002-08-09
 date_last: 2003-08-10
-tags: []
+num_views: 9254
 summary: ""
+tags: []
 ---
 
 ## \#0/24 (24) [2002-08-09 16:58:11](https://www.astralpulse.com/forums/index.php?msg=117378), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

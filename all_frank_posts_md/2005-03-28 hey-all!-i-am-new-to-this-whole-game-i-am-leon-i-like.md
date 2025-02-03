@@ -1,12 +1,13 @@
 ---
 topic_title: "Hey, ALL! I am new to this whole game... I am Leon... I like"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/hey-all%21-i-am-new-to-this-whole-game-i-am-leon-i-like
-num_views: 1498
+topic_id: 18246
 num_posts: 4
 date_first: 2005-03-28
 date_last: 2005-03-30
-tags: []
+num_views: 1498
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-03-28 21:10:10](https://www.astralpulse.com/forums/index.php?msg=158066), [misterethoughts](https://www.astralpulse.com/forums/profile/?u=8708) bayarea, cali ##

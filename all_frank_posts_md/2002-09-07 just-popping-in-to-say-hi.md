@@ -1,12 +1,13 @@
 ---
 topic_title: "Just popping in to say hi"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/just-popping-in-to-say-hi
-num_views: 2209
+topic_id: 1851
 num_posts: 5
 date_first: 2002-09-07
 date_last: 2002-09-11
-tags: []
+num_views: 2209
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2002-09-07 22:33:46](https://www.astralpulse.com/forums/index.php?msg=117586), [Patty](https://www.astralpulse.com/forums/profile/?u=673) USA ##

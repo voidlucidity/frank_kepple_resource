@@ -1,12 +1,13 @@
 ---
 topic_title: "Miracles of the Qur'an"
 topic_url: https://www.astralpulse.com/forums/welcome-to-world-cultures-traditions-and-religions!/miracles-of-the-qur-an
-num_views: 19487
+topic_id: 7389
 num_posts: 66
 date_first: 2003-09-14
 date_last: 2005-09-19
-tags: []
+num_views: 19487
 summary: ""
+tags: []
 ---
 
 ## \#0/65 (2) [2003-09-14 17:15:55](https://www.astralpulse.com/forums/index.php?msg=122814), [Mohamed](https://www.astralpulse.com/forums/profile/?u=3361) USA ##

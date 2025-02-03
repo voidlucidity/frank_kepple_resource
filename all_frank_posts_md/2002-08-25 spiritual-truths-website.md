@@ -1,12 +1,13 @@
 ---
 topic_title: "Spiritual Truths website"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/spiritual-truths-website
-num_views: 11488
+topic_id: 1729
 num_posts: 28
 date_first: 2002-08-25
 date_last: 2002-09-03
-tags: []
+num_views: 11488
 summary: ""
+tags: []
 ---
 
 ## \#0/27 (27) [2002-08-25 14:14:58](https://www.astralpulse.com/forums/index.php?msg=117464), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

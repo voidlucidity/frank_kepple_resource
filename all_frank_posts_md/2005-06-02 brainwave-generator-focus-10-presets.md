@@ -1,12 +1,13 @@
 ---
 topic_title: "brainwave generator focus 10 presets"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/brainwave-generator-focus-10-presets
-num_views: 5406
+topic_id: 19138
 num_posts: 13
 date_first: 2005-06-02
 date_last: 2005-06-08
-tags: []
+num_views: 5406
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (0) [2005-06-02 12:52:45](https://www.astralpulse.com/forums/index.php?msg=165104), [shedt](https://www.astralpulse.com/forums/profile/?u=1686) Canada ##

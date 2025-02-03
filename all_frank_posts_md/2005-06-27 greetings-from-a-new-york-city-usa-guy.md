@@ -1,12 +1,13 @@
 ---
 topic_title: "Greetings from a New York City, USA guy"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/greetings-from-a-new-york-city-usa-guy
-num_views: 3317
+topic_id: 19570
 num_posts: 10
 date_first: 2005-06-27
 date_last: 2005-07-02
-tags: []
+num_views: 3317
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2005-06-27 00:56:02](https://www.astralpulse.com/forums/index.php?msg=168121), [esotericus](https://www.astralpulse.com/forums/profile/?u=9309) USA ##

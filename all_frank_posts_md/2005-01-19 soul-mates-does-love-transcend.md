@@ -1,12 +1,13 @@
 ---
 topic_title: "Soul mates - does love transcend?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/soul-mates-does-love-transcend
-num_views: 3468
+topic_id: 16596
 num_posts: 9
 date_first: 2005-01-19
 date_last: 2005-01-31
-tags: []
+num_views: 3468
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (0) [2005-01-19 02:40:30](https://www.astralpulse.com/forums/index.php?msg=143670), [Astral Soul](https://www.astralpulse.com/forums/profile/?u=7837)  ##

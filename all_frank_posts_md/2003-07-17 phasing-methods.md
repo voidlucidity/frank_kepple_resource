@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing methods"
 topic_url: https://www.astralpulse.com/forums/welcome-to-permanent-astral-topics!/phasing-methods
-num_views: 53219
+topic_id: 5685
 num_posts: 63
 date_first: 2003-07-17
 date_last: 2005-10-05
-tags: []
+num_views: 53219
 summary: ""
+tags: []
 ---
 
 ## \#0/62 (41) [2003-07-17 13:21:16](https://www.astralpulse.com/forums/index.php?msg=121327), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

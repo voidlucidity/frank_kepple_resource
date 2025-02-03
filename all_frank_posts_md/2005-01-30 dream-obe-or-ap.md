@@ -1,12 +1,13 @@
 ---
 topic_title: "dream, obe, or ap"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/dream-obe-or-ap
-num_views: 2015
+topic_id: 16880
 num_posts: 5
 date_first: 2005-01-30
 date_last: 2005-02-02
-tags: []
+num_views: 2015
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-01-30 17:27:02](https://www.astralpulse.com/forums/index.php?msg=145936), [miranda](https://www.astralpulse.com/forums/profile/?u=8211) colorado ##

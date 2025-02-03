@@ -1,12 +1,13 @@
 ---
 topic_title: "a little help please"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/a-little-help-please
-num_views: 2850
+topic_id: 1762
 num_posts: 8
 date_first: 2002-08-28
 date_last: 2002-08-29
-tags: []
+num_views: 2850
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-08-28 13:00:23](https://www.astralpulse.com/forums/index.php?msg=117497), [nclkwrk](https://www.astralpulse.com/forums/profile/?u=983) USA ##

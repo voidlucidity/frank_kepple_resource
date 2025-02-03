@@ -1,12 +1,13 @@
 ---
 topic_title: "How can i be a MOD"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/how-can-i-be-a-mod
-num_views: 2732
+topic_id: 4279
 num_posts: 10
 date_first: 2003-04-23
 date_last: 2003-04-28
-tags: []
+num_views: 2732
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2003-04-23 18:50:56](https://www.astralpulse.com/forums/index.php?msg=119988), [omega](https://www.astralpulse.com/forums/profile/?u=2194) USA ##

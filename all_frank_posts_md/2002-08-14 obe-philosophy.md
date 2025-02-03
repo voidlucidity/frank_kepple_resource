@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE Philosophy"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/obe-philosophy
-num_views: 4887
+topic_id: 1668
 num_posts: 14
 date_first: 2002-08-14
 date_last: 2002-08-19
-tags: []
+num_views: 4887
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (13) [2002-08-14 15:37:09](https://www.astralpulse.com/forums/index.php?msg=117403), [Grendel](https://www.astralpulse.com/forums/profile/?u=826)  ##

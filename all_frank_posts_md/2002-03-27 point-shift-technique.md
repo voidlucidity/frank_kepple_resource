@@ -1,12 +1,13 @@
 ---
 topic_title: "Point Shift Technique"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/point-shift-technique
-num_views: 5026
+topic_id: 443
 num_posts: 10
 date_first: 2002-03-27
 date_last: 2002-03-28
-tags: []
+num_views: 5026
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2002-03-27 11:12:58](https://www.astralpulse.com/forums/index.php?msg=116202), [Qui-Gon Jinn](https://www.astralpulse.com/forums/profile/?u=303) Sweden ##

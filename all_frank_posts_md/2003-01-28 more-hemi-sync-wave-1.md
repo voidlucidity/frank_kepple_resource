@@ -1,12 +1,13 @@
 ---
 topic_title: "More hemi sync Wave 1..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/more-hemi-sync-wave-1
-num_views: 4781
+topic_id: 3271
 num_posts: 9
 date_first: 2003-01-28
 date_last: 2003-01-31
-tags: []
+num_views: 4781
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2003-01-28 08:37:24](https://www.astralpulse.com/forums/index.php?msg=118997), [clandestino](https://www.astralpulse.com/forums/profile/?u=691) Australia ##

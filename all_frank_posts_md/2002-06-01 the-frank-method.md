@@ -1,12 +1,13 @@
 ---
 topic_title: "The Frank method"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/the-frank-method
-num_views: 3401
+topic_id: 1047
 num_posts: 10
 date_first: 2002-06-01
 date_last: 2002-06-07
-tags: []
+num_views: 3401
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2002-06-01 11:24:34](https://www.astralpulse.com/forums/index.php?msg=116785), [rodentmouse](https://www.astralpulse.com/forums/profile/?u=554) United Kingdom ##

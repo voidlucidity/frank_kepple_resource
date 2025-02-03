@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Projection (of course)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/astral-projection-of-course
-num_views: 1819
+topic_id: 15803
 num_posts: 3
 date_first: 2004-12-13
 date_last: 2004-12-13
-tags: []
+num_views: 1819
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2004-12-13 15:48:49](https://www.astralpulse.com/forums/index.php?msg=137742), [cloudymoon](https://www.astralpulse.com/forums/profile/?u=7597) Netherworld... ##

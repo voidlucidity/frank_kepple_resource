@@ -1,12 +1,13 @@
 ---
 topic_title: "How am I doing so far?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/how-am-i-doing-so-far
-num_views: 4175
+topic_id: 15118
 num_posts: 13
 date_first: 2004-11-01
 date_last: 2004-11-02
-tags: []
+num_views: 4175
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (0) [2004-11-01 07:14:03](https://www.astralpulse.com/forums/index.php?msg=132095), [heter](https://www.astralpulse.com/forums/profile/?u=6469) USA ##

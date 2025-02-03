@@ -1,12 +1,13 @@
 ---
 topic_title: "This forum is prety cool."
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/this-forum-is-prety-cool
-num_views: 2286
+topic_id: 19979
 num_posts: 3
 date_first: 2005-07-27
 date_last: 2005-07-29
-tags: []
+num_views: 2286
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-07-27 08:54:39](https://www.astralpulse.com/forums/index.php?msg=171393), [Ridion](https://www.astralpulse.com/forums/profile/?u=9517) Adelaide, Australia ##

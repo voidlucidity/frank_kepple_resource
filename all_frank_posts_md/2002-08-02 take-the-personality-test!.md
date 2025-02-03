@@ -1,12 +1,13 @@
 ---
 topic_title: "Take the PERSONALITY TEST!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/take-the-personality-test%21
-num_views: 4844
+topic_id: 1571
 num_posts: 14
 date_first: 2002-08-02
 date_last: 2002-08-05
-tags: []
+num_views: 4844
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (13) [2002-08-02 14:50:53](https://www.astralpulse.com/forums/index.php?msg=117306), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

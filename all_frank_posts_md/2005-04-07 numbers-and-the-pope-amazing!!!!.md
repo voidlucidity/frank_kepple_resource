@@ -1,12 +1,13 @@
 ---
 topic_title: "Numbers and the Pope..AMAZING!!!!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/numbers-and-the-pope-amazing%21%21%21%21
-num_views: 4444
+topic_id: 18405
 num_posts: 13
 date_first: 2005-04-07
 date_last: 2005-05-22
-tags: []
+num_views: 4444
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (0) [2005-04-07 13:43:03](https://www.astralpulse.com/forums/index.php?msg=159329), [Hannah b](https://www.astralpulse.com/forums/profile/?u=4711) Poland ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Monism 21-day Poll"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/monism-21-day-poll
-num_views: 8099
+topic_id: 16884
 num_posts: 26
 date_first: 2005-01-30
 date_last: 2005-02-22
-tags: []
+num_views: 8099
 summary: ""
+tags: []
 ---
 
 ## \#0/25 (0) [2005-01-30 17:59:01](https://www.astralpulse.com/forums/index.php?msg=145946), [Telos](https://www.astralpulse.com/forums/profile/?u=6496)  ##

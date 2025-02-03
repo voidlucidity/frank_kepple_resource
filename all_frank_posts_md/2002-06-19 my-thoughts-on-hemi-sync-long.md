@@ -1,12 +1,13 @@
 ---
 topic_title: "my thoughts on hemi-sync (long)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/my-thoughts-on-hemi-sync-long
-num_views: 4013
+topic_id: 1184
 num_posts: 10
 date_first: 2002-06-19
 date_last: 2002-06-22
-tags: []
+num_views: 4013
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2002-06-19 23:04:28](https://www.astralpulse.com/forums/index.php?msg=116922), [justinh](https://www.astralpulse.com/forums/profile/?u=591) USA ##

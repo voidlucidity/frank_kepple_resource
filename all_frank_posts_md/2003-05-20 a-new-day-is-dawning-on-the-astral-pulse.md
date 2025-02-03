@@ -1,12 +1,13 @@
 ---
 topic_title: "A New Day is Dawning on the Astral Pulse"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/a-new-day-is-dawning-on-the-astral-pulse
-num_views: 7474
+topic_id: 4636
 num_posts: 27
 date_first: 2003-05-20
 date_last: 2003-06-03
-tags: []
+num_views: 7474
 summary: ""
+tags: []
 ---
 
 ## \#0/26 (26) [2003-05-20 20:30:55](https://www.astralpulse.com/forums/index.php?msg=120337), [kakkarot](https://www.astralpulse.com/forums/profile/?u=541) Canada ##

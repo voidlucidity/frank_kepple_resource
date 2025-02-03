@@ -1,12 +1,13 @@
 ---
 topic_title: "What means \"to surrender\"... and how do to that ?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/what-means-to-surrender-and-how-do-to-that
-num_views: 6220
+topic_id: 14860
 num_posts: 26
 date_first: 2004-10-17
 date_last: 2004-10-31
-tags: []
+num_views: 6220
 summary: ""
+tags: []
 ---
 
 ## \#0/25 (0) [2004-10-17 19:47:57](https://www.astralpulse.com/forums/index.php?msg=130473), [God's Love](https://www.astralpulse.com/forums/profile/?u=7157) France ##

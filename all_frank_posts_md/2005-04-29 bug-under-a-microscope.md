@@ -1,12 +1,13 @@
 ---
 topic_title: "Bug under a microscope?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/bug-under-a-microscope
-num_views: 2174
+topic_id: 18787
 num_posts: 4
 date_first: 2005-04-29
 date_last: 2005-05-03
-tags: []
+num_views: 2174
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-04-29 09:24:24](https://www.astralpulse.com/forums/index.php?msg=162270), [Steve 2B](https://www.astralpulse.com/forums/profile/?u=8938)  ##

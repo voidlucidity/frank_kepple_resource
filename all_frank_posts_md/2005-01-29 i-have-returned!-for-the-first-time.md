@@ -1,12 +1,13 @@
 ---
 topic_title: "I have returned! (for the first time)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/i-have-returned%21-for-the-first-time
-num_views: 1505
+topic_id: 16859
 num_posts: 2
 date_first: 2005-01-29
 date_last: 2005-01-30
-tags: []
+num_views: 1505
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-01-29 20:15:02](https://www.astralpulse.com/forums/index.php?msg=145787), [Shadowarrior13](https://www.astralpulse.com/forums/profile/?u=8202) Arizona ##

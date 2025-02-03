@@ -1,12 +1,13 @@
 ---
 topic_title: "Quick Question for Frank :)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/quick-question-for-frank
-num_views: 1956
+topic_id: 18491
 num_posts: 6
 date_first: 2005-04-11
 date_last: 2005-04-14
-tags: []
+num_views: 1956
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-04-11 19:58:40](https://www.astralpulse.com/forums/index.php?msg=159889), [Ben K](https://www.astralpulse.com/forums/profile/?u=8796) USA..:( ##

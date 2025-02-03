@@ -1,12 +1,13 @@
 ---
 topic_title: "First OBE/Projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/first-obeprojection
-num_views: 2052
+topic_id: 18683
 num_posts: 5
 date_first: 2005-04-23
 date_last: 2005-04-26
-tags: []
+num_views: 2052
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-04-23 09:11:09](https://www.astralpulse.com/forums/index.php?msg=161491), [tripologist](https://www.astralpulse.com/forums/profile/?u=8917)  ##

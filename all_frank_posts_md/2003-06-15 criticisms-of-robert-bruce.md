@@ -1,12 +1,13 @@
 ---
 topic_title: "Criticisms of Robert Bruce"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/criticisms-of-robert-bruce
-num_views: 4099
+topic_id: 5047
 num_posts: 12
 date_first: 2003-06-15
 date_last: 2003-06-18
-tags: []
+num_views: 4099
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2003-06-15 10:30:21](https://www.astralpulse.com/forums/index.php?msg=120732), [boomyboomy](https://www.astralpulse.com/forums/profile/?u=1206) United Kingdom ##

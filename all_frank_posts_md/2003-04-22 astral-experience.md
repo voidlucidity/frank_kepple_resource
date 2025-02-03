@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral experience?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/astral-experience
-num_views: 2574
+topic_id: 4254
 num_posts: 7
 date_first: 2003-04-22
 date_last: 2003-04-23
-tags: []
+num_views: 2574
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2003-04-22 09:18:54](https://www.astralpulse.com/forums/index.php?msg=119963), [Nick](https://www.astralpulse.com/forums/profile/?u=2080) California ##

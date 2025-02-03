@@ -1,12 +1,13 @@
 ---
 topic_title: "What does a \"Chakra\" make you feel like?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/what-does-a-chakra-make-you-feel-like
-num_views: 9387
+topic_id: 510
 num_posts: 23
 date_first: 2002-04-04
 date_last: 2002-04-12
-tags: []
+num_views: 9387
 summary: ""
+tags: []
 ---
 
 ## \#0/22 (22) [2002-04-04 03:17:44](https://www.astralpulse.com/forums/index.php?msg=116265), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Sleep Wake Sleep Method - Schedule"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/sleep-wake-sleep-method-schedule
-num_views: 4858
+topic_id: 2831
 num_posts: 10
 date_first: 2002-12-09
 date_last: 2002-12-13
-tags: []
+num_views: 4858
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2002-12-09 18:48:02](https://www.astralpulse.com/forums/index.php?msg=118561), [TheJza](https://www.astralpulse.com/forums/profile/?u=218)  ##

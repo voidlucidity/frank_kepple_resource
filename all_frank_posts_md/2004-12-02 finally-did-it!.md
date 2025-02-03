@@ -1,12 +1,13 @@
 ---
 topic_title: "Finally did it!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/finally-did-it%21
-num_views: 6468
+topic_id: 15568
 num_posts: 19
 date_first: 2004-12-02
 date_last: 2004-12-08
-tags: []
+num_views: 6468
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (0) [2004-12-02 19:46:14](https://www.astralpulse.com/forums/index.php?msg=135754), [markulous](https://www.astralpulse.com/forums/profile/?u=7426)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "How to turn lucid to OBE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/how-to-turn-lucid-to-obe
-num_views: 3099
+topic_id: 2608
 num_posts: 6
 date_first: 2002-11-17
 date_last: 2002-11-20
-tags: []
+num_views: 3099
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-11-17 05:41:36](https://www.astralpulse.com/forums/index.php?msg=118339), [telecaster](https://www.astralpulse.com/forums/profile/?u=347) Finland ##

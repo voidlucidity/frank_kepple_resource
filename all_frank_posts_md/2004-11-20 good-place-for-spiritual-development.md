@@ -1,12 +1,13 @@
 ---
 topic_title: "Good place for spiritual development"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/good-place-for-spiritual-development
-num_views: 4391
+topic_id: 15373
 num_posts: 17
 date_first: 2004-11-20
 date_last: 2004-12-30
-tags: []
+num_views: 4391
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (0) [2004-11-20 21:04:15](https://www.astralpulse.com/forums/index.php?msg=134283), [Graelwyn](https://www.astralpulse.com/forums/profile/?u=7334)  ##

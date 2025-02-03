@@ -1,12 +1,13 @@
 ---
 topic_title: "Newbie questions (again) :)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/newbie-questions-again
-num_views: 4880
+topic_id: 18889
 num_posts: 13
 date_first: 2005-05-04
 date_last: 2005-06-09
-tags: []
+num_views: 4880
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (0) [2005-05-04 10:18:08](https://www.astralpulse.com/forums/index.php?msg=163129), [Astral Projection](https://www.astralpulse.com/forums/profile/?u=9052) Montenegro ##

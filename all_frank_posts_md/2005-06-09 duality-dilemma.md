@@ -1,12 +1,13 @@
 ---
 topic_title: "Duality Dilemma:"
 topic_url: https://www.astralpulse.com/forums/welcome-to-integral-philosophy!/duality-dilemma
-num_views: 4967
+topic_id: 19276
 num_posts: 6
 date_first: 2005-06-09
 date_last: 2005-06-11
-tags: []
+num_views: 4967
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-06-09 00:26:17](https://www.astralpulse.com/forums/index.php?msg=165961), [Beth](https://www.astralpulse.com/forums/profile/?u=3463) USA ##

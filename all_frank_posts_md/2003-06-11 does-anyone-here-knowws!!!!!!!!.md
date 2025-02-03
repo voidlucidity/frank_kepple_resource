@@ -1,12 +1,13 @@
 ---
 topic_title: "does anyone here knowws!!!!!!!!????"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/does-anyone-here-knowws%21%21%21%21%21%21%21%21
-num_views: 1193
+topic_id: 4969
 num_posts: 2
 date_first: 2003-06-11
 date_last: 2003-06-12
-tags: []
+num_views: 1193
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (1) [2003-06-11 16:36:25](https://www.astralpulse.com/forums/index.php?msg=120660), [xzlildanxz](https://www.astralpulse.com/forums/profile/?u=2489) USA ##

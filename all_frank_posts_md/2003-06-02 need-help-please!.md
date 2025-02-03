@@ -1,12 +1,13 @@
 ---
 topic_title: "Need help please!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/need-help-please%21
-num_views: 2074
+topic_id: 4803
 num_posts: 6
 date_first: 2003-06-02
 date_last: 2003-06-03
-tags: []
+num_views: 2074
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2003-06-02 01:50:04](https://www.astralpulse.com/forums/index.php?msg=120495), [lucid_dreamer](https://www.astralpulse.com/forums/profile/?u=2433) USA ##

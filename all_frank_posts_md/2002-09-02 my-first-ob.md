@@ -1,12 +1,13 @@
 ---
 topic_title: "My First OB"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/my-first-ob
-num_views: 3473
+topic_id: 1811
 num_posts: 7
 date_first: 2002-09-02
 date_last: 2002-09-06
-tags: []
+num_views: 3473
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-09-02 23:04:53](https://www.astralpulse.com/forums/index.php?msg=117546), [wierdzly](https://www.astralpulse.com/forums/profile/?u=1073) USA ##

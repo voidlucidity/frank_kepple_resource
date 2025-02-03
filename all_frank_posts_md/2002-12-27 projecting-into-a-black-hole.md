@@ -1,12 +1,13 @@
 ---
 topic_title: "Projecting into a black hole?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/projecting-into-a-black-hole
-num_views: 8032
+topic_id: 2956
 num_posts: 9
 date_first: 2002-12-27
 date_last: 2003-01-02
-tags: []
+num_views: 8032
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2002-12-27 16:38:01](https://www.astralpulse.com/forums/index.php?msg=118685), [Kodemaster](https://www.astralpulse.com/forums/profile/?u=426)(Global Moderator) USA ##

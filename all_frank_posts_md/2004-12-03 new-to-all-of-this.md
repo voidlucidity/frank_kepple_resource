@@ -1,12 +1,13 @@
 ---
 topic_title: "New to all of this..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/new-to-all-of-this
-num_views: 2039
+topic_id: 15592
 num_posts: 8
 date_first: 2004-12-03
 date_last: 2004-12-05
-tags: []
+num_views: 2039
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2004-12-03 23:06:42](https://www.astralpulse.com/forums/index.php?msg=135933), [Tool](https://www.astralpulse.com/forums/profile/?u=7491) Missouri, Us ##

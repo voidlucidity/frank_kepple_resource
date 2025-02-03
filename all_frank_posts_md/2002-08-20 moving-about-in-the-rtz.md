@@ -1,12 +1,13 @@
 ---
 topic_title: "moving about in the RTZ"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/moving-about-in-the-rtz
-num_views: 3056
+topic_id: 1691
 num_posts: 8
 date_first: 2002-08-20
 date_last: 2002-08-28
-tags: []
+num_views: 3056
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (6) [2002-08-20 04:23:46](https://www.astralpulse.com/forums/index.php?msg=117426), [rachel](https://www.astralpulse.com/forums/profile/?u=947) Australia ##

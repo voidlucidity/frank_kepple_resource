@@ -1,12 +1,13 @@
 ---
 topic_title: "Getting started?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/getting-started-4950
-num_views: 2409
+topic_id: 4950
 num_posts: 5
 date_first: 2003-06-10
 date_last: 2003-06-11
-tags: []
+num_views: 2409
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-06-10 17:41:32](https://www.astralpulse.com/forums/index.php?msg=120641), [kalen](https://www.astralpulse.com/forums/profile/?u=2500) USA ##

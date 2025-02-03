@@ -1,12 +1,13 @@
 ---
 topic_title: "hello from India"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/hello-from-india
-num_views: 3205
+topic_id: 17659
 num_posts: 11
 date_first: 2005-02-28
 date_last: 2005-03-17
-tags: []
+num_views: 3205
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-02-28 00:47:06](https://www.astralpulse.com/forums/index.php?msg=152872), [h2n](https://www.astralpulse.com/forums/profile/?u=8495) Bangalore, INDIA ##

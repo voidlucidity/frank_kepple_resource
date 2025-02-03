@@ -1,12 +1,13 @@
 ---
 topic_title: "Success with Phasing"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/success-with-phasing
-num_views: 4959
+topic_id: 18986
 num_posts: 11
 date_first: 2005-05-22
 date_last: 2005-06-04
-tags: []
+num_views: 4959
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-05-22 11:48:51](https://www.astralpulse.com/forums/index.php?msg=163753), [Selski](https://www.astralpulse.com/forums/profile/?u=6012) England, UK ##

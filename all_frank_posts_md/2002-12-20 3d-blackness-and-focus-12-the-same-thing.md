@@ -1,12 +1,13 @@
 ---
 topic_title: "3d blackness and focus 12 - the same thing?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/3d-blackness-and-focus-12-the-same-thing
-num_views: 3143
+topic_id: 2924
 num_posts: 2
 date_first: 2002-12-20
 date_last: 2002-12-21
-tags: []
+num_views: 3143
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (1) [2002-12-20 18:57:44](https://www.astralpulse.com/forums/index.php?msg=118654), [boomyboomy](https://www.astralpulse.com/forums/profile/?u=1206) United Kingdom ##

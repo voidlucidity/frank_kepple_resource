@@ -1,12 +1,13 @@
 ---
 topic_title: "Finally My First OBE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/finally-my-first-obe
-num_views: 2848
+topic_id: 5143
 num_posts: 10
 date_first: 2003-06-20
 date_last: 2003-06-22
-tags: []
+num_views: 2848
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2003-06-20 15:25:02](https://www.astralpulse.com/forums/index.php?msg=120825), [GRRegis](https://www.astralpulse.com/forums/profile/?u=2318) USA ##

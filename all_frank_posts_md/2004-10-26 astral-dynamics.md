@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Dynamics"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/astral-dynamics
-num_views: 2307
+topic_id: 15010
 num_posts: 7
 date_first: 2004-10-26
 date_last: 2004-10-30
-tags: []
+num_views: 2307
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2004-10-26 17:18:17](https://www.astralpulse.com/forums/index.php?msg=131448), [SSJPunisher](https://www.astralpulse.com/forums/profile/?u=7225) Look in the astral ##

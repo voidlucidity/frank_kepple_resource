@@ -1,12 +1,13 @@
 ---
 topic_title: "why do some of you?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/why-do-some-of-you
-num_views: 1796
+topic_id: 2818
 num_posts: 4
 date_first: 2002-12-08
 date_last: 2002-12-09
-tags: []
+num_views: 1796
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-12-08 02:37:11](https://www.astralpulse.com/forums/index.php?msg=118548), [goingslow](https://www.astralpulse.com/forums/profile/?u=1529) USA ##

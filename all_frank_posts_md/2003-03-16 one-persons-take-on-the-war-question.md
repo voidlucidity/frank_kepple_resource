@@ -1,12 +1,13 @@
 ---
 topic_title: "One Persons Take on the WAR Question..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/one-persons-take-on-the-war-question
-num_views: 2897
+topic_id: 3828
 num_posts: 10
 date_first: 2003-03-16
 date_last: 2003-03-18
-tags: []
+num_views: 2897
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2003-03-16 01:29:14](https://www.astralpulse.com/forums/index.php?msg=119545), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

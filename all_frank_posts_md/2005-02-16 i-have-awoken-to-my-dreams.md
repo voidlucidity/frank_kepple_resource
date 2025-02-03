@@ -1,12 +1,13 @@
 ---
 topic_title: "I have awoken to my dreams"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/i-have-awoken-to-my-dreams
-num_views: 1985
+topic_id: 17338
 num_posts: 5
 date_first: 2005-02-16
 date_last: 2005-02-20
-tags: []
+num_views: 1985
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-02-16 06:07:31](https://www.astralpulse.com/forums/index.php?msg=150003), [Terrorok](https://www.astralpulse.com/forums/profile/?u=8398)  ##

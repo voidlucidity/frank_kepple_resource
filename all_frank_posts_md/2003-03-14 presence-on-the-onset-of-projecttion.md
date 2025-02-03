@@ -1,12 +1,13 @@
 ---
 topic_title: "Presence on the onset of projecttion"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/presence-on-the-onset-of-projecttion
-num_views: 6940
+topic_id: 3804
 num_posts: 19
 date_first: 2003-03-14
 date_last: 2003-03-23
-tags: []
+num_views: 6940
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (18) [2003-03-14 06:01:11](https://www.astralpulse.com/forums/index.php?msg=119521), [ame](https://www.astralpulse.com/forums/profile/?u=1671)  ##

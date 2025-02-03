@@ -1,12 +1,13 @@
 ---
 topic_title: "Love vs. Fear?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/love-vs-fear
-num_views: 3508
+topic_id: 15772
 num_posts: 13
 date_first: 2004-12-12
 date_last: 2004-12-14
-tags: []
+num_views: 3508
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (0) [2004-12-12 17:32:25](https://www.astralpulse.com/forums/index.php?msg=137504), [joya250](https://www.astralpulse.com/forums/profile/?u=5791) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "How to respond when negativity happens to you."
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/how-to-respond-when-negativity-happens-to-you
-num_views: 4503
+topic_id: 17613
 num_posts: 12
 date_first: 2005-02-26
 date_last: 2005-02-28
-tags: []
+num_views: 4503
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (0) [2005-02-26 10:56:54](https://www.astralpulse.com/forums/index.php?msg=152516), [cristaphin](https://www.astralpulse.com/forums/profile/?u=7671) State of distraction and pretty dragonflys ##

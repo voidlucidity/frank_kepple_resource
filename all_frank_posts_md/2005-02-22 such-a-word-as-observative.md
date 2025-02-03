@@ -1,12 +1,13 @@
 ---
 topic_title: "Such a word as Observative?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/such-a-word-as-observative
-num_views: 33951
+topic_id: 17516
 num_posts: 11
 date_first: 2005-02-22
 date_last: 2005-02-23
-tags: []
+num_views: 33951
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-02-22 07:01:01](https://www.astralpulse.com/forums/index.php?msg=151452), [CptPicard](https://www.astralpulse.com/forums/profile/?u=4180) United Kingdom ##

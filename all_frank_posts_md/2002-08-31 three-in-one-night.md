@@ -1,12 +1,13 @@
 ---
 topic_title: "Three in one night"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/three-in-one-night
-num_views: 3117
+topic_id: 1791
 num_posts: 6
 date_first: 2002-08-31
 date_last: 2002-09-04
-tags: []
+num_views: 3117
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-08-31 02:57:42](https://www.astralpulse.com/forums/index.php?msg=117526), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

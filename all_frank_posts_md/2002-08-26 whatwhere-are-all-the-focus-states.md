@@ -1,12 +1,13 @@
 ---
 topic_title: "What/Where are all the FOCUS \"states\"?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/whatwhere-are-all-the-focus-states
-num_views: 3947
+topic_id: 1739
 num_posts: 11
 date_first: 2002-08-26
 date_last: 2002-08-27
-tags: []
+num_views: 3947
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (10) [2002-08-26 11:54:45](https://www.astralpulse.com/forums/index.php?msg=117474), [amcturbo](https://www.astralpulse.com/forums/profile/?u=803) USA ##

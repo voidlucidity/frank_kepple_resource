@@ -1,12 +1,13 @@
 ---
 topic_title: "How many Monroe Focus points are there?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/how-many-monroe-focus-points-are-there
-num_views: 2841
+topic_id: 14482
 num_posts: 5
 date_first: 2004-09-19
 date_last: 2004-09-20
-tags: []
+num_views: 2841
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2004-09-19 05:47:12](https://www.astralpulse.com/forums/index.php?msg=129352), [Sampson](https://www.astralpulse.com/forums/profile/?u=4884) Luxembourg ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "HELP AND PATIENCE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/help-and-patience
-num_views: 5847
+topic_id: 809
 num_posts: 21
 date_first: 2002-04-28
 date_last: 2002-05-06
-tags: []
+num_views: 5847
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (20) [2002-04-28 06:14:50](https://www.astralpulse.com/forums/index.php?msg=116553), [quebec](https://www.astralpulse.com/forums/profile/?u=487) Canada ##

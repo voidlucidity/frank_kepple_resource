@@ -1,12 +1,13 @@
 ---
 topic_title: "MABA and short Phasing this morning"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/maba-and-short-phasing-this-morning
-num_views: 3935
+topic_id: 18696
 num_posts: 11
 date_first: 2005-04-24
 date_last: 2005-05-01
-tags: []
+num_views: 3935
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-04-24 09:20:14](https://www.astralpulse.com/forums/index.php?msg=161620), [TheJza](https://www.astralpulse.com/forums/profile/?u=218)  ##

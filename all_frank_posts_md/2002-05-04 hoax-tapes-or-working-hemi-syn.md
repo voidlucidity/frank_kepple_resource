@@ -1,12 +1,13 @@
 ---
 topic_title: "Hoax tapes or working Hemi-syn?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/hoax-tapes-or-working-hemi-syn
-num_views: 7119
+topic_id: 863
 num_posts: 18
 date_first: 2002-05-04
 date_last: 2002-05-09
-tags: []
+num_views: 7119
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (17) [2002-05-04 10:34:32](https://www.astralpulse.com/forums/index.php?msg=116605), [Nik](https://www.astralpulse.com/forums/profile/?u=544) USA ##

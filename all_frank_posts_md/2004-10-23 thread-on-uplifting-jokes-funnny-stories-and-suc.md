@@ -1,12 +1,13 @@
 ---
 topic_title: "thread on uplifting \"jokes\" funnny stories and suc"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/thread-on-uplifting-jokes-funnny-stories-and-suc
-num_views: 15510
+topic_id: 14971
 num_posts: 35
 date_first: 2004-10-23
 date_last: 2005-03-11
-tags: []
+num_views: 15510
 summary: ""
+tags: []
 ---
 
 ## \#0/34 (0) [2004-10-23 22:36:41](https://www.astralpulse.com/forums/index.php?msg=131224), [AuraMassageArt](https://www.astralpulse.com/forums/profile/?u=7095)  ##

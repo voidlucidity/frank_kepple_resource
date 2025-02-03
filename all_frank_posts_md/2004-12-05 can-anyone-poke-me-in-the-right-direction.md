@@ -1,12 +1,13 @@
 ---
 topic_title: "Can anyone poke me in the right direction?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/can-anyone-poke-me-in-the-right-direction
-num_views: 2010
+topic_id: 15619
 num_posts: 6
 date_first: 2004-12-05
 date_last: 2004-12-05
-tags: []
+num_views: 2010
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2004-12-05 07:58:25](https://www.astralpulse.com/forums/index.php?msg=136220), [Speedofpain](https://www.astralpulse.com/forums/profile/?u=7392) Luton, England ##

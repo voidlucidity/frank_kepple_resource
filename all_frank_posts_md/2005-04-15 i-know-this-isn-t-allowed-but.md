@@ -1,12 +1,13 @@
 ---
 topic_title: "I know this isn't allowed, but..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/i-know-this-isn-t-allowed-but
-num_views: 2345
+topic_id: 18558
 num_posts: 8
 date_first: 2005-04-15
 date_last: 2005-04-18
-tags: []
+num_views: 2345
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2005-04-15 00:44:34](https://www.astralpulse.com/forums/index.php?msg=160392), [Shzarnie](https://www.astralpulse.com/forums/profile/?u=8849) Australia/Inside My Mind ##

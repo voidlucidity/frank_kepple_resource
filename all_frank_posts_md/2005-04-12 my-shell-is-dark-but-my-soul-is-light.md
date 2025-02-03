@@ -1,12 +1,13 @@
 ---
 topic_title: "My shell is Dark, but my Soul is Light..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/my-shell-is-dark-but-my-soul-is-light
-num_views: 3782
+topic_id: 18508
 num_posts: 6
 date_first: 2005-04-12
 date_last: 2005-05-03
-tags: []
+num_views: 3782
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-04-12 15:52:19](https://www.astralpulse.com/forums/index.php?msg=159994), [abyss328](https://www.astralpulse.com/forums/profile/?u=8835) London, England ##

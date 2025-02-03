@@ -1,12 +1,13 @@
 ---
 topic_title: "If it harms no one, then do it!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/if-it-harms-no-one-then-do-it%21
-num_views: 3931
+topic_id: 14479
 num_posts: 14
 date_first: 2004-09-18
 date_last: 2004-09-20
-tags: []
+num_views: 3931
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (13) [2004-09-18 19:30:50](https://www.astralpulse.com/forums/index.php?msg=129349), [Kenneth](https://www.astralpulse.com/forums/profile/?u=1374) Denmark ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Much Concentration Needed"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/much-concentration-needed
-num_views: 1477
+topic_id: 16357
 num_posts: 3
 date_first: 2005-01-10
 date_last: 2005-01-13
-tags: []
+num_views: 1477
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-01-10 15:43:35](https://www.astralpulse.com/forums/index.php?msg=142211), [astral-wanderer](https://www.astralpulse.com/forums/profile/?u=7153)  ##

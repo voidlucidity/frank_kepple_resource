@@ -1,12 +1,13 @@
 ---
 topic_title: "New Insanity Plea?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/new-insanity-plea
-num_views: 2219
+topic_id: 3657
 num_posts: 5
 date_first: 2003-02-28
 date_last: 2003-02-28
-tags: []
+num_views: 2219
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-02-28 10:25:07](https://www.astralpulse.com/forums/index.php?msg=119376), [silva](https://www.astralpulse.com/forums/profile/?u=1718) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Negs putting masks on you?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/negs-putting-masks-on-you
-num_views: 10101
+topic_id: 14640
 num_posts: 40
 date_first: 2004-09-28
 date_last: 2004-12-04
-tags: []
+num_views: 10101
 summary: ""
+tags: []
 ---
 
 ## \#0/39 (38) [2004-09-28 07:18:03](https://www.astralpulse.com/forums/index.php?msg=129504), [Patrik](https://www.astralpulse.com/forums/profile/?u=4861) Sweden ##

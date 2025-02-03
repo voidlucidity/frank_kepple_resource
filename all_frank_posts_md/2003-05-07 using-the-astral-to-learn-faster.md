@@ -1,12 +1,13 @@
 ---
 topic_title: "using the astral to learn faster"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/using-the-astral-to-learn-faster
-num_views: 7117
+topic_id: 4489
 num_posts: 19
 date_first: 2003-05-07
 date_last: 2003-05-19
-tags: []
+num_views: 7117
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (18) [2003-05-07 03:54:39](https://www.astralpulse.com/forums/index.php?msg=120192), [SPIRIT HUNTER 2002](https://www.astralpulse.com/forums/profile/?u=2165) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "White  or Dark Light.????"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/white-or-dark-light
-num_views: 3441
+topic_id: 795
 num_posts: 10
 date_first: 2002-04-26
 date_last: 2003-02-27
-tags: []
+num_views: 3441
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2002-04-26 20:14:37](https://www.astralpulse.com/forums/index.php?msg=116539), [Focus15](https://www.astralpulse.com/forums/profile/?u=139) Canada ##

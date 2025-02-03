@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing V Astral projecting"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/phasing-v-astral-projecting
-num_views: 1716
+topic_id: 18356
 num_posts: 2
 date_first: 2005-04-05
 date_last: 2005-04-05
-tags: []
+num_views: 1716
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-04-05 06:19:52](https://www.astralpulse.com/forums/index.php?msg=159055), [matb_uk](https://www.astralpulse.com/forums/profile/?u=4333) United Kingdom ##

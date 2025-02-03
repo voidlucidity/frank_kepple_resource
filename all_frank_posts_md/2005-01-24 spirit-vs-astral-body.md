@@ -1,12 +1,13 @@
 ---
 topic_title: "Spirit vs. Astral body"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/spirit-vs-astral-body
-num_views: 6316
+topic_id: 16738
 num_posts: 21
 date_first: 2005-01-24
 date_last: 2005-02-01
-tags: []
+num_views: 6316
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (0) [2005-01-24 22:06:03](https://www.astralpulse.com/forums/index.php?msg=144755), [knucklebrain1970](https://www.astralpulse.com/forums/profile/?u=7282) Worcester, MA ##

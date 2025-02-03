@@ -1,12 +1,13 @@
 ---
 topic_title: "my latest phasing progress"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/my-latest-phasing-progress
-num_views: 3944
+topic_id: 4424
 num_posts: 8
 date_first: 2003-05-03
 date_last: 2003-05-08
-tags: []
+num_views: 3944
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2003-05-03 06:23:37](https://www.astralpulse.com/forums/index.php?msg=120129), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

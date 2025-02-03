@@ -1,12 +1,13 @@
 ---
 topic_title: "Akashic books. hard to read!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/akashic-books-hard-to-read%21
-num_views: 6467
+topic_id: 2507
 num_posts: 20
 date_first: 2002-11-09
 date_last: 2009-02-12
-tags: []
+num_views: 6467
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (16) [2002-11-09 06:22:43](https://www.astralpulse.com/forums/index.php?msg=118240), [fURIX](https://www.astralpulse.com/forums/profile/?u=1370) Norway ##

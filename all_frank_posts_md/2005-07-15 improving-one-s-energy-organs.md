@@ -1,12 +1,13 @@
 ---
 topic_title: "Improving one's energy organs"
 topic_url: https://www.astralpulse.com/forums/welcome-to-energy-body-and-the-chakras/improving-one-s-energy-organs
-num_views: 2326
+topic_id: 19837
 num_posts: 5
 date_first: 2005-07-15
 date_last: 2005-07-16
-tags: []
+num_views: 2326
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-07-15 08:03:40](https://www.astralpulse.com/forums/index.php?msg=170284), [BlueEarthJacket](https://www.astralpulse.com/forums/profile/?u=9417)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Why is the RTZ a place to be avoided ?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/why-is-the-rtz-a-place-to-be-avoided
-num_views: 1770
+topic_id: 16343
 num_posts: 4
 date_first: 2005-01-09
 date_last: 2005-01-09
-tags: []
+num_views: 1770
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-01-09 18:27:11](https://www.astralpulse.com/forums/index.php?msg=142054), [Joerii](https://www.astralpulse.com/forums/profile/?u=7759) Castricum, Netherlands ##

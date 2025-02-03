@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Consciousness and Zen"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/astral-consciousness-and-zen
-num_views: 3474
+topic_id: 4816
 num_posts: 9
 date_first: 2003-06-02
 date_last: 2003-06-17
-tags: []
+num_views: 3474
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (6) [2003-06-02 17:47:24](https://www.astralpulse.com/forums/index.php?msg=120508), [TheJza](https://www.astralpulse.com/forums/profile/?u=218)  ##

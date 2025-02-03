@@ -1,12 +1,13 @@
 ---
 topic_title: "ELECTRO-MAGNETICS"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/electro-magnetics
-num_views: 3317
+topic_id: 559
 num_posts: 7
 date_first: 2002-04-06
 date_last: 2002-04-09
-tags: []
+num_views: 3317
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-04-06 20:23:02](https://www.astralpulse.com/forums/index.php?msg=116314), [Mobius](https://www.astralpulse.com/forums/profile/?u=301) Australia ##

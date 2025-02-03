@@ -1,12 +1,13 @@
 ---
 topic_title: "? about belief system territories Frank?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/about-belief-system-territories-frank
-num_views: 6619
+topic_id: 4553
 num_posts: 17
 date_first: 2003-05-13
 date_last: 2003-05-20
-tags: []
+num_views: 6619
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (16) [2003-05-13 12:19:49](https://www.astralpulse.com/forums/index.php?msg=120255), [DOA](https://www.astralpulse.com/forums/profile/?u=266)  ##

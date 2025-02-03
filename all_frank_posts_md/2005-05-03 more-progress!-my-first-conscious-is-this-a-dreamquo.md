@@ -1,12 +1,13 @@
 ---
 topic_title: "More Progress! My First Conscious \"Is This a Dream?&quo"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/more-progress%21-my-first-conscious-is-this-a-dreamquo
-num_views: 1657
+topic_id: 18877
 num_posts: 5
 date_first: 2005-05-03
 date_last: 2005-05-04
-tags: []
+num_views: 1657
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-05-03 14:26:04](https://www.astralpulse.com/forums/index.php?msg=162975), [oilfieldpilot](https://www.astralpulse.com/forums/profile/?u=8631) GOM: Gulf of Mexico and Panama, SA ##

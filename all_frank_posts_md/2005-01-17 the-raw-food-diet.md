@@ -1,12 +1,13 @@
 ---
 topic_title: "the RAW food diet"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/the-raw-food-diet
-num_views: 1631
+topic_id: 16552
 num_posts: 3
 date_first: 2005-01-17
 date_last: 2005-01-18
-tags: []
+num_views: 1631
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-01-17 13:29:56](https://www.astralpulse.com/forums/index.php?msg=143430), [bluejay](https://www.astralpulse.com/forums/profile/?u=5434) Sweden ##

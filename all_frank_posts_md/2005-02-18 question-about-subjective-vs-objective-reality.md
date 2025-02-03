@@ -1,12 +1,13 @@
 ---
 topic_title: "question about subjective vs objective reality"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/question-about-subjective-vs-objective-reality
-num_views: 7749
+topic_id: 17428
 num_posts: 20
 date_first: 2005-02-18
 date_last: 2005-07-09
-tags: []
+num_views: 7749
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (0) [2005-02-18 17:56:57](https://www.astralpulse.com/forums/index.php?msg=150538), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

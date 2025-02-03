@@ -1,12 +1,13 @@
 ---
 topic_title: "I've had a realization"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/i-ve-had-a-realization
-num_views: 5823
+topic_id: 18293
 num_posts: 23
 date_first: 2005-04-01
 date_last: 2005-04-15
-tags: []
+num_views: 5823
 summary: ""
+tags: []
 ---
 
 ## \#0/22 (0) [2005-04-01 08:46:03](https://www.astralpulse.com/forums/index.php?msg=158525), [knucklebrain1970](https://www.astralpulse.com/forums/profile/?u=7282) Worcester, MA ##

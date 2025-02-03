@@ -1,12 +1,13 @@
 ---
 topic_title: "Silver cord and life after death"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/silver-cord-and-life-after-death
-num_views: 9966
+topic_id: 4728
 num_posts: 32
 date_first: 2003-05-28
 date_last: 2003-10-05
-tags: []
+num_views: 9966
 summary: ""
+tags: []
 ---
 
 ## \#0/31 (31) [2003-05-28 13:33:13](https://www.astralpulse.com/forums/index.php?msg=120424), [Tyler](https://www.astralpulse.com/forums/profile/?u=2226) United Kingdom ##

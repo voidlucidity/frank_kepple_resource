@@ -1,12 +1,13 @@
 ---
 topic_title: "A scarily strange state of mind"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/a-scarily-strange-state-of-mind
-num_views: 2797
+topic_id: 19015
 num_posts: 4
 date_first: 2005-05-24
 date_last: 2005-05-26
-tags: []
+num_views: 2797
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-05-24 02:00:38](https://www.astralpulse.com/forums/index.php?msg=163961), [Vvid1012](https://www.astralpulse.com/forums/profile/?u=5308) USA ##

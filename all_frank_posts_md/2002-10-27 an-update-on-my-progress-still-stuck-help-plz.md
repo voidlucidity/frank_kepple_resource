@@ -1,12 +1,13 @@
 ---
 topic_title: "An update on my progress (still stuck) help plz"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/an-update-on-my-progress-still-stuck-help-plz
-num_views: 2711
+topic_id: 2359
 num_posts: 10
 date_first: 2002-10-27
 date_last: 2002-10-28
-tags: []
+num_views: 2711
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2002-10-27 01:37:25](https://www.astralpulse.com/forums/index.php?msg=118093), [Zarklon](https://www.astralpulse.com/forums/profile/?u=1273) USA ##

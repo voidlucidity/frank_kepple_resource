@@ -1,12 +1,13 @@
 ---
 topic_title: "Some thoughts on timing of practice"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/some-thoughts-on-timing-of-practice
-num_views: 3039
+topic_id: 18433
 num_posts: 6
 date_first: 2005-04-09
 date_last: 2005-04-15
-tags: []
+num_views: 3039
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-04-09 12:43:25](https://www.astralpulse.com/forums/index.php?msg=159567), [Major Tom](https://www.astralpulse.com/forums/profile/?u=1075) Canada ##

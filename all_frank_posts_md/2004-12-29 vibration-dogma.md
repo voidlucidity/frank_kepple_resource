@@ -1,12 +1,13 @@
 ---
 topic_title: "Vibration Dogma"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/vibration-dogma
-num_views: 6608
+topic_id: 16096
 num_posts: 21
 date_first: 2004-12-29
 date_last: 2005-01-11
-tags: []
+num_views: 6608
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (0) [2004-12-29 02:32:58](https://www.astralpulse.com/forums/index.php?msg=140157), beavis  ##

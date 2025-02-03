@@ -1,12 +1,13 @@
 ---
 topic_title: "Talking in the Astral"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/talking-in-the-astral
-num_views: 1875
+topic_id: 19443
 num_posts: 3
 date_first: 2005-06-17
 date_last: 2005-06-25
-tags: []
+num_views: 1875
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-06-17 19:09:07](https://www.astralpulse.com/forums/index.php?msg=167018), [leerose_uk](https://www.astralpulse.com/forums/profile/?u=9252)  ##

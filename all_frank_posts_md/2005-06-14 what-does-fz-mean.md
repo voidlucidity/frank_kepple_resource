@@ -1,12 +1,13 @@
 ---
 topic_title: "What does Fz mean?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/what-does-fz-mean
-num_views: 2993
+topic_id: 19370
 num_posts: 5
 date_first: 2005-06-14
 date_last: 2005-06-15
-tags: []
+num_views: 2993
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-06-14 15:27:22](https://www.astralpulse.com/forums/index.php?msg=166577), stamboe  ##

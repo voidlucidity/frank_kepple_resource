@@ -1,12 +1,13 @@
 ---
 topic_title: "Few Extra Gateway Questions"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/few-extra-gateway-questions
-num_views: 2680
+topic_id: 1955
 num_posts: 7
 date_first: 2002-09-17
 date_last: 2002-10-03
-tags: []
+num_views: 2680
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-09-17 20:20:25](https://www.astralpulse.com/forums/index.php?msg=117689), [TheJza](https://www.astralpulse.com/forums/profile/?u=218)  ##

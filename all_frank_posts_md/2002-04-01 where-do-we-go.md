@@ -1,12 +1,13 @@
 ---
 topic_title: "Where do we Go ?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/where-do-we-go
-num_views: 4558
+topic_id: 485
 num_posts: 12
 date_first: 2002-04-01
 date_last: 2002-04-02
-tags: []
+num_views: 4558
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2002-04-01 21:35:44](https://www.astralpulse.com/forums/index.php?msg=116240), n/a  ##

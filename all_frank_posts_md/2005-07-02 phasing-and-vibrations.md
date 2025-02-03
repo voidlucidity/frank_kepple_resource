@@ -1,12 +1,13 @@
 ---
 topic_title: "phasing and vibrations"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/phasing-and-vibrations
-num_views: 1708
+topic_id: 19654
 num_posts: 2
 date_first: 2005-07-02
 date_last: 2005-07-03
-tags: []
+num_views: 1708
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-07-02 17:54:46](https://www.astralpulse.com/forums/index.php?msg=168837), [raresttyle](https://www.astralpulse.com/forums/profile/?u=9348)  ##

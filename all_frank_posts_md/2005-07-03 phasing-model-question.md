@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing Model Question"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/phasing-model-question
-num_views: 4851
+topic_id: 19658
 num_posts: 9
 date_first: 2005-07-03
 date_last: 2005-07-13
-tags: []
+num_views: 4851
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (0) [2005-07-03 02:38:38](https://www.astralpulse.com/forums/index.php?msg=168883), [emcshadow](https://www.astralpulse.com/forums/profile/?u=9318)  ##

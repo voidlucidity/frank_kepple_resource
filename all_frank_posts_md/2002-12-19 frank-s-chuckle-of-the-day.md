@@ -1,12 +1,13 @@
 ---
 topic_title: "Frank's chuckle of the day"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/frank-s-chuckle-of-the-day
-num_views: 4608
+topic_id: 2913
 num_posts: 14
 date_first: 2002-12-19
 date_last: 2002-12-20
-tags: []
+num_views: 4608
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (13) [2002-12-19 05:49:34](https://www.astralpulse.com/forums/index.php?msg=118643), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

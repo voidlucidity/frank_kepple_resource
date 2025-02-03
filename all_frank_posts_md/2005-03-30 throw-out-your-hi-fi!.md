@@ -1,12 +1,13 @@
 ---
 topic_title: "Throw out your hi-fi!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/throw-out-your-hi-fi%21
-num_views: 10261
+topic_id: 18264
 num_posts: 23
 date_first: 2005-03-30
 date_last: 2005-08-19
-tags: []
+num_views: 10261
 summary: ""
+tags: []
 ---
 
 ## \#0/22 (0) [2005-03-30 08:38:14](https://www.astralpulse.com/forums/index.php?msg=158278), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

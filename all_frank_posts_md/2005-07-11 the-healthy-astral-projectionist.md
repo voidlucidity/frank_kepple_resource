@@ -1,12 +1,13 @@
 ---
 topic_title: "The Healthy Astral Projectionist"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/the-healthy-astral-projectionist
-num_views: 5912
+topic_id: 19779
 num_posts: 15
 date_first: 2005-07-11
 date_last: 2005-07-14
-tags: []
+num_views: 5912
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (0) [2005-07-11 18:42:17](https://www.astralpulse.com/forums/index.php?msg=169831), [David Warner](https://www.astralpulse.com/forums/profile/?u=9331) Grand Rapids Michigan ##

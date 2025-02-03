@@ -1,12 +1,13 @@
 ---
 topic_title: "Activating the Crown Chakra"
 topic_url: https://www.astralpulse.com/forums/welcome-to-energy-body-and-the-chakras/activating-the-crown-chakra
-num_views: 20749
+topic_id: 15146
 num_posts: 36
 date_first: 2004-11-03
 date_last: 2004-11-10
-tags: []
+num_views: 20749
 summary: ""
+tags: []
 ---
 
 ## \#0/35 (0) [2004-11-03 19:55:03](https://www.astralpulse.com/forums/index.php?msg=132331), [SummerBreeze](https://www.astralpulse.com/forums/profile/?u=7103)  ##

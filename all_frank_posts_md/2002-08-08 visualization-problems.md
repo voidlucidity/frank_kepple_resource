@@ -1,12 +1,13 @@
 ---
 topic_title: "Visualization Problems..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/visualization-problems
-num_views: 1605
+topic_id: 1637
 num_posts: 4
 date_first: 2002-08-08
 date_last: 2002-08-10
-tags: []
+num_views: 1605
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-08-08 22:35:17](https://www.astralpulse.com/forums/index.php?msg=117372), [spawn968](https://www.astralpulse.com/forums/profile/?u=504) USA ##

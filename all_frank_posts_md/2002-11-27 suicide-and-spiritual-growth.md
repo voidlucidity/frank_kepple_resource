@@ -1,12 +1,13 @@
 ---
 topic_title: "Suicide and spiritual growth"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/suicide-and-spiritual-growth
-num_views: 30945
+topic_id: 2719
 num_posts: 101
 date_first: 2002-11-27
 date_last: 2004-06-22
-tags: []
+num_views: 30945
 summary: ""
+tags: []
 ---
 
 ## \#0/100 (100) [2002-11-27 04:52:16](https://www.astralpulse.com/forums/index.php?msg=118449), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

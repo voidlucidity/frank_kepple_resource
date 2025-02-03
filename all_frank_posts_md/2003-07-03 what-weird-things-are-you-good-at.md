@@ -1,12 +1,13 @@
 ---
 topic_title: "What weird things are you good at?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/what-weird-things-are-you-good-at
-num_views: 13165
+topic_id: 5404
 num_posts: 40
 date_first: 2003-07-03
 date_last: 2003-09-11
-tags: []
+num_views: 13165
 summary: ""
+tags: []
 ---
 
 ## \#0/39 (39) [2003-07-03 12:30:42](https://www.astralpulse.com/forums/index.php?msg=121069), [Tisha](https://www.astralpulse.com/forums/profile/?u=594) USA ##

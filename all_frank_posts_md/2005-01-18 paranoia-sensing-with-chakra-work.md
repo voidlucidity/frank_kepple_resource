@@ -1,12 +1,13 @@
 ---
 topic_title: "Paranoia? Sensing..with chakra work"
 topic_url: https://www.astralpulse.com/forums/welcome-to-energy-body-and-the-chakras/paranoia-sensing-with-chakra-work
-num_views: 1643
+topic_id: 16579
 num_posts: 4
 date_first: 2005-01-18
 date_last: 2005-01-19
-tags: []
+num_views: 1643
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-01-18 17:17:08](https://www.astralpulse.com/forums/index.php?msg=143579), [karnautrahl](https://www.astralpulse.com/forums/profile/?u=5663) United Kingdom ##

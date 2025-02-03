@@ -1,12 +1,13 @@
 ---
 topic_title: "Teachings of the Spirit Silver Birch"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/teachings-of-the-spirit-silver-birch
-num_views: 9938
+topic_id: 1320
 num_posts: 13
 date_first: 2002-07-08
 date_last: 2002-07-27
-tags: []
+num_views: 9938
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2002-07-08 16:24:25](https://www.astralpulse.com/forums/index.php?msg=117057), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

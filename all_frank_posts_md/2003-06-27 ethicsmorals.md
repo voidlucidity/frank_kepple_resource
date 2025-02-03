@@ -1,12 +1,13 @@
 ---
 topic_title: "Ethics/morals"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/ethicsmorals
-num_views: 4686
+topic_id: 5255
 num_posts: 15
 date_first: 2003-06-27
 date_last: 2003-06-28
-tags: []
+num_views: 4686
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (14) [2003-06-27 01:46:51](https://www.astralpulse.com/forums/index.php?msg=120929), [Fat_Turkey](https://www.astralpulse.com/forums/profile/?u=1507) New Zealand ##

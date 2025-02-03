@@ -1,12 +1,13 @@
 ---
 topic_title: "light trance....... then what???"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/light-trance-then-what
-num_views: 2607
+topic_id: 1177
 num_posts: 6
 date_first: 2002-06-19
 date_last: 2002-06-21
-tags: []
+num_views: 2607
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-06-19 14:11:24](https://www.astralpulse.com/forums/index.php?msg=116915), [rodentmouse](https://www.astralpulse.com/forums/profile/?u=554) United Kingdom ##

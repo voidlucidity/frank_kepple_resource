@@ -1,12 +1,13 @@
 ---
 topic_title: "Transition Area (F3oC)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/transition-area-f3oc
-num_views: 2244
+topic_id: 18346
 num_posts: 4
 date_first: 2005-04-04
 date_last: 2005-04-06
-tags: []
+num_views: 2244
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-04-04 18:23:37](https://www.astralpulse.com/forums/index.php?msg=158990), [TheJza](https://www.astralpulse.com/forums/profile/?u=218)  ##

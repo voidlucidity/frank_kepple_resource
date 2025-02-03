@@ -1,12 +1,13 @@
 ---
 topic_title: "Found guide thru Auto. Writing!!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/found-guide-thru-auto-writing%21%21
-num_views: 8987
+topic_id: 2064
 num_posts: 20
 date_first: 2002-09-29
 date_last: 2002-10-07
-tags: []
+num_views: 8987
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (19) [2002-09-29 04:10:10](https://www.astralpulse.com/forums/index.php?msg=117798), [Meg](https://www.astralpulse.com/forums/profile/?u=1090) Australia ##

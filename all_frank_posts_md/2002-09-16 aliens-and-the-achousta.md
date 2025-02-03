@@ -1,12 +1,13 @@
 ---
 topic_title: "Aliens and the Achousta."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/aliens-and-the-achousta
-num_views: 1791
+topic_id: 1945
 num_posts: 4
 date_first: 2002-09-16
 date_last: 2002-09-17
-tags: []
+num_views: 1791
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-09-16 18:27:21](https://www.astralpulse.com/forums/index.php?msg=117679), [General-Army](https://www.astralpulse.com/forums/profile/?u=997) USA ##

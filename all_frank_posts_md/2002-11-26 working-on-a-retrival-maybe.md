@@ -1,12 +1,13 @@
 ---
 topic_title: "working on a retrival,maybe?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/working-on-a-retrival-maybe
-num_views: 3721
+topic_id: 2705
 num_posts: 12
 date_first: 2002-11-26
 date_last: 2002-11-30
-tags: []
+num_views: 3721
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2002-11-26 06:53:28](https://www.astralpulse.com/forums/index.php?msg=118435), alpha  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Need advice"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/need-advice
-num_views: 7058
+topic_id: 19219
 num_posts: 18
 date_first: 2005-06-06
 date_last: 2005-06-15
-tags: []
+num_views: 7058
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (0) [2005-06-06 11:18:14](https://www.astralpulse.com/forums/index.php?msg=165561), [Giselle](https://www.astralpulse.com/forums/profile/?u=5675) USA ##

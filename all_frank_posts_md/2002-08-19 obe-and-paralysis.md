@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE and Paralysis"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/obe-and-paralysis
-num_views: 2080
+topic_id: 1690
 num_posts: 3
 date_first: 2002-08-19
 date_last: 2002-08-20
-tags: []
+num_views: 2080
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2002-08-19 23:45:28](https://www.astralpulse.com/forums/index.php?msg=117425), [piquarius](https://www.astralpulse.com/forums/profile/?u=734) USA ##

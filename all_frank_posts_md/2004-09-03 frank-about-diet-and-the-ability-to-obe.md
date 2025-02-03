@@ -1,12 +1,13 @@
 ---
 topic_title: "FRANK:  About diet and the ability to OBE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/frank-about-diet-and-the-ability-to-obe
-num_views: 13892
+topic_id: 14282
 num_posts: 40
 date_first: 2004-09-03
 date_last: 2004-09-11
-tags: []
+num_views: 13892
 summary: ""
+tags: []
 ---
 
 ## \#0/39 (39) [2004-09-03 20:05:33](https://www.astralpulse.com/forums/index.php?msg=129157), [Tisha](https://www.astralpulse.com/forums/profile/?u=594) USA ##

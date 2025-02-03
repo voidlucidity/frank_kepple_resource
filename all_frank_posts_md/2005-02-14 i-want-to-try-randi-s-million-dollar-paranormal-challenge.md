@@ -1,12 +1,13 @@
 ---
 topic_title: "I want to try Randi's million dollar paranormal challenge"
 topic_url: https://www.astralpulse.com/forums/welcome-to-news-and-media!/i-want-to-try-randi-s-million-dollar-paranormal-challenge
-num_views: 9312
+topic_id: 17292
 num_posts: 29
 date_first: 2005-02-14
 date_last: 2005-06-16
-tags: []
+num_views: 9312
 summary: ""
+tags: []
 ---
 
 ## \#0/28 (0) [2005-02-14 20:09:32](https://www.astralpulse.com/forums/index.php?msg=149433), beavis  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "moon landing : did we, or didn't we ?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/moon-landing-did-we-or-didn-t-we
-num_views: 13437
+topic_id: 1672
 num_posts: 46
 date_first: 2002-08-15
 date_last: 2002-09-12
-tags: []
+num_views: 13437
 summary: ""
+tags: []
 ---
 
 ## \#0/45 (45) [2002-08-15 04:40:15](https://www.astralpulse.com/forums/index.php?msg=117407), [clandestino](https://www.astralpulse.com/forums/profile/?u=691) Australia ##

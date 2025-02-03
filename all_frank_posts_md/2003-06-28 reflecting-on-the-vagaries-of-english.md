@@ -1,12 +1,13 @@
 ---
 topic_title: "Reflecting on the vagaries of english..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/reflecting-on-the-vagaries-of-english
-num_views: 4632
+topic_id: 5273
 num_posts: 19
 date_first: 2003-06-28
 date_last: 2003-07-08
-tags: []
+num_views: 4632
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (18) [2003-06-28 08:49:00](https://www.astralpulse.com/forums/index.php?msg=120947), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

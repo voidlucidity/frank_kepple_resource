@@ -1,12 +1,13 @@
 ---
 topic_title: "Monroe Technique Questions"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/monroe-technique-questions
-num_views: 4015
+topic_id: 4784
 num_posts: 15
 date_first: 2003-06-01
 date_last: 2003-06-11
-tags: []
+num_views: 4015
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (14) [2003-06-01 04:30:20](https://www.astralpulse.com/forums/index.php?msg=120476), [Graupel](https://www.astralpulse.com/forums/profile/?u=2426) USA ##

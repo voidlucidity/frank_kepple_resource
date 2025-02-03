@@ -1,12 +1,13 @@
 ---
 topic_title: "My first “third eye experience”"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/my-first-third-eye-experience
-num_views: 13666
+topic_id: 14485
 num_posts: 15
 date_first: 2004-09-19
 date_last: 2005-02-23
-tags: []
+num_views: 13666
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (7) [2004-09-19 10:26:35](https://www.astralpulse.com/forums/index.php?msg=129355), [CptPicard](https://www.astralpulse.com/forums/profile/?u=4180) United Kingdom ##

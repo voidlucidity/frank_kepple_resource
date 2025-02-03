@@ -1,12 +1,13 @@
 ---
 topic_title: "biofeedback"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/biofeedback
-num_views: 2872
+topic_id: 3262
 num_posts: 4
 date_first: 2003-01-27
 date_last: 2003-01-28
-tags: []
+num_views: 2872
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2003-01-27 11:36:44](https://www.astralpulse.com/forums/index.php?msg=118988), [Maya](https://www.astralpulse.com/forums/profile/?u=1677) USA ##

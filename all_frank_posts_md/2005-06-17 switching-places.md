@@ -1,12 +1,13 @@
 ---
 topic_title: "Switching places"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/switching-places
-num_views: 1463
+topic_id: 19431
 num_posts: 3
 date_first: 2005-06-17
 date_last: 2005-06-18
-tags: []
+num_views: 1463
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-06-17 00:11:19](https://www.astralpulse.com/forums/index.php?msg=166939), [Silent Shadow](https://www.astralpulse.com/forums/profile/?u=9080)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Developing new OBE method (ex.  relaxation  topic)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/developing-new-obe-method-ex-relaxation-topic
-num_views: 13273
+topic_id: 534
 num_posts: 37
 date_first: 2002-04-05
 date_last: 2002-10-10
-tags: []
+num_views: 13273
 summary: ""
+tags: []
 ---
 
 ## \#0/36 (36) [2002-04-05 08:11:07](https://www.astralpulse.com/forums/index.php?msg=116289), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

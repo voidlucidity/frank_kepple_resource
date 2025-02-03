@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE this morning - Anyone seen this entity?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/obe-this-morning-anyone-seen-this-entity
-num_views: 3298
+topic_id: 2770
 num_posts: 9
 date_first: 2002-12-02
 date_last: 2002-12-09
-tags: []
+num_views: 3298
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2002-12-02 09:18:14](https://www.astralpulse.com/forums/index.php?msg=118500), [amcturbo](https://www.astralpulse.com/forums/profile/?u=803) USA ##

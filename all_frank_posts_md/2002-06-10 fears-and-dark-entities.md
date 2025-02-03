@@ -1,12 +1,13 @@
 ---
 topic_title: "Fears and Dark Entities"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/fears-and-dark-entities
-num_views: 3256
+topic_id: 1098
 num_posts: 11
 date_first: 2002-06-10
 date_last: 2002-06-13
-tags: []
+num_views: 3256
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (10) [2002-06-10 23:28:03](https://www.astralpulse.com/forums/index.php?msg=116836), [RonnieBaby](https://www.astralpulse.com/forums/profile/?u=685) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "The danger of metaphysics?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/the-danger-of-metaphysics
-num_views: 2117
+topic_id: 19836
 num_posts: 4
 date_first: 2005-07-15
 date_last: 2005-07-22
-tags: []
+num_views: 2117
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-07-15 06:56:52](https://www.astralpulse.com/forums/index.php?msg=170278), [Phoenix-09](https://www.astralpulse.com/forums/profile/?u=9423)  ##

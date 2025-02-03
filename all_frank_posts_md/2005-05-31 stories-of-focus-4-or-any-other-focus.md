@@ -1,12 +1,13 @@
 ---
 topic_title: "Stories of Focus 4... or any other focus"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/stories-of-focus-4-or-any-other-focus
-num_views: 6038
+topic_id: 19115
 num_posts: 17
 date_first: 2005-05-31
 date_last: 2005-06-05
-tags: []
+num_views: 6038
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (0) [2005-05-31 18:25:27](https://www.astralpulse.com/forums/index.php?msg=164862), 9981  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Metatones!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-energy-body-and-the-chakras/metatones%21
-num_views: 3017
+topic_id: 1243
 num_posts: 5
 date_first: 2002-06-26
 date_last: 2002-07-09
-tags: []
+num_views: 3017
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2002-06-26 13:36:37](https://www.astralpulse.com/forums/index.php?msg=116981), [Xehupatl](https://www.astralpulse.com/forums/profile/?u=434) Austria ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Merits of approaches"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/merits-of-approaches
-num_views: 1676
+topic_id: 14461
 num_posts: 4
 date_first: 2004-09-17
 date_last: 2004-09-17
-tags: []
+num_views: 1676
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2004-09-17 09:12:09](https://www.astralpulse.com/forums/index.php?msg=129331), [astralspinner](https://www.astralpulse.com/forums/profile/?u=888) United Kingdom ##

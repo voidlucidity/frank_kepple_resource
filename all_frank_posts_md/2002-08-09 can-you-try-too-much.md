@@ -1,12 +1,13 @@
 ---
 topic_title: "can you try too much?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/can-you-try-too-much
-num_views: 4827
+topic_id: 1644
 num_posts: 15
 date_first: 2002-08-09
 date_last: 2002-08-19
-tags: []
+num_views: 4827
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (14) [2002-08-09 23:41:55](https://www.astralpulse.com/forums/index.php?msg=117379), [fredhedd](https://www.astralpulse.com/forums/profile/?u=692) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Stimulate hair follicles for those with alopecia"
 topic_url: https://www.astralpulse.com/forums/welcome-to-energy-body-and-the-chakras/stimulate-hair-follicles-for-those-with-alopecia
-num_views: 6528
+topic_id: 16607
 num_posts: 19
 date_first: 2005-01-19
 date_last: 2005-02-03
-tags: []
+num_views: 6528
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (0) [2005-01-19 13:05:34](https://www.astralpulse.com/forums/index.php?msg=143739), [CptPicard](https://www.astralpulse.com/forums/profile/?u=4180) United Kingdom ##

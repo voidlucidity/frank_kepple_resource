@@ -1,12 +1,13 @@
 ---
 topic_title: "Our Favorite Quotes"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/our-favorite-quotes
-num_views: 27123
+topic_id: 1281
 num_posts: 70
 date_first: 2002-07-02
 date_last: 2003-04-17
-tags: []
+num_views: 27123
 summary: ""
+tags: []
 ---
 
 ## \#0/69 (69) [2002-07-02 07:04:50](https://www.astralpulse.com/forums/index.php?msg=117018), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

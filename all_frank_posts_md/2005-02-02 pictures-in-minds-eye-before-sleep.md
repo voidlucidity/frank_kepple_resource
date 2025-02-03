@@ -1,12 +1,13 @@
 ---
 topic_title: "Pictures in minds eye before sleep"
 topic_url: https://www.astralpulse.com/forums/welcome-to-dreams!/pictures-in-minds-eye-before-sleep
-num_views: 3199
+topic_id: 16979
 num_posts: 12
 date_first: 2005-02-02
 date_last: 2005-02-12
-tags: []
+num_views: 3199
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (0) [2005-02-02 22:25:37](https://www.astralpulse.com/forums/index.php?msg=146632), [goro13](https://www.astralpulse.com/forums/profile/?u=8026) Ohio ##

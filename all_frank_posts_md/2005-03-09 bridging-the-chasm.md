@@ -1,12 +1,13 @@
 ---
 topic_title: "Bridging the Chasm"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/bridging-the-chasm
-num_views: 9068
+topic_id: 17896
 num_posts: 31
 date_first: 2005-03-09
 date_last: 2006-10-18
-tags: []
+num_views: 9068
 summary: ""
+tags: []
 ---
 
 ## \#0/30 (0) [2005-03-09 23:47:17](https://www.astralpulse.com/forums/index.php?msg=154954), [Telos](https://www.astralpulse.com/forums/profile/?u=6496)  ##

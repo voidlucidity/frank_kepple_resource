@@ -1,12 +1,13 @@
 ---
 topic_title: "Dreams - OBE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/dreams-obe
-num_views: 3848
+topic_id: 552
 num_posts: 8
 date_first: 2002-04-06
 date_last: 2002-04-06
-tags: []
+num_views: 3848
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-04-06 09:01:38](https://www.astralpulse.com/forums/index.php?msg=116307), [Qui-Gon Jinn](https://www.astralpulse.com/forums/profile/?u=303) Sweden ##

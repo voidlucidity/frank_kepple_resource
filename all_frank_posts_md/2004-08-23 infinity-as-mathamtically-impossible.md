@@ -1,12 +1,13 @@
 ---
 topic_title: "infinity as mathamtically impossible"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/infinity-as-mathamtically-impossible
-num_views: 4211
+topic_id: 14047
 num_posts: 14
 date_first: 2004-08-23
 date_last: 2004-08-25
-tags: []
+num_views: 4211
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (13) [2004-08-23 07:01:27](https://www.astralpulse.com/forums/index.php?msg=128929), [santa](https://www.astralpulse.com/forums/profile/?u=6680) United Kingdom ##

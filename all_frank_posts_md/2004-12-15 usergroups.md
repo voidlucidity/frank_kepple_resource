@@ -1,12 +1,13 @@
 ---
 topic_title: "Usergroups?"
 topic_url: https://www.astralpulse.com/forums/forums-bugs-reports-and-questions/usergroups
-num_views: 3618
+topic_id: 15852
 num_posts: 7
 date_first: 2004-12-15
 date_last: 2004-12-23
-tags: []
+num_views: 3618
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2004-12-15 10:58:25](https://www.astralpulse.com/forums/index.php?msg=138158), [slernman](https://www.astralpulse.com/forums/profile/?u=7490)  ##

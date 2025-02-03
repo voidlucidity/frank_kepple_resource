@@ -1,12 +1,13 @@
 ---
 topic_title: "bruce moen"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/bruce-moen
-num_views: 3051
+topic_id: 5103
 num_posts: 7
 date_first: 2003-06-18
 date_last: 2003-06-19
-tags: []
+num_views: 3051
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2003-06-18 11:13:44](https://www.astralpulse.com/forums/index.php?msg=120787), [blink182](https://www.astralpulse.com/forums/profile/?u=2386) United Kingdom ##

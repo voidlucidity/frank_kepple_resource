@@ -1,12 +1,13 @@
 ---
 topic_title: "Researching  OBE/Astral Projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/researching-obeastral-projection
-num_views: 1789
+topic_id: 18985
 num_posts: 5
 date_first: 2005-05-22
 date_last: 2005-05-23
-tags: []
+num_views: 1789
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-05-22 01:20:12](https://www.astralpulse.com/forums/index.php?msg=163731), [Thanatos5](https://www.astralpulse.com/forums/profile/?u=8633) Lawrence, KS ##

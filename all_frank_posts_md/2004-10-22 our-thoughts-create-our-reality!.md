@@ -1,12 +1,13 @@
 ---
 topic_title: "Our thoughts create our reality!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/our-thoughts-create-our-reality%21
-num_views: 7087
+topic_id: 14955
 num_posts: 20
 date_first: 2004-10-22
 date_last: 2004-11-27
-tags: []
+num_views: 7087
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (0) [2004-10-22 18:17:16](https://www.astralpulse.com/forums/index.php?msg=131106), [Covelo](https://www.astralpulse.com/forums/profile/?u=6976) USA --California ##

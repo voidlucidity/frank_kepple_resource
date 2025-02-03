@@ -1,12 +1,13 @@
 ---
 topic_title: "Help on maintaining Hypnagoic level in meditation."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/help-on-maintaining-hypnagoic-level-in-meditation
-num_views: 4546
+topic_id: 4336
 num_posts: 9
 date_first: 2003-04-28
 date_last: 2003-05-07
-tags: []
+num_views: 4546
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2003-04-28 08:03:37](https://www.astralpulse.com/forums/index.php?msg=120043), [Kenneth](https://www.astralpulse.com/forums/profile/?u=1374) Denmark ##

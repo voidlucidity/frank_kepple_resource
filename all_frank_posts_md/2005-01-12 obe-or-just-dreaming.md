@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE or just dreaming?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/obe-or-just-dreaming
-num_views: 1146
+topic_id: 16403
 num_posts: 3
 date_first: 2005-01-12
 date_last: 2005-01-21
-tags: []
+num_views: 1146
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-01-12 20:09:55](https://www.astralpulse.com/forums/index.php?msg=142554), [dharma_talk](https://www.astralpulse.com/forums/profile/?u=7999) Lexington, KY ##

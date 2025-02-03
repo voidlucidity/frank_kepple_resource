@@ -1,12 +1,13 @@
 ---
 topic_title: "first obe - verify, someone?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/first-obe-verify-someone
-num_views: 2148
+topic_id: 4400
 num_posts: 5
 date_first: 2003-05-01
 date_last: 2003-05-04
-tags: []
+num_views: 2148
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-05-01 11:45:08](https://www.astralpulse.com/forums/index.php?msg=120106), [AstralTym](https://www.astralpulse.com/forums/profile/?u=2134) USA ##

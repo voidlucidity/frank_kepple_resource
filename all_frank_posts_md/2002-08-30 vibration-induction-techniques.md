@@ -1,12 +1,13 @@
 ---
 topic_title: "Vibration Induction Techniques"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/vibration-induction-techniques
-num_views: 6506
+topic_id: 1776
 num_posts: 24
 date_first: 2002-08-30
 date_last: 2002-09-11
-tags: []
+num_views: 6506
 summary: ""
+tags: []
 ---
 
 ## \#0/23 (23) [2002-08-30 09:21:15](https://www.astralpulse.com/forums/index.php?msg=117511), [overworked](https://www.astralpulse.com/forums/profile/?u=1103) USA ##

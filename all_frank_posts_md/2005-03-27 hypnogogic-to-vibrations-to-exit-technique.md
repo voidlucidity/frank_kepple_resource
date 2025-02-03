@@ -1,12 +1,13 @@
 ---
 topic_title: "Hypnogogic to vibrations to exit technique?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/hypnogogic-to-vibrations-to-exit-technique
-num_views: 3591
+topic_id: 18212
 num_posts: 10
 date_first: 2005-03-27
 date_last: 2005-03-30
-tags: []
+num_views: 3591
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2005-03-27 14:41:59](https://www.astralpulse.com/forums/index.php?msg=157853), Anonymous  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "The Candle Vision approach - feedback please"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/the-candle-vision-approach-feedback-please
-num_views: 1758
+topic_id: 2730
 num_posts: 5
 date_first: 2002-11-28
 date_last: 2002-11-29
-tags: []
+num_views: 1758
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2002-11-28 13:21:31](https://www.astralpulse.com/forums/index.php?msg=118460), [wizard](https://www.astralpulse.com/forums/profile/?u=1482) Canada ##

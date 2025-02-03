@@ -1,12 +1,13 @@
 ---
 topic_title: "Recommended length of time for using Gateway"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/recommended-length-of-time-for-using-gateway
-num_views: 1605
+topic_id: 19016
 num_posts: 4
 date_first: 2005-05-24
 date_last: 2005-05-24
-tags: []
+num_views: 1605
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-05-24 02:06:46](https://www.astralpulse.com/forums/index.php?msg=163962), [Jeff Caldwell](https://www.astralpulse.com/forums/profile/?u=9073)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Affecting the physical world in OBE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/affecting-the-physical-world-in-obe
-num_views: 10727
+topic_id: 2010
 num_posts: 27
 date_first: 2002-09-23
 date_last: 2002-10-07
-tags: []
+num_views: 10727
 summary: ""
+tags: []
 ---
 
 ## \#0/26 (25) [2002-09-23 10:14:15](https://www.astralpulse.com/forums/index.php?msg=117744), [Gus](https://www.astralpulse.com/forums/profile/?u=1213) Latvia ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "I was just wondering....."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/i-was-just-wondering-1850
-num_views: 2251
+topic_id: 1850
 num_posts: 5
 date_first: 2002-09-07
 date_last: 2002-09-10
-tags: []
+num_views: 2251
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2002-09-07 18:48:35](https://www.astralpulse.com/forums/index.php?msg=117585), [General-Army](https://www.astralpulse.com/forums/profile/?u=997) USA ##

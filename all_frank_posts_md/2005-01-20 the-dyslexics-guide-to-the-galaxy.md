@@ -1,12 +1,13 @@
 ---
 topic_title: "The Dyslexics Guide To The Galaxy"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/the-dyslexics-guide-to-the-galaxy
-num_views: 1749
+topic_id: 16631
 num_posts: 4
 date_first: 2005-01-20
 date_last: 2005-01-20
-tags: []
+num_views: 1749
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-01-20 11:15:04](https://www.astralpulse.com/forums/index.php?msg=143894), [BirdManKalki](https://www.astralpulse.com/forums/profile/?u=5288)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Subjective experience example..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/subjective-experience-example
-num_views: 1372
+topic_id: 14159
 num_posts: 3
 date_first: 2004-08-28
 date_last: 2004-08-28
-tags: []
+num_views: 1372
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2004-08-28 04:46:13](https://www.astralpulse.com/forums/index.php?msg=129036), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

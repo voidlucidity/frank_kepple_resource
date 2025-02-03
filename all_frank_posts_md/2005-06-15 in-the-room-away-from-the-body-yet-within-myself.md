@@ -1,12 +1,13 @@
 ---
 topic_title: "In the room away from the body yet within myself"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/in-the-room-away-from-the-body-yet-within-myself
-num_views: 3069
+topic_id: 19403
 num_posts: 6
 date_first: 2005-06-15
 date_last: 2005-06-21
-tags: []
+num_views: 3069
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-06-15 18:51:09](https://www.astralpulse.com/forums/index.php?msg=166785), [halfphased](https://www.astralpulse.com/forums/profile/?u=2995) USA ##

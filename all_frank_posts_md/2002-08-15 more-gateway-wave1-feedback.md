@@ -1,12 +1,13 @@
 ---
 topic_title: "More Gateway Wave1 feedback"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/more-gateway-wave1-feedback
-num_views: 7069
+topic_id: 1673
 num_posts: 26
 date_first: 2002-08-15
 date_last: 2002-08-19
-tags: []
+num_views: 7069
 summary: ""
+tags: []
 ---
 
 ## \#0/25 (25) [2002-08-15 05:31:50](https://www.astralpulse.com/forums/index.php?msg=117408), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

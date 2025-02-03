@@ -1,12 +1,13 @@
 ---
 topic_title: "Ambient noise and OBEs"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/ambient-noise-and-obes
-num_views: 1480
+topic_id: 16149
 num_posts: 4
 date_first: 2005-01-01
 date_last: 2005-01-01
-tags: []
+num_views: 1480
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-01-01 09:23:08](https://www.astralpulse.com/forums/index.php?msg=140579), [sunneysoul71](https://www.astralpulse.com/forums/profile/?u=7668) Germany or U.S.  It varies. ##

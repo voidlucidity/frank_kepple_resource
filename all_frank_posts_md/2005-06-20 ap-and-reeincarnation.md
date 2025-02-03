@@ -1,12 +1,13 @@
 ---
 topic_title: "AP and Reeincarnation"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/ap-and-reeincarnation
-num_views: 9303
+topic_id: 19484
 num_posts: 31
 date_first: 2005-06-20
 date_last: 2005-06-29
-tags: []
+num_views: 9303
 summary: ""
+tags: []
 ---
 
 ## \#0/30 (0) [2005-06-20 15:33:53](https://www.astralpulse.com/forums/index.php?msg=167362), [Kazbadan](https://www.astralpulse.com/forums/profile/?u=2956) Portugal ##

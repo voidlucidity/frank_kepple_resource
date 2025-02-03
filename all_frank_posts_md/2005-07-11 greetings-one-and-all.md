@@ -1,12 +1,13 @@
 ---
 topic_title: "Greetings One and All"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/greetings-one-and-all
-num_views: 2268
+topic_id: 19766
 num_posts: 6
 date_first: 2005-07-11
 date_last: 2005-07-11
-tags: []
+num_views: 2268
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-07-11 02:02:11](https://www.astralpulse.com/forums/index.php?msg=169749), [Wizard of Light](https://www.astralpulse.com/forums/profile/?u=9406) Australia ##

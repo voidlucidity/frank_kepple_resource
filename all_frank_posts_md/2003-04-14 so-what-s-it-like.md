@@ -1,12 +1,13 @@
 ---
 topic_title: "So...What's It Like?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/so-what-s-it-like
-num_views: 3105
+topic_id: 4177
 num_posts: 9
 date_first: 2003-04-14
 date_last: 2003-04-21
-tags: []
+num_views: 3105
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2003-04-14 13:44:05](https://www.astralpulse.com/forums/index.php?msg=119887), [Squeek](https://www.astralpulse.com/forums/profile/?u=1578) USA ##

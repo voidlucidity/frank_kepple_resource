@@ -1,12 +1,13 @@
 ---
 topic_title: "Shoecrutch"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/shoecrutch
-num_views: 5591
+topic_id: 17641
 num_posts: 20
 date_first: 2005-02-27
 date_last: 2005-03-03
-tags: []
+num_views: 5591
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (0) [2005-02-27 08:17:54](https://www.astralpulse.com/forums/index.php?msg=152692), [Telos](https://www.astralpulse.com/forums/profile/?u=6496)  ##

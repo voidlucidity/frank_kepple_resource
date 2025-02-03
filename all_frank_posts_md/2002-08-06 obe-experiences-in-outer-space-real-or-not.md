@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE experiences in Outer Space? real or not?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/obe-experiences-in-outer-space-real-or-not
-num_views: 10351
+topic_id: 1613
 num_posts: 30
 date_first: 2002-08-06
 date_last: 2003-07-29
-tags: []
+num_views: 10351
 summary: ""
+tags: []
 ---
 
 ## \#0/29 (28) [2002-08-06 05:18:49](https://www.astralpulse.com/forums/index.php?msg=117348), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

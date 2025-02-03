@@ -1,12 +1,13 @@
 ---
 topic_title: "Poss. of entering Astral via Lucid Dreams"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/poss-of-entering-astral-via-lucid-dreams
-num_views: 2315
+topic_id: 1890
 num_posts: 6
 date_first: 2002-09-12
 date_last: 2002-09-13
-tags: []
+num_views: 2315
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-09-12 05:29:51](https://www.astralpulse.com/forums/index.php?msg=117625), [Meg](https://www.astralpulse.com/forums/profile/?u=1090) Australia ##

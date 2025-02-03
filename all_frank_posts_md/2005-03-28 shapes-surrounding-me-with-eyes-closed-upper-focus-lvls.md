@@ -1,12 +1,13 @@
 ---
 topic_title: "Shapes surrounding me with eyes closed - upper focus lvls?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/shapes-surrounding-me-with-eyes-closed-upper-focus-lvls
-num_views: 1494
+topic_id: 18232
 num_posts: 3
 date_first: 2005-03-28
 date_last: 2005-03-30
-tags: []
+num_views: 1494
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-03-28 11:10:56](https://www.astralpulse.com/forums/index.php?msg=157982), [flowdiggity](https://www.astralpulse.com/forums/profile/?u=8346)  ##

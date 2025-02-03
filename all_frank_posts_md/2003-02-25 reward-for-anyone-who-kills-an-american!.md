@@ -1,12 +1,13 @@
 ---
 topic_title: "Reward for Anyone Who Kills an American!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/reward-for-anyone-who-kills-an-american%21
-num_views: 15765
+topic_id: 3600
 num_posts: 58
 date_first: 2003-02-25
 date_last: 2003-03-17
-tags: []
+num_views: 15765
 summary: ""
+tags: []
 ---
 
 ## \#0/57 (57) [2003-02-25 00:06:27](https://www.astralpulse.com/forums/index.php?msg=119320), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

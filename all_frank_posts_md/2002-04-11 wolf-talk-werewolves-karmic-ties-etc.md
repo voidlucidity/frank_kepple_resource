@@ -1,12 +1,13 @@
 ---
 topic_title: "Wolf talk....(werewolves, karmic ties etc)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/wolf-talk-werewolves-karmic-ties-etc
-num_views: 4945
+topic_id: 626
 num_posts: 6
 date_first: 2002-04-11
 date_last: 2002-04-28
-tags: []
+num_views: 4945
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-04-11 04:32:05](https://www.astralpulse.com/forums/index.php?msg=116378), [SteppenWolf](https://www.astralpulse.com/forums/profile/?u=341) New Zealand ##

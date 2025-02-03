@@ -1,12 +1,13 @@
 ---
 topic_title: "healing with astral projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-healing-discussions!/healing-with-astral-projection
-num_views: 3601
+topic_id: 16633
 num_posts: 4
 date_first: 2005-01-20
 date_last: 2005-01-21
-tags: []
+num_views: 3601
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-01-20 14:12:07](https://www.astralpulse.com/forums/index.php?msg=143937), [ARCHDRAGON](https://www.astralpulse.com/forums/profile/?u=8060) nellis air force base ##

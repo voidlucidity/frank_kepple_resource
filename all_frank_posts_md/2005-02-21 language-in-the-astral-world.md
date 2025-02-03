@@ -1,12 +1,13 @@
 ---
 topic_title: "Language in the astral world"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/language-in-the-astral-world
-num_views: 4785
+topic_id: 17500
 num_posts: 12
 date_first: 2005-02-21
 date_last: 2005-05-22
-tags: []
+num_views: 4785
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (0) [2005-02-21 05:00:19](https://www.astralpulse.com/forums/index.php?msg=151141), [wtruong227](https://www.astralpulse.com/forums/profile/?u=8463)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Keirsey Temperament Sorter II"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/keirsey-temperament-sorter-ii
-num_views: 4966
+topic_id: 1619
 num_posts: 10
 date_first: 2002-08-06
 date_last: 2002-08-22
-tags: []
+num_views: 4966
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2002-08-06 16:57:14](https://www.astralpulse.com/forums/index.php?msg=117354), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Welcome to the Astral Consciousness forum!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/welcome-to-the-astral-consciousness-forum%21
-num_views: 6148
+topic_id: 2118
 num_posts: 6
 date_first: 2002-10-03
 date_last: 2002-10-04
-tags: []
+num_views: 6148
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-10-03 07:39:03](https://www.astralpulse.com/forums/index.php?msg=117852), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

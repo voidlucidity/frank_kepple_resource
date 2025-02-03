@@ -1,12 +1,13 @@
 ---
 topic_title: "Michael Jackson: Can You Be More Freaky??"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/michael-jackson-can-you-be-more-freaky
-num_views: 5835
+topic_id: 3384
 num_posts: 18
 date_first: 2003-02-05
 date_last: 2003-03-25
-tags: []
+num_views: 5835
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (17) [2003-02-05 23:33:30](https://www.astralpulse.com/forums/index.php?msg=119108), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

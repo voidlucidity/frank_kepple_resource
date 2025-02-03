@@ -1,12 +1,13 @@
 ---
 topic_title: "enlightenment"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/enlightenment
-num_views: 3633
+topic_id: 4446
 num_posts: 16
 date_first: 2003-05-04
 date_last: 2003-05-09
-tags: []
+num_views: 3633
 summary: ""
+tags: []
 ---
 
 ## \#0/15 (15) [2003-05-04 17:02:10](https://www.astralpulse.com/forums/index.php?msg=120150), [fatesdrifter](https://www.astralpulse.com/forums/profile/?u=1790) USA ##

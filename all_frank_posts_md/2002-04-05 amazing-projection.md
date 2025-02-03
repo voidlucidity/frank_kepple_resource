@@ -1,12 +1,13 @@
 ---
 topic_title: "Amazing projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/amazing-projection
-num_views: 5563
+topic_id: 536
 num_posts: 9
 date_first: 2002-04-05
 date_last: 2002-04-08
-tags: []
+num_views: 5563
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2002-04-05 11:00:18](https://www.astralpulse.com/forums/index.php?msg=116291), [Scott](https://www.astralpulse.com/forums/profile/?u=410) USA ##

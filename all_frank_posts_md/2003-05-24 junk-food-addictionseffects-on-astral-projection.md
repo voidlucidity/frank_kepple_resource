@@ -1,12 +1,13 @@
 ---
 topic_title: "junk food addictions/effects on astral projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/junk-food-addictionseffects-on-astral-projection
-num_views: 6358
+topic_id: 4674
 num_posts: 10
 date_first: 2003-05-24
 date_last: 2003-05-30
-tags: []
+num_views: 6358
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2003-05-24 13:16:20](https://www.astralpulse.com/forums/index.php?msg=120373), [jason](https://www.astralpulse.com/forums/profile/?u=1099) Canada ##

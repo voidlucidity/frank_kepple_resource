@@ -1,12 +1,13 @@
 ---
 topic_title: "questions about my recent experiences"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/questions-about-my-recent-experiences
-num_views: 1354
+topic_id: 18923
 num_posts: 2
 date_first: 2005-05-05
 date_last: 2005-05-06
-tags: []
+num_views: 1354
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-05-05 21:36:32](https://www.astralpulse.com/forums/index.php?msg=163378), [KimL.](https://www.astralpulse.com/forums/profile/?u=9058)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Unlimited Ideas (Was Frank's Ideas.)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/unlimited-ideas-was-frank-s-ideas
-num_views: 9032
+topic_id: 19705
 num_posts: 33
 date_first: 2005-07-06
 date_last: 2005-07-30
-tags: []
+num_views: 9032
 summary: ""
+tags: []
 ---
 
 ## \#0/32 (0) [2005-07-06 19:24:49](https://www.astralpulse.com/forums/index.php?msg=169231), [infinitethoughts](https://www.astralpulse.com/forums/profile/?u=9376)  ##

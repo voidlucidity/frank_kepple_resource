@@ -1,12 +1,13 @@
 ---
 topic_title: "Did anyone test the objectivity of their OBEs ?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/did-anyone-test-the-objectivity-of-their-obes
-num_views: 8404
+topic_id: 14129
 num_posts: 32
 date_first: 2004-08-27
 date_last: 2004-09-02
-tags: []
+num_views: 8404
 summary: ""
+tags: []
 ---
 
 ## \#0/31 (31) [2004-08-27 03:53:13](https://www.astralpulse.com/forums/index.php?msg=129007), [Nemo](https://www.astralpulse.com/forums/profile/?u=6774)  ##

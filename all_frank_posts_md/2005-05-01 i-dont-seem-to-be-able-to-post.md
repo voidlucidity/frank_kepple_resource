@@ -1,12 +1,13 @@
 ---
 topic_title: "I dont seem to be able to post."
 topic_url: https://www.astralpulse.com/forums/forums-bugs-reports-and-questions/i-dont-seem-to-be-able-to-post
-num_views: 2901
+topic_id: 18846
 num_posts: 4
 date_first: 2005-05-01
 date_last: 2005-05-01
-tags: []
+num_views: 2901
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-05-01 16:42:33](https://www.astralpulse.com/forums/index.php?msg=162680), [curator23](https://www.astralpulse.com/forums/profile/?u=8998) Devon, UK ##

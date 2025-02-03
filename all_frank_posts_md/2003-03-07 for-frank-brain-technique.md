@@ -1,12 +1,13 @@
 ---
 topic_title: "For FRANK - Brain Technique"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/for-frank-brain-technique
-num_views: 2840
+topic_id: 3731
 num_posts: 4
 date_first: 2003-03-07
 date_last: 2003-03-09
-tags: []
+num_views: 2840
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2003-03-07 11:46:04](https://www.astralpulse.com/forums/index.php?msg=119449), [metaphysics](https://www.astralpulse.com/forums/profile/?u=1278) Albania ##

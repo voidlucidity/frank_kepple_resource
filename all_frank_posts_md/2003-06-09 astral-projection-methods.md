@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Projection Methods"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/astral-projection-methods
-num_views: 2384
+topic_id: 4920
 num_posts: 7
 date_first: 2003-06-09
 date_last: 2003-06-09
-tags: []
+num_views: 2384
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2003-06-09 11:56:50](https://www.astralpulse.com/forums/index.php?msg=120612), [Tao](https://www.astralpulse.com/forums/profile/?u=2470) Romania ##

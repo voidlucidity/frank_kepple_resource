@@ -1,12 +1,13 @@
 ---
 topic_title: "Is this a new kind of projection??"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/is-this-a-new-kind-of-projection
-num_views: 1257
+topic_id: 15645
 num_posts: 2
 date_first: 2004-12-06
 date_last: 2004-12-07
-tags: []
+num_views: 1257
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2004-12-06 15:40:31](https://www.astralpulse.com/forums/index.php?msg=136487), [griffins_talon88](https://www.astralpulse.com/forums/profile/?u=7456) sacramento ##

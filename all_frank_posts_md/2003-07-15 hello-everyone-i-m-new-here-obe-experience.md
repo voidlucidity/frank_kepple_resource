@@ -1,12 +1,13 @@
 ---
 topic_title: "Hello everyone I'm new here-OBE experience?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/hello-everyone-i-m-new-here-obe-experience
-num_views: 2651
+topic_id: 5627
 num_posts: 9
 date_first: 2003-07-15
 date_last: 2003-07-16
-tags: []
+num_views: 2651
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2003-07-15 09:58:02](https://www.astralpulse.com/forums/index.php?msg=121275), [BW1209](https://www.astralpulse.com/forums/profile/?u=2791) USA ##

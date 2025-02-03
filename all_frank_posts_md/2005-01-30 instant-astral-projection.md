@@ -1,12 +1,13 @@
 ---
 topic_title: "-=Instant astral projection=-"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/instant-astral-projection
-num_views: 6757
+topic_id: 16874
 num_posts: 16
 date_first: 2005-01-30
 date_last: 2005-02-07
-tags: []
+num_views: 6757
 summary: ""
+tags: []
 ---
 
 ## \#0/15 (0) [2005-01-30 14:54:53](https://www.astralpulse.com/forums/index.php?msg=145895), [toast](https://www.astralpulse.com/forums/profile/?u=8201)  ##

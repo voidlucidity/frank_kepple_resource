@@ -1,12 +1,13 @@
 ---
 topic_title: "Introduction and story :)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/introduction-and-story
-num_views: 1931
+topic_id: 16547
 num_posts: 6
 date_first: 2005-01-17
 date_last: 2005-01-19
-tags: []
+num_views: 1931
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-01-17 05:35:19](https://www.astralpulse.com/forums/index.php?msg=143398), Naovaaka  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Does reality matter?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/does-reality-matter
-num_views: 6264
+topic_id: 16777
 num_posts: 20
 date_first: 2005-01-26
 date_last: 2005-01-31
-tags: []
+num_views: 6264
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (0) [2005-01-26 10:48:36](https://www.astralpulse.com/forums/index.php?msg=145084), [astralspinner](https://www.astralpulse.com/forums/profile/?u=888) United Kingdom ##

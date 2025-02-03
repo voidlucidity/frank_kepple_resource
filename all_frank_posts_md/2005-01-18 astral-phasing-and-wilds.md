@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Phasing and WILDs"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/astral-phasing-and-wilds
-num_views: 1661
+topic_id: 16594
 num_posts: 3
 date_first: 2005-01-18
 date_last: 2005-01-19
-tags: []
+num_views: 1661
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-01-18 22:58:13](https://www.astralpulse.com/forums/index.php?msg=143646), [Blackstream](https://www.astralpulse.com/forums/profile/?u=4803) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Neurologists claim they can trigger OBE's"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/neurologists-claim-they-can-trigger-obe-s
-num_views: 12745
+topic_id: 12141
 num_posts: 40
 date_first: 2004-05-15
 date_last: 2009-02-01
-tags: []
+num_views: 12745
 summary: ""
+tags: []
 ---
 
 ## \#0/39 (28) [2004-05-15 13:06:44](https://www.astralpulse.com/forums/index.php?msg=127114), [Moderneboy](https://www.astralpulse.com/forums/profile/?u=5577) Ireland ##

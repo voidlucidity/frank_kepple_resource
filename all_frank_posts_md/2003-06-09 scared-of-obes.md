@@ -1,12 +1,13 @@
 ---
 topic_title: "Scared of OBEs"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/scared-of-obes
-num_views: 5579
+topic_id: 4923
 num_posts: 21
 date_first: 2003-06-09
 date_last: 2003-06-17
-tags: []
+num_views: 5579
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (20) [2003-06-09 13:01:43](https://www.astralpulse.com/forums/index.php?msg=120615), [RiderGZ](https://www.astralpulse.com/forums/profile/?u=2487) USA ##

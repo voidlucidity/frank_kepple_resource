@@ -1,12 +1,13 @@
 ---
 topic_title: "hypnogogic sounds"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/hypnogogic-sounds
-num_views: 2033
+topic_id: 2850
 num_posts: 3
 date_first: 2002-12-11
 date_last: 2002-12-12
-tags: []
+num_views: 2033
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2002-12-11 16:08:36](https://www.astralpulse.com/forums/index.php?msg=118580), [rodentmouse](https://www.astralpulse.com/forums/profile/?u=554) United Kingdom ##

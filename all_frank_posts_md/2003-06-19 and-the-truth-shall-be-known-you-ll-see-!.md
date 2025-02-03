@@ -1,12 +1,13 @@
 ---
 topic_title: "And the truth shall be known - You'll see !"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/and-the-truth-shall-be-known-you-ll-see-%21
-num_views: 167941
+topic_id: 5116
 num_posts: 448
 date_first: 2003-06-19
 date_last: 2004-08-05
-tags: []
+num_views: 167941
 summary: ""
+tags: []
 ---
 
 ## \#0/447 (447) [2003-06-19 02:28:43](https://www.astralpulse.com/forums/index.php?msg=120799), [MAYATNIK](https://www.astralpulse.com/forums/profile/?u=2531) United Kingdom ##

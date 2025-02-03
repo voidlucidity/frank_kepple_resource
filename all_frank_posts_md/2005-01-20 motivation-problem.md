@@ -1,12 +1,13 @@
 ---
 topic_title: "Motivation Problem"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/motivation-problem
-num_views: 2501
+topic_id: 16629
 num_posts: 10
 date_first: 2005-01-20
 date_last: 2005-01-23
-tags: []
+num_views: 2501
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2005-01-20 09:18:14](https://www.astralpulse.com/forums/index.php?msg=143878), [Tombo](https://www.astralpulse.com/forums/profile/?u=2799) Switzerland ##

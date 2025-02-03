@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing Questions"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/phasing-questions
-num_views: 2532
+topic_id: 18273
 num_posts: 5
 date_first: 2005-03-30
 date_last: 2005-04-15
-tags: []
+num_views: 2532
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-03-30 19:36:08](https://www.astralpulse.com/forums/index.php?msg=158364), [Astralwych](https://www.astralpulse.com/forums/profile/?u=7595) Southern California where its ALWAYS hot! ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "AstralSailor"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/astralsailor
-num_views: 1981
+topic_id: 17052
 num_posts: 5
 date_first: 2005-02-05
 date_last: 2005-02-14
-tags: []
+num_views: 1981
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-02-05 03:54:05](https://www.astralpulse.com/forums/index.php?msg=147216), [AstralSailor](https://www.astralpulse.com/forums/profile/?u=8281) Sweden ##

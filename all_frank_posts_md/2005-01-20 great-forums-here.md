@@ -1,12 +1,13 @@
 ---
 topic_title: "Great Forums Here"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/great-forums-here
-num_views: 1735
+topic_id: 16639
 num_posts: 4
 date_first: 2005-01-20
 date_last: 2005-01-23
-tags: []
+num_views: 1735
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-01-20 15:44:14](https://www.astralpulse.com/forums/index.php?msg=143976), [Alison](https://www.astralpulse.com/forums/profile/?u=8094) Nanaimo, Canada ##

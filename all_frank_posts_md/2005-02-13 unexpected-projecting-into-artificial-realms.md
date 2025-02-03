@@ -1,12 +1,13 @@
 ---
 topic_title: "Unexpected projecting into artificial realms"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/unexpected-projecting-into-artificial-realms
-num_views: 1893
+topic_id: 17256
 num_posts: 6
 date_first: 2005-02-13
 date_last: 2005-02-17
-tags: []
+num_views: 1893
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-02-13 11:40:34](https://www.astralpulse.com/forums/index.php?msg=148855), [Swarooptheone](https://www.astralpulse.com/forums/profile/?u=8185) India ##

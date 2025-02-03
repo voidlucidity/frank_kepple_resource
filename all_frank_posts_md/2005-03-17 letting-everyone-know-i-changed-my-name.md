@@ -1,12 +1,13 @@
 ---
 topic_title: "Letting everyone know I changed my name"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/letting-everyone-know-i-changed-my-name
-num_views: 1491
+topic_id: 18043
 num_posts: 3
 date_first: 2005-03-17
 date_last: 2005-03-26
-tags: []
+num_views: 1491
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-03-17 22:07:10](https://www.astralpulse.com/forums/index.php?msg=156335), [Chaoslogic](https://www.astralpulse.com/forums/profile/?u=8652) Space ##

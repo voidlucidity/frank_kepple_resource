@@ -1,12 +1,13 @@
 ---
 topic_title: "time for a break"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/time-for-a-break
-num_views: 2890
+topic_id: 5357
 num_posts: 9
 date_first: 2003-07-01
 date_last: 2003-07-03
-tags: []
+num_views: 2890
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2003-07-01 20:23:47](https://www.astralpulse.com/forums/index.php?msg=121024), [goingslow](https://www.astralpulse.com/forums/profile/?u=1529) USA ##

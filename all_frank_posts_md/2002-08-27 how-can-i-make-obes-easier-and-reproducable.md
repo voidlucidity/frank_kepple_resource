@@ -1,12 +1,13 @@
 ---
 topic_title: "How can I make OBEs easier and reproducable?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/how-can-i-make-obes-easier-and-reproducable
-num_views: 3577
+topic_id: 1751
 num_posts: 13
 date_first: 2002-08-27
 date_last: 2002-08-31
-tags: []
+num_views: 3577
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2002-08-27 21:15:28](https://www.astralpulse.com/forums/index.php?msg=117486), [density](https://www.astralpulse.com/forums/profile/?u=1087) China ##

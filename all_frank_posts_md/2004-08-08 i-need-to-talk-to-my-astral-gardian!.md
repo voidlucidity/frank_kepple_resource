@@ -1,12 +1,13 @@
 ---
 topic_title: "I need to talk to my astral gardian!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/i-need-to-talk-to-my-astral-gardian%21
-num_views: 4108
+topic_id: 13776
 num_posts: 15
 date_first: 2004-08-08
 date_last: 2004-08-15
-tags: []
+num_views: 4108
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (14) [2004-08-08 22:40:09](https://www.astralpulse.com/forums/index.php?msg=128666), [wer](https://www.astralpulse.com/forums/profile/?u=6582) USA ##

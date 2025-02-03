@@ -1,12 +1,13 @@
 ---
 topic_title: "Selective Blocking"
 topic_url: https://www.astralpulse.com/forums/forums-bugs-reports-and-questions/selective-blocking
-num_views: 2423
+topic_id: 15025
 num_posts: 3
 date_first: 2004-10-27
 date_last: 2004-10-31
-tags: []
+num_views: 2423
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2004-10-27 17:13:58](https://www.astralpulse.com/forums/index.php?msg=131534), [Rastus](https://www.astralpulse.com/forums/profile/?u=6268) USA ##

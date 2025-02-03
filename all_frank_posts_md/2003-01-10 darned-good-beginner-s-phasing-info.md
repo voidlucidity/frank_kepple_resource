@@ -1,12 +1,13 @@
 ---
 topic_title: "Darned good beginner's phasing info"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/darned-good-beginner-s-phasing-info
-num_views: 4903
+topic_id: 3089
 num_posts: 8
 date_first: 2003-01-10
 date_last: 2003-01-20
-tags: []
+num_views: 4903
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2003-01-10 16:37:10](https://www.astralpulse.com/forums/index.php?msg=118818), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

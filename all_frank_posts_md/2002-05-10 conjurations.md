@@ -1,12 +1,13 @@
 ---
 topic_title: "Conjurations???"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/conjurations
-num_views: 1687
+topic_id: 913
 num_posts: 3
 date_first: 2002-05-10
 date_last: 2002-05-11
-tags: []
+num_views: 1687
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2002-05-10 23:22:26](https://www.astralpulse.com/forums/index.php?msg=116655), [spawn968](https://www.astralpulse.com/forums/profile/?u=504) USA ##

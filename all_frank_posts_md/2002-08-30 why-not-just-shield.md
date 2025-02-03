@@ -1,12 +1,13 @@
 ---
 topic_title: "Why Not Just Shield???"
 topic_url: https://www.astralpulse.com/forums/welcome-to-psychic-and-paranormal!/why-not-just-shield
-num_views: 23952
+topic_id: 1772
 num_posts: 79
 date_first: 2002-08-30
 date_last: 2003-07-24
-tags: []
+num_views: 23952
 summary: ""
+tags: []
 ---
 
 ## \#0/78 (77) [2002-08-30 04:55:10](https://www.astralpulse.com/forums/index.php?msg=117507), [Winged_Wolf](https://www.astralpulse.com/forums/profile/?u=247) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Meeting in the Astral"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/meeting-in-the-astral
-num_views: 4529
+topic_id: 14757
 num_posts: 14
 date_first: 2004-10-12
 date_last: 2004-10-15
-tags: []
+num_views: 4529
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (0) [2004-10-12 22:35:29](https://www.astralpulse.com/forums/index.php?msg=129830), [Amber](https://www.astralpulse.com/forums/profile/?u=1626) USA ##

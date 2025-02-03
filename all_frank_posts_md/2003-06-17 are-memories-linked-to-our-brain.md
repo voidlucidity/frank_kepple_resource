@@ -1,12 +1,13 @@
 ---
 topic_title: "Are memories linked to our brain"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/are-memories-linked-to-our-brain
-num_views: 4599
+topic_id: 5079
 num_posts: 20
 date_first: 2003-06-17
 date_last: 2004-07-23
-tags: []
+num_views: 4599
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (19) [2003-06-17 04:09:07](https://www.astralpulse.com/forums/index.php?msg=120763), [stevewhite2000](https://www.astralpulse.com/forums/profile/?u=2448) Australia ##

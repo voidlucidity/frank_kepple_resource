@@ -1,12 +1,13 @@
 ---
 topic_title: "Weird creature"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/weird-creature
-num_views: 2997
+topic_id: 14730
 num_posts: 8
 date_first: 2004-10-11
 date_last: 2004-10-17
-tags: []
+num_views: 2997
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2004-10-11 19:54:51](https://www.astralpulse.com/forums/index.php?msg=129636), [vannostrom](https://www.astralpulse.com/forums/profile/?u=6479) Australia ##

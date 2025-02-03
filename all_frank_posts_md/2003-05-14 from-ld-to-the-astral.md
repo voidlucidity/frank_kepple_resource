@@ -1,12 +1,13 @@
 ---
 topic_title: "From LD to the astral"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/from-ld-to-the-astral
-num_views: 2242
+topic_id: 4573
 num_posts: 6
 date_first: 2003-05-14
 date_last: 2003-05-24
-tags: []
+num_views: 2242
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2003-05-14 11:08:18](https://www.astralpulse.com/forums/index.php?msg=120274), [goingslow](https://www.astralpulse.com/forums/profile/?u=1529) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "deprived of mutton?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/deprived-of-mutton
-num_views: 5053
+topic_id: 2616
 num_posts: 10
 date_first: 2002-11-18
 date_last: 2002-11-19
-tags: []
+num_views: 5053
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2002-11-18 18:54:07](https://www.astralpulse.com/forums/index.php?msg=118347), Chris  ##

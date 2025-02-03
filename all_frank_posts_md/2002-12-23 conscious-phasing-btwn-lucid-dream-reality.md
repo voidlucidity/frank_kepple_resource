@@ -1,12 +1,13 @@
 ---
 topic_title: "Conscious phasing btwn lucid dream & \"reality\""
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/conscious-phasing-btwn-lucid-dream-reality
-num_views: 5091
+topic_id: 2942
 num_posts: 16
 date_first: 2002-12-23
 date_last: 2003-01-07
-tags: []
+num_views: 5091
 summary: ""
+tags: []
 ---
 
 ## \#0/15 (15) [2002-12-23 13:15:09](https://www.astralpulse.com/forums/index.php?msg=118671), [Tisha](https://www.astralpulse.com/forums/profile/?u=594) USA ##

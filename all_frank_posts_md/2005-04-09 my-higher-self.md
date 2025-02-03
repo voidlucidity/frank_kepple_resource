@@ -1,12 +1,13 @@
 ---
 topic_title: "My Higher Self"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/my-higher-self
-num_views: 5180
+topic_id: 18441
 num_posts: 16
 date_first: 2005-04-09
 date_last: 2005-04-24
-tags: []
+num_views: 5180
 summary: ""
+tags: []
 ---
 
 ## \#0/15 (0) [2005-04-09 23:18:11](https://www.astralpulse.com/forums/index.php?msg=159620), [markulous](https://www.astralpulse.com/forums/profile/?u=7426)  ##

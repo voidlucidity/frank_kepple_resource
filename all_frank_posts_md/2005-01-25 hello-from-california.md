@@ -1,12 +1,13 @@
 ---
 topic_title: "Hello from California"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/hello-from-california
-num_views: 2182
+topic_id: 16742
 num_posts: 7
 date_first: 2005-01-25
 date_last: 2005-03-05
-tags: []
+num_views: 2182
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-01-25 04:33:18](https://www.astralpulse.com/forums/index.php?msg=144815), [California](https://www.astralpulse.com/forums/profile/?u=8128) SF Bay Area ##

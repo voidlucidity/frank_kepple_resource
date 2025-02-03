@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE Problem"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/obe-problem
-num_views: 4326
+topic_id: 15543
 num_posts: 14
 date_first: 2004-12-01
 date_last: 2004-12-07
-tags: []
+num_views: 4326
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (0) [2004-12-01 08:26:58](https://www.astralpulse.com/forums/index.php?msg=135546), [The Night Mist](https://www.astralpulse.com/forums/profile/?u=7462) Is anyone from Romania? I am ^_^ ##

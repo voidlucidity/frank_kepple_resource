@@ -1,12 +1,13 @@
 ---
 topic_title: "first conscious fully obe"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/first-conscious-fully-obe
-num_views: 2288
+topic_id: 3324
 num_posts: 5
 date_first: 2003-02-02
 date_last: 2003-02-04
-tags: []
+num_views: 2288
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-02-02 21:01:43](https://www.astralpulse.com/forums/index.php?msg=119050), [weagle](https://www.astralpulse.com/forums/profile/?u=538) Canada ##

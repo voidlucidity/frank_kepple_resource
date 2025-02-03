@@ -1,12 +1,13 @@
 ---
 topic_title: "Self-interpretation or true separate entities?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/self-interpretation-or-true-separate-entities
-num_views: 3185
+topic_id: 4173
 num_posts: 10
 date_first: 2003-04-14
 date_last: 2003-04-20
-tags: []
+num_views: 3185
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2003-04-14 08:51:07](https://www.astralpulse.com/forums/index.php?msg=119883), [Aerotus](https://www.astralpulse.com/forums/profile/?u=1689) United Kingdom ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Just a bit of a lurker."
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/just-a-bit-of-a-lurker
-num_views: 3206
+topic_id: 17876
 num_posts: 6
 date_first: 2005-03-09
 date_last: 2005-03-10
-tags: []
+num_views: 3206
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-03-09 05:09:15](https://www.astralpulse.com/forums/index.php?msg=154742), [-lines-](https://www.astralpulse.com/forums/profile/?u=3900) Canada ##

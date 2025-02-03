@@ -1,12 +1,13 @@
 ---
 topic_title: "Voluntary Pressure in head"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/voluntary-pressure-in-head
-num_views: 4930
+topic_id: 1864
 num_posts: 6
 date_first: 2002-09-10
 date_last: 2002-09-12
-tags: []
+num_views: 4930
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-09-10 09:59:34](https://www.astralpulse.com/forums/index.php?msg=117599), [overworked](https://www.astralpulse.com/forums/profile/?u=1103) USA ##

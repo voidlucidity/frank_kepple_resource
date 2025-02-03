@@ -1,12 +1,13 @@
 ---
 topic_title: "Does APing leave people really tired?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/does-aping-leave-people-really-tired
-num_views: 3420
+topic_id: 18540
 num_posts: 10
 date_first: 2005-04-14
 date_last: 2005-04-15
-tags: []
+num_views: 3420
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2005-04-14 10:48:04](https://www.astralpulse.com/forums/index.php?msg=160245), [izalco](https://www.astralpulse.com/forums/profile/?u=8826)  ##

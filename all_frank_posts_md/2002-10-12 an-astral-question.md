@@ -1,12 +1,13 @@
 ---
 topic_title: "An Astral question...."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/an-astral-question
-num_views: 9105
+topic_id: 2228
 num_posts: 14
 date_first: 2002-10-12
 date_last: 2002-10-14
-tags: []
+num_views: 9105
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (13) [2002-10-12 15:32:43](https://www.astralpulse.com/forums/index.php?msg=117962), [Tracy](https://www.astralpulse.com/forums/profile/?u=1055) USA ##

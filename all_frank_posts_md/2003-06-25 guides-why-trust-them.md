@@ -1,12 +1,13 @@
 ---
 topic_title: "Guides: Why trust them?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/guides-why-trust-them
-num_views: 2947
+topic_id: 5220
 num_posts: 9
 date_first: 2003-06-25
 date_last: 2003-06-27
-tags: []
+num_views: 2947
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2003-06-25 14:06:49](https://www.astralpulse.com/forums/index.php?msg=120896), [phi](https://www.astralpulse.com/forums/profile/?u=807) USA ##

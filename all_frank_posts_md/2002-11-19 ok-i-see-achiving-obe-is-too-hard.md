@@ -1,12 +1,13 @@
 ---
 topic_title: "ok i see Achiving obe is too hard..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/ok-i-see-achiving-obe-is-too-hard
-num_views: 4603
+topic_id: 2622
 num_posts: 15
 date_first: 2002-11-19
 date_last: 2002-11-21
-tags: []
+num_views: 4603
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (14) [2002-11-19 13:06:37](https://www.astralpulse.com/forums/index.php?msg=118353), [dani](https://www.astralpulse.com/forums/profile/?u=1405) Israel ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "How do i get on the planes through a lucid dream?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/how-do-i-get-on-the-planes-through-a-lucid-dream
-num_views: 2500
+topic_id: 1957
 num_posts: 4
 date_first: 2002-09-17
 date_last: 2002-09-21
-tags: []
+num_views: 2500
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-09-17 21:35:26](https://www.astralpulse.com/forums/index.php?msg=117691), [XTC user420](https://www.astralpulse.com/forums/profile/?u=887) USA ##

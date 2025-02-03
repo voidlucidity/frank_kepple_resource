@@ -1,12 +1,13 @@
 ---
 topic_title: "This may help..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/this-may-help
-num_views: 2294
+topic_id: 1550
 num_posts: 7
 date_first: 2002-08-01
 date_last: 2002-08-01
-tags: []
+num_views: 2294
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-08-01 05:07:18](https://www.astralpulse.com/forums/index.php?msg=117286), [cainam_nazier](https://www.astralpulse.com/forums/profile/?u=166) USA ##

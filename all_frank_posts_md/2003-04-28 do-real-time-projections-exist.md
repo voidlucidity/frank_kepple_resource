@@ -1,12 +1,13 @@
 ---
 topic_title: "Do real time projections exist ?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/do-real-time-projections-exist
-num_views: 2664
+topic_id: 4334
 num_posts: 10
 date_first: 2003-04-28
 date_last: 2004-07-23
-tags: []
+num_views: 2664
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2003-04-28 06:20:43](https://www.astralpulse.com/forums/index.php?msg=120041), [clandestino](https://www.astralpulse.com/forums/profile/?u=691) Australia ##

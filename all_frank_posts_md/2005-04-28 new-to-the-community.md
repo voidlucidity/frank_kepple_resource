@@ -1,12 +1,13 @@
 ---
 topic_title: "New to the Community"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/new-to-the-community
-num_views: 1683
+topic_id: 18763
 num_posts: 5
 date_first: 2005-04-28
 date_last: 2005-05-02
-tags: []
+num_views: 1683
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-04-28 01:20:43](https://www.astralpulse.com/forums/index.php?msg=162099), [Joehadenuf-MOH-](https://www.astralpulse.com/forums/profile/?u=8954) Whittier California ##

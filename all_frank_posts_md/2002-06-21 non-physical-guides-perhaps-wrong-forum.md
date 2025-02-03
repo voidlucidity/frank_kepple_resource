@@ -1,12 +1,13 @@
 ---
 topic_title: "non-physical guides (perhaps wrong forum)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/non-physical-guides-perhaps-wrong-forum
-num_views: 3299
+topic_id: 1196
 num_posts: 6
 date_first: 2002-06-21
 date_last: 2002-06-23
-tags: []
+num_views: 3299
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-06-21 14:11:58](https://www.astralpulse.com/forums/index.php?msg=116934), [Patty](https://www.astralpulse.com/forums/profile/?u=673) USA ##

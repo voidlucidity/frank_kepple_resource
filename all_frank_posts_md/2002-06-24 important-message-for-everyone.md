@@ -1,12 +1,13 @@
 ---
 topic_title: "IMPORTANT MESSAGE FOR EVERYONE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/important-message-for-everyone
-num_views: 6365
+topic_id: 1222
 num_posts: 14
 date_first: 2002-06-24
 date_last: 2002-07-01
-tags: []
+num_views: 6365
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (13) [2002-06-24 15:50:45](https://www.astralpulse.com/forums/index.php?msg=116960), alpha  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Does God/Jesus Exist?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-world-cultures-traditions-and-religions!/does-godjesus-exist
-num_views: 21679
+topic_id: 8247
 num_posts: 84
 date_first: 2003-10-19
 date_last: 2005-04-06
-tags: []
+num_views: 21679
 summary: ""
+tags: []
 ---
 
 ## \#0/83 (41) [2003-10-19 05:00:54](https://www.astralpulse.com/forums/index.php?msg=123564), [lau_lauz](https://www.astralpulse.com/forums/profile/?u=3847) United Kingdom ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "ASTRAL WAR..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/astral-war
-num_views: 3807
+topic_id: 4804
 num_posts: 8
 date_first: 2003-06-02
 date_last: 2003-06-06
-tags: []
+num_views: 3807
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2003-06-02 02:17:53](https://www.astralpulse.com/forums/index.php?msg=120496), [lucid_dreamer](https://www.astralpulse.com/forums/profile/?u=2433) USA ##

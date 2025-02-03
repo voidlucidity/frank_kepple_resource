@@ -1,12 +1,13 @@
 ---
 topic_title: "A woman in Focus 23"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/a-woman-in-focus-23
-num_views: 7221
+topic_id: 3570
 num_posts: 16
 date_first: 2003-02-22
 date_last: 2003-02-25
-tags: []
+num_views: 7221
 summary: ""
+tags: []
 ---
 
 ## \#0/15 (15) [2003-02-22 19:29:02](https://www.astralpulse.com/forums/index.php?msg=119291), [Ginny](https://www.astralpulse.com/forums/profile/?u=1404) USA ##

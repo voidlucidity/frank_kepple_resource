@@ -1,12 +1,13 @@
 ---
 topic_title: "Newbie says \"Hello\""
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/newbie-says-hello
-num_views: 2686
+topic_id: 4715
 num_posts: 11
 date_first: 2003-05-27
 date_last: 2003-06-03
-tags: []
+num_views: 2686
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (10) [2003-05-27 11:33:55](https://www.astralpulse.com/forums/index.php?msg=120411), [SpencerSteel](https://www.astralpulse.com/forums/profile/?u=2403) United Kingdom ##

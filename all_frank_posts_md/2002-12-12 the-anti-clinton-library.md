@@ -1,12 +1,13 @@
 ---
 topic_title: "The Anti-Clinton Library"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/the-anti-clinton-library
-num_views: 4300
+topic_id: 2855
 num_posts: 13
 date_first: 2002-12-12
 date_last: 2002-12-17
-tags: []
+num_views: 4300
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2002-12-12 14:10:45](https://www.astralpulse.com/forums/index.php?msg=118585), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

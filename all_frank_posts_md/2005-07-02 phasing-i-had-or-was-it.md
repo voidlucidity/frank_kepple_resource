@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing I had or was it"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/phasing-i-had-or-was-it
-num_views: 1690
+topic_id: 19652
 num_posts: 4
 date_first: 2005-07-02
 date_last: 2005-07-03
-tags: []
+num_views: 1690
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-07-02 17:25:03](https://www.astralpulse.com/forums/index.php?msg=168835), [leerose_uk](https://www.astralpulse.com/forums/profile/?u=9252)  ##

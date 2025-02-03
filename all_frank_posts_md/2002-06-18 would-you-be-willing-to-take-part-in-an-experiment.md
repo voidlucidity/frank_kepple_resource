@@ -1,12 +1,13 @@
 ---
 topic_title: "Would you be willing to take part in an experiment"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/would-you-be-willing-to-take-part-in-an-experiment
-num_views: 1958
+topic_id: 1170
 num_posts: 5
 date_first: 2002-06-18
 date_last: 2002-06-19
-tags: []
+num_views: 1958
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2002-06-18 16:39:14](https://www.astralpulse.com/forums/index.php?msg=116908), [rev_](https://www.astralpulse.com/forums/profile/?u=710) United Kingdom ##

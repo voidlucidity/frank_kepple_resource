@@ -1,12 +1,13 @@
 ---
 topic_title: "Afterlife knowledge guidebook by Bruce Moen"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/afterlife-knowledge-guidebook-by-bruce-moen
-num_views: 3528
+topic_id: 19286
 num_posts: 6
 date_first: 2005-06-09
 date_last: 2005-06-10
-tags: []
+num_views: 3528
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-06-09 18:03:40](https://www.astralpulse.com/forums/index.php?msg=166058), [Jeff Caldwell](https://www.astralpulse.com/forums/profile/?u=9073)  ##

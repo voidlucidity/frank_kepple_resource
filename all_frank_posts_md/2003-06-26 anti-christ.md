@@ -1,12 +1,13 @@
 ---
 topic_title: "anti Christ"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/anti-christ
-num_views: 9098
+topic_id: 5236
 num_posts: 36
 date_first: 2003-06-26
 date_last: 2003-07-14
-tags: []
+num_views: 9098
 summary: ""
+tags: []
 ---
 
 ## \#0/35 (35) [2003-06-26 09:39:00](https://www.astralpulse.com/forums/index.php?msg=120911), [Tyler](https://www.astralpulse.com/forums/profile/?u=2226) United Kingdom ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "The true costs of war"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/the-true-costs-of-war
-num_views: 21849
+topic_id: 3852
 num_posts: 81
 date_first: 2003-03-18
 date_last: 2003-04-03
-tags: []
+num_views: 21849
 summary: ""
+tags: []
 ---
 
 ## \#0/80 (70) [2003-03-18 06:07:51](https://www.astralpulse.com/forums/index.php?msg=119568), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

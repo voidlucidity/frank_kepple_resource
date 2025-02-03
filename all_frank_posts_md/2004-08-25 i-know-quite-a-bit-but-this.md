@@ -1,12 +1,13 @@
 ---
 topic_title: "I know quite a bit but this\"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/i-know-quite-a-bit-but-this
-num_views: 3503
+topic_id: 14101
 num_posts: 13
 date_first: 2004-08-25
 date_last: 2004-08-26
-tags: []
+num_views: 3503
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2004-08-25 16:27:32](https://www.astralpulse.com/forums/index.php?msg=128981), [PeacePoppet](https://www.astralpulse.com/forums/profile/?u=6575) United Kingdom ##

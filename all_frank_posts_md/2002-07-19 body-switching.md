@@ -1,12 +1,13 @@
 ---
 topic_title: "Body Switching???"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/body-switching
-num_views: 5853
+topic_id: 1415
 num_posts: 18
 date_first: 2002-07-19
 date_last: 2002-07-25
-tags: []
+num_views: 5853
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (17) [2002-07-19 10:39:33](https://www.astralpulse.com/forums/index.php?msg=117152), [Pearlybear](https://www.astralpulse.com/forums/profile/?u=832) USA ##

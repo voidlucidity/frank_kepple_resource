@@ -1,12 +1,13 @@
 ---
 topic_title: "Universism"
 topic_url: https://www.astralpulse.com/forums/welcome-to-world-cultures-traditions-and-religions!/universism
-num_views: 5968
+topic_id: 16623
 num_posts: 22
 date_first: 2005-01-19
 date_last: 2005-02-14
-tags: []
+num_views: 5968
 summary: ""
+tags: []
 ---
 
 ## \#0/21 (0) [2005-01-19 22:12:30](https://www.astralpulse.com/forums/index.php?msg=143836), [no_leaf_clover](https://www.astralpulse.com/forums/profile/?u=1764) Virginia, USA ##

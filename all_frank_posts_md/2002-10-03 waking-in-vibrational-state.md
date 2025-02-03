@@ -1,12 +1,13 @@
 ---
 topic_title: "waking in vibrational state"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/waking-in-vibrational-state
-num_views: 4039
+topic_id: 2125
 num_posts: 12
 date_first: 2002-10-03
 date_last: 2002-10-05
-tags: []
+num_views: 4039
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2002-10-03 12:39:41](https://www.astralpulse.com/forums/index.php?msg=117859), [Blossom](https://www.astralpulse.com/forums/profile/?u=1146) Missouri, USA ##

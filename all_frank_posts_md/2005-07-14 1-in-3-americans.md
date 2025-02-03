@@ -1,12 +1,13 @@
 ---
 topic_title: "1 in 3 Americans  "
 topic_url: https://www.astralpulse.com/forums/welcome-to-news-and-media!/1-in-3-americans
-num_views: 6967
+topic_id: 19828
 num_posts: 15
 date_first: 2005-07-14
 date_last: 2005-07-17
-tags: []
+num_views: 6967
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (0) [2005-07-14 15:32:40](https://www.astralpulse.com/forums/index.php?msg=170198), runlola  ##

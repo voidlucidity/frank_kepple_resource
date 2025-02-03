@@ -1,12 +1,13 @@
 ---
 topic_title: "British Slang - used by teens"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/british-slang-used-by-teens
-num_views: 7419
+topic_id: 5137
 num_posts: 21
 date_first: 2003-06-20
 date_last: 2003-06-21
-tags: []
+num_views: 7419
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (20) [2003-06-20 08:14:35](https://www.astralpulse.com/forums/index.php?msg=120819), [timeless](https://www.astralpulse.com/forums/profile/?u=1601) Canada ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Hola from India"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/hola-from-india
-num_views: 2536
+topic_id: 19263
 num_posts: 6
 date_first: 2005-06-08
 date_last: 2005-06-19
-tags: []
+num_views: 2536
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-06-08 13:15:28](https://www.astralpulse.com/forums/index.php?msg=165874), [Moon666Child](https://www.astralpulse.com/forums/profile/?u=9207) Kochi, India ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Visit to another reality?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/visit-to-another-reality
-num_views: 3645
+topic_id: 4175
 num_posts: 13
 date_first: 2003-04-14
 date_last: 2003-04-29
-tags: []
+num_views: 3645
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2003-04-14 12:56:58](https://www.astralpulse.com/forums/index.php?msg=119885), Chris  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Learning Astral Phasing & Focus Levels"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/learning-astral-phasing-focus-levels
-num_views: 12073
+topic_id: 4072
 num_posts: 29
 date_first: 2003-04-05
 date_last: 2003-07-25
-tags: []
+num_views: 12073
 summary: ""
+tags: []
 ---
 
 ## \#0/28 (28) [2003-04-05 07:43:17](https://www.astralpulse.com/forums/index.php?msg=119784), [Nick](https://www.astralpulse.com/forums/profile/?u=2080) California ##

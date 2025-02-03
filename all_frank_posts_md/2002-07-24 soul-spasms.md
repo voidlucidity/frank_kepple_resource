@@ -1,12 +1,13 @@
 ---
 topic_title: "soul spasms?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-energy-body-and-the-chakras/soul-spasms
-num_views: 6815
+topic_id: 1462
 num_posts: 23
 date_first: 2002-07-24
 date_last: 2003-06-24
-tags: []
+num_views: 6815
 summary: ""
+tags: []
 ---
 
 ## \#0/22 (22) [2002-07-24 09:24:02](https://www.astralpulse.com/forums/index.php?msg=117199), [jilola](https://www.astralpulse.com/forums/profile/?u=755) Ireland ##

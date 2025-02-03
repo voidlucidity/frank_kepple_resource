@@ -1,12 +1,13 @@
 ---
 topic_title: "meeting strangers when o-o-body"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/meeting-strangers-when-o-o-body
-num_views: 4191
+topic_id: 4078
 num_posts: 12
 date_first: 2003-04-05
 date_last: 2003-04-23
-tags: []
+num_views: 4191
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2003-04-05 20:15:03](https://www.astralpulse.com/forums/index.php?msg=119790), [smilecollecter](https://www.astralpulse.com/forums/profile/?u=2001) USA ##

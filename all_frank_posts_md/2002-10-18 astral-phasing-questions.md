@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Phasing questions"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/astral-phasing-questions
-num_views: 13523
+topic_id: 2286
 num_posts: 20
 date_first: 2002-10-18
 date_last: 2002-10-30
-tags: []
+num_views: 13523
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (19) [2002-10-18 15:53:43](https://www.astralpulse.com/forums/index.php?msg=118020), [Tracy](https://www.astralpulse.com/forums/profile/?u=1055) USA ##

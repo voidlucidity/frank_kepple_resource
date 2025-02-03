@@ -1,12 +1,13 @@
 ---
 topic_title: "dangerous to astral project, obe, and or phase?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/dangerous-to-astral-project-obe-and-or-phase
-num_views: 17032
+topic_id: 19188
 num_posts: 62
 date_first: 2005-06-05
 date_last: 2005-06-13
-tags: []
+num_views: 17032
 summary: ""
+tags: []
 ---
 
 ## \#0/61 (0) [2005-06-05 01:19:36](https://www.astralpulse.com/forums/index.php?msg=165416), [Froglet](https://www.astralpulse.com/forums/profile/?u=5969) USA ##

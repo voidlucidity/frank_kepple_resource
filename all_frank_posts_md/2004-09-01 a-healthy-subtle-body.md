@@ -1,12 +1,13 @@
 ---
 topic_title: "a healthy subtle body?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/a-healthy-subtle-body
-num_views: 2053
+topic_id: 14240
 num_posts: 2
 date_first: 2004-09-01
 date_last: 2004-09-02
-tags: []
+num_views: 2053
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (1) [2004-09-01 15:17:04](https://www.astralpulse.com/forums/index.php?msg=129116), [endlessoneness](https://www.astralpulse.com/forums/profile/?u=6796) USA ##

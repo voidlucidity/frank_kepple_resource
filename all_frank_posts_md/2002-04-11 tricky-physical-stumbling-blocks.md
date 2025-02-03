@@ -1,12 +1,13 @@
 ---
 topic_title: "Tricky physical stumbling blocks"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/tricky-physical-stumbling-blocks
-num_views: 4722
+topic_id: 627
 num_posts: 9
 date_first: 2002-04-11
 date_last: 2002-04-21
-tags: []
+num_views: 4722
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2002-04-11 07:12:08](https://www.astralpulse.com/forums/index.php?msg=116379), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "What is the correct way to rotate a chakra?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-energy-body-and-the-chakras/what-is-the-correct-way-to-rotate-a-chakra
-num_views: 9796
+topic_id: 19805
 num_posts: 14
 date_first: 2005-07-13
 date_last: 2005-07-15
-tags: []
+num_views: 9796
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (0) [2005-07-13 02:57:07](https://www.astralpulse.com/forums/index.php?msg=170012), [heter](https://www.astralpulse.com/forums/profile/?u=6469) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Accessing Akashic library"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/accessing-akashic-library
-num_views: 3740
+topic_id: 13986
 num_posts: 7
 date_first: 2004-08-19
 date_last: 2004-08-25
-tags: []
+num_views: 3740
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2004-08-19 02:09:44](https://www.astralpulse.com/forums/index.php?msg=128868), [astral-boy](https://www.astralpulse.com/forums/profile/?u=5436) Sweden ##

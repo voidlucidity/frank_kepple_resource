@@ -1,12 +1,13 @@
 ---
 topic_title: "International Academy of \"conscientology\""
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/international-academy-of-conscientology
-num_views: 11789
+topic_id: 1992
 num_posts: 26
 date_first: 2002-09-22
 date_last: 2002-10-06
-tags: []
+num_views: 11789
 summary: ""
+tags: []
 ---
 
 ## \#0/25 (24) [2002-09-22 03:05:54](https://www.astralpulse.com/forums/index.php?msg=117726), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

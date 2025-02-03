@@ -1,12 +1,13 @@
 ---
 topic_title: "An Experiment"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/an-experiment
-num_views: 5249
+topic_id: 3762
 num_posts: 19
 date_first: 2003-03-10
 date_last: 2003-04-15
-tags: []
+num_views: 5249
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (18) [2003-03-10 13:05:45](https://www.astralpulse.com/forums/index.php?msg=119480), [KnacK](https://www.astralpulse.com/forums/profile/?u=1986) Germany ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "View point in dreams"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/view-point-in-dreams
-num_views: 4858
+topic_id: 2781
 num_posts: 18
 date_first: 2002-12-03
 date_last: 2002-12-10
-tags: []
+num_views: 4858
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (17) [2002-12-03 12:23:27](https://www.astralpulse.com/forums/index.php?msg=118511), [auraseer](https://www.astralpulse.com/forums/profile/?u=1245) United Kingdom ##

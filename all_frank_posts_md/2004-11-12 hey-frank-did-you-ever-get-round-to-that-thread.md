@@ -1,12 +1,13 @@
 ---
 topic_title: "Hey Frank, did you ever get round to that thread?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/hey-frank-did-you-ever-get-round-to-that-thread
-num_views: 1624
+topic_id: 15263
 num_posts: 2
 date_first: 2004-11-12
 date_last: 2004-11-12
-tags: []
+num_views: 1624
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2004-11-12 08:31:44](https://www.astralpulse.com/forums/index.php?msg=133431), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

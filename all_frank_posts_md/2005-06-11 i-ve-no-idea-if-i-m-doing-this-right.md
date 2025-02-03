@@ -1,12 +1,13 @@
 ---
 topic_title: "i've no idea if i'm doing this right."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/i-ve-no-idea-if-i-m-doing-this-right
-num_views: 1280
+topic_id: 19322
 num_posts: 3
 date_first: 2005-06-11
 date_last: 2005-06-11
-tags: []
+num_views: 1280
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-06-11 16:18:32](https://www.astralpulse.com/forums/index.php?msg=166220), [fireofphilosophy](https://www.astralpulse.com/forums/profile/?u=9201)  ##

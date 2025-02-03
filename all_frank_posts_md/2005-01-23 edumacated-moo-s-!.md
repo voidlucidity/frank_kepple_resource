@@ -1,12 +1,13 @@
 ---
 topic_title: "Edumacated Moo's !"
 topic_url: https://www.astralpulse.com/forums/forums-bugs-reports-and-questions/edumacated-moo-s-%21
-num_views: 5226
+topic_id: 16703
 num_posts: 12
 date_first: 2005-01-23
 date_last: 2005-02-03
-tags: []
+num_views: 5226
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (0) [2005-01-23 23:12:27](https://www.astralpulse.com/forums/index.php?msg=144525), Tayesin  ##

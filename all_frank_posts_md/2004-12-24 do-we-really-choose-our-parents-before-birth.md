@@ -1,12 +1,13 @@
 ---
 topic_title: "Do we really choose our parents before birth?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/do-we-really-choose-our-parents-before-birth
-num_views: 42505
+topic_id: 16018
 num_posts: 48
 date_first: 2004-12-24
 date_last: 2016-07-17
-tags: []
+num_views: 42505
 summary: ""
+tags: []
 ---
 
 ## \#0/47 (0) [2004-12-24 06:24:08](https://www.astralpulse.com/forums/index.php?msg=139481), [neutrino](https://www.astralpulse.com/forums/profile/?u=6124) United Kingdom ##

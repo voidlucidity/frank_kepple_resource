@@ -1,12 +1,13 @@
 ---
 topic_title: "Awakened Minds CD review"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/awakened-minds-cd-review
-num_views: 7692
+topic_id: 4859
 num_posts: 26
 date_first: 2003-06-05
 date_last: 2006-02-26
-tags: []
+num_views: 7692
 summary: ""
+tags: []
 ---
 
 ## \#0/25 (24) [2003-06-05 06:37:45](https://www.astralpulse.com/forums/index.php?msg=120551), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

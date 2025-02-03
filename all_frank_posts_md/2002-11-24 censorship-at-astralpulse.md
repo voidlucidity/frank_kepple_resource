@@ -1,12 +1,13 @@
 ---
 topic_title: "censorship at astralpulse"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/censorship-at-astralpulse
-num_views: 12957
+topic_id: 2681
 num_posts: 30
 date_first: 2002-11-24
 date_last: 2002-11-27
-tags: []
+num_views: 12957
 summary: ""
+tags: []
 ---
 
 ## \#0/29 (29) [2002-11-24 12:22:53](https://www.astralpulse.com/forums/index.php?msg=118411), n/a  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Ehm.. A question I'd like to have answered please"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/ehm-a-question-i-d-like-to-have-answered-please
-num_views: 6828
+topic_id: 16418
 num_posts: 24
 date_first: 2005-01-13
 date_last: 2005-01-14
-tags: []
+num_views: 6828
 summary: ""
+tags: []
 ---
 
 ## \#0/23 (0) [2005-01-13 06:40:55](https://www.astralpulse.com/forums/index.php?msg=142618), [XzUltima](https://www.astralpulse.com/forums/profile/?u=8004) Inbetween Heaven and Hell ##

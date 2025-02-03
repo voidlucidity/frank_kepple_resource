@@ -1,12 +1,13 @@
 ---
 topic_title: "Did I phase?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/did-i-phase
-num_views: 3949
+topic_id: 19512
 num_posts: 10
 date_first: 2005-06-22
 date_last: 2005-06-26
-tags: []
+num_views: 3949
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2005-06-22 15:41:35](https://www.astralpulse.com/forums/index.php?msg=167602), [Heather B.](https://www.astralpulse.com/forums/profile/?u=9289) Dallas, TX ##

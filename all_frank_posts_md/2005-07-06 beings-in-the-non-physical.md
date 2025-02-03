@@ -1,12 +1,13 @@
 ---
 topic_title: "beings in the non-physical"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/beings-in-the-non-physical
-num_views: 1691
+topic_id: 19709
 num_posts: 2
 date_first: 2005-07-06
 date_last: 2005-07-06
-tags: []
+num_views: 1691
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-07-06 22:38:40](https://www.astralpulse.com/forums/index.php?msg=169253), [Froglet](https://www.astralpulse.com/forums/profile/?u=5969) USA ##

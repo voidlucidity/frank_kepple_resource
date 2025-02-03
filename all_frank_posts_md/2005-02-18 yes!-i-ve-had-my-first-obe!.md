@@ -1,12 +1,13 @@
 ---
 topic_title: "YES! I've had my first OBE!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/yes%21-i-ve-had-my-first-obe%21
-num_views: 5668
+topic_id: 17397
 num_posts: 17
 date_first: 2005-02-18
 date_last: 2005-02-21
-tags: []
+num_views: 5668
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (0) [2005-02-18 05:16:17](https://www.astralpulse.com/forums/index.php?msg=150406), [Potatis](https://www.astralpulse.com/forums/profile/?u=5408) Australia ##

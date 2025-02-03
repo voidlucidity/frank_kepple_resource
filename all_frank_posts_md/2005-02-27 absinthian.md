@@ -1,12 +1,13 @@
 ---
 topic_title: "absinthian"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/absinthian
-num_views: 5195
+topic_id: 17640
 num_posts: 10
 date_first: 2005-02-27
 date_last: 2005-03-05
-tags: []
+num_views: 5195
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2005-02-27 07:15:02](https://www.astralpulse.com/forums/index.php?msg=152687), [absinthian](https://www.astralpulse.com/forums/profile/?u=8500) the netherlands ##

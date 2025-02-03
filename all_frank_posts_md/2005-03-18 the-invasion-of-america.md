@@ -1,12 +1,13 @@
 ---
 topic_title: "The Invasion of America"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/the-invasion-of-america
-num_views: 2701
+topic_id: 18046
 num_posts: 8
 date_first: 2005-03-18
 date_last: 2005-04-18
-tags: []
+num_views: 2701
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2005-03-18 01:38:07](https://www.astralpulse.com/forums/index.php?msg=156350), [Telos](https://www.astralpulse.com/forums/profile/?u=6496)  ##

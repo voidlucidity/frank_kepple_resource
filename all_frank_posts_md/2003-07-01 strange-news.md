@@ -1,12 +1,13 @@
 ---
 topic_title: "Strange News"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/strange-news
-num_views: 1310
+topic_id: 5346
 num_posts: 3
 date_first: 2003-07-01
 date_last: 2003-07-02
-tags: []
+num_views: 1310
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2003-07-01 09:49:33](https://www.astralpulse.com/forums/index.php?msg=121014), [Nick](https://www.astralpulse.com/forums/profile/?u=2080) California ##

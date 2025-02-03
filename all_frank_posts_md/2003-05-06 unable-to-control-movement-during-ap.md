@@ -1,12 +1,13 @@
 ---
 topic_title: "Unable to control movement during AP"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/unable-to-control-movement-during-ap
-num_views: 5279
+topic_id: 4465
 num_posts: 12
 date_first: 2003-05-06
 date_last: 2003-05-09
-tags: []
+num_views: 5279
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2003-05-06 07:38:11](https://www.astralpulse.com/forums/index.php?msg=120169), [Links Shadow](https://www.astralpulse.com/forums/profile/?u=2144) USA ##

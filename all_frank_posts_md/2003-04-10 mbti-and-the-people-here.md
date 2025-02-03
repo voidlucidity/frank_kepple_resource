@@ -1,12 +1,13 @@
 ---
 topic_title: "MBTI and the people here..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/mbti-and-the-people-here
-num_views: 5697
+topic_id: 4119
 num_posts: 20
 date_first: 2003-04-10
 date_last: 2003-04-16
-tags: []
+num_views: 5697
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (19) [2003-04-10 04:21:39](https://www.astralpulse.com/forums/index.php?msg=119831), [ame](https://www.astralpulse.com/forums/profile/?u=1671)  ##

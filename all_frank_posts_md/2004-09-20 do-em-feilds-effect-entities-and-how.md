@@ -1,12 +1,13 @@
 ---
 topic_title: "Do EM Feilds Effect Entities? And How?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/do-em-feilds-effect-entities-and-how
-num_views: 3016
+topic_id: 14496
 num_posts: 7
 date_first: 2004-09-20
 date_last: 2004-11-14
-tags: []
+num_views: 3016
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (4) [2004-09-20 04:26:05](https://www.astralpulse.com/forums/index.php?msg=129365), [Joe_Oh](https://www.astralpulse.com/forums/profile/?u=6947) USA ##

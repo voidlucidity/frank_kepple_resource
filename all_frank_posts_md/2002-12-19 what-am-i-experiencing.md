@@ -1,12 +1,13 @@
 ---
 topic_title: "What am I experiencing?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/what-am-i-experiencing
-num_views: 2362
+topic_id: 2914
 num_posts: 7
 date_first: 2002-12-19
 date_last: 2002-12-20
-tags: []
+num_views: 2362
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-12-19 06:04:41](https://www.astralpulse.com/forums/index.php?msg=118644), [Zebrima](https://www.astralpulse.com/forums/profile/?u=913) Sweden ##

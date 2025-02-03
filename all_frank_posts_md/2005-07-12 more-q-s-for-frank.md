@@ -1,12 +1,13 @@
 ---
 topic_title: "More Q's for Frank"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/more-q-s-for-frank
-num_views: 2356
+topic_id: 19792
 num_posts: 4
 date_first: 2005-07-12
 date_last: 2005-07-14
-tags: []
+num_views: 2356
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-07-12 06:08:34](https://www.astralpulse.com/forums/index.php?msg=169899), [halfphased](https://www.astralpulse.com/forums/profile/?u=2995) USA ##

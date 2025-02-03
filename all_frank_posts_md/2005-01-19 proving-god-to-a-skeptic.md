@@ -1,12 +1,13 @@
 ---
 topic_title: "Proving God to a Skeptic"
 topic_url: https://www.astralpulse.com/forums/welcome-to-world-cultures-traditions-and-religions!/proving-god-to-a-skeptic
-num_views: 10381
+topic_id: 16618
 num_posts: 41
 date_first: 2005-01-19
 date_last: 2005-03-28
-tags: []
+num_views: 10381
 summary: ""
+tags: []
 ---
 
 ## \#0/40 (0) [2005-01-19 17:38:49](https://www.astralpulse.com/forums/index.php?msg=143788), [Kane98969](https://www.astralpulse.com/forums/profile/?u=631) Canada ##

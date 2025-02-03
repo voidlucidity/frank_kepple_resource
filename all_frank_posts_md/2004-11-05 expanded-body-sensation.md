@@ -1,12 +1,13 @@
 ---
 topic_title: "Expanded-body sensation"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/expanded-body-sensation
-num_views: 1636
+topic_id: 15171
 num_posts: 2
 date_first: 2004-11-05
 date_last: 2004-11-06
-tags: []
+num_views: 1636
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2004-11-05 14:38:04](https://www.astralpulse.com/forums/index.php?msg=132559), [astralspinner](https://www.astralpulse.com/forums/profile/?u=888) United Kingdom ##

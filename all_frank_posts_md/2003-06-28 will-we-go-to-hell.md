@@ -1,12 +1,13 @@
 ---
 topic_title: "WILL WE GO TO HELL"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/will-we-go-to-hell
-num_views: 12412
+topic_id: 5278
 num_posts: 45
 date_first: 2003-06-28
 date_last: 2003-07-14
-tags: []
+num_views: 12412
 summary: ""
+tags: []
 ---
 
 ## \#0/44 (44) [2003-06-28 15:06:19](https://www.astralpulse.com/forums/index.php?msg=120952), [ronaldo](https://www.astralpulse.com/forums/profile/?u=2518) United Kingdom ##

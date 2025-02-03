@@ -1,12 +1,13 @@
 ---
 topic_title: "What if there where a lower dimesion than this one ?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/what-if-there-where-a-lower-dimesion-than-this-one
-num_views: 12568
+topic_id: 16503
 num_posts: 37
 date_first: 2005-01-15
 date_last: 2005-05-24
-tags: []
+num_views: 12568
 summary: ""
+tags: []
 ---
 
 ## \#0/36 (0) [2005-01-15 12:13:01](https://www.astralpulse.com/forums/index.php?msg=143073), [Joerii](https://www.astralpulse.com/forums/profile/?u=7759) Castricum, Netherlands ##

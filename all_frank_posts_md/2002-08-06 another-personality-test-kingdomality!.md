@@ -1,12 +1,13 @@
 ---
 topic_title: "Another personality test - Kingdomality!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/another-personality-test-kingdomality%21
-num_views: 5106
+topic_id: 1623
 num_posts: 12
 date_first: 2002-08-06
 date_last: 2002-08-10
-tags: []
+num_views: 5106
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2002-08-06 23:28:47](https://www.astralpulse.com/forums/index.php?msg=117358), [muzza](https://www.astralpulse.com/forums/profile/?u=19) Australia ##

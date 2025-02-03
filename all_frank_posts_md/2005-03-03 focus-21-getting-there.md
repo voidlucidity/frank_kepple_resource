@@ -1,12 +1,13 @@
 ---
 topic_title: "Focus 21 - getting there?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/focus-21-getting-there
-num_views: 4347
+topic_id: 17768
 num_posts: 9
 date_first: 2005-03-03
 date_last: 2005-03-06
-tags: []
+num_views: 4347
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (0) [2005-03-03 22:20:42](https://www.astralpulse.com/forums/index.php?msg=153706), [Andali27](https://www.astralpulse.com/forums/profile/?u=6413) Australia ##

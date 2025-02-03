@@ -1,12 +1,13 @@
 ---
 topic_title: "Just arrived"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/just-arrived
-num_views: 1452
+topic_id: 19383
 num_posts: 4
 date_first: 2005-06-15
 date_last: 2005-06-18
-tags: []
+num_views: 1452
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-06-15 01:50:27](https://www.astralpulse.com/forums/index.php?msg=166678), [magnolia](https://www.astralpulse.com/forums/profile/?u=9248) Louisiana ##

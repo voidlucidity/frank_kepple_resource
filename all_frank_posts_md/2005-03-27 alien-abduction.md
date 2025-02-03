@@ -1,12 +1,13 @@
 ---
 topic_title: "Alien Abduction?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/alien-abduction
-num_views: 6460
+topic_id: 18217
 num_posts: 20
 date_first: 2005-03-27
 date_last: 2005-03-31
-tags: []
+num_views: 6460
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (0) [2005-03-27 22:08:25](https://www.astralpulse.com/forums/index.php?msg=157912), [BillionNamesofGod](https://www.astralpulse.com/forums/profile/?u=2745) United Kingdom ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Negs vs Mental Decay"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/negs-vs-mental-decay
-num_views: 1553
+topic_id: 16881
 num_posts: 5
 date_first: 2005-01-30
 date_last: 2005-01-31
-tags: []
+num_views: 1553
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-01-30 17:34:22](https://www.astralpulse.com/forums/index.php?msg=145939), [vashts](https://www.astralpulse.com/forums/profile/?u=4001) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Experience: Going into the light"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/experience-going-into-the-light
-num_views: 5254
+topic_id: 19158
 num_posts: 15
 date_first: 2005-06-03
 date_last: 2005-06-10
-tags: []
+num_views: 5254
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (0) [2005-06-03 09:54:28](https://www.astralpulse.com/forums/index.php?msg=165253), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

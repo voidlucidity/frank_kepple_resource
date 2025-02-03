@@ -1,12 +1,13 @@
 ---
 topic_title: "AP to top secret places"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/ap-to-top-secret-places
-num_views: 5574
+topic_id: 17166
 num_posts: 18
 date_first: 2005-02-10
 date_last: 2005-02-13
-tags: []
+num_views: 5574
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (0) [2005-02-10 03:11:01](https://www.astralpulse.com/forums/index.php?msg=148170), [Andali27](https://www.astralpulse.com/forums/profile/?u=6413) Australia ##

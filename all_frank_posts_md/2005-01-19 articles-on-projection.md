@@ -1,12 +1,13 @@
 ---
 topic_title: "Articles on projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-permanent-astral-topics!/articles-on-projection
-num_views: 40860
+topic_id: 16603
 num_posts: 28
 date_first: 2005-01-19
 date_last: 2018-10-02
-tags: []
+num_views: 40860
 summary: ""
+tags: []
 ---
 
 ## \#0/27 (0) [2005-01-19 10:03:09](https://www.astralpulse.com/forums/index.php?msg=143704), [T.L.](https://www.astralpulse.com/forums/profile/?u=5878) USA ##

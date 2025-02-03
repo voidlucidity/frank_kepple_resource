@@ -1,12 +1,13 @@
 ---
 topic_title: "Need comments"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/need-comments
-num_views: 2656
+topic_id: 1095
 num_posts: 8
 date_first: 2002-06-09
 date_last: 2002-06-11
-tags: []
+num_views: 2656
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-06-09 11:06:07](https://www.astralpulse.com/forums/index.php?msg=116833), [Vallk](https://www.astralpulse.com/forums/profile/?u=418) Canada ##

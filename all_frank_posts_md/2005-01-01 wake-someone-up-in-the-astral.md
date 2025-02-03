@@ -1,12 +1,13 @@
 ---
 topic_title: "Wake someone up in the astral?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/wake-someone-up-in-the-astral
-num_views: 8166
+topic_id: 16170
 num_posts: 19
 date_first: 2005-01-01
 date_last: 2005-11-19
-tags: []
+num_views: 8166
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (0) [2005-01-01 22:22:13](https://www.astralpulse.com/forums/index.php?msg=140655), [Dardalion](https://www.astralpulse.com/forums/profile/?u=7401)  ##

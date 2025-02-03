@@ -1,12 +1,13 @@
 ---
 topic_title: "Was this OBE?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/was-this-obe
-num_views: 3874
+topic_id: 1667
 num_posts: 10
 date_first: 2002-08-14
 date_last: 2002-08-15
-tags: []
+num_views: 3874
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2002-08-14 12:25:48](https://www.astralpulse.com/forums/index.php?msg=117402), [dwalker](https://www.astralpulse.com/forums/profile/?u=1015) USA ##

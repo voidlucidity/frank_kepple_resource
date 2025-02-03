@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE and dreaming"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/obe-and-dreaming
-num_views: 2402
+topic_id: 1454
 num_posts: 4
 date_first: 2002-07-23
 date_last: 2002-07-24
-tags: []
+num_views: 2402
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-07-23 14:08:44](https://www.astralpulse.com/forums/index.php?msg=117191), [ralphm](https://www.astralpulse.com/forums/profile/?u=488) USA ##

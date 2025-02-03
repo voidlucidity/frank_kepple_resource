@@ -1,12 +1,13 @@
 ---
 topic_title: "To those who have OBEs!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/to-those-who-have-obes%21
-num_views: 4575
+topic_id: 2424
 num_posts: 15
 date_first: 2002-10-31
 date_last: 2002-11-09
-tags: []
+num_views: 4575
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (14) [2002-10-31 20:40:44](https://www.astralpulse.com/forums/index.php?msg=118158), [ninthplanet](https://www.astralpulse.com/forums/profile/?u=605) USA ##

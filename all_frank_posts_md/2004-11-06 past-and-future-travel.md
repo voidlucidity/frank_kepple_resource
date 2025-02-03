@@ -1,12 +1,13 @@
 ---
 topic_title: "Past and future travel"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/past-and-future-travel
-num_views: 2312
+topic_id: 15183
 num_posts: 5
 date_first: 2004-11-06
 date_last: 2004-11-06
-tags: []
+num_views: 2312
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2004-11-06 06:54:05](https://www.astralpulse.com/forums/index.php?msg=132642), [Cayla](https://www.astralpulse.com/forums/profile/?u=7259) South Africa ##

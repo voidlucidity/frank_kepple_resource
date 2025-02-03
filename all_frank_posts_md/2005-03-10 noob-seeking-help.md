@@ -1,12 +1,13 @@
 ---
 topic_title: "Noob seeking help"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/noob-seeking-help
-num_views: 1537
+topic_id: 17897
 num_posts: 2
 date_first: 2005-03-10
 date_last: 2005-03-10
-tags: []
+num_views: 1537
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-03-10 01:18:10](https://www.astralpulse.com/forums/index.php?msg=154962), [JRuff08](https://www.astralpulse.com/forums/profile/?u=8597) Kentucky ##

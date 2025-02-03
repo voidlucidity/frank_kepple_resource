@@ -1,12 +1,13 @@
 ---
 topic_title: "Our Ultimate Reality Book and Forums"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/our-ultimate-reality-book-and-forums
-num_views: 65932
+topic_id: 18386
 num_posts: 41
 date_first: 2005-04-07
 date_last: 2010-04-11
-tags: []
+num_views: 65932
 summary: ""
+tags: []
 ---
 
 ## \#0/40 (0) [2005-04-07 11:45:09](https://www.astralpulse.com/forums/index.php?msg=159301), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Disturbing  screams of pain in my head"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/disturbing-screams-of-pain-in-my-head
-num_views: 5459
+topic_id: 1265
 num_posts: 8
 date_first: 2002-06-29
 date_last: 2003-10-25
-tags: []
+num_views: 5459
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-06-29 19:01:44](https://www.astralpulse.com/forums/index.php?msg=117002), [rodentmouse](https://www.astralpulse.com/forums/profile/?u=554) United Kingdom ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Weightlifting"
 topic_url: https://www.astralpulse.com/forums/welcome-to-energy-body-and-the-chakras/weightlifting
-num_views: 2367
+topic_id: 16679
 num_posts: 8
 date_first: 2005-01-22
 date_last: 2005-01-23
-tags: []
+num_views: 2367
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2005-01-22 21:09:52](https://www.astralpulse.com/forums/index.php?msg=144379), [J.K.](https://www.astralpulse.com/forums/profile/?u=7742) Southern MS - USA ##

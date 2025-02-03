@@ -1,12 +1,13 @@
 ---
 topic_title: "trance state help"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/trance-state-help
-num_views: 3387
+topic_id: 1003
 num_posts: 12
 date_first: 2002-05-27
 date_last: 2002-11-18
-tags: []
+num_views: 3387
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2002-05-27 09:03:17](https://www.astralpulse.com/forums/index.php?msg=116741), [rodentmouse](https://www.astralpulse.com/forums/profile/?u=554) United Kingdom ##

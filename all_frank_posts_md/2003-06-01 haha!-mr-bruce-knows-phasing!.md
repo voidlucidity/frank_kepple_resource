@@ -1,12 +1,13 @@
 ---
 topic_title: "Haha! Mr. Bruce knows phasing!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/haha%21-mr-bruce-knows-phasing%21
-num_views: 2387
+topic_id: 4796
 num_posts: 4
 date_first: 2003-06-01
 date_last: 2003-06-02
-tags: []
+num_views: 2387
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2003-06-01 15:55:37](https://www.astralpulse.com/forums/index.php?msg=120488), Noxerus  ##

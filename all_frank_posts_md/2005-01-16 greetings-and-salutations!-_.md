@@ -1,12 +1,13 @@
 ---
 topic_title: "Greetings and Salutations! ^_^"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/greetings-and-salutations%21-_
-num_views: 1635
+topic_id: 16533
 num_posts: 4
 date_first: 2005-01-16
 date_last: 2005-01-24
-tags: []
+num_views: 1635
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-01-16 13:35:04](https://www.astralpulse.com/forums/index.php?msg=143283), [Koto_Distari](https://www.astralpulse.com/forums/profile/?u=8019) USA ##

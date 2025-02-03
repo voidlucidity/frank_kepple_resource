@@ -1,12 +1,13 @@
 ---
 topic_title: "Frank..where should I go?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/frank-where-should-i-go
-num_views: 1576
+topic_id: 2216
 num_posts: 3
 date_first: 2002-10-11
 date_last: 2002-10-15
-tags: []
+num_views: 1576
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2002-10-11 18:55:08](https://www.astralpulse.com/forums/index.php?msg=117950), [Astralpulse4229829](https://www.astralpulse.com/forums/profile/?u=441) Saudi Arabia ##

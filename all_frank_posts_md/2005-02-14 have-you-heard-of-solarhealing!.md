@@ -1,12 +1,13 @@
 ---
 topic_title: "Have you heard of Solarhealing!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-healing-discussions!/have-you-heard-of-solarhealing%21
-num_views: 8797
+topic_id: 17284
 num_posts: 23
 date_first: 2005-02-14
 date_last: 2005-02-21
-tags: []
+num_views: 8797
 summary: ""
+tags: []
 ---
 
 ## \#0/22 (0) [2005-02-14 15:02:20](https://www.astralpulse.com/forums/index.php?msg=149340), [patelvipulk](https://www.astralpulse.com/forums/profile/?u=8358)  ##

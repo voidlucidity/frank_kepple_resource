@@ -1,12 +1,13 @@
 ---
 topic_title: "please recommend some essential oil blends that aid AP"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/please-recommend-some-essential-oil-blends-that-aid-ap
-num_views: 2006
+topic_id: 16293
 num_posts: 6
 date_first: 2005-01-07
 date_last: 2005-01-11
-tags: []
+num_views: 2006
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-01-07 15:07:28](https://www.astralpulse.com/forums/index.php?msg=141632), [jason](https://www.astralpulse.com/forums/profile/?u=1099) Canada ##

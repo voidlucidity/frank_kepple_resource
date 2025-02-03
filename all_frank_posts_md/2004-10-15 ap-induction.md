@@ -1,12 +1,13 @@
 ---
 topic_title: "AP induction"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/ap-induction
-num_views: 2263
+topic_id: 14811
 num_posts: 5
 date_first: 2004-10-15
 date_last: 2004-10-16
-tags: []
+num_views: 2263
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2004-10-15 21:12:36](https://www.astralpulse.com/forums/index.php?msg=130237), [Simulacrum](https://www.astralpulse.com/forums/profile/?u=6789) Australia ##

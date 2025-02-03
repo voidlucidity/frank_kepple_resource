@@ -1,12 +1,13 @@
 ---
 topic_title: "Greetings from 'freelight'"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/greetings-from-freelight
-num_views: 2071
+topic_id: 17094
 num_posts: 5
 date_first: 2005-02-07
 date_last: 2005-02-14
-tags: []
+num_views: 2071
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-02-07 01:04:04](https://www.astralpulse.com/forums/index.php?msg=147619), [freelight](https://www.astralpulse.com/forums/profile/?u=8278) Portland, OR. USA ##

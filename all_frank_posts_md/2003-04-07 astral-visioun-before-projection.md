@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Visioun before projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/astral-visioun-before-projection
-num_views: 2229
+topic_id: 4089
 num_posts: 7
 date_first: 2003-04-07
 date_last: 2003-04-10
-tags: []
+num_views: 2229
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2003-04-07 16:39:47](https://www.astralpulse.com/forums/index.php?msg=119801), [biggymatt](https://www.astralpulse.com/forums/profile/?u=2100) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Strange Projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/strange-projection
-num_views: 1604
+topic_id: 16962
 num_posts: 5
 date_first: 2005-02-02
 date_last: 2005-02-02
-tags: []
+num_views: 1604
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-02-02 08:15:33](https://www.astralpulse.com/forums/index.php?msg=146485), [MisterJingo](https://www.astralpulse.com/forums/profile/?u=2548) United Kingdom ##

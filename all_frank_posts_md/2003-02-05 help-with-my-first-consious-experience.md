@@ -1,12 +1,13 @@
 ---
 topic_title: "Help with my first consious experience"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/help-with-my-first-consious-experience
-num_views: 2798
+topic_id: 3363
 num_posts: 7
 date_first: 2003-02-05
 date_last: 2003-02-27
-tags: []
+num_views: 2798
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2003-02-05 03:23:00](https://www.astralpulse.com/forums/index.php?msg=119087), [watsonla](https://www.astralpulse.com/forums/profile/?u=1368) United Kingdom ##

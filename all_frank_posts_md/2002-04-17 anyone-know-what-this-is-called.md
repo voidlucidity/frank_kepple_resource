@@ -1,12 +1,13 @@
 ---
 topic_title: "Anyone know what this is called?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/anyone-know-what-this-is-called
-num_views: 7097
+topic_id: 697
 num_posts: 19
 date_first: 2002-04-17
 date_last: 2011-04-06
-tags: []
+num_views: 7097
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (14) [2002-04-17 02:54:19](https://www.astralpulse.com/forums/index.php?msg=116448), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

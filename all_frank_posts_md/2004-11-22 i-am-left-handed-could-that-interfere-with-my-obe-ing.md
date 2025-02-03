@@ -1,12 +1,13 @@
 ---
 topic_title: "I am left handed, could that interfere with my OBE'ing?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/i-am-left-handed-could-that-interfere-with-my-obe-ing
-num_views: 1547
+topic_id: 15394
 num_posts: 4
 date_first: 2004-11-22
 date_last: 2004-11-22
-tags: []
+num_views: 1547
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2004-11-22 10:55:33](https://www.astralpulse.com/forums/index.php?msg=134424), [Donal](https://www.astralpulse.com/forums/profile/?u=7249) Ireland ##

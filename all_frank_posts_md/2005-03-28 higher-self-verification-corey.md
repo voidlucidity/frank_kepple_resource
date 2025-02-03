@@ -1,12 +1,13 @@
 ---
 topic_title: "Higher self verification (Corey)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/higher-self-verification-corey
-num_views: 4364
+topic_id: 18223
 num_posts: 11
 date_first: 2005-03-28
 date_last: 2005-04-02
-tags: []
+num_views: 4364
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-03-28 05:38:47](https://www.astralpulse.com/forums/index.php?msg=157952), [Andali27](https://www.astralpulse.com/forums/profile/?u=6413) Australia ##

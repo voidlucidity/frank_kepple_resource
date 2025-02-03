@@ -1,12 +1,13 @@
 ---
 topic_title: "Calling All Fears"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/calling-all-fears
-num_views: 7373
+topic_id: 1696
 num_posts: 17
 date_first: 2002-08-20
 date_last: 2002-08-26
-tags: []
+num_views: 7373
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (16) [2002-08-20 16:30:03](https://www.astralpulse.com/forums/index.php?msg=117431), [BriMercer](https://www.astralpulse.com/forums/profile/?u=34) Seattle, WA  www.kaladrious.com ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "hi.  i'm new here, and to ap."
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/hi-i-m-new-here-and-to-ap
-num_views: 1484
+topic_id: 19246
 num_posts: 4
 date_first: 2005-06-07
 date_last: 2005-06-07
-tags: []
+num_views: 1484
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-06-07 14:07:44](https://www.astralpulse.com/forums/index.php?msg=165740), [fireofphilosophy](https://www.astralpulse.com/forums/profile/?u=9201)  ##

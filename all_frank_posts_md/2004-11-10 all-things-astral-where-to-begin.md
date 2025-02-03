@@ -1,12 +1,13 @@
 ---
 topic_title: "All things astral - where to begin."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/all-things-astral-where-to-begin
-num_views: 4215
+topic_id: 15237
 num_posts: 9
 date_first: 2004-11-10
 date_last: 2004-11-11
-tags: []
+num_views: 4215
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (0) [2004-11-10 15:17:12](https://www.astralpulse.com/forums/index.php?msg=133164), [laiana](https://www.astralpulse.com/forums/profile/?u=7314) Perth, Australia ##

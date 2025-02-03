@@ -1,12 +1,13 @@
 ---
 topic_title: "lucid dreaming while awake"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/lucid-dreaming-while-awake
-num_views: 3018
+topic_id: 1625
 num_posts: 8
 date_first: 2002-08-07
 date_last: 2002-08-08
-tags: []
+num_views: 3018
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-08-07 08:19:09](https://www.astralpulse.com/forums/index.php?msg=117360), [Shadow](https://www.astralpulse.com/forums/profile/?u=860) United Kingdom ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Bruce Moen chat @ 9pm ET"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/bruce-moen-chat-9pm-et
-num_views: 1709
+topic_id: 5129
 num_posts: 5
 date_first: 2003-06-19
 date_last: 2003-06-21
-tags: []
+num_views: 1709
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-06-19 17:28:47](https://www.astralpulse.com/forums/index.php?msg=120812), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

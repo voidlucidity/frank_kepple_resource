@@ -1,12 +1,13 @@
 ---
 topic_title: "a Focus 23 Retrieval"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/a-focus-23-retrieval-2799
-num_views: 4123
+topic_id: 2799
 num_posts: 7
 date_first: 2002-12-05
 date_last: 2002-12-08
-tags: []
+num_views: 4123
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-12-05 15:18:42](https://www.astralpulse.com/forums/index.php?msg=118529), [Ginny](https://www.astralpulse.com/forums/profile/?u=1404) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "different place?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/different-place
-num_views: 3190
+topic_id: 2601
 num_posts: 3
 date_first: 2002-11-16
 date_last: 2002-11-17
-tags: []
+num_views: 3190
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2002-11-16 13:33:49](https://www.astralpulse.com/forums/index.php?msg=118333), [asstray85](https://www.astralpulse.com/forums/profile/?u=1408) USA ##

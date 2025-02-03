@@ -1,12 +1,13 @@
 ---
 topic_title: "Bush and Blair up for Nobel Peace Prize."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/bush-and-blair-up-for-nobel-peace-prize
-num_views: 3478
+topic_id: 1032
 num_posts: 6
 date_first: 2002-05-30
 date_last: 2002-05-31
-tags: []
+num_views: 3478
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-05-30 04:53:00](https://www.astralpulse.com/forums/index.php?msg=116770), [Ashfo](https://www.astralpulse.com/forums/profile/?u=532) New Zealand ##

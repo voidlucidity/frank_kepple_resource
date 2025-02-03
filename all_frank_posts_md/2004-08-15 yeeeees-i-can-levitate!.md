@@ -1,12 +1,13 @@
 ---
 topic_title: "Yeeeees I can LEVITATE!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/yeeeees-i-can-levitate%21
-num_views: 2883
+topic_id: 13905
 num_posts: 7
 date_first: 2004-08-15
 date_last: 2004-08-17
-tags: []
+num_views: 2883
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2004-08-15 13:42:27](https://www.astralpulse.com/forums/index.php?msg=128790), Reality  ##

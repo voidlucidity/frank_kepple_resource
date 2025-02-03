@@ -1,12 +1,13 @@
 ---
 topic_title: "Exploring with Disk  or I/There Members"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/exploring-with-disk-or-ithere-members
-num_views: 11286
+topic_id: 2885
 num_posts: 19
 date_first: 2002-12-16
 date_last: 2002-12-20
-tags: []
+num_views: 11286
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (18) [2002-12-16 14:09:02](https://www.astralpulse.com/forums/index.php?msg=118615), [Ginny](https://www.astralpulse.com/forums/profile/?u=1404) USA ##

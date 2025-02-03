@@ -1,12 +1,13 @@
 ---
 topic_title: "ancient civilization on mars"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/ancient-civilization-on-mars
-num_views: 11157
+topic_id: 5566
 num_posts: 36
 date_first: 2003-07-12
 date_last: 2004-01-21
-tags: []
+num_views: 11157
 summary: ""
+tags: []
 ---
 
 ## \#0/35 (35) [2003-07-12 02:26:10](https://www.astralpulse.com/forums/index.php?msg=121216), [no_leaf_clover](https://www.astralpulse.com/forums/profile/?u=1764) Virginia, USA ##

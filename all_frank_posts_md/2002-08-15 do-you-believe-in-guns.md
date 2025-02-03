@@ -1,12 +1,13 @@
 ---
 topic_title: "Do You Believe in Guns?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/do-you-believe-in-guns
-num_views: 29934
+topic_id: 1671
 num_posts: 78
 date_first: 2002-08-15
 date_last: 2022-11-07
-tags: []
+num_views: 29934
 summary: ""
+tags: []
 ---
 
 ## \#0/77 (57) [2002-08-15 03:43:33](https://www.astralpulse.com/forums/index.php?msg=117406), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Actual being or persistence of dream figment?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/actual-being-or-persistence-of-dream-figment
-num_views: 2579
+topic_id: 5176
 num_posts: 7
 date_first: 2003-06-22
 date_last: 2003-07-10
-tags: []
+num_views: 2579
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2003-06-22 18:43:38](https://www.astralpulse.com/forums/index.php?msg=120854), [Kodemaster](https://www.astralpulse.com/forums/profile/?u=426)(Global Moderator) USA ##

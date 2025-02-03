@@ -1,12 +1,13 @@
 ---
 topic_title: "just had an idea - its all about motivation"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/just-had-an-idea-its-all-about-motivation
-num_views: 1635
+topic_id: 14888
 num_posts: 2
 date_first: 2004-10-19
 date_last: 2004-10-21
-tags: []
+num_views: 1635
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2004-10-19 12:52:25](https://www.astralpulse.com/forums/index.php?msg=130689), kraz18  ##

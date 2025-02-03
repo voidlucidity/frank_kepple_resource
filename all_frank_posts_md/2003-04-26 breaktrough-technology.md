@@ -1,12 +1,13 @@
 ---
 topic_title: "BREAKTROUGH TECHNOLOGY"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/breaktrough-technology
-num_views: 13130
+topic_id: 4316
 num_posts: 9
 date_first: 2003-04-26
 date_last: 2003-04-30
-tags: []
+num_views: 13130
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (-2) 2003-04-26 05:34:03, [noradrenalin](https://www.astralpulse.com/forums/profile/?u=1895) Norway ##

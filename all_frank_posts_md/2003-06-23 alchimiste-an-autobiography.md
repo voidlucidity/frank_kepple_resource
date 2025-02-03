@@ -1,12 +1,13 @@
 ---
 topic_title: "Alchimiste - an autobiography"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/alchimiste-an-autobiography
-num_views: 3831
+topic_id: 5183
 num_posts: 11
 date_first: 2003-06-23
 date_last: 2003-07-01
-tags: []
+num_views: 3831
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (10) [2003-06-23 02:29:33](https://www.astralpulse.com/forums/index.php?msg=120861), [neg removal5](https://www.astralpulse.com/forums/profile/?u=2327) USA ##

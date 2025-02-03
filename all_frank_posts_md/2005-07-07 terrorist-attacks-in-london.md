@@ -1,12 +1,13 @@
 ---
 topic_title: "Terrorist attacks in London"
 topic_url: https://www.astralpulse.com/forums/welcome-to-news-and-media!/terrorist-attacks-in-london
-num_views: 19424
+topic_id: 19714
 num_posts: 58
 date_first: 2005-07-07
 date_last: 2005-07-24
-tags: []
+num_views: 19424
 summary: ""
+tags: []
 ---
 
 ## \#0/57 (0) [2005-07-07 06:42:14](https://www.astralpulse.com/forums/index.php?msg=169290), [SomeBloke](https://www.astralpulse.com/forums/profile/?u=4383) United Kingdom ##

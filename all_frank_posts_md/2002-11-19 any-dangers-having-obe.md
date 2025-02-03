@@ -1,12 +1,13 @@
 ---
 topic_title: "Any Dangers having OBE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/any-dangers-having-obe
-num_views: 6077
+topic_id: 2629
 num_posts: 14
 date_first: 2002-11-19
 date_last: 2002-11-26
-tags: []
+num_views: 6077
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (13) [2002-11-19 22:57:08](https://www.astralpulse.com/forums/index.php?msg=118360), [Phil](https://www.astralpulse.com/forums/profile/?u=1443) USA ##

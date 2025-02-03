@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE to RTZ or not"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/obe-to-rtz-or-not
-num_views: 4733
+topic_id: 18762
 num_posts: 14
 date_first: 2005-04-28
 date_last: 2005-04-29
-tags: []
+num_views: 4733
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (0) [2005-04-28 00:48:14](https://www.astralpulse.com/forums/index.php?msg=162098), [henegg](https://www.astralpulse.com/forums/profile/?u=1572) Ireland ##

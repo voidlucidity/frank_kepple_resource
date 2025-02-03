@@ -1,12 +1,13 @@
 ---
 topic_title: "Beware the Talking Monkeys!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/beware-the-talking-monkeys%21
-num_views: 11682
+topic_id: 14136
 num_posts: 18
 date_first: 2004-08-27
 date_last: 2018-05-17
-tags: []
+num_views: 11682
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (15) [2004-08-27 09:30:35](https://www.astralpulse.com/forums/index.php?msg=129014), [Selski](https://www.astralpulse.com/forums/profile/?u=6012) England, UK ##

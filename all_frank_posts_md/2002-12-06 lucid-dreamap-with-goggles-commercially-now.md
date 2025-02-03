@@ -1,12 +1,13 @@
 ---
 topic_title: "lucid dream/ap with goggles commercially now."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/lucid-dreamap-with-goggles-commercially-now
-num_views: 3759
+topic_id: 2800
 num_posts: 9
 date_first: 2002-12-06
 date_last: 2003-01-15
-tags: []
+num_views: 3759
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2002-12-06 00:29:03](https://www.astralpulse.com/forums/index.php?msg=118530), [weagle](https://www.astralpulse.com/forums/profile/?u=538) Canada ##

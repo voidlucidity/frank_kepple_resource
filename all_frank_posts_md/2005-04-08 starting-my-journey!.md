@@ -1,12 +1,13 @@
 ---
 topic_title: "Starting My Journey!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/starting-my-journey%21
-num_views: 2203
+topic_id: 18418
 num_posts: 6
 date_first: 2005-04-08
 date_last: 2005-04-12
-tags: []
+num_views: 2203
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-04-08 14:39:14](https://www.astralpulse.com/forums/index.php?msg=159462), [Ben K](https://www.astralpulse.com/forums/profile/?u=8796) USA..:( ##

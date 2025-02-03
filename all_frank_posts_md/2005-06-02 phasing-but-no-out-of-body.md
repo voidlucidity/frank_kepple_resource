@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing, but no out-of-body"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/phasing-but-no-out-of-body
-num_views: 5736
+topic_id: 19147
 num_posts: 11
 date_first: 2005-06-02
 date_last: 2005-06-09
-tags: []
+num_views: 5736
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-06-02 19:49:24](https://www.astralpulse.com/forums/index.php?msg=165174), Anonymous  ##

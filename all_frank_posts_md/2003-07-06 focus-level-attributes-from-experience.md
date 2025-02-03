@@ -1,12 +1,13 @@
 ---
 topic_title: "Focus Level Attributes from experience???"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/focus-level-attributes-from-experience
-num_views: 3350
+topic_id: 5458
 num_posts: 15
 date_first: 2003-07-06
 date_last: 2003-07-12
-tags: []
+num_views: 3350
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (14) [2003-07-06 20:38:22](https://www.astralpulse.com/forums/index.php?msg=121117), [Lasher](https://www.astralpulse.com/forums/profile/?u=2390) USA ##

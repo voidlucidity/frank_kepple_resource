@@ -1,12 +1,13 @@
 ---
 topic_title: "visit to 'green fields' region again"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/visit-to-green-fields-region-again
-num_views: 4104
+topic_id: 15970
 num_posts: 11
 date_first: 2004-12-21
 date_last: 2005-01-17
-tags: []
+num_views: 4104
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2004-12-21 10:27:47](https://www.astralpulse.com/forums/index.php?msg=139031), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

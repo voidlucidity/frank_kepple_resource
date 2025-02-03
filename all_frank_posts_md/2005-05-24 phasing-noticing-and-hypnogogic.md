@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing, noticing and hypnogogic"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/phasing-noticing-and-hypnogogic
-num_views: 2683
+topic_id: 19023
 num_posts: 3
 date_first: 2005-05-24
 date_last: 2005-06-03
-tags: []
+num_views: 2683
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-05-24 14:56:07](https://www.astralpulse.com/forums/index.php?msg=164013), Anonymous  ##

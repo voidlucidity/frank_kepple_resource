@@ -1,12 +1,13 @@
 ---
 topic_title: "Monroe \"Gateway\" series"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/monroe-gateway-series
-num_views: 18956
+topic_id: 1764
 num_posts: 58
 date_first: 2002-08-28
 date_last: 2002-09-16
-tags: []
+num_views: 18956
 summary: ""
+tags: []
 ---
 
 ## \#0/57 (57) [2002-08-28 15:03:55](https://www.astralpulse.com/forums/index.php?msg=117499), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

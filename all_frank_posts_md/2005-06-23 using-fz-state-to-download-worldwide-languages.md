@@ -1,12 +1,13 @@
 ---
 topic_title: "Using Fz state to download worldwide languages?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/using-fz-state-to-download-worldwide-languages
-num_views: 2346
+topic_id: 19531
 num_posts: 5
 date_first: 2005-06-23
 date_last: 2005-06-24
-tags: []
+num_views: 2346
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-06-23 20:42:53](https://www.astralpulse.com/forums/index.php?msg=167736), [Joe_Oh](https://www.astralpulse.com/forums/profile/?u=6947) USA ##

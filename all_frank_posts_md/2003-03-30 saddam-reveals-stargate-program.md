@@ -1,12 +1,13 @@
 ---
 topic_title: "Saddam reveals 'Stargate Program'"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/saddam-reveals-stargate-program
-num_views: 7349
+topic_id: 3994
 num_posts: 19
 date_first: 2003-03-30
 date_last: 2003-03-31
-tags: []
+num_views: 7349
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (18) [2003-03-30 15:58:49](https://www.astralpulse.com/forums/index.php?msg=119710), [Hephaestus](https://www.astralpulse.com/forums/profile/?u=369) United Kingdom ##

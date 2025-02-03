@@ -1,12 +1,13 @@
 ---
 topic_title: "Mail Order Spiritual/New Age supplies"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/mail-order-spiritualnew-age-supplies
-num_views: 1629
+topic_id: 19389
 num_posts: 3
 date_first: 2005-06-15
 date_last: 2005-06-18
-tags: []
+num_views: 1629
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-06-15 10:57:26](https://www.astralpulse.com/forums/index.php?msg=166700), [SomeBloke](https://www.astralpulse.com/forums/profile/?u=4383) United Kingdom ##

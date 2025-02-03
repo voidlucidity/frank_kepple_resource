@@ -1,12 +1,13 @@
 ---
 topic_title: "Well guys..help me make a decision plz."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/well-guys-help-me-make-a-decision-plz
-num_views: 2963
+topic_id: 2604
 num_posts: 9
 date_first: 2002-11-16
 date_last: 2002-11-20
-tags: []
+num_views: 2963
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2002-11-16 16:28:10](https://www.astralpulse.com/forums/index.php?msg=118336), [Zarklon](https://www.astralpulse.com/forums/profile/?u=1273) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Locked out of MysticWeb...."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/locked-out-of-mysticweb
-num_views: 3458
+topic_id: 5147
 num_posts: 12
 date_first: 2003-06-20
 date_last: 2003-06-21
-tags: []
+num_views: 3458
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2003-06-20 19:42:37](https://www.astralpulse.com/forums/index.php?msg=120828), Nay  ##

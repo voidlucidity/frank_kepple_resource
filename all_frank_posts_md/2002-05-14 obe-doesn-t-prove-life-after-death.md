@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE doesn't prove life after death"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/obe-doesn-t-prove-life-after-death
-num_views: 8053
+topic_id: 930
 num_posts: 15
 date_first: 2002-05-14
 date_last: 2002-06-04
-tags: []
+num_views: 8053
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (14) [2002-05-14 00:29:57](https://www.astralpulse.com/forums/index.php?msg=116669), [Donni_Joy](https://www.astralpulse.com/forums/profile/?u=7) Australia ##

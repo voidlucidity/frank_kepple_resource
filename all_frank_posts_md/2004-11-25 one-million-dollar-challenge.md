@@ -1,12 +1,13 @@
 ---
 topic_title: "One Million Dollar Challenge"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/one-million-dollar-challenge
-num_views: 15281
+topic_id: 15444
 num_posts: 51
 date_first: 2004-11-25
 date_last: 2005-03-10
-tags: []
+num_views: 15281
 summary: ""
+tags: []
 ---
 
 ## \#0/50 (0) [2004-11-25 10:35:06](https://www.astralpulse.com/forums/index.php?msg=134822), [odevroed](https://www.astralpulse.com/forums/profile/?u=7414)  ##

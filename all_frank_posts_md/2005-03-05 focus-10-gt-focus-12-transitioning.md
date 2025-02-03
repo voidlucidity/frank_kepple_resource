@@ -1,12 +1,13 @@
 ---
 topic_title: "Focus 10 ----> Focus 12: Transitioning"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/focus-10-gt-focus-12-transitioning
-num_views: 7786
+topic_id: 17811
 num_posts: 18
 date_first: 2005-03-05
 date_last: 2005-05-22
-tags: []
+num_views: 7786
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (0) [2005-03-05 17:26:34](https://www.astralpulse.com/forums/index.php?msg=154094), [Major Tom](https://www.astralpulse.com/forums/profile/?u=1075) Canada ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "How long does an OBE last in the Astral"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/how-long-does-an-obe-last-in-the-astral
-num_views: 13463
+topic_id: 968
 num_posts: 13
 date_first: 2002-05-20
 date_last: 2002-05-22
-tags: []
+num_views: 13463
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2002-05-20 02:05:25](https://www.astralpulse.com/forums/index.php?msg=116706), [Joe](https://www.astralpulse.com/forums/profile/?u=20) Australia ##

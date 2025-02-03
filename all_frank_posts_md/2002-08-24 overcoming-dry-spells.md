@@ -1,12 +1,13 @@
 ---
 topic_title: "Overcoming Dry Spells"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/overcoming-dry-spells
-num_views: 2515
+topic_id: 1726
 num_posts: 6
 date_first: 2002-08-24
 date_last: 2002-08-27
-tags: []
+num_views: 2515
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-08-24 22:05:01](https://www.astralpulse.com/forums/index.php?msg=117461), [wierdzly](https://www.astralpulse.com/forums/profile/?u=1073) USA ##

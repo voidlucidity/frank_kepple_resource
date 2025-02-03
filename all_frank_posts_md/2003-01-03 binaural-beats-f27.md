@@ -1,12 +1,13 @@
 ---
 topic_title: "Binaural Beats, F27"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/binaural-beats-f27
-num_views: 2826
+topic_id: 3015
 num_posts: 3
 date_first: 2003-01-03
 date_last: 2003-01-04
-tags: []
+num_views: 2826
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2003-01-03 22:07:30](https://www.astralpulse.com/forums/index.php?msg=118744), [jfice](https://www.astralpulse.com/forums/profile/?u=1680) USA ##

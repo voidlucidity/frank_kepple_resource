@@ -1,12 +1,13 @@
 ---
 topic_title: "The relationship between chakras and AP"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/the-relationship-between-chakras-and-ap
-num_views: 3472
+topic_id: 1195
 num_posts: 7
 date_first: 2002-06-21
 date_last: 2002-06-25
-tags: []
+num_views: 3472
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-06-21 13:59:50](https://www.astralpulse.com/forums/index.php?msg=116933), [Patty](https://www.astralpulse.com/forums/profile/?u=673) USA ##

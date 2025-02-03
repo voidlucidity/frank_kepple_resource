@@ -1,12 +1,13 @@
 ---
 topic_title: "Seperation Crazyness"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/seperation-crazyness
-num_views: 1173
+topic_id: 19196
 num_posts: 5
 date_first: 2005-06-05
 date_last: 2005-06-06
-tags: []
+num_views: 1173
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-06-05 16:27:04](https://www.astralpulse.com/forums/index.php?msg=165453), [knightlight](https://www.astralpulse.com/forums/profile/?u=8736) API ##

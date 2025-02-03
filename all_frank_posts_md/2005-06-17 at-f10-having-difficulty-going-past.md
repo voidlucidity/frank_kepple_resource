@@ -1,12 +1,13 @@
 ---
 topic_title: "at F10, having difficulty going past."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/at-f10-having-difficulty-going-past
-num_views: 6696
+topic_id: 19444
 num_posts: 11
 date_first: 2005-06-17
 date_last: 2005-06-20
-tags: []
+num_views: 6696
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-06-17 22:53:29](https://www.astralpulse.com/forums/index.php?msg=167049), [Froglet](https://www.astralpulse.com/forums/profile/?u=5969) USA ##

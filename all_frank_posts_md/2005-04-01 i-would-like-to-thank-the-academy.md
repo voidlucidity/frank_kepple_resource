@@ -1,12 +1,13 @@
 ---
 topic_title: "I would like to thank the academy...."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/i-would-like-to-thank-the-academy
-num_views: 2950
+topic_id: 18306
 num_posts: 9
 date_first: 2005-04-01
 date_last: 2005-04-13
-tags: []
+num_views: 2950
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (0) [2005-04-01 18:06:20](https://www.astralpulse.com/forums/index.php?msg=158597), [knightlight](https://www.astralpulse.com/forums/profile/?u=8736) API ##

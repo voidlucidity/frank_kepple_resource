@@ -1,12 +1,13 @@
 ---
 topic_title: "Some questions on AP"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/some-questions-on-ap
-num_views: 3000
+topic_id: 5088
 num_posts: 6
 date_first: 2003-06-17
 date_last: 2003-06-19
-tags: []
+num_views: 3000
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2003-06-17 15:14:44](https://www.astralpulse.com/forums/index.php?msg=120772), [Gregorz](https://www.astralpulse.com/forums/profile/?u=2536) United Kingdom ##

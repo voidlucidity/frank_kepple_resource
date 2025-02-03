@@ -1,12 +1,13 @@
 ---
 topic_title: "astral pulse forums"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/astral-pulse-forums
-num_views: 2707
+topic_id: 19729
 num_posts: 2
 date_first: 2005-07-08
 date_last: 2005-07-08
-tags: []
+num_views: 2707
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-07-08 07:22:07](https://www.astralpulse.com/forums/index.php?msg=169434), [Oliver](https://www.astralpulse.com/forums/profile/?u=667) New Zealand ##

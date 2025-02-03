@@ -1,12 +1,13 @@
 ---
 topic_title: "Robert Monroe and his books"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/robert-monroe-and-his-books
-num_views: 5075
+topic_id: 16410
 num_posts: 14
 date_first: 2005-01-12
 date_last: 2005-01-14
-tags: []
+num_views: 5075
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (0) [2005-01-12 20:55:24](https://www.astralpulse.com/forums/index.php?msg=142570), [dharma_talk](https://www.astralpulse.com/forums/profile/?u=7999) Lexington, KY ##

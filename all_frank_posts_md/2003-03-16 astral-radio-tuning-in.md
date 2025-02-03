@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Radio... tuning in"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/astral-radio-tuning-in
-num_views: 3109
+topic_id: 3838
 num_posts: 9
 date_first: 2003-03-16
 date_last: 2003-03-23
-tags: []
+num_views: 3109
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2003-03-16 21:48:17](https://www.astralpulse.com/forums/index.php?msg=119554), Chris  ##

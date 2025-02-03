@@ -1,12 +1,13 @@
 ---
 topic_title: "What can and cannot do with 3D darkness?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/what-can-and-cannot-do-with-3d-darkness
-num_views: 2683
+topic_id: 18690
 num_posts: 4
 date_first: 2005-04-23
 date_last: 2005-04-28
-tags: []
+num_views: 2683
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-04-23 20:06:20](https://www.astralpulse.com/forums/index.php?msg=161568), Astral Practitioner  ##

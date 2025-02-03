@@ -1,12 +1,13 @@
 ---
 topic_title: "Delta is OBE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/delta-is-obe
-num_views: 18829
+topic_id: 4817
 num_posts: 57
 date_first: 2003-06-02
 date_last: 2004-04-30
-tags: []
+num_views: 18829
 summary: ""
+tags: []
 ---
 
 ## \#0/56 (56) [2003-06-02 22:55:39](https://www.astralpulse.com/forums/index.php?msg=120509), [sweet_celestial_sounds](https://www.astralpulse.com/forums/profile/?u=1975) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "New Year Quitters"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/new-year-quitters
-num_views: 6881
+topic_id: 16570
 num_posts: 21
 date_first: 2005-01-18
 date_last: 2005-02-14
-tags: []
+num_views: 6881
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (0) [2005-01-18 09:38:38](https://www.astralpulse.com/forums/index.php?msg=143506), [Eol007](https://www.astralpulse.com/forums/profile/?u=1893)  ##

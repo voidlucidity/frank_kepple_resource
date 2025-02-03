@@ -1,12 +1,13 @@
 ---
 topic_title: "Prerequisites for obe-ing"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/prerequisites-for-obe-ing
-num_views: 6242
+topic_id: 473
 num_posts: 7
 date_first: 2002-03-31
 date_last: 2002-04-01
-tags: []
+num_views: 6242
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-03-31 03:41:54](https://www.astralpulse.com/forums/index.php?msg=116230), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

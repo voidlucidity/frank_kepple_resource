@@ -1,12 +1,13 @@
 ---
 topic_title: "What does IMO mean?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/what-does-imo-mean
-num_views: 2538
+topic_id: 19549
 num_posts: 6
 date_first: 2005-06-25
 date_last: 2005-06-26
-tags: []
+num_views: 2538
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-06-25 10:33:03](https://www.astralpulse.com/forums/index.php?msg=167910), [PeterPanic](https://www.astralpulse.com/forums/profile/?u=8041) Portugal, Lisbon ##

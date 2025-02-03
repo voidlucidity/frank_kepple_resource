@@ -1,12 +1,13 @@
 ---
 topic_title: "Help Me, New to projection and I really need help"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/help-me-new-to-projection-and-i-really-need-help
-num_views: 3241
+topic_id: 1605
 num_posts: 11
 date_first: 2002-08-05
 date_last: 2002-08-08
-tags: []
+num_views: 3241
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (10) [2002-08-05 13:30:07](https://www.astralpulse.com/forums/index.php?msg=117340), [UncleSam](https://www.astralpulse.com/forums/profile/?u=967) USA ##

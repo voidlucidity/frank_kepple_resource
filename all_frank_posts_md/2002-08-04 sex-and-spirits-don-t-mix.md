@@ -1,12 +1,13 @@
 ---
 topic_title: "sex and spirits don't mix?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/sex-and-spirits-don-t-mix
-num_views: 5194
+topic_id: 1596
 num_posts: 13
 date_first: 2002-08-04
 date_last: 2002-08-30
-tags: []
+num_views: 5194
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2002-08-04 18:26:21](https://www.astralpulse.com/forums/index.php?msg=117331), [jilola](https://www.astralpulse.com/forums/profile/?u=755) Ireland ##

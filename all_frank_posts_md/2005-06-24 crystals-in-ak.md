@@ -1,12 +1,13 @@
 ---
 topic_title: "Crystals in AK"
 topic_url: https://www.astralpulse.com/forums/welcome-to-writers-corner!/crystals-in-ak
-num_views: 3638
+topic_id: 19541
 num_posts: 6
 date_first: 2005-06-24
 date_last: 2005-06-25
-tags: []
+num_views: 3638
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-06-24 18:55:23](https://www.astralpulse.com/forums/index.php?msg=167853), [Hans Solo](https://www.astralpulse.com/forums/profile/?u=8848)  ##

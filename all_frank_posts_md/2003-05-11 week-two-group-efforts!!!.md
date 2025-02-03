@@ -1,12 +1,13 @@
 ---
 topic_title: "Week TWO Group Efforts!!!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/week-two-group-efforts%21%21%21
-num_views: 6985
+topic_id: 4533
 num_posts: 29
 date_first: 2003-05-11
 date_last: 2003-05-22
-tags: []
+num_views: 6985
 summary: ""
+tags: []
 ---
 
 ## \#0/28 (28) [2003-05-11 17:33:08](https://www.astralpulse.com/forums/index.php?msg=120235), [sweet_celestial_sounds](https://www.astralpulse.com/forums/profile/?u=1975) USA ##

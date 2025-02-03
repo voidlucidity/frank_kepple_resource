@@ -1,12 +1,13 @@
 ---
 topic_title: "Death of Pope."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/death-of-pope
-num_views: 7718
+topic_id: 18370
 num_posts: 22
 date_first: 2005-04-05
 date_last: 2005-04-15
-tags: []
+num_views: 7718
 summary: ""
+tags: []
 ---
 
 ## \#0/21 (0) [2005-04-05 23:58:07](https://www.astralpulse.com/forums/index.php?msg=159163), [french_hustler](https://www.astralpulse.com/forums/profile/?u=5248) France ##

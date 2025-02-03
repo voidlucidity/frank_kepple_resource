@@ -1,12 +1,13 @@
 ---
 topic_title: "Projecting in a dream"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/projecting-in-a-dream
-num_views: 2065
+topic_id: 1083
 num_posts: 6
 date_first: 2002-06-07
 date_last: 2002-06-07
-tags: []
+num_views: 2065
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-06-07 02:49:13](https://www.astralpulse.com/forums/index.php?msg=116821), [cainam_nazier](https://www.astralpulse.com/forums/profile/?u=166) USA ##

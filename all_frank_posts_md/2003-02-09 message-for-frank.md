@@ -1,12 +1,13 @@
 ---
 topic_title: "Message for Frank"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/message-for-frank
-num_views: 2349
+topic_id: 3422
 num_posts: 6
 date_first: 2003-02-09
 date_last: 2003-02-13
-tags: []
+num_views: 2349
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2003-02-09 15:58:49](https://www.astralpulse.com/forums/index.php?msg=119144), [Leviiathan](https://www.astralpulse.com/forums/profile/?u=984) Canada ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "What do religions or you say about homosexuality?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-world-cultures-traditions-and-religions!/what-do-religions-or-you-say-about-homosexuality
-num_views: 39099
+topic_id: 7480
 num_posts: 190
 date_first: 2003-09-17
 date_last: 2005-01-27
-tags: []
+num_views: 39099
 summary: ""
+tags: []
 ---
 
 ## \#0/189 (161) [2003-09-17 18:52:56](https://www.astralpulse.com/forums/index.php?msg=122891), [Hiebreed](https://www.astralpulse.com/forums/profile/?u=3430) USA ##

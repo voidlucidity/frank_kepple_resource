@@ -1,12 +1,13 @@
 ---
 topic_title: "which Monroe book is best?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/which-monroe-book-is-best
-num_views: 6056
+topic_id: 4101
 num_posts: 17
 date_first: 2003-04-08
 date_last: 2003-04-12
-tags: []
+num_views: 6056
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (16) [2003-04-08 18:16:24](https://www.astralpulse.com/forums/index.php?msg=119813), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral life, questionable journeys"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/astral-life-questionable-journeys
-num_views: 6230
+topic_id: 14646
 num_posts: 19
 date_first: 2004-09-28
 date_last: 2004-10-02
-tags: []
+num_views: 6230
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (18) [2004-09-28 13:46:56](https://www.astralpulse.com/forums/index.php?msg=129510), [Covelo](https://www.astralpulse.com/forums/profile/?u=6976) USA --California ##

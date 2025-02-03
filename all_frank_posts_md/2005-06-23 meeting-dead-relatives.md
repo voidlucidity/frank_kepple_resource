@@ -1,12 +1,13 @@
 ---
 topic_title: "Meeting dead relatives..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/meeting-dead-relatives
-num_views: 3227
+topic_id: 19518
 num_posts: 6
 date_first: 2005-06-23
 date_last: 2005-07-03
-tags: []
+num_views: 3227
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-06-23 09:36:36](https://www.astralpulse.com/forums/index.php?msg=167677), stamboe  ##

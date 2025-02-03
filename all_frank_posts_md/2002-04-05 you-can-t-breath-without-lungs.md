@@ -1,12 +1,13 @@
 ---
 topic_title: "You Can't Breath Without Lungs."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/you-can-t-breath-without-lungs
-num_views: 3527
+topic_id: 547
 num_posts: 6
 date_first: 2002-04-05
 date_last: 2002-04-06
-tags: []
+num_views: 3527
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-04-05 22:01:07](https://www.astralpulse.com/forums/index.php?msg=116302), [kifyre](https://www.astralpulse.com/forums/profile/?u=61) USA ##

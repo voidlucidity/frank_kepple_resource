@@ -1,12 +1,13 @@
 ---
 topic_title: "Null point? and body temperature"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/null-point-and-body-temperature
-num_views: 4790
+topic_id: 17955
 num_posts: 9
 date_first: 2005-03-13
 date_last: 2005-03-28
-tags: []
+num_views: 4790
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (0) [2005-03-13 03:23:05](https://www.astralpulse.com/forums/index.php?msg=155529), [Andali27](https://www.astralpulse.com/forums/profile/?u=6413) Australia ##

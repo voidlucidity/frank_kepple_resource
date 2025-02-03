@@ -1,12 +1,13 @@
 ---
 topic_title: "Empowerment, Creating your Reality, a request"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/empowerment-creating-your-reality-a-request
-num_views: 1204
+topic_id: 16500
 num_posts: 2
 date_first: 2005-01-15
 date_last: 2005-01-15
-tags: []
+num_views: 1204
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-01-15 11:23:12](https://www.astralpulse.com/forums/index.php?msg=143065), [Malachan](https://www.astralpulse.com/forums/profile/?u=8039)  ##

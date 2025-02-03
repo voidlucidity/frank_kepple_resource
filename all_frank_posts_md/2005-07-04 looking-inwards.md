@@ -1,12 +1,13 @@
 ---
 topic_title: "Looking inwards"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/looking-inwards
-num_views: 4626
+topic_id: 19677
 num_posts: 11
 date_first: 2005-07-04
 date_last: 2005-07-11
-tags: []
+num_views: 4626
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-07-04 13:04:57](https://www.astralpulse.com/forums/index.php?msg=169051), [Time Traveler](https://www.astralpulse.com/forums/profile/?u=7374) Cincinnati OH. ##

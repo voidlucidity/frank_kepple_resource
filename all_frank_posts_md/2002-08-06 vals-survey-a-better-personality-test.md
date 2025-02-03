@@ -1,12 +1,13 @@
 ---
 topic_title: "VALS Survey- A Better Personality Test"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/vals-survey-a-better-personality-test
-num_views: 4039
+topic_id: 1618
 num_posts: 10
 date_first: 2002-08-06
 date_last: 2002-08-16
-tags: []
+num_views: 4039
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2002-08-06 16:31:11](https://www.astralpulse.com/forums/index.php?msg=117353), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

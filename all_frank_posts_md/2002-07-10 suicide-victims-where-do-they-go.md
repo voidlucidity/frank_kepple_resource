@@ -1,12 +1,13 @@
 ---
 topic_title: "suicide victims,where do they go?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/suicide-victims-where-do-they-go
-num_views: 5013
+topic_id: 1332
 num_posts: 18
 date_first: 2002-07-10
 date_last: 2002-07-14
-tags: []
+num_views: 5013
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (17) [2002-07-10 18:19:34](https://www.astralpulse.com/forums/index.php?msg=117069), alpha  ##

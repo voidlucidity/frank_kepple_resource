@@ -1,12 +1,13 @@
 ---
 topic_title: "I think I'm getting closer to OBEing.."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/i-think-i-m-getting-closer-to-obeing
-num_views: 1259
+topic_id: 5324
 num_posts: 2
 date_first: 2003-06-30
 date_last: 2003-07-01
-tags: []
+num_views: 1259
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (1) [2003-06-30 12:35:44](https://www.astralpulse.com/forums/index.php?msg=120993), [NPerez](https://www.astralpulse.com/forums/profile/?u=2580) USA ##

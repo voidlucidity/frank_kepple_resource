@@ -1,12 +1,13 @@
 ---
 topic_title: "Quick Monroe Question :)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/quick-monroe-question
-num_views: 2150
+topic_id: 18583
 num_posts: 5
 date_first: 2005-04-16
 date_last: 2005-04-24
-tags: []
+num_views: 2150
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-04-16 20:15:39](https://www.astralpulse.com/forums/index.php?msg=160601), [Dixie](https://www.astralpulse.com/forums/profile/?u=8458)  ##

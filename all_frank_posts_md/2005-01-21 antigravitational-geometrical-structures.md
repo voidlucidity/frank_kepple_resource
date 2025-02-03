@@ -1,12 +1,13 @@
 ---
 topic_title: "antigravitational geometrical structures"
 topic_url: https://www.astralpulse.com/forums/welcome-to-quantum-physics!/antigravitational-geometrical-structures
-num_views: 12785
+topic_id: 16647
 num_posts: 17
 date_first: 2005-01-21
 date_last: 2014-03-01
-tags: []
+num_views: 12785
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (0) [2005-01-21 00:24:46](https://www.astralpulse.com/forums/index.php?msg=144067), [henrr7](https://www.astralpulse.com/forums/profile/?u=8099) Finland ##

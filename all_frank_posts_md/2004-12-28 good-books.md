@@ -1,12 +1,13 @@
 ---
 topic_title: "GOOD BOOKS?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/good-books
-num_views: 4311
+topic_id: 16089
 num_posts: 14
 date_first: 2004-12-28
 date_last: 2005-01-02
-tags: []
+num_views: 4311
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (0) [2004-12-28 18:34:44](https://www.astralpulse.com/forums/index.php?msg=140107), [astral man](https://www.astralpulse.com/forums/profile/?u=7472)  ##

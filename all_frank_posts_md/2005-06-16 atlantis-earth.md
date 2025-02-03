@@ -1,12 +1,13 @@
 ---
 topic_title: "Atlantis & Earth"
 topic_url: https://www.astralpulse.com/forums/welcome-to-integral-philosophy!/atlantis-earth
-num_views: 6843
+topic_id: 19428
 num_posts: 10
 date_first: 2005-06-16
 date_last: 2006-01-29
-tags: []
+num_views: 6843
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2005-06-16 20:58:05](https://www.astralpulse.com/forums/index.php?msg=166924), [Dilmun](https://www.astralpulse.com/forums/profile/?u=9116) Finland ##

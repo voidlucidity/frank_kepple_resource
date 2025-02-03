@@ -1,12 +1,13 @@
 ---
 topic_title: "New Poolside area just completed..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-pulse-island!/new-poolside-area-just-completed
-num_views: 5798
+topic_id: 18425
 num_posts: 6
 date_first: 2005-04-08
 date_last: 2005-05-04
-tags: []
+num_views: 5798
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-04-08 21:50:51](https://www.astralpulse.com/forums/index.php?msg=159513), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

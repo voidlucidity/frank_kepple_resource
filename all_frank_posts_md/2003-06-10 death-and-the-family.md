@@ -1,12 +1,13 @@
 ---
 topic_title: "Death and the Family"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/death-and-the-family
-num_views: 2921
+topic_id: 4937
 num_posts: 5
 date_first: 2003-06-10
 date_last: 2003-06-12
-tags: []
+num_views: 2921
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-06-10 07:54:41](https://www.astralpulse.com/forums/index.php?msg=120628), [Tisha](https://www.astralpulse.com/forums/profile/?u=594) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Used Monroe CD's sale/exchange?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/used-monroe-cd-s-saleexchange
-num_views: 19705
+topic_id: 2322
 num_posts: 33
 date_first: 2002-10-22
 date_last: 2002-11-11
-tags: []
+num_views: 19705
 summary: ""
+tags: []
 ---
 
 ## \#0/32 (32) [2002-10-22 06:01:13](https://www.astralpulse.com/forums/index.php?msg=118056), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

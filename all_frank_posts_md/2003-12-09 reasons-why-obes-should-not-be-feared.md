@@ -1,12 +1,13 @@
 ---
 topic_title: "Reasons why OBE’s should NOT be feared."
 topic_url: https://www.astralpulse.com/forums/welcome-to-permanent-astral-topics!/reasons-why-obes-should-not-be-feared
-num_views: 52550
+topic_id: 9355
 num_posts: 37
 date_first: 2003-12-09
 date_last: 2007-03-03
-tags: []
+num_views: 52550
 summary: ""
+tags: []
 ---
 
 ## \#0/36 (32) [2003-12-09 19:42:57](https://www.astralpulse.com/forums/index.php?msg=124499), [James S](https://www.astralpulse.com/forums/profile/?u=759) Australia ##

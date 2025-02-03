@@ -1,12 +1,13 @@
 ---
 topic_title: "Poll Sugestion"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/poll-sugestion
-num_views: 2176
+topic_id: 18205
 num_posts: 7
 date_first: 2005-03-27
 date_last: 2005-03-30
-tags: []
+num_views: 2176
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-03-27 06:49:36](https://www.astralpulse.com/forums/index.php?msg=157803), [Kazbadan](https://www.astralpulse.com/forums/profile/?u=2956) Portugal ##

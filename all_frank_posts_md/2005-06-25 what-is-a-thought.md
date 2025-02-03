@@ -1,12 +1,13 @@
 ---
 topic_title: "What is a thought?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/what-is-a-thought
-num_views: 3426
+topic_id: 19548
 num_posts: 5
 date_first: 2005-06-25
 date_last: 2005-06-26
-tags: []
+num_views: 3426
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-06-25 08:54:44](https://www.astralpulse.com/forums/index.php?msg=167903), [astral boy](https://www.astralpulse.com/forums/profile/?u=8720)  ##

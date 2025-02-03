@@ -1,12 +1,13 @@
 ---
 topic_title: "I think I finally did it..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/i-think-i-finally-did-it
-num_views: 6131
+topic_id: 2962
 num_posts: 21
 date_first: 2002-12-28
 date_last: 2003-01-12
-tags: []
+num_views: 6131
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (20) [2002-12-28 16:21:05](https://www.astralpulse.com/forums/index.php?msg=118691), [jilola](https://www.astralpulse.com/forums/profile/?u=755) Ireland ##

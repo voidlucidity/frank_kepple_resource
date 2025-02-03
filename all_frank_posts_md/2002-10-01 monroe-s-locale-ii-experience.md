@@ -1,12 +1,13 @@
 ---
 topic_title: "monroe's locale II experience"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/monroe-s-locale-ii-experience
-num_views: 4118
+topic_id: 2089
 num_posts: 7
 date_first: 2002-10-01
 date_last: 2002-10-02
-tags: []
+num_views: 4118
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-10-01 04:10:05](https://www.astralpulse.com/forums/index.php?msg=117823), [clandestino](https://www.astralpulse.com/forums/profile/?u=691) Australia ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Sex and Phasing"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/astral-sex-and-phasing
-num_views: 10113
+topic_id: 15977
 num_posts: 25
 date_first: 2004-12-21
 date_last: 2005-02-04
-tags: []
+num_views: 10113
 summary: ""
+tags: []
 ---
 
 ## \#0/24 (0) [2004-12-21 16:44:58](https://www.astralpulse.com/forums/index.php?msg=139083), [Agntneo](https://www.astralpulse.com/forums/profile/?u=4241) Norway ##

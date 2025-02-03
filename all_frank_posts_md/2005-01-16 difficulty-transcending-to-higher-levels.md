@@ -1,12 +1,13 @@
 ---
 topic_title: "Difficulty transcending to higher levels..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/difficulty-transcending-to-higher-levels
-num_views: 2084
+topic_id: 16520
 num_posts: 5
 date_first: 2005-01-16
 date_last: 2005-01-16
-tags: []
+num_views: 2084
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-01-16 01:21:33](https://www.astralpulse.com/forums/index.php?msg=143195), [Missy](https://www.astralpulse.com/forums/profile/?u=8036)  ##

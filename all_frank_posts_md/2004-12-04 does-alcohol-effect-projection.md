@@ -1,12 +1,13 @@
 ---
 topic_title: "Does alcohol effect projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/does-alcohol-effect-projection
-num_views: 9582
+topic_id: 15610
 num_posts: 8
 date_first: 2004-12-04
 date_last: 2004-12-08
-tags: []
+num_views: 9582
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2004-12-04 22:15:06](https://www.astralpulse.com/forums/index.php?msg=136137), [BOATS](https://www.astralpulse.com/forums/profile/?u=4755) USA ##

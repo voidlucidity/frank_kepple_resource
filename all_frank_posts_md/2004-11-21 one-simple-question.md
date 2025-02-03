@@ -1,12 +1,13 @@
 ---
 topic_title: "One simple question."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/one-simple-question
-num_views: 2366
+topic_id: 15379
 num_posts: 5
 date_first: 2004-11-21
 date_last: 2004-11-23
-tags: []
+num_views: 2366
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2004-11-21 08:09:20](https://www.astralpulse.com/forums/index.php?msg=134331), [Jenia_San](https://www.astralpulse.com/forums/profile/?u=6035) Israel ##

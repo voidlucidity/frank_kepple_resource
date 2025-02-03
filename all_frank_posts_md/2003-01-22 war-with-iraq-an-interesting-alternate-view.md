@@ -1,12 +1,13 @@
 ---
 topic_title: "War with Iraq ... an interesting alternate view"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/war-with-iraq-an-interesting-alternate-view
-num_views: 24714
+topic_id: 3232
 num_posts: 82
 date_first: 2003-01-22
 date_last: 2003-04-17
-tags: []
+num_views: 24714
 summary: ""
+tags: []
 ---
 
 ## \#0/81 (81) [2003-01-22 08:21:40](https://www.astralpulse.com/forums/index.php?msg=118958), [amcturbo](https://www.astralpulse.com/forums/profile/?u=803) USA ##

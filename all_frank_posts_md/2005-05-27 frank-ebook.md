@@ -1,12 +1,13 @@
 ---
 topic_title: "Frank ebook"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/frank-ebook
-num_views: 1319
+topic_id: 19064
 num_posts: 3
 date_first: 2005-05-27
 date_last: 2005-05-28
-tags: []
+num_views: 1319
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-05-27 18:32:30](https://www.astralpulse.com/forums/index.php?msg=164403), [Kazbadan](https://www.astralpulse.com/forums/profile/?u=2956) Portugal ##

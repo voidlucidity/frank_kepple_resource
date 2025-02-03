@@ -1,12 +1,13 @@
 ---
 topic_title: "US government and military visit this site!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/us-government-and-military-visit-this-site%21
-num_views: 5247
+topic_id: 4963
 num_posts: 20
 date_first: 2003-06-11
 date_last: 2003-06-14
-tags: []
+num_views: 5247
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (19) [2003-06-11 09:52:00](https://www.astralpulse.com/forums/index.php?msg=120654), [boomyboomy](https://www.astralpulse.com/forums/profile/?u=1206) United Kingdom ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "We just beat our record"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/we-just-beat-our-record
-num_views: 3088
+topic_id: 4828
 num_posts: 11
 date_first: 2003-06-03
 date_last: 2003-06-23
-tags: []
+num_views: 3088
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (10) [2003-06-03 15:31:13](https://www.astralpulse.com/forums/index.php?msg=120520), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

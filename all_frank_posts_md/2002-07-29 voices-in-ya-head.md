@@ -1,12 +1,13 @@
 ---
 topic_title: "Voices in Ya Head."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/voices-in-ya-head
-num_views: 5334
+topic_id: 1513
 num_posts: 17
 date_first: 2002-07-29
 date_last: 2002-08-31
-tags: []
+num_views: 5334
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (16) [2002-07-29 20:40:19](https://www.astralpulse.com/forums/index.php?msg=117250), [ZPE](https://www.astralpulse.com/forums/profile/?u=875) Australia ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Heard any good jokes lately?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/heard-any-good-jokes-lately
-num_views: 9190
+topic_id: 5401
 num_posts: 31
 date_first: 2003-07-03
 date_last: 2003-07-23
-tags: []
+num_views: 9190
 summary: ""
+tags: []
 ---
 
 ## \#0/30 (30) [2003-07-03 12:04:39](https://www.astralpulse.com/forums/index.php?msg=121066), [Tisha](https://www.astralpulse.com/forums/profile/?u=594) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Falling Asleep"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/falling-asleep-5640
-num_views: 1746
+topic_id: 5640
 num_posts: 4
 date_first: 2003-07-15
 date_last: 2003-07-18
-tags: []
+num_views: 1746
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2003-07-15 17:08:00](https://www.astralpulse.com/forums/index.php?msg=121286), [JMH](https://www.astralpulse.com/forums/profile/?u=2568) USA ##

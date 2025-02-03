@@ -1,12 +1,13 @@
 ---
 topic_title: "an exsperament to try"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/an-exsperament-to-try
-num_views: 2674
+topic_id: 19750
 num_posts: 6
 date_first: 2005-07-09
 date_last: 2005-07-13
-tags: []
+num_views: 2674
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-07-09 21:55:54](https://www.astralpulse.com/forums/index.php?msg=169634), [chrishill](https://www.astralpulse.com/forums/profile/?u=9371)  ##

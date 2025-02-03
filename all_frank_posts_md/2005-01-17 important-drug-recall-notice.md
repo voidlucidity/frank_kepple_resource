@@ -1,12 +1,13 @@
 ---
 topic_title: "Important drug recall notice"
 topic_url: https://www.astralpulse.com/forums/welcome-to-news-and-media!/important-drug-recall-notice
-num_views: 2739
+topic_id: 16561
 num_posts: 7
 date_first: 2005-01-17
 date_last: 2005-01-19
-tags: []
+num_views: 2739
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-01-17 18:29:04](https://www.astralpulse.com/forums/index.php?msg=143471), Tayesin  ##

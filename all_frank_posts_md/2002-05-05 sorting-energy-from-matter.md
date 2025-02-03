@@ -1,12 +1,13 @@
 ---
 topic_title: "Sorting energy from matter?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/sorting-energy-from-matter
-num_views: 5509
+topic_id: 869
 num_posts: 17
 date_first: 2002-05-05
 date_last: 2002-05-08
-tags: []
+num_views: 5509
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (16) [2002-05-05 15:04:27](https://www.astralpulse.com/forums/index.php?msg=116611), Tom  ##

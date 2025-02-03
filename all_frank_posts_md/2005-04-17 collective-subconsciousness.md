@@ -1,12 +1,13 @@
 ---
 topic_title: "Collective Subconsciousness??"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/collective-subconsciousness
-num_views: 3217
+topic_id: 18587
 num_posts: 10
 date_first: 2005-04-17
 date_last: 2005-05-01
-tags: []
+num_views: 3217
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2005-04-17 01:17:15](https://www.astralpulse.com/forums/index.php?msg=160641), [sandmage](https://www.astralpulse.com/forums/profile/?u=8445)  ##

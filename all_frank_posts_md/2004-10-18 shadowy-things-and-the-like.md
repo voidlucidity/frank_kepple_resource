@@ -1,12 +1,13 @@
 ---
 topic_title: "Shadowy things and the like"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/shadowy-things-and-the-like
-num_views: 1655
+topic_id: 14873
 num_posts: 3
 date_first: 2004-10-18
 date_last: 2004-10-19
-tags: []
+num_views: 1655
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2004-10-18 13:51:52](https://www.astralpulse.com/forums/index.php?msg=130546), [Naiad780](https://www.astralpulse.com/forums/profile/?u=6244) Toronto ##

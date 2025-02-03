@@ -1,12 +1,13 @@
 ---
 topic_title: "All the different brain entrainment possibilities-"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/all-the-different-brain-entrainment-possibilities
-num_views: 3028
+topic_id: 2374
 num_posts: 2
 date_first: 2002-10-27
 date_last: 2002-10-28
-tags: []
+num_views: 3028
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (1) [2002-10-27 19:52:19](https://www.astralpulse.com/forums/index.php?msg=118108), [kifyre](https://www.astralpulse.com/forums/profile/?u=61) USA ##

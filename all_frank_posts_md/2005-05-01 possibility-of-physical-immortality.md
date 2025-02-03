@@ -1,12 +1,13 @@
 ---
 topic_title: "possibility of physical immortality"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/possibility-of-physical-immortality
-num_views: 11855
+topic_id: 18844
 num_posts: 33
 date_first: 2005-05-01
 date_last: 2005-06-09
-tags: []
+num_views: 11855
 summary: ""
+tags: []
 ---
 
 ## \#0/32 (0) [2005-05-01 14:34:26](https://www.astralpulse.com/forums/index.php?msg=162670), [Beero](https://www.astralpulse.com/forums/profile/?u=8640)  ##

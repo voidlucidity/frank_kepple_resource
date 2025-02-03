@@ -1,12 +1,13 @@
 ---
 topic_title: "Ratzinger Elected Pope"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/ratzinger-elected-pope
-num_views: 2017
+topic_id: 18617
 num_posts: 6
 date_first: 2005-04-19
 date_last: 2005-04-22
-tags: []
+num_views: 2017
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-04-19 14:30:13](https://www.astralpulse.com/forums/index.php?msg=160950), [mactombs](https://www.astralpulse.com/forums/profile/?u=5553) (UT)USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Search engine question"
 topic_url: https://www.astralpulse.com/forums/forums-bugs-reports-and-questions/search-engine-question
-num_views: 2592
+topic_id: 19613
 num_posts: 2
 date_first: 2005-06-30
 date_last: 2005-07-04
-tags: []
+num_views: 2592
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-06-30 14:43:52](https://www.astralpulse.com/forums/index.php?msg=168540), [Raffles](https://www.astralpulse.com/forums/profile/?u=9235) huddersfield - UK ##

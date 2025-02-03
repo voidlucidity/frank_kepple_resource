@@ -1,12 +1,13 @@
 ---
 topic_title: "Etherial Projection: feedback needed"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/etherial-projection-feedback-needed
-num_views: 4340
+topic_id: 607
 num_posts: 9
 date_first: 2002-04-09
 date_last: 2002-04-15
-tags: []
+num_views: 4340
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2002-04-09 05:01:38](https://www.astralpulse.com/forums/index.php?msg=116360), [solstice](https://www.astralpulse.com/forums/profile/?u=428) USA ##

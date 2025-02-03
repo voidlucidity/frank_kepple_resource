@@ -1,12 +1,13 @@
 ---
 topic_title: "is anybody on this board not a teenager?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-energy-body-and-the-chakras/is-anybody-on-this-board-not-a-teenager
-num_views: 6785
+topic_id: 3461
 num_posts: 24
 date_first: 2003-02-12
 date_last: 2003-02-15
-tags: []
+num_views: 6785
 summary: ""
+tags: []
 ---
 
 ## \#0/23 (23) [2003-02-12 20:19:01](https://www.astralpulse.com/forums/index.php?msg=119183), [hashpuppet](https://www.astralpulse.com/forums/profile/?u=1853) USA ##

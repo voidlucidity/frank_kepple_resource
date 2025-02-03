@@ -1,12 +1,13 @@
 ---
 topic_title: "New here, urgent questions!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/new-here-urgent-questions%21
-num_views: 1435
+topic_id: 18296
 num_posts: 4
 date_first: 2005-04-01
 date_last: 2005-04-01
-tags: []
+num_views: 1435
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-04-01 11:09:02](https://www.astralpulse.com/forums/index.php?msg=158535), [SylvrFlwr](https://www.astralpulse.com/forums/profile/?u=8754) SC ##

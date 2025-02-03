@@ -1,12 +1,13 @@
 ---
 topic_title: "First Experiences??"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/first-experiences
-num_views: 1749
+topic_id: 1408
 num_posts: 5
 date_first: 2002-07-19
 date_last: 2002-07-20
-tags: []
+num_views: 1749
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2002-07-19 02:16:00](https://www.astralpulse.com/forums/index.php?msg=117145), [neopete](https://www.astralpulse.com/forums/profile/?u=828) United Kingdom ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Is this a RTZ Obe?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/is-this-a-rtz-obe
-num_views: 1291
+topic_id: 19417
 num_posts: 2
 date_first: 2005-06-16
 date_last: 2005-06-16
-tags: []
+num_views: 1291
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-06-16 12:06:07](https://www.astralpulse.com/forums/index.php?msg=166848), [LOBO1](https://www.astralpulse.com/forums/profile/?u=7723)  ##

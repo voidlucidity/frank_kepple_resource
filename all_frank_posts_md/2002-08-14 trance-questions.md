@@ -1,12 +1,13 @@
 ---
 topic_title: "Trance Questions"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/trance-questions
-num_views: 18349
+topic_id: 1664
 num_posts: 35
 date_first: 2002-08-14
 date_last: 2002-08-24
-tags: []
+num_views: 18349
 summary: ""
+tags: []
 ---
 
 ## \#0/34 (34) [2002-08-14 02:29:07](https://www.astralpulse.com/forums/index.php?msg=117399), [Shayde](https://www.astralpulse.com/forums/profile/?u=1012) USA ##

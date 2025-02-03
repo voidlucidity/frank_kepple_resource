@@ -1,12 +1,13 @@
 ---
 topic_title: "Dragons, dragon souls"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/dragons-dragon-souls
-num_views: 29470
+topic_id: 15559
 num_posts: 63
 date_first: 2004-12-02
 date_last: 2004-12-25
-tags: []
+num_views: 29470
 summary: ""
+tags: []
 ---
 
 ## \#0/62 (0) [2004-12-02 02:31:35](https://www.astralpulse.com/forums/index.php?msg=135665), [daem0n](https://www.astralpulse.com/forums/profile/?u=6303)  ##

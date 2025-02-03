@@ -1,12 +1,13 @@
 ---
 topic_title: "more of a question about the time of departure"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/more-of-a-question-about-the-time-of-departure
-num_views: 1030
+topic_id: 18640
 num_posts: 2
 date_first: 2005-04-20
 date_last: 2005-04-20
-tags: []
+num_views: 1030
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-04-20 22:21:44](https://www.astralpulse.com/forums/index.php?msg=161172), [GiviFaaip](https://www.astralpulse.com/forums/profile/?u=8896) va ##

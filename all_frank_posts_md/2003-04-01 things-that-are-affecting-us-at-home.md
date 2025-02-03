@@ -1,12 +1,13 @@
 ---
 topic_title: "Things that are affecting us at home"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/things-that-are-affecting-us-at-home
-num_views: 5217
+topic_id: 4019
 num_posts: 20
 date_first: 2003-04-01
 date_last: 2003-04-02
-tags: []
+num_views: 5217
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (19) [2003-04-01 11:26:56](https://www.astralpulse.com/forums/index.php?msg=119734), Anonymous  ##

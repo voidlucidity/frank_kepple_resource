@@ -1,12 +1,13 @@
 ---
 topic_title: "NEGS - real entities or just old fears?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/negs-real-entities-or-just-old-fears
-num_views: 5344
+topic_id: 1535
 num_posts: 16
 date_first: 2002-07-31
 date_last: 2002-08-03
-tags: []
+num_views: 5344
 summary: ""
+tags: []
 ---
 
 ## \#0/15 (15) [2002-07-31 06:22:32](https://www.astralpulse.com/forums/index.php?msg=117272), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

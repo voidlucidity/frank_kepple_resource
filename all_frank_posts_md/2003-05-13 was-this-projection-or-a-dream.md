@@ -1,12 +1,13 @@
 ---
 topic_title: "Was this projection or a dream?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/was-this-projection-or-a-dream
-num_views: 1474
+topic_id: 4567
 num_posts: 4
 date_first: 2003-05-13
 date_last: 2003-05-16
-tags: []
+num_views: 1474
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2003-05-13 23:55:57](https://www.astralpulse.com/forums/index.php?msg=120268), [Slyder](https://www.astralpulse.com/forums/profile/?u=2057) United Kingdom ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Can it be dangerous?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/can-it-be-dangerous
-num_views: 5444
+topic_id: 19301
 num_posts: 14
 date_first: 2005-06-10
 date_last: 2005-06-21
-tags: []
+num_views: 5444
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (0) [2005-06-10 08:35:34](https://www.astralpulse.com/forums/index.php?msg=166115), [darkhorse](https://www.astralpulse.com/forums/profile/?u=9211) Around York, England ##

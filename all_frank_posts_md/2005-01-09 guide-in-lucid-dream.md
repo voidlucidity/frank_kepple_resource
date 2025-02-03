@@ -1,12 +1,13 @@
 ---
 topic_title: "Guide in lucid dream"
 topic_url: https://www.astralpulse.com/forums/welcome-to-dreams!/guide-in-lucid-dream
-num_views: 1645
+topic_id: 16345
 num_posts: 5
 date_first: 2005-01-09
 date_last: 2005-01-12
-tags: []
+num_views: 1645
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-01-09 20:28:20](https://www.astralpulse.com/forums/index.php?msg=142068), [markulous](https://www.astralpulse.com/forums/profile/?u=7426)  ##

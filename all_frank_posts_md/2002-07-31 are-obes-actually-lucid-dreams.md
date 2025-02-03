@@ -1,12 +1,13 @@
 ---
 topic_title: "Are OBEs actually lucid dreams?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/are-obes-actually-lucid-dreams
-num_views: 11552
+topic_id: 1537
 num_posts: 32
 date_first: 2002-07-31
 date_last: 2002-09-03
-tags: []
+num_views: 11552
 summary: ""
+tags: []
 ---
 
 ## \#0/31 (31) [2002-07-31 09:57:07](https://www.astralpulse.com/forums/index.php?msg=117274), [mikji](https://www.astralpulse.com/forums/profile/?u=914) USA ##

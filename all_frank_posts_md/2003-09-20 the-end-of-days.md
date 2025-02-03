@@ -1,12 +1,13 @@
 ---
 topic_title: "The End of Days?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-world-cultures-traditions-and-religions!/the-end-of-days
-num_views: 16101
+topic_id: 7569
 num_posts: 63
 date_first: 2003-09-20
 date_last: 2005-03-02
-tags: []
+num_views: 16101
 summary: ""
+tags: []
 ---
 
 ## \#0/62 (52) [2003-09-20 15:28:01](https://www.astralpulse.com/forums/index.php?msg=122968), [Beth](https://www.astralpulse.com/forums/profile/?u=3463) USA ##

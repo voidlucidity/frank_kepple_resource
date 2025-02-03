@@ -1,12 +1,13 @@
 ---
 topic_title: "IT chuckles"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/it-chuckles
-num_views: 1321
+topic_id: 3184
 num_posts: 2
 date_first: 2003-01-17
 date_last: 2003-01-17
-tags: []
+num_views: 1321
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (1) [2003-01-17 14:54:05](https://www.astralpulse.com/forums/index.php?msg=118911), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

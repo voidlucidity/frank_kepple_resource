@@ -1,12 +1,13 @@
 ---
 topic_title: "The GATEWAY Expierience"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/the-gateway-expierience
-num_views: 2583
+topic_id: 18535
 num_posts: 5
 date_first: 2005-04-13
 date_last: 2005-04-14
-tags: []
+num_views: 2583
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-04-13 21:43:15](https://www.astralpulse.com/forums/index.php?msg=160173), [Astralwych](https://www.astralpulse.com/forums/profile/?u=7595) Southern California where its ALWAYS hot! ##

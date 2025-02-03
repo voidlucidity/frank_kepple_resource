@@ -1,12 +1,13 @@
 ---
 topic_title: "My phasing experiences"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/my-phasing-experiences
-num_views: 4665
+topic_id: 19058
 num_posts: 13
 date_first: 2005-05-27
 date_last: 2005-06-27
-tags: []
+num_views: 4665
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (0) [2005-05-27 07:04:42](https://www.astralpulse.com/forums/index.php?msg=164358), [juicywatermelon](https://www.astralpulse.com/forums/profile/?u=2564) Paris, France ##

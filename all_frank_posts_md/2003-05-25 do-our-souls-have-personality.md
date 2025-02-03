@@ -1,12 +1,13 @@
 ---
 topic_title: "Do our souls have personality?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/do-our-souls-have-personality
-num_views: 1914
+topic_id: 4689
 num_posts: 5
 date_first: 2003-05-25
 date_last: 2003-06-01
-tags: []
+num_views: 1914
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-05-25 16:55:25](https://www.astralpulse.com/forums/index.php?msg=120387), [Spirit_Gurl](https://www.astralpulse.com/forums/profile/?u=1873) USA ##

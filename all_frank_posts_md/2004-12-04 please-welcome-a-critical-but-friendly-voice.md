@@ -1,12 +1,13 @@
 ---
 topic_title: "Please welcome a critical but friendly voice"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/please-welcome-a-critical-but-friendly-voice
-num_views: 2067
+topic_id: 15609
 num_posts: 5
 date_first: 2004-12-04
 date_last: 2004-12-05
-tags: []
+num_views: 2067
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2004-12-04 21:30:21](https://www.astralpulse.com/forums/index.php?msg=136130), [gurugeorge](https://www.astralpulse.com/forums/profile/?u=7501) London, UK ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "The Origin of Spirits"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/the-origin-of-spirits
-num_views: 1397
+topic_id: 17501
 num_posts: 3
 date_first: 2005-02-21
 date_last: 2005-02-21
-tags: []
+num_views: 1397
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-02-21 06:31:42](https://www.astralpulse.com/forums/index.php?msg=151149), [astralspinner](https://www.astralpulse.com/forums/profile/?u=888) United Kingdom ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Quest for seperation..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/quest-for-seperation
-num_views: 1549
+topic_id: 17411
 num_posts: 5
 date_first: 2005-02-18
 date_last: 2005-02-21
-tags: []
+num_views: 1549
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-02-18 15:38:48](https://www.astralpulse.com/forums/index.php?msg=150485), [PardonMe](https://www.astralpulse.com/forums/profile/?u=8427) USA ##

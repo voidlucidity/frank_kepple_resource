@@ -1,12 +1,13 @@
 ---
 topic_title: "Kryon: The Truth About DNA"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/kryon-the-truth-about-dna
-num_views: 6016
+topic_id: 15829
 num_posts: 18
 date_first: 2004-12-14
 date_last: 2005-01-15
-tags: []
+num_views: 6016
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (0) [2004-12-14 11:58:00](https://www.astralpulse.com/forums/index.php?msg=137969), [Rastus](https://www.astralpulse.com/forums/profile/?u=6268) USA ##

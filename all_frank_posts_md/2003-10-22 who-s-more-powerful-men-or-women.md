@@ -1,12 +1,13 @@
 ---
 topic_title: "Who's more powerful: Men or Women?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-magic!/who-s-more-powerful-men-or-women
-num_views: 43231
+topic_id: 8330
 num_posts: 131
 date_first: 2003-10-22
 date_last: 2005-02-19
-tags: []
+num_views: 43231
 summary: ""
+tags: []
 ---
 
 ## \#0/130 (109) [2003-10-22 20:02:03](https://www.astralpulse.com/forums/index.php?msg=123638), [Tisha](https://www.astralpulse.com/forums/profile/?u=594) USA ##

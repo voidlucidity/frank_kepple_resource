@@ -1,12 +1,13 @@
 ---
 topic_title: "vibrations--have i projected????"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/vibrations-have-i-projected
-num_views: 1430
+topic_id: 1135
 num_posts: 3
 date_first: 2002-06-15
 date_last: 2002-06-15
-tags: []
+num_views: 1430
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2002-06-15 06:13:27](https://www.astralpulse.com/forums/index.php?msg=116873), [rodentmouse](https://www.astralpulse.com/forums/profile/?u=554) United Kingdom ##

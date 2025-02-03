@@ -1,12 +1,13 @@
 ---
 topic_title: "Do you have a sleep disorder?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-dreams!/do-you-have-a-sleep-disorder
-num_views: 4587
+topic_id: 18408
 num_posts: 13
 date_first: 2005-04-07
 date_last: 2005-05-02
-tags: []
+num_views: 4587
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (0) [2005-04-07 16:59:10](https://www.astralpulse.com/forums/index.php?msg=159352), [SylvrFlwr](https://www.astralpulse.com/forums/profile/?u=8754) SC ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "success followed by down time?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/success-followed-by-down-time
-num_views: 2233
+topic_id: 1129
 num_posts: 6
 date_first: 2002-06-14
 date_last: 2002-06-15
-tags: []
+num_views: 2233
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-06-14 09:43:08](https://www.astralpulse.com/forums/index.php?msg=116867), [Patty](https://www.astralpulse.com/forums/profile/?u=673) USA ##

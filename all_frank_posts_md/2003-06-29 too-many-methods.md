@@ -1,12 +1,13 @@
 ---
 topic_title: "Too many methods"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/too-many-methods
-num_views: 4817
+topic_id: 5307
 num_posts: 18
 date_first: 2003-06-29
 date_last: 2003-08-16
-tags: []
+num_views: 4817
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (17) [2003-06-29 20:33:48](https://www.astralpulse.com/forums/index.php?msg=120978), [Amber](https://www.astralpulse.com/forums/profile/?u=1626) USA ##

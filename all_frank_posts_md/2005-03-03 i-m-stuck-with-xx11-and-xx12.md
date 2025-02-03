@@ -1,12 +1,13 @@
 ---
 topic_title: "I'm stuck with XX:11 and XX:12"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/i-m-stuck-with-xx11-and-xx12
-num_views: 7836
+topic_id: 17748
 num_posts: 36
 date_first: 2005-03-03
 date_last: 2005-03-08
-tags: []
+num_views: 7836
 summary: ""
+tags: []
 ---
 
 ## \#0/35 (0) [2005-03-03 14:05:54](https://www.astralpulse.com/forums/index.php?msg=153612), [Psan](https://www.astralpulse.com/forums/profile/?u=7878)  ##

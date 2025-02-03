@@ -1,12 +1,13 @@
 ---
 topic_title: "Sept. 11 is George Bush's fault"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/sept-11-is-george-bush-s-fault
-num_views: 37048
+topic_id: 955
 num_posts: 84
 date_first: 2002-05-17
 date_last: 2002-06-06
-tags: []
+num_views: 37048
 summary: ""
+tags: []
 ---
 
 ## \#0/83 (83) [2002-05-17 12:27:39](https://www.astralpulse.com/forums/index.php?msg=116693), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

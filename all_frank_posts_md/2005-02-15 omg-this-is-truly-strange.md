@@ -1,12 +1,13 @@
 ---
 topic_title: "omg this is truly strange"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/omg-this-is-truly-strange
-num_views: 9749
+topic_id: 17312
 num_posts: 32
 date_first: 2005-02-15
 date_last: 2005-03-08
-tags: []
+num_views: 9749
 summary: ""
+tags: []
 ---
 
 ## \#0/31 (0) [2005-02-15 14:08:59](https://www.astralpulse.com/forums/index.php?msg=149784), [malim](https://www.astralpulse.com/forums/profile/?u=8384)  ##

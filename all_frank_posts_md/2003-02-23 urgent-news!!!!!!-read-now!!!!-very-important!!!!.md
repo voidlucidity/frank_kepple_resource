@@ -1,12 +1,13 @@
 ---
 topic_title: "URGENT NEWS!!!!!! READ NOW!!!! VERY  IMPORTANT!!!!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/urgent-news%21%21%21%21%21%21-read-now%21%21%21%21-very-important%21%21%21%21
-num_views: 8235
+topic_id: 3584
 num_posts: 27
 date_first: 2003-02-23
 date_last: 2003-03-13
-tags: []
+num_views: 8235
 summary: ""
+tags: []
 ---
 
 ## \#0/26 (26) [2003-02-23 15:46:50](https://www.astralpulse.com/forums/index.php?msg=119304), [Spirit_Gurl](https://www.astralpulse.com/forums/profile/?u=1873) USA ##

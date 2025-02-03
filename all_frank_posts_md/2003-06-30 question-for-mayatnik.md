@@ -1,12 +1,13 @@
 ---
 topic_title: "Question for Mayatnik"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/question-for-mayatnik
-num_views: 33804
+topic_id: 5318
 num_posts: 87
 date_first: 2003-06-30
 date_last: 2003-09-09
-tags: []
+num_views: 33804
 summary: ""
+tags: []
 ---
 
 ## \#0/86 (86) [2003-06-30 07:14:29](https://www.astralpulse.com/forums/index.php?msg=120988), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

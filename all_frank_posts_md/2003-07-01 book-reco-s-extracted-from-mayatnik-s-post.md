@@ -1,12 +1,13 @@
 ---
 topic_title: "Book reco's extracted from Mayatnik's post"
 topic_url: https://www.astralpulse.com/forums/welcome-to-book-reviews!/book-reco-s-extracted-from-mayatnik-s-post
-num_views: 5805
+topic_id: 5344
 num_posts: 7
 date_first: 2003-07-01
 date_last: 2003-07-09
-tags: []
+num_views: 5805
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2003-07-01 05:46:45](https://www.astralpulse.com/forums/index.php?msg=121012), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

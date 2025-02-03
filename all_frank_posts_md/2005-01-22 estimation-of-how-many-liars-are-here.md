@@ -1,12 +1,13 @@
 ---
 topic_title: "Estimation of how many LIARS are here"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/estimation-of-how-many-liars-are-here
-num_views: 18275
+topic_id: 16682
 num_posts: 55
 date_first: 2005-01-22
 date_last: 2005-02-03
-tags: []
+num_views: 18275
 summary: ""
+tags: []
 ---
 
 ## \#0/54 (0) [2005-01-22 21:57:27](https://www.astralpulse.com/forums/index.php?msg=144389), beavis  ##

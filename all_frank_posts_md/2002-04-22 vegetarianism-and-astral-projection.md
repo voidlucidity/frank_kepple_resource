@@ -1,12 +1,13 @@
 ---
 topic_title: "Vegetarianism and Astral Projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/vegetarianism-and-astral-projection
-num_views: 4437
+topic_id: 757
 num_posts: 5
 date_first: 2002-04-22
 date_last: 2002-04-23
-tags: []
+num_views: 4437
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2002-04-22 14:41:50](https://www.astralpulse.com/forums/index.php?msg=116501), [nitetravler](https://www.astralpulse.com/forums/profile/?u=112) USA ##

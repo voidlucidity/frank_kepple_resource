@@ -1,12 +1,13 @@
 ---
 topic_title: "Mantra - Incense - etc.."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/mantra-incense-etc
-num_views: 4092
+topic_id: 16823
 num_posts: 10
 date_first: 2005-01-28
 date_last: 2005-01-31
-tags: []
+num_views: 4092
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2005-01-28 14:36:29](https://www.astralpulse.com/forums/index.php?msg=145506), [J.K.](https://www.astralpulse.com/forums/profile/?u=7742) Southern MS - USA ##

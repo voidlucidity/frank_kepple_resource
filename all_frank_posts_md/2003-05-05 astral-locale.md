@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Locale"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-pulse-island!/astral-locale
-num_views: 197353
+topic_id: 4462
 num_posts: 278
 date_first: 2003-05-05
 date_last: 2016-07-12
-tags: []
+num_views: 197353
 summary: ""
+tags: []
 ---
 
 ## \#0/277 (256) [2003-05-05 15:00:16](https://www.astralpulse.com/forums/index.php?msg=120166), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

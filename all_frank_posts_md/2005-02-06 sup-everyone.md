@@ -1,12 +1,13 @@
 ---
 topic_title: "sup  everyone"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/sup-everyone
-num_views: 1650
+topic_id: 17084
 num_posts: 4
 date_first: 2005-02-06
 date_last: 2005-02-14
-tags: []
+num_views: 1650
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-02-06 15:13:05](https://www.astralpulse.com/forums/index.php?msg=147516), [Yung Nate](https://www.astralpulse.com/forums/profile/?u=8273) Pawtucket RI ##

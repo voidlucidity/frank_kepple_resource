@@ -1,12 +1,13 @@
 ---
 topic_title: "I want to stayout longer"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/i-want-to-stayout-longer
-num_views: 1422
+topic_id: 4960
 num_posts: 4
 date_first: 2003-06-11
 date_last: 2003-06-11
-tags: []
+num_views: 1422
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2003-06-11 04:59:08](https://www.astralpulse.com/forums/index.php?msg=120651), [Blondie](https://www.astralpulse.com/forums/profile/?u=2395) USA ##

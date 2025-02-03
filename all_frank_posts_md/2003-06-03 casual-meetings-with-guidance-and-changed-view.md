@@ -1,12 +1,13 @@
 ---
 topic_title: "Casual Meetings with Guidance and Changed View"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/casual-meetings-with-guidance-and-changed-view
-num_views: 4466
+topic_id: 4821
 num_posts: 11
 date_first: 2003-06-03
 date_last: 2003-06-11
-tags: []
+num_views: 4466
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (10) [2003-06-03 07:56:33](https://www.astralpulse.com/forums/index.php?msg=120513), [sweet_celestial_sounds](https://www.astralpulse.com/forums/profile/?u=1975) USA ##

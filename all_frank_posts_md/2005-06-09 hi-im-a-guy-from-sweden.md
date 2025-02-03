@@ -1,12 +1,13 @@
 ---
 topic_title: "Hi, I´m a guy from Sweden"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/hi-im-a-guy-from-sweden
-num_views: 4780
+topic_id: 19285
 num_posts: 6
 date_first: 2005-06-09
 date_last: 2005-06-19
-tags: []
+num_views: 4780
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-06-09 15:44:31](https://www.astralpulse.com/forums/index.php?msg=166037), [magic](https://www.astralpulse.com/forums/profile/?u=9163) SWEDEN ##

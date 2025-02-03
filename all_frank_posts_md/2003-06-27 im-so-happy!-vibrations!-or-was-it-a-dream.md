@@ -1,12 +1,13 @@
 ---
 topic_title: "Im so happy! VIBRATIONS!...Or was it a dream..?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/im-so-happy%21-vibrations%21-or-was-it-a-dream
-num_views: 3746
+topic_id: 5259
 num_posts: 10
 date_first: 2003-06-27
 date_last: 2003-06-30
-tags: []
+num_views: 3746
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2003-06-27 10:29:27](https://www.astralpulse.com/forums/index.php?msg=120933), [Paul_kcn](https://www.astralpulse.com/forums/profile/?u=2591) USA ##

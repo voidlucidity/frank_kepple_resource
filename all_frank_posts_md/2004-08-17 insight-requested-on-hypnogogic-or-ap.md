@@ -1,12 +1,13 @@
 ---
 topic_title: "insight requested on hypnogogic or AP"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/insight-requested-on-hypnogogic-or-ap
-num_views: 1540
+topic_id: 13946
 num_posts: 5
 date_first: 2004-08-17
 date_last: 2004-08-18
-tags: []
+num_views: 1540
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (3) [2004-08-17 10:33:26](https://www.astralpulse.com/forums/index.php?msg=128830), [Seven](https://www.astralpulse.com/forums/profile/?u=6408) United Kingdom ##

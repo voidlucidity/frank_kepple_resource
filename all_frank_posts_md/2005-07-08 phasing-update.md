@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing Update"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/phasing-update
-num_views: 4349
+topic_id: 19736
 num_posts: 11
 date_first: 2005-07-08
 date_last: 2005-07-11
-tags: []
+num_views: 4349
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-07-08 16:10:58](https://www.astralpulse.com/forums/index.php?msg=169478), [Selski](https://www.astralpulse.com/forums/profile/?u=6012) England, UK ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "phasing- ap question"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/phasing-ap-question
-num_views: 5169
+topic_id: 18361
 num_posts: 18
 date_first: 2005-04-05
 date_last: 2005-04-14
-tags: []
+num_views: 5169
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (0) [2005-04-05 13:20:30](https://www.astralpulse.com/forums/index.php?msg=159093), [sk_nh](https://www.astralpulse.com/forums/profile/?u=7270)  ##

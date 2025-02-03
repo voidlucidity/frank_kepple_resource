@@ -1,12 +1,13 @@
 ---
 topic_title: "AP roadblock.  Argh!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/ap-roadblock-argh%21
-num_views: 1386
+topic_id: 13866
 num_posts: 3
 date_first: 2004-08-14
 date_last: 2004-08-14
-tags: []
+num_views: 1386
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2004-08-14 01:11:42](https://www.astralpulse.com/forums/index.php?msg=128753), [Palehorse](https://www.astralpulse.com/forums/profile/?u=5313) USA ##

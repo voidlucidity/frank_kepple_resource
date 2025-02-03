@@ -1,12 +1,13 @@
 ---
 topic_title: "Views on anti-depressive meds"
 topic_url: https://www.astralpulse.com/forums/welcome-to-healing-discussions!/views-on-anti-depressive-meds
-num_views: 5956
+topic_id: 18359
 num_posts: 15
 date_first: 2005-04-05
 date_last: 2005-04-07
-tags: []
+num_views: 5956
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (0) [2005-04-05 11:20:51](https://www.astralpulse.com/forums/index.php?msg=159082), [knucklebrain1970](https://www.astralpulse.com/forums/profile/?u=7282) Worcester, MA ##

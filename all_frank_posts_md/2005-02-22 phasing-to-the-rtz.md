@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing to the RTZ"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/phasing-to-the-rtz
-num_views: 8848
+topic_id: 17529
 num_posts: 19
 date_first: 2005-02-22
 date_last: 2005-03-01
-tags: []
+num_views: 8848
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (0) [2005-02-22 19:48:32](https://www.astralpulse.com/forums/index.php?msg=151646), [Andali27](https://www.astralpulse.com/forums/profile/?u=6413) Australia ##

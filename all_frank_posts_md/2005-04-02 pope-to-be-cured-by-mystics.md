@@ -1,12 +1,13 @@
 ---
 topic_title: "Pope to be cured by mystics"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/pope-to-be-cured-by-mystics
-num_views: 6769
+topic_id: 18316
 num_posts: 20
 date_first: 2005-04-02
 date_last: 2005-04-03
-tags: []
+num_views: 6769
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (0) [2005-04-02 15:44:19](https://www.astralpulse.com/forums/index.php?msg=158723), [Telos](https://www.astralpulse.com/forums/profile/?u=6496)  ##

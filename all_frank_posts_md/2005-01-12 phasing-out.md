@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing out?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/phasing-out
-num_views: 1345
+topic_id: 16411
 num_posts: 4
 date_first: 2005-01-12
 date_last: 2005-01-13
-tags: []
+num_views: 1345
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-01-12 21:03:20](https://www.astralpulse.com/forums/index.php?msg=142573), [dharma_talk](https://www.astralpulse.com/forums/profile/?u=7999) Lexington, KY ##

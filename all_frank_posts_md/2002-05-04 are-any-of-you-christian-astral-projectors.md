@@ -1,12 +1,13 @@
 ---
 topic_title: "Are any of you Christian Astral Projectors?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/are-any-of-you-christian-astral-projectors
-num_views: 15375
+topic_id: 860
 num_posts: 36
 date_first: 2002-05-04
 date_last: 2005-04-03
-tags: []
+num_views: 15375
 summary: ""
+tags: []
 ---
 
 ## \#0/35 (28) [2002-05-04 03:12:55](https://www.astralpulse.com/forums/index.php?msg=116602), [BlueLight](https://www.astralpulse.com/forums/profile/?u=542) USA ##

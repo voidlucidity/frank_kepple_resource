@@ -1,12 +1,13 @@
 ---
 topic_title: "The Medical Monopoly"
 topic_url: https://www.astralpulse.com/forums/welcome-to-healing-discussions!/the-medical-monopoly
-num_views: 2988
+topic_id: 16625
 num_posts: 5
 date_first: 2005-01-20
 date_last: 2005-02-11
-tags: []
+num_views: 2988
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-01-20 06:36:29](https://www.astralpulse.com/forums/index.php?msg=143860), [Eol007](https://www.astralpulse.com/forums/profile/?u=1893)  ##

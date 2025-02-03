@@ -1,12 +1,13 @@
 ---
 topic_title: "What is the frequency of the astral plane?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/what-is-the-frequency-of-the-astral-plane
-num_views: 12582
+topic_id: 5300
 num_posts: 23
 date_first: 2003-06-29
 date_last: 2003-07-19
-tags: []
+num_views: 12582
 summary: ""
+tags: []
 ---
 
 ## \#0/22 (22) [2003-06-29 12:53:00](https://www.astralpulse.com/forums/index.php?msg=120971), [DrShaman](https://www.astralpulse.com/forums/profile/?u=2658) Sweden ##

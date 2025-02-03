@@ -1,12 +1,13 @@
 ---
 topic_title: "First astral experience!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/first-astral-experience%21
-num_views: 3926
+topic_id: 2314
 num_posts: 9
 date_first: 2002-10-21
 date_last: 2002-10-23
-tags: []
+num_views: 3926
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2002-10-21 10:36:20](https://www.astralpulse.com/forums/index.php?msg=118048), [ralphm](https://www.astralpulse.com/forums/profile/?u=488) USA ##

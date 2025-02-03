@@ -1,12 +1,13 @@
 ---
 topic_title: "self and ego"
 topic_url: https://www.astralpulse.com/forums/welcome-to-world-cultures-traditions-and-religions!/self-and-ego
-num_views: 3037
+topic_id: 16429
 num_posts: 9
 date_first: 2005-01-13
 date_last: 2005-01-31
-tags: []
+num_views: 3037
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (0) [2005-01-13 16:02:51](https://www.astralpulse.com/forums/index.php?msg=142731), [samsara](https://www.astralpulse.com/forums/profile/?u=5657) United Kingdom ##

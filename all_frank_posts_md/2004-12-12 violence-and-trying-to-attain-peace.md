@@ -1,12 +1,13 @@
 ---
 topic_title: "Violence and Trying to Attain Peace"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/violence-and-trying-to-attain-peace
-num_views: 2462
+topic_id: 15773
 num_posts: 8
 date_first: 2004-12-12
 date_last: 2004-12-13
-tags: []
+num_views: 2462
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2004-12-12 18:13:45](https://www.astralpulse.com/forums/index.php?msg=137511), [The AlphaOmega](https://www.astralpulse.com/forums/profile/?u=3978) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "What is Phasing and how can I do it?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-the-astral-faq!/what-is-phasing-and-how-can-i-do-it
-num_views: 95433
+topic_id: 17413
 num_posts: 8
 date_first: 2005-02-18
 date_last: 2018-11-21
-tags: []
+num_views: 95433
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2005-02-18 15:45:01](https://www.astralpulse.com/forums/index.php?msg=150488), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

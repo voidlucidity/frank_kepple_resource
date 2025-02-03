@@ -1,12 +1,13 @@
 ---
 topic_title: "Advanced Spiritual Beings"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/advanced-spiritual-beings
-num_views: 3837
+topic_id: 4379
 num_posts: 12
 date_first: 2003-04-30
 date_last: 2003-05-06
-tags: []
+num_views: 3837
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2003-04-30 08:03:43](https://www.astralpulse.com/forums/index.php?msg=120085), [Tyler](https://www.astralpulse.com/forums/profile/?u=2226) United Kingdom ##

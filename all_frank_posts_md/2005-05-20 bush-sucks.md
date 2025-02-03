@@ -1,12 +1,13 @@
 ---
 topic_title: "Bush Sucks."
 topic_url: https://www.astralpulse.com/forums/welcome-to-news-and-media!/bush-sucks
-num_views: 53597
+topic_id: 18953
 num_posts: 154
 date_first: 2005-05-20
 date_last: 2005-08-26
-tags: []
+num_views: 53597
 summary: ""
+tags: []
 ---
 
 ## \#0/153 (0) [2005-05-20 09:58:42](https://www.astralpulse.com/forums/index.php?msg=163517), [Willis](https://www.astralpulse.com/forums/profile/?u=8017)  ##

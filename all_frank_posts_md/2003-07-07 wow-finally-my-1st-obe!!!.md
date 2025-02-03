@@ -1,12 +1,13 @@
 ---
 topic_title: "Wow, finally, my 1st OBE!!!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/wow-finally-my-1st-obe%21%21%21
-num_views: 4550
+topic_id: 5472
 num_posts: 15
 date_first: 2003-07-07
 date_last: 2003-07-18
-tags: []
+num_views: 4550
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (14) [2003-07-07 13:43:21](https://www.astralpulse.com/forums/index.php?msg=121131), [wantsumrice](https://www.astralpulse.com/forums/profile/?u=2622) USA ##

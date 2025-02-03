@@ -1,12 +1,13 @@
 ---
 topic_title: "The taken for granted reality of evil influences"
 topic_url: https://www.astralpulse.com/forums/welcome-to-book-reviews!/the-taken-for-granted-reality-of-evil-influences
-num_views: 2521
+topic_id: 15188
 num_posts: 4
 date_first: 2004-11-06
 date_last: 2004-11-13
-tags: []
+num_views: 2521
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2004-11-06 13:59:20](https://www.astralpulse.com/forums/index.php?msg=132701), [Major Tom](https://www.astralpulse.com/forums/profile/?u=1075) Canada ##

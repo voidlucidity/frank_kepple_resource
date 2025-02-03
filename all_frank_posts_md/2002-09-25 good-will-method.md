@@ -1,12 +1,13 @@
 ---
 topic_title: "\"Good Will\" Method"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/good-will-method
-num_views: 5742
+topic_id: 2026
 num_posts: 10
 date_first: 2002-09-25
 date_last: 2002-09-28
-tags: []
+num_views: 5742
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2002-09-25 17:07:06](https://www.astralpulse.com/forums/index.php?msg=117760), [suzyduda](https://www.astralpulse.com/forums/profile/?u=1220) Djibouti ##

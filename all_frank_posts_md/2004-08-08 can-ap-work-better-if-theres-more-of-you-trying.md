@@ -1,12 +1,13 @@
 ---
 topic_title: "can AP work better if theres more of you trying???"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/can-ap-work-better-if-theres-more-of-you-trying
-num_views: 1499
+topic_id: 13775
 num_posts: 4
 date_first: 2004-08-08
 date_last: 2004-08-17
-tags: []
+num_views: 1499
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2004-08-08 22:14:28](https://www.astralpulse.com/forums/index.php?msg=128665), [Andali27](https://www.astralpulse.com/forums/profile/?u=6413) Australia ##

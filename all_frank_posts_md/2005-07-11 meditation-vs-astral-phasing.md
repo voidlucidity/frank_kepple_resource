@@ -1,12 +1,13 @@
 ---
 topic_title: "Meditation vs Astral Phasing"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/meditation-vs-astral-phasing
-num_views: 9606
+topic_id: 19783
 num_posts: 19
 date_first: 2005-07-11
 date_last: 2005-08-13
-tags: []
+num_views: 9606
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (0) [2005-07-11 20:52:10](https://www.astralpulse.com/forums/index.php?msg=169852), [Wizard of Light](https://www.astralpulse.com/forums/profile/?u=9406) Australia ##

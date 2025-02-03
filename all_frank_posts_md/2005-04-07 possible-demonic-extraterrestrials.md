@@ -1,12 +1,13 @@
 ---
 topic_title: "Possible Demonic Extraterrestrials?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/possible-demonic-extraterrestrials
-num_views: 4040
+topic_id: 18407
 num_posts: 10
 date_first: 2005-04-07
 date_last: 2005-04-14
-tags: []
+num_views: 4040
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2005-04-07 16:46:28](https://www.astralpulse.com/forums/index.php?msg=159350), [phantomviewer](https://www.astralpulse.com/forums/profile/?u=8580)  ##

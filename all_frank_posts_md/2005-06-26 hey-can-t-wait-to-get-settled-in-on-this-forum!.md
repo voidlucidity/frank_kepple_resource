@@ -1,12 +1,13 @@
 ---
 topic_title: "Hey, Can't wait to get settled in on this forum!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/hey-can-t-wait-to-get-settled-in-on-this-forum%21
-num_views: 2220
+topic_id: 19564
 num_posts: 7
 date_first: 2005-06-26
 date_last: 2005-06-27
-tags: []
+num_views: 2220
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-06-26 16:37:22](https://www.astralpulse.com/forums/index.php?msg=168039), [Emmuh](https://www.astralpulse.com/forums/profile/?u=9308) Uk ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "higher and higher..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/higher-and-higher
-num_views: 3046
+topic_id: 17125
 num_posts: 6
 date_first: 2005-02-08
 date_last: 2005-02-11
-tags: []
+num_views: 3046
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-02-08 15:37:18](https://www.astralpulse.com/forums/index.php?msg=147930), [Major Tom](https://www.astralpulse.com/forums/profile/?u=1075) Canada ##

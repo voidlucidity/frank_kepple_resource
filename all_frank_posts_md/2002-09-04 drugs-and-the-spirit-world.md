@@ -1,12 +1,13 @@
 ---
 topic_title: "drugs and the spirit world"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/drugs-and-the-spirit-world
-num_views: 6291
+topic_id: 1826
 num_posts: 12
 date_first: 2002-09-04
 date_last: 2002-09-09
-tags: []
+num_views: 6291
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2002-09-04 18:07:01](https://www.astralpulse.com/forums/index.php?msg=117561), [nclkwrk](https://www.astralpulse.com/forums/profile/?u=983) USA ##

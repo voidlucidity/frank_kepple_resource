@@ -1,12 +1,13 @@
 ---
 topic_title: "HYPER DIMENSIONAL RESONATOR!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/hyper-dimensional-resonator%21
-num_views: 80504
+topic_id: 2921
 num_posts: 165
 date_first: 2002-12-20
 date_last: 2015-02-25
-tags: []
+num_views: 80504
 summary: ""
+tags: []
 ---
 
 ## \#0/164 (157) [2002-12-20 01:08:21](https://www.astralpulse.com/forums/index.php?msg=118651), [asstray85](https://www.astralpulse.com/forums/profile/?u=1408) USA ##

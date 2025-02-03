@@ -1,12 +1,13 @@
 ---
 topic_title: "what  exactly  IS  god???"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/what-exactly-is-god
-num_views: 2129
+topic_id: 4258
 num_posts: 6
 date_first: 2003-04-22
 date_last: 2003-04-23
-tags: []
+num_views: 2129
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2003-04-22 15:44:18](https://www.astralpulse.com/forums/index.php?msg=119967), [rodentmouse](https://www.astralpulse.com/forums/profile/?u=554) United Kingdom ##

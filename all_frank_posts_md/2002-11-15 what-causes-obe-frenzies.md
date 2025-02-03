@@ -1,12 +1,13 @@
 ---
 topic_title: "What causes OBE frenzies?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/what-causes-obe-frenzies
-num_views: 2749
+topic_id: 2586
 num_posts: 8
 date_first: 2002-11-15
 date_last: 2002-11-25
-tags: []
+num_views: 2749
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-11-15 09:11:48](https://www.astralpulse.com/forums/index.php?msg=118318), [fURIX](https://www.astralpulse.com/forums/profile/?u=1370) Norway ##

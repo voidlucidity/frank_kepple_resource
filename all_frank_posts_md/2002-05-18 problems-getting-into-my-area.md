@@ -1,12 +1,13 @@
 ---
 topic_title: "Problems Getting Into 'My Area'"
 topic_url: https://www.astralpulse.com/forums/forums-bugs-reports-and-questions/problems-getting-into-my-area
-num_views: 2777
+topic_id: 958
 num_posts: 7
 date_first: 2002-05-18
 date_last: 2002-05-19
-tags: []
+num_views: 2777
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-05-18 14:15:31](https://www.astralpulse.com/forums/index.php?msg=116696), [nitetravler](https://www.astralpulse.com/forums/profile/?u=112) USA ##

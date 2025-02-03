@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Phasing From the begining"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/astral-phasing-from-the-begining
-num_views: 2995
+topic_id: 17606
 num_posts: 6
 date_first: 2005-02-25
 date_last: 2005-02-26
-tags: []
+num_views: 2995
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-02-25 17:36:06](https://www.astralpulse.com/forums/index.php?msg=152372), [liquidreality](https://www.astralpulse.com/forums/profile/?u=8492)  ##

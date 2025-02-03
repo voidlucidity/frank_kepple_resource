@@ -1,12 +1,13 @@
 ---
 topic_title: "Being blocked by some force"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/being-blocked-by-some-force
-num_views: 1976
+topic_id: 19781
 num_posts: 5
 date_first: 2005-07-11
 date_last: 2005-07-14
-tags: []
+num_views: 1976
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-07-11 20:18:53](https://www.astralpulse.com/forums/index.php?msg=169847), [Shuriken](https://www.astralpulse.com/forums/profile/?u=9410)  ##

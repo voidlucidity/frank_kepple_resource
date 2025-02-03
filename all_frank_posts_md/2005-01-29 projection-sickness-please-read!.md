@@ -1,12 +1,13 @@
 ---
 topic_title: "Projection sickness please read!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/projection-sickness-please-read%21
-num_views: 4981
+topic_id: 16852
 num_posts: 16
 date_first: 2005-01-29
 date_last: 2005-01-31
-tags: []
+num_views: 4981
 summary: ""
+tags: []
 ---
 
 ## \#0/15 (0) [2005-01-29 12:05:29](https://www.astralpulse.com/forums/index.php?msg=145694), [majour ka](https://www.astralpulse.com/forums/profile/?u=4095) United Kingdom ##

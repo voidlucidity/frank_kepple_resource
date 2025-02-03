@@ -1,12 +1,13 @@
 ---
 topic_title: "A serious astral projection (for a change!)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/a-serious-astral-projection-for-a-change%21
-num_views: 4594
+topic_id: 14660
 num_posts: 7
 date_first: 2004-09-29
 date_last: 2004-10-02
-tags: []
+num_views: 4594
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2004-09-29 15:12:35](https://www.astralpulse.com/forums/index.php?msg=129524), [Selski](https://www.astralpulse.com/forums/profile/?u=6012) England, UK ##

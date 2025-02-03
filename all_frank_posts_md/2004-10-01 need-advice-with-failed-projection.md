@@ -1,12 +1,13 @@
 ---
 topic_title: "Need Advice With Failed Projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/need-advice-with-failed-projection
-num_views: 1355
+topic_id: 14698
 num_posts: 3
 date_first: 2004-10-01
 date_last: 2004-10-02
-tags: []
+num_views: 1355
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2004-10-01 23:53:02](https://www.astralpulse.com/forums/index.php?msg=129561), GroovyGoddess  ##

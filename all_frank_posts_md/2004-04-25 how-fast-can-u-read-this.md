@@ -1,12 +1,13 @@
 ---
 topic_title: "How fast can -u- read this???"
 topic_url: https://www.astralpulse.com/forums/welcome-to-writers-corner!/how-fast-can-u-read-this
-num_views: 9683
+topic_id: 11753
 num_posts: 19
 date_first: 2004-04-25
 date_last: 2005-11-24
-tags: []
+num_views: 9683
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (10) [2004-04-25 22:11:33](https://www.astralpulse.com/forums/index.php?msg=126757), [complexette](https://www.astralpulse.com/forums/profile/?u=5603) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Does Phasing consume energy ?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/does-phasing-consume-energy
-num_views: 1767
+topic_id: 18987
 num_posts: 4
 date_first: 2005-05-22
 date_last: 2005-05-24
-tags: []
+num_views: 1767
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-05-22 12:01:43](https://www.astralpulse.com/forums/index.php?msg=163757), [Eagle of Light](https://www.astralpulse.com/forums/profile/?u=9071) UK ##

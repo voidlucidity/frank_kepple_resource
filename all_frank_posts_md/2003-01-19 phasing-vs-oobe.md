@@ -1,12 +1,13 @@
 ---
 topic_title: "phasing vs oobe"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/phasing-vs-oobe
-num_views: 3479
+topic_id: 3204
 num_posts: 5
 date_first: 2003-01-19
 date_last: 2003-01-20
-tags: []
+num_views: 3479
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-01-19 11:46:22](https://www.astralpulse.com/forums/index.php?msg=118930), [Ash](https://www.astralpulse.com/forums/profile/?u=1730) Canada ##

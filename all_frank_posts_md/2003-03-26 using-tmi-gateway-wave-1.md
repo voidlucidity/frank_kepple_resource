@@ -1,12 +1,13 @@
 ---
 topic_title: "using TMI gateway wave 1"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/using-tmi-gateway-wave-1
-num_views: 3796
+topic_id: 3939
 num_posts: 6
 date_first: 2003-03-26
 date_last: 2003-04-05
-tags: []
+num_views: 3796
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2003-03-26 06:04:38](https://www.astralpulse.com/forums/index.php?msg=119655), [clandestino](https://www.astralpulse.com/forums/profile/?u=691) Australia ##

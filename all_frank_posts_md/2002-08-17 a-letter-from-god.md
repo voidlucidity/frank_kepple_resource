@@ -1,12 +1,13 @@
 ---
 topic_title: "A letter from God"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/a-letter-from-god
-num_views: 2221
+topic_id: 1686
 num_posts: 4
 date_first: 2002-08-17
 date_last: 2002-08-20
-tags: []
+num_views: 2221
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-08-17 15:54:34](https://www.astralpulse.com/forums/index.php?msg=117421), [Nerezza](https://www.astralpulse.com/forums/profile/?u=740) Canada ##

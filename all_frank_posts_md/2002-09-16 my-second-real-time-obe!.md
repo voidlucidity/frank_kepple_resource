@@ -1,12 +1,13 @@
 ---
 topic_title: "My second real time OBE!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/my-second-real-time-obe%21
-num_views: 3588
+topic_id: 1938
 num_posts: 9
 date_first: 2002-09-16
 date_last: 2002-09-23
-tags: []
+num_views: 3588
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2002-09-16 06:28:48](https://www.astralpulse.com/forums/index.php?msg=117672), [Tia](https://www.astralpulse.com/forums/profile/?u=50) United Kingdom ##

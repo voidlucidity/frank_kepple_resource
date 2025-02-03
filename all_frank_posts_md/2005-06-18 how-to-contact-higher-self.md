@@ -1,12 +1,13 @@
 ---
 topic_title: "How to Contact Higher Self??"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/how-to-contact-higher-self
-num_views: 4378
+topic_id: 19458
 num_posts: 14
 date_first: 2005-06-18
 date_last: 2005-06-24
-tags: []
+num_views: 4378
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (0) [2005-06-18 23:51:32](https://www.astralpulse.com/forums/index.php?msg=167160), [Sahab](https://www.astralpulse.com/forums/profile/?u=9269)  ##

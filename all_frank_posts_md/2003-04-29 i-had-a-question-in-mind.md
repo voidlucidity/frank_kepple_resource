@@ -1,12 +1,13 @@
 ---
 topic_title: "I had a question in mind..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/i-had-a-question-in-mind
-num_views: 5391
+topic_id: 4363
 num_posts: 15
 date_first: 2003-04-29
 date_last: 2003-07-09
-tags: []
+num_views: 5391
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (14) [2003-04-29 18:35:59](https://www.astralpulse.com/forums/index.php?msg=120069), [Parmenion](https://www.astralpulse.com/forums/profile/?u=1792) Ireland ##

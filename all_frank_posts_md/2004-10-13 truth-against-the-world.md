@@ -1,12 +1,13 @@
 ---
 topic_title: "Truth Against the World"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/truth-against-the-world
-num_views: 7716
+topic_id: 14775
 num_posts: 32
 date_first: 2004-10-13
 date_last: 2004-12-29
-tags: []
+num_views: 7716
 summary: ""
+tags: []
 ---
 
 ## \#0/31 (0) [2004-10-13 19:45:54](https://www.astralpulse.com/forums/index.php?msg=129964), Tayesin  ##

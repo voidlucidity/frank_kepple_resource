@@ -1,12 +1,13 @@
 ---
 topic_title: "No luck in having an obe :( I have some questions"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/no-luck-in-having-an-obe-i-have-some-questions
-num_views: 1342
+topic_id: 5148
 num_posts: 3
 date_first: 2003-06-20
 date_last: 2003-06-21
-tags: []
+num_views: 1342
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2003-06-20 20:43:10](https://www.astralpulse.com/forums/index.php?msg=120829), [NPerez](https://www.astralpulse.com/forums/profile/?u=2580) USA ##

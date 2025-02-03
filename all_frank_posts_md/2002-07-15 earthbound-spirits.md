@@ -1,12 +1,13 @@
 ---
 topic_title: "Earthbound Spirits"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/earthbound-spirits
-num_views: 10674
+topic_id: 1376
 num_posts: 32
 date_first: 2002-07-15
 date_last: 2002-08-14
-tags: []
+num_views: 10674
 summary: ""
+tags: []
 ---
 
 ## \#0/31 (31) [2002-07-15 21:37:47](https://www.astralpulse.com/forums/index.php?msg=117113), [Qball](https://www.astralpulse.com/forums/profile/?u=736)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Can anyone give me some decent answers?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/can-anyone-give-me-some-decent-answers
-num_views: 4349
+topic_id: 888
 num_posts: 11
 date_first: 2002-05-08
 date_last: 2011-04-06
-tags: []
+num_views: 4349
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (6) [2002-05-08 10:10:47](https://www.astralpulse.com/forums/index.php?msg=116630), [Omega-Sphere](https://www.astralpulse.com/forums/profile/?u=558) United Kingdom ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Get a free computer!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/get-a-free-computer%21
-num_views: 1823
+topic_id: 19122
 num_posts: 3
 date_first: 2005-06-01
 date_last: 2005-06-01
-tags: []
+num_views: 1823
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-06-01 05:02:24](https://www.astralpulse.com/forums/index.php?msg=164920), [yhickfoe](https://www.astralpulse.com/forums/profile/?u=8809) England ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Electric Blanket\" Good or Bad ?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/electric-blanket-good-or-bad
-num_views: 1972
+topic_id: 825
 num_posts: 2
 date_first: 2002-04-29
 date_last: 2002-04-30
-tags: []
+num_views: 1972
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (1) [2002-04-29 12:24:52](https://www.astralpulse.com/forums/index.php?msg=116569), [nightflier101](https://www.astralpulse.com/forums/profile/?u=495) USA ##

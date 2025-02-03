@@ -1,12 +1,13 @@
 ---
 topic_title: "fortune cookie experience"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/fortune-cookie-experience
-num_views: 1980
+topic_id: 19035
 num_posts: 5
 date_first: 2005-05-25
 date_last: 2005-05-26
-tags: []
+num_views: 1980
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-05-25 13:10:07](https://www.astralpulse.com/forums/index.php?msg=164109), [malim](https://www.astralpulse.com/forums/profile/?u=8384)  ##

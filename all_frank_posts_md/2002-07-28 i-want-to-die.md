@@ -1,12 +1,13 @@
 ---
 topic_title: "I want to die"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/i-want-to-die
-num_views: 17099
+topic_id: 1493
 num_posts: 48
 date_first: 2002-07-28
 date_last: 2011-01-29
-tags: []
+num_views: 17099
 summary: ""
+tags: []
 ---
 
 ## \#0/47 (-1) 2002-07-28 02:16:40, [u=608](https://www.astralpulse.com/forums/profile/?u=608)  ##

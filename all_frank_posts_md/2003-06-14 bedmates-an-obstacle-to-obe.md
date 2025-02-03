@@ -1,12 +1,13 @@
 ---
 topic_title: "Bedmates an obstacle to OBE?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/bedmates-an-obstacle-to-obe
-num_views: 3760
+topic_id: 5031
 num_posts: 12
 date_first: 2003-06-14
 date_last: 2003-06-16
-tags: []
+num_views: 3760
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2003-06-14 13:01:36](https://www.astralpulse.com/forums/index.php?msg=120718), [Lasher](https://www.astralpulse.com/forums/profile/?u=2390) USA ##

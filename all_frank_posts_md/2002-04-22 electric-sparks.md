@@ -1,12 +1,13 @@
 ---
 topic_title: "Electric sparks"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/electric-sparks
-num_views: 3139
+topic_id: 749
 num_posts: 9
 date_first: 2002-04-22
 date_last: 2002-05-24
-tags: []
+num_views: 3139
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2002-04-22 03:53:21](https://www.astralpulse.com/forums/index.php?msg=116494), [alfa_33au](https://www.astralpulse.com/forums/profile/?u=371) Australia ##

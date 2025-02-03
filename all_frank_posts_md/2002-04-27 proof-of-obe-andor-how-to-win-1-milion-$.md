@@ -1,12 +1,13 @@
 ---
 topic_title: "Proof Of OBE - and/or - How to Win 1 Milion $"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/proof-of-obe-andor-how-to-win-1-milion-%24
-num_views: 26214
+topic_id: 805
 num_posts: 87
 date_first: 2002-04-27
 date_last: 2002-05-29
-tags: []
+num_views: 26214
 summary: ""
+tags: []
 ---
 
 ## \#0/86 (86) [2002-04-27 04:24:29](https://www.astralpulse.com/forums/index.php?msg=116549), [amir_noma](https://www.astralpulse.com/forums/profile/?u=510) USA ##

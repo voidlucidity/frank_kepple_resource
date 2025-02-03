@@ -1,12 +1,13 @@
 ---
 topic_title: "Something I noticed, and questions for you"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/something-i-noticed-and-questions-for-you
-num_views: 6485
+topic_id: 1569
 num_posts: 27
 date_first: 2002-08-02
 date_last: 2002-08-05
-tags: []
+num_views: 6485
 summary: ""
+tags: []
 ---
 
 ## \#0/26 (26) [2002-08-02 10:03:12](https://www.astralpulse.com/forums/index.php?msg=117304), [Patty](https://www.astralpulse.com/forums/profile/?u=673) USA ##

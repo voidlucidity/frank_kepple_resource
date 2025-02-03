@@ -1,12 +1,13 @@
 ---
 topic_title: "What exactly is a philosophers stone?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/what-exactly-is-a-philosophers-stone
-num_views: 11411
+topic_id: 17965
 num_posts: 34
 date_first: 2005-03-13
 date_last: 2005-05-26
-tags: []
+num_views: 11411
 summary: ""
+tags: []
 ---
 
 ## \#0/33 (0) [2005-03-13 15:38:42](https://www.astralpulse.com/forums/index.php?msg=155597), [jason](https://www.astralpulse.com/forums/profile/?u=1099) Canada ##

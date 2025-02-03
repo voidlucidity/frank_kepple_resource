@@ -1,12 +1,13 @@
 ---
 topic_title: "Major Website Changes:  have  -YOUR-  say!!!"
 topic_url: https://www.astralpulse.com/forums/forums-bugs-reports-and-questions/major-website-changes-have-your-say%21%21%21
-num_views: 13987
+topic_id: 199
 num_posts: 32
 date_first: 2002-02-27
 date_last: 2002-03-30
-tags: []
+num_views: 13987
 summary: ""
+tags: []
 ---
 
 ## \#0/31 (31) [2002-02-27 21:36:36](https://www.astralpulse.com/forums/index.php?msg=115965), [Robert Bruce](https://www.astralpulse.com/forums/profile/?u=18) Australia ##

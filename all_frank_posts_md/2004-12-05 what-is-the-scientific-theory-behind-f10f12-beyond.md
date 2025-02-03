@@ -1,12 +1,13 @@
 ---
 topic_title: "What is the scientific theory behind F10/F12--beyond"
 topic_url: https://www.astralpulse.com/forums/welcome-to-permanent-astral-topics!/what-is-the-scientific-theory-behind-f10f12-beyond
-num_views: 60653
+topic_id: 15614
 num_posts: 56
 date_first: 2004-12-05
 date_last: 2010-06-09
-tags: []
+num_views: 60653
 summary: ""
+tags: []
 ---
 
 ## \#0/55 (0) [2004-12-05 03:19:17](https://www.astralpulse.com/forums/index.php?msg=136182), [Snow Pellets](https://www.astralpulse.com/forums/profile/?u=7377)  ##

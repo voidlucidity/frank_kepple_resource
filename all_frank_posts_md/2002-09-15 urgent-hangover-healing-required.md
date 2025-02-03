@@ -1,12 +1,13 @@
 ---
 topic_title: "Urgent hangover healing required"
 topic_url: https://www.astralpulse.com/forums/welcome-to-the-healing-place!/urgent-hangover-healing-required
-num_views: 12811
+topic_id: 1922
 num_posts: 30
 date_first: 2002-09-15
 date_last: 2004-06-29
-tags: []
+num_views: 12811
 summary: ""
+tags: []
 ---
 
 ## \#0/29 (29) [2002-09-15 03:26:23](https://www.astralpulse.com/forums/index.php?msg=117656), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

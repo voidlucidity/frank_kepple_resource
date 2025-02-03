@@ -1,12 +1,13 @@
 ---
 topic_title: "parents spoke in tongues..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/parents-spoke-in-tongues
-num_views: 14954
+topic_id: 4058
 num_posts: 45
 date_first: 2003-04-03
 date_last: 2003-04-15
-tags: []
+num_views: 14954
 summary: ""
+tags: []
 ---
 
 ## \#0/44 (44) [2003-04-03 19:24:06](https://www.astralpulse.com/forums/index.php?msg=119771), [sublime](https://www.astralpulse.com/forums/profile/?u=1761) USA ##

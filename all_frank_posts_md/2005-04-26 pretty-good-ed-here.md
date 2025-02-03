@@ -1,12 +1,13 @@
 ---
 topic_title: "Pretty-Good-Ed here"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/pretty-good-ed-here
-num_views: 2214
+topic_id: 18748
 num_posts: 6
 date_first: 2005-04-26
 date_last: 2005-05-01
-tags: []
+num_views: 2214
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-04-26 14:42:51](https://www.astralpulse.com/forums/index.php?msg=161906), [Pretty-Good-Ed](https://www.astralpulse.com/forums/profile/?u=8945) Bemidji MN  in the north woods ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Questions about phasing"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/questions-about-phasing
-num_views: 3054
+topic_id: 19000
 num_posts: 5
 date_first: 2005-05-23
 date_last: 2005-05-25
-tags: []
+num_views: 3054
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-05-23 07:41:10](https://www.astralpulse.com/forums/index.php?msg=163875), [coolcol1](https://www.astralpulse.com/forums/profile/?u=7415) united kingdom ##

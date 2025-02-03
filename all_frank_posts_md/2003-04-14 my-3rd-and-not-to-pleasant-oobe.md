@@ -1,12 +1,13 @@
 ---
 topic_title: "My 3rd and not-to-pleasant OOBE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/my-3rd-and-not-to-pleasant-oobe
-num_views: 6023
+topic_id: 4185
 num_posts: 18
 date_first: 2003-04-14
 date_last: 2003-04-20
-tags: []
+num_views: 6023
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (17) [2003-04-14 22:16:52](https://www.astralpulse.com/forums/index.php?msg=119894), [pj](https://www.astralpulse.com/forums/profile/?u=1914) USA ##

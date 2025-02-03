@@ -1,12 +1,13 @@
 ---
 topic_title: "OOBE Complications :( Please help me"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/oobe-complications-please-help-me
-num_views: 3398
+topic_id: 1632
 num_posts: 10
 date_first: 2002-08-07
 date_last: 2002-08-12
-tags: []
+num_views: 3398
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2002-08-07 19:35:09](https://www.astralpulse.com/forums/index.php?msg=117367), [Leviiathan](https://www.astralpulse.com/forums/profile/?u=984) Canada ##

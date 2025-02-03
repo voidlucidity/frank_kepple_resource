@@ -1,12 +1,13 @@
 ---
 topic_title: "Topic Deleted By Me??"
 topic_url: https://www.astralpulse.com/forums/forums-bugs-reports-and-questions/topic-deleted-by-me
-num_views: 3398
+topic_id: 15747
 num_posts: 7
 date_first: 2004-12-11
 date_last: 2004-12-12
-tags: []
+num_views: 3398
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2004-12-11 13:17:24](https://www.astralpulse.com/forums/index.php?msg=137324), [Juliet](https://www.astralpulse.com/forums/profile/?u=7514) New Mexico ##

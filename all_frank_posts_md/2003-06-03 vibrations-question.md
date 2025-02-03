@@ -1,12 +1,13 @@
 ---
 topic_title: "Vibrations question"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/vibrations-question
-num_views: 1052
+topic_id: 4826
 num_posts: 2
 date_first: 2003-06-03
 date_last: 2003-06-03
-tags: []
+num_views: 1052
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (1) [2003-06-03 15:10:35](https://www.astralpulse.com/forums/index.php?msg=120518), [astralspinner](https://www.astralpulse.com/forums/profile/?u=888) United Kingdom ##

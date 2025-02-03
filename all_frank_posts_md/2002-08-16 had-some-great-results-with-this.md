@@ -1,12 +1,13 @@
 ---
 topic_title: "Had some great results with this"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/had-some-great-results-with-this
-num_views: 7785
+topic_id: 1679
 num_posts: 23
 date_first: 2002-08-16
 date_last: 2002-08-28
-tags: []
+num_views: 7785
 summary: ""
+tags: []
 ---
 
 ## \#0/22 (22) [2002-08-16 07:04:52](https://www.astralpulse.com/forums/index.php?msg=117414), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

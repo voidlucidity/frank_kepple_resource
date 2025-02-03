@@ -1,12 +1,13 @@
 ---
 topic_title: "Focuses of attention Question"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/focuses-of-attention-question
-num_views: 2302
+topic_id: 19155
 num_posts: 5
 date_first: 2005-06-03
 date_last: 2005-06-06
-tags: []
+num_views: 2302
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-06-03 07:15:20](https://www.astralpulse.com/forums/index.php?msg=165237), [Steve 2B](https://www.astralpulse.com/forums/profile/?u=8938)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Lost To The Ages - Monroe-Muldoon-Castanada-Leadbeater"
 topic_url: https://www.astralpulse.com/forums/welcome-to-permanent-astral-topics!/lost-to-the-ages-monroe-muldoon-castanada-leadbeater
-num_views: 44304
+topic_id: 19639
 num_posts: 67
 date_first: 2005-07-01
 date_last: 2005-08-20
-tags: []
+num_views: 44304
 summary: ""
+tags: []
 ---
 
 ## \#0/66 (0) [2005-07-01 20:26:48](https://www.astralpulse.com/forums/index.php?msg=168730), [David Warner](https://www.astralpulse.com/forums/profile/?u=9331) Grand Rapids Michigan ##

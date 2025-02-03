@@ -1,12 +1,13 @@
 ---
 topic_title: "connecting with dead loved ones in the astral plane"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/connecting-with-dead-loved-ones-in-the-astral-plane
-num_views: 3690
+topic_id: 19437
 num_posts: 3
 date_first: 2005-06-17
 date_last: 2005-06-23
-tags: []
+num_views: 3690
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-06-17 14:21:26](https://www.astralpulse.com/forums/index.php?msg=166977), [ALETTE LUBICK](https://www.astralpulse.com/forums/profile/?u=9265) CHICAGO, ILLINOIS ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Wave 1 and general Phasing questions"
 topic_url: https://www.astralpulse.com/forums/welcome-to-permanent-astral-topics!/wave-1-and-general-phasing-questions
-num_views: 45004
+topic_id: 15371
 num_posts: 34
 date_first: 2004-11-20
 date_last: 2005-05-23
-tags: []
+num_views: 45004
 summary: ""
+tags: []
 ---
 
 ## \#0/33 (0) [2004-11-20 14:15:56](https://www.astralpulse.com/forums/index.php?msg=134267), [TheJza](https://www.astralpulse.com/forums/profile/?u=218)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Instant projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/instant-projection
-num_views: 4753
+topic_id: 1765
 num_posts: 12
 date_first: 2002-08-29
 date_last: 2004-02-24
-tags: []
+num_views: 4753
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2002-08-29 05:44:55](https://www.astralpulse.com/forums/index.php?msg=117500), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

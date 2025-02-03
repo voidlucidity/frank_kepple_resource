@@ -1,12 +1,13 @@
 ---
 topic_title: "FRANK ... How are the retrievals going?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/frank-how-are-the-retrievals-going
-num_views: 2132
+topic_id: 2037
 num_posts: 2
 date_first: 2002-09-26
 date_last: 2002-09-26
-tags: []
+num_views: 2132
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (1) [2002-09-26 06:46:09](https://www.astralpulse.com/forums/index.php?msg=117771), [amcturbo](https://www.astralpulse.com/forums/profile/?u=803) USA ##

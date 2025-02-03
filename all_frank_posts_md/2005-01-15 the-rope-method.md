@@ -1,12 +1,13 @@
 ---
 topic_title: "the Rope Method"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/the-rope-method
-num_views: 2150
+topic_id: 16494
 num_posts: 3
 date_first: 2005-01-15
 date_last: 2005-01-18
-tags: []
+num_views: 2150
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-01-15 09:53:44](https://www.astralpulse.com/forums/index.php?msg=143051), [dharma_talk](https://www.astralpulse.com/forums/profile/?u=7999) Lexington, KY ##

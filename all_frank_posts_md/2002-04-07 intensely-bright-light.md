@@ -1,12 +1,13 @@
 ---
 topic_title: "Intensely bright light"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/intensely-bright-light
-num_views: 2730
+topic_id: 569
 num_posts: 2
 date_first: 2002-04-07
 date_last: 2002-04-07
-tags: []
+num_views: 2730
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (1) [2002-04-07 12:50:25](https://www.astralpulse.com/forums/index.php?msg=116324), [Jeffrey](https://www.astralpulse.com/forums/profile/?u=417) USA ##

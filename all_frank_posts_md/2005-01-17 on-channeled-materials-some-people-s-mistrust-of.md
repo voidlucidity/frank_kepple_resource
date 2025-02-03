@@ -1,12 +1,13 @@
 ---
 topic_title: "On Channeled Materials (some people's mistrust of)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/on-channeled-materials-some-people-s-mistrust-of
-num_views: 5026
+topic_id: 16554
 num_posts: 18
 date_first: 2005-01-17
 date_last: 2005-01-25
-tags: []
+num_views: 5026
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (0) [2005-01-17 14:43:45](https://www.astralpulse.com/forums/index.php?msg=143441), [kyo](https://www.astralpulse.com/forums/profile/?u=7912)  ##

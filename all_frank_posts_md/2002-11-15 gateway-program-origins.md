@@ -1,12 +1,13 @@
 ---
 topic_title: "Gateway program origins"
 topic_url: https://www.astralpulse.com/forums/welcome-to-permanent-astral-topics!/gateway-program-origins
-num_views: 9699
+topic_id: 2589
 num_posts: 9
 date_first: 2002-11-15
 date_last: 2004-07-25
-tags: []
+num_views: 9699
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2002-11-15 11:26:28](https://www.astralpulse.com/forums/index.php?msg=118321), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

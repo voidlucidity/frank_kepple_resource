@@ -1,12 +1,13 @@
 ---
 topic_title: "Vibrations...but can't seem to get out."
 topic_url: https://www.astralpulse.com/forums/welcome-to-energy-body-and-the-chakras/vibrations-but-can-t-seem-to-get-out
-num_views: 1835
+topic_id: 1646
 num_posts: 3
 date_first: 2002-08-10
 date_last: 2002-08-12
-tags: []
+num_views: 1835
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2002-08-10 10:47:55](https://www.astralpulse.com/forums/index.php?msg=117381), [JP1021](https://www.astralpulse.com/forums/profile/?u=999)  ##

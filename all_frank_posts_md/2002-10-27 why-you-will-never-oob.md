@@ -1,12 +1,13 @@
 ---
 topic_title: "why you will never OOB"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/why-you-will-never-oob
-num_views: 19126
+topic_id: 2366
 num_posts: 67
 date_first: 2002-10-27
 date_last: 2002-11-01
-tags: []
+num_views: 19126
 summary: ""
+tags: []
 ---
 
 ## \#0/66 (66) [2002-10-27 12:37:24](https://www.astralpulse.com/forums/index.php?msg=118100), [napoleon](https://www.astralpulse.com/forums/profile/?u=1352) USA ##

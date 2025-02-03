@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE and vibrations"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/obe-and-vibrations
-num_views: 4115
+topic_id: 18718
 num_posts: 9
 date_first: 2005-04-25
 date_last: 2005-05-27
-tags: []
+num_views: 4115
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (0) [2005-04-25 15:44:15](https://www.astralpulse.com/forums/index.php?msg=161777), [star](https://www.astralpulse.com/forums/profile/?u=7451)  ##

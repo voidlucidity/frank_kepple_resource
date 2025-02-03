@@ -1,12 +1,13 @@
 ---
 topic_title: "Moderation in all things"
 topic_url: https://www.astralpulse.com/forums/forums-bugs-reports-and-questions/moderation-in-all-things
-num_views: 10227
+topic_id: 39
 num_posts: 18
 date_first: 2002-02-14
 date_last: 2002-04-14
-tags: []
+num_views: 10227
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (17) [2002-02-14 06:26:08](https://www.astralpulse.com/forums/index.php?msg=115821), [Robert Bruce](https://www.astralpulse.com/forums/profile/?u=18) Australia ##

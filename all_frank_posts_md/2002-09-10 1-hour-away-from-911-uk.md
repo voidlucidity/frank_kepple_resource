@@ -1,12 +1,13 @@
 ---
 topic_title: "1 hour away from 9/11 (UK)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/1-hour-away-from-911-uk
-num_views: 7330
+topic_id: 1868
 num_posts: 20
 date_first: 2002-09-10
 date_last: 2002-09-12
-tags: []
+num_views: 7330
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (19) [2002-09-10 16:13:40](https://www.astralpulse.com/forums/index.php?msg=117603), [SPASTRAL](https://www.astralpulse.com/forums/profile/?u=440) United Kingdom ##

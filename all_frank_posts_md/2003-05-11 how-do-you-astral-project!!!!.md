@@ -1,12 +1,13 @@
 ---
 topic_title: "How do you Astral Project?!?!?!?!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/how-do-you-astral-project%21%21%21%21
-num_views: 4754
+topic_id: 4536
 num_posts: 15
 date_first: 2003-05-11
 date_last: 2003-05-20
-tags: []
+num_views: 4754
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (14) [2003-05-11 19:29:49](https://www.astralpulse.com/forums/index.php?msg=120238), [ss_majin_gohan](https://www.astralpulse.com/forums/profile/?u=1807) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Hiya (new member of course)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/hiya-new-member-of-course
-num_views: 2312
+topic_id: 19966
 num_posts: 3
 date_first: 2005-07-26
 date_last: 2005-07-29
-tags: []
+num_views: 2312
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-07-26 12:33:12](https://www.astralpulse.com/forums/index.php?msg=171313), [angie_a000](https://www.astralpulse.com/forums/profile/?u=9525) waxahachie ##

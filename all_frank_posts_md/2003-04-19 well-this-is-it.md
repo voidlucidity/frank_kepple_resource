@@ -1,12 +1,13 @@
 ---
 topic_title: "Well, this is it."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/well-this-is-it
-num_views: 5460
+topic_id: 4221
 num_posts: 18
 date_first: 2003-04-19
 date_last: 2003-04-24
-tags: []
+num_views: 5460
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (17) [2003-04-19 16:53:49](https://www.astralpulse.com/forums/index.php?msg=119930), [kakkarot](https://www.astralpulse.com/forums/profile/?u=541) Canada ##

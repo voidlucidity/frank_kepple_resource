@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE and damn fear!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/obe-and-damn-fear%21
-num_views: 8287
+topic_id: 17000
 num_posts: 33
 date_first: 2005-02-03
 date_last: 2005-02-09
-tags: []
+num_views: 8287
 summary: ""
+tags: []
 ---
 
 ## \#0/32 (0) [2005-02-03 15:49:40](https://www.astralpulse.com/forums/index.php?msg=146842), [Ivanda](https://www.astralpulse.com/forums/profile/?u=8260) Ohio (USA) ##

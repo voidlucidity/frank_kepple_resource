@@ -1,12 +1,13 @@
 ---
 topic_title: "Latest astral experience!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/latest-astral-experience%21
-num_views: 2773
+topic_id: 3291
 num_posts: 5
 date_first: 2003-01-31
 date_last: 2003-02-01
-tags: []
+num_views: 2773
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-01-31 06:16:27](https://www.astralpulse.com/forums/index.php?msg=119017), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

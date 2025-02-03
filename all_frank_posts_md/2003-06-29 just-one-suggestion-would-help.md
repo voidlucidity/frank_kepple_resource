@@ -1,12 +1,13 @@
 ---
 topic_title: "Just one suggestion would help."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/just-one-suggestion-would-help
-num_views: 1717
+topic_id: 5289
 num_posts: 4
 date_first: 2003-06-29
 date_last: 2003-06-30
-tags: []
+num_views: 1717
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2003-06-29 05:09:24](https://www.astralpulse.com/forums/index.php?msg=120963), [goingslow](https://www.astralpulse.com/forums/profile/?u=1529) USA ##

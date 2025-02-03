@@ -1,12 +1,13 @@
 ---
 topic_title: "Roman accounts of OBE! (Pliny)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/roman-accounts-of-obe%21-pliny
-num_views: 1379
+topic_id: 16961
 num_posts: 4
 date_first: 2005-02-02
 date_last: 2005-02-02
-tags: []
+num_views: 1379
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-02-02 08:00:29](https://www.astralpulse.com/forums/index.php?msg=146482), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

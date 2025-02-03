@@ -1,12 +1,13 @@
 ---
 topic_title: "spontaneous obe question"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/spontaneous-obe-question
-num_views: 4303
+topic_id: 386
 num_posts: 5
 date_first: 2002-03-19
 date_last: 2002-03-24
-tags: []
+num_views: 4303
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2002-03-19 10:47:22](https://www.astralpulse.com/forums/index.php?msg=116145), [Nate](https://www.astralpulse.com/forums/profile/?u=131)  ##

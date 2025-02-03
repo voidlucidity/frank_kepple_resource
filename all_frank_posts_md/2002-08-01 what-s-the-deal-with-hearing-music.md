@@ -1,12 +1,13 @@
 ---
 topic_title: "what's the deal with hearing music?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/what-s-the-deal-with-hearing-music
-num_views: 5771
+topic_id: 1557
 num_posts: 14
 date_first: 2002-08-01
 date_last: 2003-06-23
-tags: []
+num_views: 5771
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (13) [2002-08-01 14:54:44](https://www.astralpulse.com/forums/index.php?msg=117293), [Risu no Kairu](https://www.astralpulse.com/forums/profile/?u=430) Georgia, USA ##

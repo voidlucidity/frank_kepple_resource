@@ -1,12 +1,13 @@
 ---
 topic_title: "Sleeping Positions and OOBEs?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/sleeping-positions-and-oobes
-num_views: 3006
+topic_id: 1328
 num_posts: 9
 date_first: 2002-07-09
 date_last: 2002-07-11
-tags: []
+num_views: 3006
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2002-07-09 23:07:55](https://www.astralpulse.com/forums/index.php?msg=117065), [Spencer](https://www.astralpulse.com/forums/profile/?u=317) Japan ##

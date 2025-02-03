@@ -1,12 +1,13 @@
 ---
 topic_title: "Trying to explain to mystic minded"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/trying-to-explain-to-mystic-minded
-num_views: 4317
+topic_id: 18927
 num_posts: 15
 date_first: 2005-05-06
 date_last: 2005-05-24
-tags: []
+num_views: 4317
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (0) [2005-05-06 00:07:33](https://www.astralpulse.com/forums/index.php?msg=163390), [Andali27](https://www.astralpulse.com/forums/profile/?u=6413) Australia ##

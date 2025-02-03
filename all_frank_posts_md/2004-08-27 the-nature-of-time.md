@@ -1,12 +1,13 @@
 ---
 topic_title: "the nature of Time"
 topic_url: https://www.astralpulse.com/forums/welcome-to-quantum-physics!/the-nature-of-time
-num_views: 11302
+topic_id: 14144
 num_posts: 29
 date_first: 2004-08-27
 date_last: 2005-03-22
-tags: []
+num_views: 11302
 summary: ""
+tags: []
 ---
 
 ## \#0/28 (2) [2004-08-27 14:16:03](https://www.astralpulse.com/forums/index.php?msg=129022), [jason](https://www.astralpulse.com/forums/profile/?u=1099) Canada ##

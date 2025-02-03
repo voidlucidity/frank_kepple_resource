@@ -1,12 +1,13 @@
 ---
 topic_title: "Achieving consciousness state for Astral phasing"
 topic_url: https://www.astralpulse.com/forums/welcome-to-permanent-astral-topics!/achieving-consciousness-state-for-astral-phasing
-num_views: 72954
+topic_id: 2315
 num_posts: 81
 date_first: 2002-10-21
 date_last: 2005-05-03
-tags: []
+num_views: 72954
 summary: ""
+tags: []
 ---
 
 ## \#0/80 (74) [2002-10-21 11:18:35](https://www.astralpulse.com/forums/index.php?msg=118049), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Technique was given to me, what does it do exactly"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/technique-was-given-to-me-what-does-it-do-exactly
-num_views: 7877
+topic_id: 2381
 num_posts: 11
 date_first: 2002-10-28
 date_last: 2002-11-09
-tags: []
+num_views: 7877
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (10) [2002-10-28 11:28:32](https://www.astralpulse.com/forums/index.php?msg=118115), Tom  ##

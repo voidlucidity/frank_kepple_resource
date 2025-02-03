@@ -1,12 +1,13 @@
 ---
 topic_title: "rope tecnique and higher self...."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/rope-tecnique-and-higher-self
-num_views: 2225
+topic_id: 1235
 num_posts: 5
 date_first: 2002-06-25
 date_last: 2002-06-26
-tags: []
+num_views: 2225
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2002-06-25 16:14:21](https://www.astralpulse.com/forums/index.php?msg=116973), [rodentmouse](https://www.astralpulse.com/forums/profile/?u=554) United Kingdom ##

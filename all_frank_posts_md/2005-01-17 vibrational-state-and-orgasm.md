@@ -1,12 +1,13 @@
 ---
 topic_title: "Vibrational State and Orgasm"
 topic_url: https://www.astralpulse.com/forums/welcome-to-energy-body-and-the-chakras/vibrational-state-and-orgasm
-num_views: 2326
+topic_id: 16562
 num_posts: 4
 date_first: 2005-01-17
 date_last: 2005-01-18
-tags: []
+num_views: 2326
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-01-17 19:59:23](https://www.astralpulse.com/forums/index.php?msg=143490), [PeterPanic](https://www.astralpulse.com/forums/profile/?u=8041) Portugal, Lisbon ##

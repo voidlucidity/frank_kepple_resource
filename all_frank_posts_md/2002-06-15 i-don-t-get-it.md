@@ -1,12 +1,13 @@
 ---
 topic_title: "I don't get it..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/i-don-t-get-it
-num_views: 6347
+topic_id: 1141
 num_posts: 19
 date_first: 2002-06-15
 date_last: 2002-07-23
-tags: []
+num_views: 6347
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (18) [2002-06-15 23:17:51](https://www.astralpulse.com/forums/index.php?msg=116879), [bitsmart](https://www.astralpulse.com/forums/profile/?u=324) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Just a quick \"hello\""
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/just-a-quick-hello
-num_views: 2391
+topic_id: 19948
 num_posts: 4
 date_first: 2005-07-25
 date_last: 2005-07-29
-tags: []
+num_views: 2391
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-07-25 01:53:59](https://www.astralpulse.com/forums/index.php?msg=171190), [OtherworldGoddess](https://www.astralpulse.com/forums/profile/?u=9513) Oklahoma City, OK ##

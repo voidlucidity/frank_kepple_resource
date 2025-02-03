@@ -1,12 +1,13 @@
 ---
 topic_title: "Jesus will never leave you."
 topic_url: https://www.astralpulse.com/forums/welcome-to-world-cultures-traditions-and-religions!/jesus-will-never-leave-you
-num_views: 5457
+topic_id: 16727
 num_posts: 20
 date_first: 2005-01-24
 date_last: 2005-01-26
-tags: []
+num_views: 5457
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (0) [2005-01-24 15:08:04](https://www.astralpulse.com/forums/index.php?msg=144660), [soma-sight](https://www.astralpulse.com/forums/profile/?u=8142)  ##

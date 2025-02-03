@@ -1,12 +1,13 @@
 ---
 topic_title: "Don´t like the notion of Mind Split"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/dont-like-the-notion-of-mind-split
-num_views: 5168
+topic_id: 5104
 num_posts: 5
 date_first: 2003-06-18
 date_last: 2003-06-19
-tags: []
+num_views: 5168
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-06-18 11:50:04](https://www.astralpulse.com/forums/index.php?msg=120788), [npiv](https://www.astralpulse.com/forums/profile/?u=2558) Belgium ##

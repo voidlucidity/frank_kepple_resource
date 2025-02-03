@@ -1,12 +1,13 @@
 ---
 topic_title: "Redneck IQ test."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/redneck-iq-test
-num_views: 3107
+topic_id: 19055
 num_posts: 11
 date_first: 2005-05-26
 date_last: 2005-05-27
-tags: []
+num_views: 3107
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-05-26 20:31:28](https://www.astralpulse.com/forums/index.php?msg=164322), Nay  ##

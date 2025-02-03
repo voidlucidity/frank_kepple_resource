@@ -1,12 +1,13 @@
 ---
 topic_title: "comments welcome on OBE-like experiences"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/comments-welcome-on-obe-like-experiences
-num_views: 2253
+topic_id: 1086
 num_posts: 7
 date_first: 2002-06-07
 date_last: 2002-06-10
-tags: []
+num_views: 2253
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-06-07 17:49:30](https://www.astralpulse.com/forums/index.php?msg=116824), [justinh](https://www.astralpulse.com/forums/profile/?u=591) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Life Cycle Near End?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/life-cycle-near-end
-num_views: 7545
+topic_id: 14718
 num_posts: 20
 date_first: 2004-10-03
 date_last: 2004-11-15
-tags: []
+num_views: 7545
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (0) [2004-10-03 09:28:57](https://www.astralpulse.com/forums/index.php?msg=129581), [Jrd](https://www.astralpulse.com/forums/profile/?u=4076) USA ##

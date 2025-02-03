@@ -1,12 +1,13 @@
 ---
 topic_title: "What is after me and J? please HELP"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/what-is-after-me-and-j-please-help
-num_views: 1781
+topic_id: 3936
 num_posts: 5
 date_first: 2003-03-26
 date_last: 2003-03-26
-tags: []
+num_views: 1781
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-03-26 00:13:28](https://www.astralpulse.com/forums/index.php?msg=119652), [phanteprotectsme](https://www.astralpulse.com/forums/profile/?u=2049) USA ##

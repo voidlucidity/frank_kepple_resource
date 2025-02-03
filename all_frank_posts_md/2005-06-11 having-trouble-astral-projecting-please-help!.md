@@ -1,12 +1,13 @@
 ---
 topic_title: "Having trouble Astral Projecting, please help!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/having-trouble-astral-projecting-please-help%21
-num_views: 1766
+topic_id: 19327
 num_posts: 5
 date_first: 2005-06-11
 date_last: 2005-06-12
-tags: []
+num_views: 1766
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-06-11 21:10:32](https://www.astralpulse.com/forums/index.php?msg=166248), [Wolfynix](https://www.astralpulse.com/forums/profile/?u=9230) Quebec, Canada ##

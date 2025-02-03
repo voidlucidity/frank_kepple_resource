@@ -1,12 +1,13 @@
 ---
 topic_title: "Going home for the summer- see you all later."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/going-home-for-the-summer-see-you-all-later
-num_views: 2665
+topic_id: 4524
 num_posts: 10
 date_first: 2003-05-10
 date_last: 2003-05-11
-tags: []
+num_views: 2665
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2003-05-10 00:50:44](https://www.astralpulse.com/forums/index.php?msg=120226), Anonymous  ##

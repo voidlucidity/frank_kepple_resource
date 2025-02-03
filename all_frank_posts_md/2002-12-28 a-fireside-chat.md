@@ -1,12 +1,13 @@
 ---
 topic_title: "A Fireside Chat"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/a-fireside-chat
-num_views: 4336
+topic_id: 2965
 num_posts: 6
 date_first: 2002-12-28
 date_last: 2002-12-31
-tags: []
+num_views: 4336
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-12-28 23:22:33](https://www.astralpulse.com/forums/index.php?msg=118694), [Ginny](https://www.astralpulse.com/forums/profile/?u=1404) USA ##

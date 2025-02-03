@@ -1,12 +1,13 @@
 ---
 topic_title: "First retrieval... yuk!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/first-retrieval-yuk%21
-num_views: 6072
+topic_id: 1716
 num_posts: 16
 date_first: 2002-08-23
 date_last: 2002-08-28
-tags: []
+num_views: 6072
 summary: ""
+tags: []
 ---
 
 ## \#0/15 (14) [2002-08-23 08:49:15](https://www.astralpulse.com/forums/index.php?msg=117451), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

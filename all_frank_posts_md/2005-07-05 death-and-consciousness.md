@@ -1,12 +1,13 @@
 ---
 topic_title: "Death and consciousness"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/death-and-consciousness
-num_views: 2483
+topic_id: 19689
 num_posts: 4
 date_first: 2005-07-05
 date_last: 2005-07-08
-tags: []
+num_views: 2483
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-07-05 19:51:00](https://www.astralpulse.com/forums/index.php?msg=169167), [astral boy](https://www.astralpulse.com/forums/profile/?u=8720)  ##

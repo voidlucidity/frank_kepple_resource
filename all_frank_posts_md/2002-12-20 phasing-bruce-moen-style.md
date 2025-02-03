@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing Bruce Moen Style"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/phasing-bruce-moen-style
-num_views: 10454
+topic_id: 2922
 num_posts: 16
 date_first: 2002-12-20
 date_last: 2002-12-23
-tags: []
+num_views: 10454
 summary: ""
+tags: []
 ---
 
 ## \#0/15 (15) [2002-12-20 07:54:56](https://www.astralpulse.com/forums/index.php?msg=118652), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

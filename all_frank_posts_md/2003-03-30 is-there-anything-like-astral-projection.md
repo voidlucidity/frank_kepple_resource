@@ -1,12 +1,13 @@
 ---
 topic_title: "Is there anything like astral projection?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/is-there-anything-like-astral-projection
-num_views: 5144
+topic_id: 3993
 num_posts: 23
 date_first: 2003-03-30
 date_last: 2003-04-27
-tags: []
+num_views: 5144
 summary: ""
+tags: []
 ---
 
 ## \#0/22 (19) [2003-03-30 14:13:01](https://www.astralpulse.com/forums/index.php?msg=119709), Tom  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Yesterday's EXERCISE with ASTRAL PHASING"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/yesterday-s-exercise-with-astral-phasing
-num_views: 4860
+topic_id: 2843
 num_posts: 13
 date_first: 2002-12-11
 date_last: 2003-01-06
-tags: []
+num_views: 4860
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2002-12-11 08:53:23](https://www.astralpulse.com/forums/index.php?msg=118573), [amcturbo](https://www.astralpulse.com/forums/profile/?u=803) USA ##

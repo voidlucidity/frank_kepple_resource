@@ -1,12 +1,13 @@
 ---
 topic_title: "IIPC or Monroe"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/iipc-or-monroe
-num_views: 2788
+topic_id: 2147
 num_posts: 9
 date_first: 2002-10-05
 date_last: 2002-10-09
-tags: []
+num_views: 2788
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (6) [2002-10-05 15:27:37](https://www.astralpulse.com/forums/index.php?msg=117881), [michael](https://www.astralpulse.com/forums/profile/?u=432) United Kingdom ##

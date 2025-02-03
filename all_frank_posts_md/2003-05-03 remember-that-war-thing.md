@@ -1,12 +1,13 @@
 ---
 topic_title: "Remember that war thing?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/remember-that-war-thing
-num_views: 3190
+topic_id: 4430
 num_posts: 14
 date_first: 2003-05-03
 date_last: 2003-05-11
-tags: []
+num_views: 3190
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (13) [2003-05-03 13:25:53](https://www.astralpulse.com/forums/index.php?msg=120135), [MJ-12](https://www.astralpulse.com/forums/profile/?u=107)  ##

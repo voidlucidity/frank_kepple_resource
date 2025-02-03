@@ -1,12 +1,13 @@
 ---
 topic_title: "Application of \"Intent\""
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/application-of-intent
-num_views: 10536
+topic_id: 3140
 num_posts: 20
 date_first: 2003-01-14
 date_last: 2003-02-24
-tags: []
+num_views: 10536
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (18) [2003-01-14 14:22:45](https://www.astralpulse.com/forums/index.php?msg=118869), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

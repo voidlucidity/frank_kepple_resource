@@ -1,12 +1,13 @@
 ---
 topic_title: "Spectacular Conjunction this weekend!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-news-and-media!/spectacular-conjunction-this-weekend%21
-num_views: 2044
+topic_id: 19526
 num_posts: 4
 date_first: 2005-06-23
 date_last: 2005-06-26
-tags: []
+num_views: 2044
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-06-23 15:12:51](https://www.astralpulse.com/forums/index.php?msg=167706), runlola  ##

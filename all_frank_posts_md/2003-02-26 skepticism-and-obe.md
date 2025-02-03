@@ -1,12 +1,13 @@
 ---
 topic_title: "Skepticism And OBE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/skepticism-and-obe
-num_views: 4550
+topic_id: 3628
 num_posts: 19
 date_first: 2003-02-26
 date_last: 2003-02-28
-tags: []
+num_views: 4550
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (18) [2003-02-26 11:29:22](https://www.astralpulse.com/forums/index.php?msg=119348), [LJ57](https://www.astralpulse.com/forums/profile/?u=1835) USA ##

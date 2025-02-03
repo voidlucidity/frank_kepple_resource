@@ -1,12 +1,13 @@
 ---
 topic_title: "Work with chakras really necessary for AP or OBE?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/work-with-chakras-really-necessary-for-ap-or-obe
-num_views: 2863
+topic_id: 16733
 num_posts: 7
 date_first: 2005-01-24
 date_last: 2005-02-11
-tags: []
+num_views: 2863
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-01-24 17:44:36](https://www.astralpulse.com/forums/index.php?msg=144696), [kajaLove](https://www.astralpulse.com/forums/profile/?u=6993)  ##

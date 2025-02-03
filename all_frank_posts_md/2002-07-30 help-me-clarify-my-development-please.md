@@ -1,12 +1,13 @@
 ---
 topic_title: "help me clarify my development please"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/help-me-clarify-my-development-please
-num_views: 4973
+topic_id: 1518
 num_posts: 19
 date_first: 2002-07-30
 date_last: 2002-08-01
-tags: []
+num_views: 4973
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (18) [2002-07-30 11:39:20](https://www.astralpulse.com/forums/index.php?msg=117255), [rodentmouse](https://www.astralpulse.com/forums/profile/?u=554) United Kingdom ##

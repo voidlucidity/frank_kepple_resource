@@ -1,12 +1,13 @@
 ---
 topic_title: "HELP - I'm back in the game and a little confused"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/help-i-m-back-in-the-game-and-a-little-confused
-num_views: 2484
+topic_id: 1137
 num_posts: 8
 date_first: 2002-06-15
 date_last: 2002-06-17
-tags: []
+num_views: 2484
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-06-15 10:22:53](https://www.astralpulse.com/forums/index.php?msg=116875), [Tisha](https://www.astralpulse.com/forums/profile/?u=594) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Using/Asking Spirits to Help with Astral Projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/usingasking-spirits-to-help-with-astral-projection
-num_views: 2359
+topic_id: 16363
 num_posts: 3
 date_first: 2005-01-11
 date_last: 2005-01-11
-tags: []
+num_views: 2359
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-01-11 00:33:41](https://www.astralpulse.com/forums/index.php?msg=142266), [Defender](https://www.astralpulse.com/forums/profile/?u=7971) United States. North Carolina ##

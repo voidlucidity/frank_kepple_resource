@@ -1,12 +1,13 @@
 ---
 topic_title: "necessary solitude/consequences of company"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/necessary-solitudeconsequences-of-company
-num_views: 4296
+topic_id: 977
 num_posts: 15
 date_first: 2002-05-21
 date_last: 2002-05-24
-tags: []
+num_views: 4296
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (14) [2002-05-21 19:11:01](https://www.astralpulse.com/forums/index.php?msg=116715), [Tisha](https://www.astralpulse.com/forums/profile/?u=594) USA ##

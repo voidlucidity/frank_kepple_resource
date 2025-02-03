@@ -1,12 +1,13 @@
 ---
 topic_title: "Your Weapon of Choice"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/your-weapon-of-choice
-num_views: 10098
+topic_id: 4873
 num_posts: 35
 date_first: 2003-06-05
 date_last: 2003-06-10
-tags: []
+num_views: 10098
 summary: ""
+tags: []
 ---
 
 ## \#0/34 (34) [2003-06-05 21:10:58](https://www.astralpulse.com/forums/index.php?msg=120565), [Bob251](https://www.astralpulse.com/forums/profile/?u=1025) USA ##

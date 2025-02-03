@@ -1,12 +1,13 @@
 ---
 topic_title: "All names of Psychokinesis"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/all-names-of-psychokinesis
-num_views: 2208
+topic_id: 16858
 num_posts: 3
 date_first: 2005-01-29
 date_last: 2005-01-30
-tags: []
+num_views: 2208
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-01-29 20:11:43](https://www.astralpulse.com/forums/index.php?msg=145786), [Shadowarrior13](https://www.astralpulse.com/forums/profile/?u=8202) Arizona ##

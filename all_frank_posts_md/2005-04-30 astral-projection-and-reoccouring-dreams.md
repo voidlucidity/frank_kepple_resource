@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral projection and reoccouring dreams"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/astral-projection-and-reoccouring-dreams
-num_views: 1576
+topic_id: 18820
 num_posts: 3
 date_first: 2005-04-30
 date_last: 2005-04-30
-tags: []
+num_views: 1576
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-04-30 11:45:05](https://www.astralpulse.com/forums/index.php?msg=162500), [izalco](https://www.astralpulse.com/forums/profile/?u=8826)  ##

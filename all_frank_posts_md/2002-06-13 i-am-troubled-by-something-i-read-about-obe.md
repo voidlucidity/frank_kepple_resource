@@ -1,12 +1,13 @@
 ---
 topic_title: "i am troubled by something i read about OBE....."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/i-am-troubled-by-something-i-read-about-obe
-num_views: 2700
+topic_id: 1123
 num_posts: 8
 date_first: 2002-06-13
 date_last: 2002-06-19
-tags: []
+num_views: 2700
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-06-13 16:50:43](https://www.astralpulse.com/forums/index.php?msg=116861), [rodentmouse](https://www.astralpulse.com/forums/profile/?u=554) United Kingdom ##

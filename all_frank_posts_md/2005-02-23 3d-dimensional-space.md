@@ -1,12 +1,13 @@
 ---
 topic_title: "3D dimensional space"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/3d-dimensional-space
-num_views: 5359
+topic_id: 17561
 num_posts: 11
 date_first: 2005-02-23
 date_last: 2005-04-18
-tags: []
+num_views: 5359
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-02-23 20:40:11](https://www.astralpulse.com/forums/index.php?msg=151930), [Andali27](https://www.astralpulse.com/forums/profile/?u=6413) Australia ##

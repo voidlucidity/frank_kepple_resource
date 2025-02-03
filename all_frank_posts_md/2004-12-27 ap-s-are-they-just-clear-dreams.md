@@ -1,12 +1,13 @@
 ---
 topic_title: "ap's are they  just clear dreams?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/ap-s-are-they-just-clear-dreams
-num_views: 5892
+topic_id: 16067
 num_posts: 23
 date_first: 2004-12-27
 date_last: 2004-12-28
-tags: []
+num_views: 5892
 summary: ""
+tags: []
 ---
 
 ## \#0/22 (0) [2004-12-27 14:02:25](https://www.astralpulse.com/forums/index.php?msg=139889), [iank](https://www.astralpulse.com/forums/profile/?u=7738) notts uk ##

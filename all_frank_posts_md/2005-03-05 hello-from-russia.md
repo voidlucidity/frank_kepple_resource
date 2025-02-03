@@ -1,12 +1,13 @@
 ---
 topic_title: "Hello from Russia"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/hello-from-russia
-num_views: 2342
+topic_id: 17802
 num_posts: 7
 date_first: 2005-03-05
 date_last: 2005-03-14
-tags: []
+num_views: 2342
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-03-05 04:30:10](https://www.astralpulse.com/forums/index.php?msg=154001), [Fuerte](https://www.astralpulse.com/forums/profile/?u=8519) Russia ##

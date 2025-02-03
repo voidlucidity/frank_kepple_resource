@@ -1,12 +1,13 @@
 ---
 topic_title: "Question about Phasing as a explanation model."
 topic_url: https://www.astralpulse.com/forums/welcome-to-integral-philosophy!/question-about-phasing-as-a-explanation-model
-num_views: 17005
+topic_id: 19646
 num_posts: 39
 date_first: 2005-07-02
 date_last: 2005-07-07
-tags: []
+num_views: 17005
 summary: ""
+tags: []
 ---
 
 ## \#0/38 (0) [2005-07-02 11:37:32](https://www.astralpulse.com/forums/index.php?msg=168806), [Mustardseed](https://www.astralpulse.com/forums/profile/?u=2232)  ##

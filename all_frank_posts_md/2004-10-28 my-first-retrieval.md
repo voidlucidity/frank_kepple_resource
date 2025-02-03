@@ -1,12 +1,13 @@
 ---
 topic_title: "My First Retrieval"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/my-first-retrieval
-num_views: 12214
+topic_id: 15033
 num_posts: 10
 date_first: 2004-10-28
 date_last: 2004-10-31
-tags: []
+num_views: 12214
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2004-10-28 04:57:16](https://www.astralpulse.com/forums/index.php?msg=131593), [Selski](https://www.astralpulse.com/forums/profile/?u=6012) England, UK ##

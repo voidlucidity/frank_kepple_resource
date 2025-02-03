@@ -1,12 +1,13 @@
 ---
 topic_title: "Anyone ever been to hell?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/anyone-ever-been-to-hell
-num_views: 4643
+topic_id: 1836
 num_posts: 10
 date_first: 2002-09-05
 date_last: 2002-09-09
-tags: []
+num_views: 4643
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2002-09-05 22:47:33](https://www.astralpulse.com/forums/index.php?msg=117571), [SteppenWolf](https://www.astralpulse.com/forums/profile/?u=341) New Zealand ##

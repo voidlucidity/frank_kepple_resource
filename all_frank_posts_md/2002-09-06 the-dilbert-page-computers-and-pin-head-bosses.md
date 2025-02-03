@@ -1,12 +1,13 @@
 ---
 topic_title: "The DILBERT page: Computers and Pin-Head Bosses"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/the-dilbert-page-computers-and-pin-head-bosses
-num_views: 2011
+topic_id: 1839
 num_posts: 4
 date_first: 2002-09-06
 date_last: 2002-09-06
-tags: []
+num_views: 2011
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-09-06 09:36:30](https://www.astralpulse.com/forums/index.php?msg=117574), [Tisha](https://www.astralpulse.com/forums/profile/?u=594) USA ##

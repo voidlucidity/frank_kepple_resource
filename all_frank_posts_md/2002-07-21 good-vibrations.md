@@ -1,12 +1,13 @@
 ---
 topic_title: "Good vibrations"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/good-vibrations
-num_views: 3153
+topic_id: 1434
 num_posts: 11
 date_first: 2002-07-21
 date_last: 2002-07-23
-tags: []
+num_views: 3153
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (10) [2002-07-21 15:24:00](https://www.astralpulse.com/forums/index.php?msg=117171), [Poison Ivy](https://www.astralpulse.com/forums/profile/?u=858) USA ##

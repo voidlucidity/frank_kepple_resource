@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Entities"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/astral-entities-18932
-num_views: 3486
+topic_id: 18932
 num_posts: 10
 date_first: 2005-05-06
 date_last: 2005-05-28
-tags: []
+num_views: 3486
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2005-05-06 10:51:54](https://www.astralpulse.com/forums/index.php?msg=163420), GroovyGoddess  ##

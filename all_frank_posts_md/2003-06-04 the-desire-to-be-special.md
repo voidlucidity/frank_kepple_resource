@@ -1,12 +1,13 @@
 ---
 topic_title: "The desire to be special"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/the-desire-to-be-special
-num_views: 7053
+topic_id: 4845
 num_posts: 30
 date_first: 2003-06-04
 date_last: 2003-06-25
-tags: []
+num_views: 7053
 summary: ""
+tags: []
 ---
 
 ## \#0/29 (29) [2003-06-04 09:30:27](https://www.astralpulse.com/forums/index.php?msg=120537), [timeless](https://www.astralpulse.com/forums/profile/?u=1601) Canada ##

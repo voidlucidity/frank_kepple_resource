@@ -1,12 +1,13 @@
 ---
 topic_title: "Sort of a Poll"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/sort-of-a-poll
-num_views: 4689
+topic_id: 14412
 num_posts: 12
 date_first: 2004-09-14
 date_last: 2004-09-16
-tags: []
+num_views: 4689
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2004-09-14 06:24:51](https://www.astralpulse.com/forums/index.php?msg=129284), [YoungOldSoul](https://www.astralpulse.com/forums/profile/?u=6851) USA ##

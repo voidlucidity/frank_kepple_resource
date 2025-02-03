@@ -1,12 +1,13 @@
 ---
 topic_title: "Sexual Taboo to Legality"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/sexual-taboo-to-legality
-num_views: 4977
+topic_id: 16176
 num_posts: 12
 date_first: 2005-01-02
 date_last: 2005-01-10
-tags: []
+num_views: 4977
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (0) [2005-01-02 05:53:24](https://www.astralpulse.com/forums/index.php?msg=140705), [Tyciol](https://www.astralpulse.com/forums/profile/?u=7315) Ontario, Canada ##

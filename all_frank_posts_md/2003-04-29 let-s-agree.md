@@ -1,12 +1,13 @@
 ---
 topic_title: "let's agree"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/let-s-agree
-num_views: 2940
+topic_id: 4355
 num_posts: 10
 date_first: 2003-04-29
 date_last: 2003-04-30
-tags: []
+num_views: 2940
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2003-04-29 13:19:25](https://www.astralpulse.com/forums/index.php?msg=120062), [fredhedd](https://www.astralpulse.com/forums/profile/?u=692) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Why is all this happening ? This is the qesution ."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/why-is-all-this-happening-this-is-the-qesution
-num_views: 3845
+topic_id: 14441
 num_posts: 15
 date_first: 2004-09-16
 date_last: 2004-09-18
-tags: []
+num_views: 3845
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (14) [2004-09-16 11:48:33](https://www.astralpulse.com/forums/index.php?msg=129312), [Claude](https://www.astralpulse.com/forums/profile/?u=6937) Romania ##

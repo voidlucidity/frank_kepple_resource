@@ -1,12 +1,13 @@
 ---
 topic_title: "Interesting"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/interesting
-num_views: 2642
+topic_id: 2036
 num_posts: 4
 date_first: 2002-09-26
 date_last: 2002-09-26
-tags: []
+num_views: 2642
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-09-26 05:00:50](https://www.astralpulse.com/forums/index.php?msg=117770), [DEBerryJr](https://www.astralpulse.com/forums/profile/?u=1148) USA ##

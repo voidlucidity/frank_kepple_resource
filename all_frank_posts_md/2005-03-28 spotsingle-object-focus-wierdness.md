@@ -1,12 +1,13 @@
 ---
 topic_title: "Spot/Single Object Focus wierdness"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/spotsingle-object-focus-wierdness
-num_views: 2234
+topic_id: 18247
 num_posts: 4
 date_first: 2005-03-28
 date_last: 2005-03-31
-tags: []
+num_views: 2234
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-03-28 22:01:47](https://www.astralpulse.com/forums/index.php?msg=158073), [Ancient_Light_Guardian](https://www.astralpulse.com/forums/profile/?u=8136) New Zealand ##

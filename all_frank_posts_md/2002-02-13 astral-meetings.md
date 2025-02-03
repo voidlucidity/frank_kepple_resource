@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Meetings"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/astral-meetings
-num_views: 10886
+topic_id: 30
 num_posts: 12
 date_first: 2002-02-13
 date_last: 2002-04-04
-tags: []
+num_views: 10886
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2002-02-13 12:42:22](https://www.astralpulse.com/forums/index.php?msg=115813), [Conn](https://www.astralpulse.com/forums/profile/?u=42)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "On the subject of Chinese jokes"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/on-the-subject-of-chinese-jokes
-num_views: 1374
+topic_id: 5070
 num_posts: 1
 date_first: 2003-06-16
 date_last: 2003-06-16
-tags: []
+num_views: 1374
 summary: ""
+tags: []
 ---
 
 ## \#0/0 (0) [2003-06-16 19:31:36](https://www.astralpulse.com/forums/index.php?msg=120755), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

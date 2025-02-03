@@ -1,12 +1,13 @@
 ---
 topic_title: "Focus away from your body"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/focus-away-from-your-body
-num_views: 7318
+topic_id: 2183
 num_posts: 9
 date_first: 2002-10-09
 date_last: 2002-10-13
-tags: []
+num_views: 7318
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2002-10-09 17:28:39](https://www.astralpulse.com/forums/index.php?msg=117917), [TheJza](https://www.astralpulse.com/forums/profile/?u=218)  ##

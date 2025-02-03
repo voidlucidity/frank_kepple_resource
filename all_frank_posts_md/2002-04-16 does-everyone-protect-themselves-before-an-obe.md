@@ -1,12 +1,13 @@
 ---
 topic_title: "does everyone protect themselves before an OBE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/does-everyone-protect-themselves-before-an-obe
-num_views: 4126
+topic_id: 695
 num_posts: 11
 date_first: 2002-04-16
 date_last: 2002-05-20
-tags: []
+num_views: 4126
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (10) [2002-04-16 22:17:28](https://www.astralpulse.com/forums/index.php?msg=116446), [dllb](https://www.astralpulse.com/forums/profile/?u=445)  ##

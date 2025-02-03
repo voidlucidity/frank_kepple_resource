@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing/OBE What's the difference?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/phasingobe-what-s-the-difference
-num_views: 14908
+topic_id: 2303
 num_posts: 16
 date_first: 2002-10-20
 date_last: 2002-11-01
-tags: []
+num_views: 14908
 summary: ""
+tags: []
 ---
 
 ## \#0/15 (15) [2002-10-20 05:48:56](https://www.astralpulse.com/forums/index.php?msg=118037), Leyla  ##

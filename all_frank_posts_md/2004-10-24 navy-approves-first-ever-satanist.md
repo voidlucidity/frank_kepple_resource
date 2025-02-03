@@ -1,12 +1,13 @@
 ---
 topic_title: "Navy Approves first ever Satanist..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-news-and-media!/navy-approves-first-ever-satanist
-num_views: 3175
+topic_id: 14977
 num_posts: 8
 date_first: 2004-10-24
 date_last: 2004-11-08
-tags: []
+num_views: 3175
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2004-10-24 07:21:02](https://www.astralpulse.com/forums/index.php?msg=131249), [clandestino](https://www.astralpulse.com/forums/profile/?u=691) Australia ##

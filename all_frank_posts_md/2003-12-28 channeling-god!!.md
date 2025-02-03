@@ -1,12 +1,13 @@
 ---
 topic_title: "Channeling God!!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/channeling-god%21%21
-num_views: 292574
+topic_id: 9620
 num_posts: 751
 date_first: 2003-12-28
 date_last: 2010-12-17
-tags: []
+num_views: 292574
 summary: ""
+tags: []
 ---
 
 ## \#0/750 (459) [2003-12-28 00:09:38](https://www.astralpulse.com/forums/index.php?msg=124752), [Mustardseed](https://www.astralpulse.com/forums/profile/?u=2232)  ##

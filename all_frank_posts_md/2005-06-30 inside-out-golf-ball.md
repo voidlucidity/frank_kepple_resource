@@ -1,12 +1,13 @@
 ---
 topic_title: "Inside out golf ball?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/inside-out-golf-ball
-num_views: 2346
+topic_id: 19608
 num_posts: 5
 date_first: 2005-06-30
 date_last: 2005-07-04
-tags: []
+num_views: 2346
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-06-30 04:22:02](https://www.astralpulse.com/forums/index.php?msg=168486), [Steve 2B](https://www.astralpulse.com/forums/profile/?u=8938)  ##

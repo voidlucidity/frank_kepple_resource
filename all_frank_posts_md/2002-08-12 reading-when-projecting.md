@@ -1,12 +1,13 @@
 ---
 topic_title: "Reading when projecting..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/reading-when-projecting
-num_views: 3098
+topic_id: 1653
 num_posts: 11
 date_first: 2002-08-12
 date_last: 2002-08-22
-tags: []
+num_views: 3098
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (10) [2002-08-12 14:03:59](https://www.astralpulse.com/forums/index.php?msg=117388), [Adam Kadmon](https://www.astralpulse.com/forums/profile/?u=633) USA ##

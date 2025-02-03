@@ -1,12 +1,13 @@
 ---
 topic_title: "Thank you Frank!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/thank-you-frank%21
-num_views: 2323
+topic_id: 4307
 num_posts: 2
 date_first: 2003-04-25
 date_last: 2003-04-26
-tags: []
+num_views: 2323
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (1) [2003-04-25 19:38:45](https://www.astralpulse.com/forums/index.php?msg=120014), [timeless](https://www.astralpulse.com/forums/profile/?u=1601) Canada ##

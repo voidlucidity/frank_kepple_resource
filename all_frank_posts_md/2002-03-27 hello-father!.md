@@ -1,12 +1,13 @@
 ---
 topic_title: "Hello.... FATHER!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/hello-father%21
-num_views: 3687
+topic_id: 444
 num_posts: 7
 date_first: 2002-03-27
 date_last: 2002-03-29
-tags: []
+num_views: 3687
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-03-27 17:24:03](https://www.astralpulse.com/forums/index.php?msg=116203), [DjMidgetMan](https://www.astralpulse.com/forums/profile/?u=278) USA ##

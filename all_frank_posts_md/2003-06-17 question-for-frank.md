@@ -1,12 +1,13 @@
 ---
 topic_title: "Question for Frank"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/question-for-frank
-num_views: 4598
+topic_id: 5078
 num_posts: 16
 date_first: 2003-06-17
 date_last: 2004-06-23
-tags: []
+num_views: 4598
 summary: ""
+tags: []
 ---
 
 ## \#0/15 (15) [2003-06-17 03:56:23](https://www.astralpulse.com/forums/index.php?msg=120762), [stevewhite2000](https://www.astralpulse.com/forums/profile/?u=2448) Australia ##

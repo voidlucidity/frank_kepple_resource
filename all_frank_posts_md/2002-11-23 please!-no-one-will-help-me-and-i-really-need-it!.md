@@ -1,12 +1,13 @@
 ---
 topic_title: "Please!  No one will help me and I really need it!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/please%21-no-one-will-help-me-and-i-really-need-it%21
-num_views: 1853
+topic_id: 2661
 num_posts: 4
 date_first: 2002-11-23
 date_last: 2002-11-23
-tags: []
+num_views: 1853
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-11-23 10:57:49](https://www.astralpulse.com/forums/index.php?msg=118391), [MsAmericanPie](https://www.astralpulse.com/forums/profile/?u=1476) USA ##

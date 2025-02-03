@@ -1,12 +1,13 @@
 ---
 topic_title: "Rollercoaster ride through 3D Blackness!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/rollercoaster-ride-through-3d-blackness%21
-num_views: 5947
+topic_id: 3433
 num_posts: 12
 date_first: 2003-02-10
 date_last: 2003-03-01
-tags: []
+num_views: 5947
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2003-02-10 17:56:20](https://www.astralpulse.com/forums/index.php?msg=119155), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

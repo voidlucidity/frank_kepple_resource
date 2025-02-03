@@ -1,12 +1,13 @@
 ---
 topic_title: "Second Attempt at my question!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/second-attempt-at-my-question%21
-num_views: 4517
+topic_id: 14320
 num_posts: 18
 date_first: 2004-09-07
 date_last: 2004-09-19
-tags: []
+num_views: 4517
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (17) [2004-09-07 04:56:20](https://www.astralpulse.com/forums/index.php?msg=129195), [Andrew Garley](https://www.astralpulse.com/forums/profile/?u=6790) United Kingdom ##

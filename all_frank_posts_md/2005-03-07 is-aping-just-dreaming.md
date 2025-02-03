@@ -1,12 +1,13 @@
 ---
 topic_title: "Is APing just dreaming?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/is-aping-just-dreaming
-num_views: 2566
+topic_id: 17847
 num_posts: 10
 date_first: 2005-03-07
 date_last: 2005-03-18
-tags: []
+num_views: 2566
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2005-03-07 18:35:05](https://www.astralpulse.com/forums/index.php?msg=154466), [Shaykai](https://www.astralpulse.com/forums/profile/?u=8579) San Jose, CA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Elysium Battlefield"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/elysium-battlefield
-num_views: 3834
+topic_id: 17836
 num_posts: 13
 date_first: 2005-03-07
 date_last: 2005-03-10
-tags: []
+num_views: 3834
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (0) [2005-03-07 12:50:09](https://www.astralpulse.com/forums/index.php?msg=154360), [Telos](https://www.astralpulse.com/forums/profile/?u=6496)  ##

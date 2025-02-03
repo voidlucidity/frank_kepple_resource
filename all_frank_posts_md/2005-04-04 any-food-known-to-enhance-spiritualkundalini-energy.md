@@ -1,12 +1,13 @@
 ---
 topic_title: "Any food known to enhance spiritual/kundalini energy?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/any-food-known-to-enhance-spiritualkundalini-energy
-num_views: 20837
+topic_id: 18341
 num_posts: 21
 date_first: 2005-04-04
 date_last: 2008-07-18
-tags: []
+num_views: 20837
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (0) [2005-04-04 13:36:00](https://www.astralpulse.com/forums/index.php?msg=158933), [Wackyd01](https://www.astralpulse.com/forums/profile/?u=8643)  ##

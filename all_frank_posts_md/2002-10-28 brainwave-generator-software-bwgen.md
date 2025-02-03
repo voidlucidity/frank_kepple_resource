@@ -1,12 +1,13 @@
 ---
 topic_title: "Brainwave Generator software (BWGEN)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/brainwave-generator-software-bwgen
-num_views: 37626
+topic_id: 2379
 num_posts: 67
 date_first: 2002-10-28
 date_last: 2005-03-09
-tags: []
+num_views: 37626
 summary: ""
+tags: []
 ---
 
 ## \#0/66 (63) [2002-10-28 09:43:50](https://www.astralpulse.com/forums/index.php?msg=118113), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

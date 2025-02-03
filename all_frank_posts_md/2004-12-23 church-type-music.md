@@ -1,12 +1,13 @@
 ---
 topic_title: "Church Type Music"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/church-type-music
-num_views: 3140
+topic_id: 16012
 num_posts: 10
 date_first: 2004-12-23
 date_last: 2004-12-24
-tags: []
+num_views: 3140
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2004-12-23 22:23:22](https://www.astralpulse.com/forums/index.php?msg=139445), [markulous](https://www.astralpulse.com/forums/profile/?u=7426)  ##

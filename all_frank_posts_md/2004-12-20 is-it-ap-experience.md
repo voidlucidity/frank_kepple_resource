@@ -1,12 +1,13 @@
 ---
 topic_title: "Is it AP experience?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/is-it-ap-experience
-num_views: 1704
+topic_id: 15941
 num_posts: 4
 date_first: 2004-12-20
 date_last: 2004-12-21
-tags: []
+num_views: 1704
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2004-12-20 09:16:58](https://www.astralpulse.com/forums/index.php?msg=138854), [zelc76](https://www.astralpulse.com/forums/profile/?u=7690) Novo mesto, SLOVENIA, EUROPE ##

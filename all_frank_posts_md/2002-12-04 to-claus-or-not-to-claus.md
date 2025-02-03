@@ -1,12 +1,13 @@
 ---
 topic_title: "To Claus or Not To Claus"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/to-claus-or-not-to-claus
-num_views: 3935
+topic_id: 2788
 num_posts: 13
 date_first: 2002-12-04
 date_last: 2003-11-20
-tags: []
+num_views: 3935
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2002-12-04 06:11:53](https://www.astralpulse.com/forums/index.php?msg=118518), [WalkerInTheWoods](https://www.astralpulse.com/forums/profile/?u=404)  ##

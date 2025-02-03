@@ -1,12 +1,13 @@
 ---
 topic_title: "Very confused"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/very-confused
-num_views: 1886
+topic_id: 19791
 num_posts: 3
 date_first: 2005-07-12
 date_last: 2005-07-13
-tags: []
+num_views: 1886
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-07-12 03:39:05](https://www.astralpulse.com/forums/index.php?msg=169891), [m3th](https://www.astralpulse.com/forums/profile/?u=9397)  ##

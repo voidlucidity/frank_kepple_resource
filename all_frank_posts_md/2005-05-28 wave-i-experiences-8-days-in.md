@@ -1,12 +1,13 @@
 ---
 topic_title: "Wave I experiences 8 days in"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/wave-i-experiences-8-days-in
-num_views: 1118
+topic_id: 19069
 num_posts: 2
 date_first: 2005-05-28
 date_last: 2005-05-28
-tags: []
+num_views: 1118
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-05-28 00:37:46](https://www.astralpulse.com/forums/index.php?msg=164429), [Jeff Caldwell](https://www.astralpulse.com/forums/profile/?u=9073)  ##

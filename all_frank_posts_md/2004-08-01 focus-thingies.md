@@ -1,12 +1,13 @@
 ---
 topic_title: "Focus thingies"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/focus-thingies
-num_views: 2185
+topic_id: 13665
 num_posts: 6
 date_first: 2004-08-01
 date_last: 2004-08-03
-tags: []
+num_views: 2185
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2004-08-01 19:29:47](https://www.astralpulse.com/forums/index.php?msg=128558), funinfloating111  ##

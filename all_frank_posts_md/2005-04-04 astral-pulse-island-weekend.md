@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Pulse Island Weekend"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-pulse-island!/astral-pulse-island-weekend
-num_views: 9056
+topic_id: 18345
 num_posts: 12
 date_first: 2005-04-04
 date_last: 2005-04-20
-tags: []
+num_views: 9056
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (0) [2005-04-04 17:14:12](https://www.astralpulse.com/forums/index.php?msg=158972), [Major Tom](https://www.astralpulse.com/forums/profile/?u=1075) Canada ##

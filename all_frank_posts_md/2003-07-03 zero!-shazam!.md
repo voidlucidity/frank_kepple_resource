@@ -1,12 +1,13 @@
 ---
 topic_title: "ZERO! SHAZAM!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/zero%21-shazam%21
-num_views: 3660
+topic_id: 5393
 num_posts: 9
 date_first: 2003-07-03
 date_last: 2003-07-03
-tags: []
+num_views: 3660
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2003-07-03 06:01:52](https://www.astralpulse.com/forums/index.php?msg=121058), [Tisha](https://www.astralpulse.com/forums/profile/?u=594) USA ##

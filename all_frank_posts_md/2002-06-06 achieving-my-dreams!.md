@@ -1,12 +1,13 @@
 ---
 topic_title: "Achieving My Dreams!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/achieving-my-dreams%21
-num_views: 3153
+topic_id: 1080
 num_posts: 9
 date_first: 2002-06-06
 date_last: 2002-06-11
-tags: []
+num_views: 3153
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2002-06-06 22:55:59](https://www.astralpulse.com/forums/index.php?msg=116818), [ninthplanet](https://www.astralpulse.com/forums/profile/?u=605) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Hello ALL I am new to the Pulse"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/hello-all-i-am-new-to-the-pulse
-num_views: 2798
+topic_id: 16989
 num_posts: 9
 date_first: 2005-02-03
 date_last: 2005-02-14
-tags: []
+num_views: 2798
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (0) [2005-02-03 10:47:19](https://www.astralpulse.com/forums/index.php?msg=146738), [Awakening Hearts](https://www.astralpulse.com/forums/profile/?u=8259) Warrenville IL ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE that started in wrong spot"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/obe-that-started-in-wrong-spot
-num_views: 1083
+topic_id: 3217
 num_posts: 3
 date_first: 2003-01-20
 date_last: 2003-01-21
-tags: []
+num_views: 1083
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2003-01-20 09:16:32](https://www.astralpulse.com/forums/index.php?msg=118943), [Kodemaster](https://www.astralpulse.com/forums/profile/?u=426)(Global Moderator) USA ##

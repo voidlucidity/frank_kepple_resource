@@ -1,12 +1,13 @@
 ---
 topic_title: "FoCs, chakras and vibes"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/focs-chakras-and-vibes
-num_views: 22141
+topic_id: 18559
 num_posts: 58
 date_first: 2005-04-15
 date_last: 2005-04-23
-tags: []
+num_views: 22141
 summary: ""
+tags: []
 ---
 
 ## \#0/57 (0) [2005-04-15 00:52:27](https://www.astralpulse.com/forums/index.php?msg=160395), [Shzarnie](https://www.astralpulse.com/forums/profile/?u=8849) Australia/Inside My Mind ##

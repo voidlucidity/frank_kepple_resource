@@ -1,12 +1,13 @@
 ---
 topic_title: "I would very much appreciate Franks help"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/i-would-very-much-appreciate-franks-help
-num_views: 1818
+topic_id: 2248
 num_posts: 4
 date_first: 2002-10-14
 date_last: 2002-10-16
-tags: []
+num_views: 1818
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-10-14 18:27:35](https://www.astralpulse.com/forums/index.php?msg=117982), [metaphysics](https://www.astralpulse.com/forums/profile/?u=1278) Albania ##

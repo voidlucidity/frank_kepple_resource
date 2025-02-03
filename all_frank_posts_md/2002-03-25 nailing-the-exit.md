@@ -1,12 +1,13 @@
 ---
 topic_title: "Nailing the Exit"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/nailing-the-exit
-num_views: 3989
+topic_id: 426
 num_posts: 10
 date_first: 2002-03-25
 date_last: 2010-01-12
-tags: []
+num_views: 3989
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (8) [2002-03-25 12:55:21](https://www.astralpulse.com/forums/index.php?msg=116185), [Froggman](https://www.astralpulse.com/forums/profile/?u=356) USA ##

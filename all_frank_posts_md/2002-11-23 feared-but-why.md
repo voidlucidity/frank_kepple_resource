@@ -1,12 +1,13 @@
 ---
 topic_title: "Feared-but why?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/feared-but-why
-num_views: 2594
+topic_id: 2674
 num_posts: 6
 date_first: 2002-11-23
 date_last: 2002-11-24
-tags: []
+num_views: 2594
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-11-23 23:12:21](https://www.astralpulse.com/forums/index.php?msg=118404), [helen](https://www.astralpulse.com/forums/profile/?u=1488) United Kingdom ##

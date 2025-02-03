@@ -1,12 +1,13 @@
 ---
 topic_title: "RIPPED OFF"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/ripped-off
-num_views: 2409
+topic_id: 5094
 num_posts: 9
 date_first: 2003-06-17
 date_last: 2003-06-18
-tags: []
+num_views: 2409
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2003-06-17 19:29:44](https://www.astralpulse.com/forums/index.php?msg=120778), [ronaldo](https://www.astralpulse.com/forums/profile/?u=2518) United Kingdom ##

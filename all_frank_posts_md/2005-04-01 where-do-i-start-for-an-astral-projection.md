@@ -1,12 +1,13 @@
 ---
 topic_title: "where do i start for an Astral Projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/where-do-i-start-for-an-astral-projection
-num_views: 5476
+topic_id: 18305
 num_posts: 14
 date_first: 2005-04-01
 date_last: 2005-04-09
-tags: []
+num_views: 5476
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (0) [2005-04-01 16:56:15](https://www.astralpulse.com/forums/index.php?msg=158585), [Ryuji](https://www.astralpulse.com/forums/profile/?u=5924) South Africa ##

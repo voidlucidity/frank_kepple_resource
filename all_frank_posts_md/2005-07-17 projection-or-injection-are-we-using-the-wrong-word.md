@@ -1,12 +1,13 @@
 ---
 topic_title: "Projection or injection?  are we using the wrong word?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/projection-or-injection-are-we-using-the-wrong-word
-num_views: 8575
+topic_id: 19861
 num_posts: 21
 date_first: 2005-07-17
 date_last: 2005-08-04
-tags: []
+num_views: 8575
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (0) [2005-07-17 22:47:34](https://www.astralpulse.com/forums/index.php?msg=170565), [Andali27](https://www.astralpulse.com/forums/profile/?u=6413) Australia ##

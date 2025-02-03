@@ -1,12 +1,13 @@
 ---
 topic_title: "Do you feel bad when you gamble?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/do-you-feel-bad-when-you-gamble
-num_views: 6590
+topic_id: 16795
 num_posts: 25
 date_first: 2005-01-27
 date_last: 2005-11-27
-tags: []
+num_views: 6590
 summary: ""
+tags: []
 ---
 
 ## \#0/24 (0) [2005-01-27 13:17:33](https://www.astralpulse.com/forums/index.php?msg=145276), [Telos](https://www.astralpulse.com/forums/profile/?u=6496)  ##

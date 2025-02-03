@@ -1,12 +1,13 @@
 ---
 topic_title: "How do you know you are in trance state?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/how-do-you-know-you-are-in-trance-state
-num_views: 3763
+topic_id: 18687
 num_posts: 6
 date_first: 2005-04-23
 date_last: 2005-04-25
-tags: []
+num_views: 3763
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-04-23 12:51:40](https://www.astralpulse.com/forums/index.php?msg=161519), [data](https://www.astralpulse.com/forums/profile/?u=8831)  ##

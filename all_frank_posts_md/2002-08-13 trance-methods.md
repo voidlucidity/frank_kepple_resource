@@ -1,12 +1,13 @@
 ---
 topic_title: "Trance Methods"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/trance-methods
-num_views: 2267
+topic_id: 1660
 num_posts: 6
 date_first: 2002-08-13
 date_last: 2002-08-14
-tags: []
+num_views: 2267
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-08-13 16:51:05](https://www.astralpulse.com/forums/index.php?msg=117395), [SBman](https://www.astralpulse.com/forums/profile/?u=1010) USA ##

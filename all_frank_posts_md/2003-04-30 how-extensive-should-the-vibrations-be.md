@@ -1,12 +1,13 @@
 ---
 topic_title: "How extensive should the vibrations be?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/how-extensive-should-the-vibrations-be
-num_views: 3268
+topic_id: 4395
 num_posts: 14
 date_first: 2003-04-30
 date_last: 2003-05-04
-tags: []
+num_views: 3268
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (13) [2003-04-30 23:55:56](https://www.astralpulse.com/forums/index.php?msg=120101), [JohnCurtis](https://www.astralpulse.com/forums/profile/?u=885) USA ##

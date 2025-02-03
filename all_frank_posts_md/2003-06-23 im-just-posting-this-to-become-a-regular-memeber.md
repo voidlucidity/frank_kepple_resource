@@ -1,12 +1,13 @@
 ---
 topic_title: "im just posting this to become a regular memeber"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/im-just-posting-this-to-become-a-regular-memeber
-num_views: 41092
+topic_id: 5186
 num_posts: 161
 date_first: 2003-06-23
 date_last: 2006-04-04
-tags: []
+num_views: 41092
 summary: ""
+tags: []
 ---
 
 ## \#0/160 (138) [2003-06-23 08:11:16](https://www.astralpulse.com/forums/index.php?msg=120864), [psionic1290](https://www.astralpulse.com/forums/profile/?u=2483) USA ##

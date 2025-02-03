@@ -1,12 +1,13 @@
 ---
 topic_title: "Ladies and Gentlemen I present my first projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/ladies-and-gentlemen-i-present-my-first-projection
-num_views: 9016
+topic_id: 4977
 num_posts: 35
 date_first: 2003-06-12
 date_last: 2003-08-15
-tags: []
+num_views: 9016
 summary: ""
+tags: []
 ---
 
 ## \#0/34 (34) [2003-06-12 03:06:10](https://www.astralpulse.com/forums/index.php?msg=120666), [TruthSeeker](https://www.astralpulse.com/forums/profile/?u=2191) Norway ##

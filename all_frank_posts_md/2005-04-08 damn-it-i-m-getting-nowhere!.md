@@ -1,12 +1,13 @@
 ---
 topic_title: "Damn it, I'm getting nowhere!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/damn-it-i-m-getting-nowhere%21
-num_views: 6463
+topic_id: 18426
 num_posts: 20
 date_first: 2005-04-08
 date_last: 2005-08-24
-tags: []
+num_views: 6463
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (0) [2005-04-08 23:39:24](https://www.astralpulse.com/forums/index.php?msg=159519), [Andali27](https://www.astralpulse.com/forums/profile/?u=6413) Australia ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Is it manditory?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/is-it-manditory
-num_views: 1744
+topic_id: 18766
 num_posts: 6
 date_first: 2005-04-28
 date_last: 2005-05-01
-tags: []
+num_views: 1744
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-04-28 05:01:24](https://www.astralpulse.com/forums/index.php?msg=162117), [schotzi](https://www.astralpulse.com/forums/profile/?u=8978)  ##

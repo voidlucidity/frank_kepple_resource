@@ -1,12 +1,13 @@
 ---
 topic_title: "What happened to me?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/what-happened-to-me-16756
-num_views: 1700
+topic_id: 16756
 num_posts: 5
 date_first: 2005-01-25
 date_last: 2005-01-30
-tags: []
+num_views: 1700
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-01-25 19:14:25](https://www.astralpulse.com/forums/index.php?msg=144954), [FranRN](https://www.astralpulse.com/forums/profile/?u=8156)  ##

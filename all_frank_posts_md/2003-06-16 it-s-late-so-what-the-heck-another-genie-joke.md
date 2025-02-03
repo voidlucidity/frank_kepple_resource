@@ -1,12 +1,13 @@
 ---
 topic_title: "It's late so what the heck (another Genie joke)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/it-s-late-so-what-the-heck-another-genie-joke
-num_views: 1713
+topic_id: 5071
 num_posts: 5
 date_first: 2003-06-16
 date_last: 2003-06-17
-tags: []
+num_views: 1713
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-06-16 19:55:03](https://www.astralpulse.com/forums/index.php?msg=120756), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

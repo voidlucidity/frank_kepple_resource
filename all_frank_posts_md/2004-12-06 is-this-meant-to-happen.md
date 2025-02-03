@@ -1,12 +1,13 @@
 ---
 topic_title: "is this meant to happen?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/is-this-meant-to-happen
-num_views: 1329
+topic_id: 15652
 num_posts: 3
 date_first: 2004-12-06
 date_last: 2004-12-07
-tags: []
+num_views: 1329
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2004-12-06 22:57:58](https://www.astralpulse.com/forums/index.php?msg=136538), [astral man](https://www.astralpulse.com/forums/profile/?u=7472)  ##

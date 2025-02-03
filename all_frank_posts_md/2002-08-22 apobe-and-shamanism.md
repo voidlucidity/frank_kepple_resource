@@ -1,12 +1,13 @@
 ---
 topic_title: "AP/OBE and Shamanism"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/apobe-and-shamanism
-num_views: 3032
+topic_id: 1711
 num_posts: 7
 date_first: 2002-08-22
 date_last: 2002-08-24
-tags: []
+num_views: 3032
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-08-22 17:55:02](https://www.astralpulse.com/forums/index.php?msg=117446), [Tisha](https://www.astralpulse.com/forums/profile/?u=594) USA ##

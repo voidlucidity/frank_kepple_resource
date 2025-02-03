@@ -1,12 +1,13 @@
 ---
 topic_title: "free online book on OBE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/free-online-book-on-obe
-num_views: 2386
+topic_id: 1586
 num_posts: 6
 date_first: 2002-08-03
 date_last: 2002-08-04
-tags: []
+num_views: 2386
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-08-03 18:33:28](https://www.astralpulse.com/forums/index.php?msg=117321), [rodentmouse](https://www.astralpulse.com/forums/profile/?u=554) United Kingdom ##

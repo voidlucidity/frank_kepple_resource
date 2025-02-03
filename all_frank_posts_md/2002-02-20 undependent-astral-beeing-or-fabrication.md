@@ -1,12 +1,13 @@
 ---
 topic_title: "Undependent Astral Beeing or fabrication?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/undependent-astral-beeing-or-fabrication
-num_views: 4863
+topic_id: 84
 num_posts: 4
 date_first: 2002-02-20
 date_last: 2002-03-25
-tags: []
+num_views: 4863
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-02-20 10:36:03](https://www.astralpulse.com/forums/index.php?msg=115862), [Sasser](https://www.astralpulse.com/forums/profile/?u=98) Sweden ##

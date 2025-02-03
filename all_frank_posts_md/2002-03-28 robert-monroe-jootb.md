@@ -1,12 +1,13 @@
 ---
 topic_title: "Robert Monroe  JOOTB"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/robert-monroe-jootb
-num_views: 8668
+topic_id: 451
 num_posts: 27
 date_first: 2002-03-28
 date_last: 2011-04-04
-tags: []
+num_views: 8668
 summary: ""
+tags: []
 ---
 
 ## \#0/26 (24) [2002-03-28 21:16:55](https://www.astralpulse.com/forums/index.php?msg=116209), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "How do I get started w/OBE & Astral Travel?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/how-do-i-get-started-wobe-astral-travel
-num_views: 1844
+topic_id: 2051
 num_posts: 5
 date_first: 2002-09-27
 date_last: 2002-09-28
-tags: []
+num_views: 1844
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2002-09-27 17:58:56](https://www.astralpulse.com/forums/index.php?msg=117785), [SirMack](https://www.astralpulse.com/forums/profile/?u=1235) USA ##

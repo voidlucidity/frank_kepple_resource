@@ -1,12 +1,13 @@
 ---
 topic_title: "my journey begins here..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/my-journey-begins-here
-num_views: 1501
+topic_id: 18437
 num_posts: 5
 date_first: 2005-04-09
 date_last: 2005-04-12
-tags: []
+num_views: 1501
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-04-09 18:17:55](https://www.astralpulse.com/forums/index.php?msg=159595), [reality.failure](https://www.astralpulse.com/forums/profile/?u=8810) MAPping the universe ##

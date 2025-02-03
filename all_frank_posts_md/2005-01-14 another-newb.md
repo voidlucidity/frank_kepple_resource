@@ -1,12 +1,13 @@
 ---
 topic_title: "Another newb."
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/another-newb
-num_views: 1716
+topic_id: 16460
 num_posts: 4
 date_first: 2005-01-14
 date_last: 2005-01-24
-tags: []
+num_views: 1716
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-01-14 22:59:46](https://www.astralpulse.com/forums/index.php?msg=142971), [Areku](https://www.astralpulse.com/forums/profile/?u=8033) Realm of the One Hundred Central Sky Whales ##

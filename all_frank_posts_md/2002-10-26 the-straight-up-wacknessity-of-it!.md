@@ -1,12 +1,13 @@
 ---
 topic_title: "The straight up wacknessity of it!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/the-straight-up-wacknessity-of-it%21
-num_views: 2823
+topic_id: 2355
 num_posts: 6
 date_first: 2002-10-26
 date_last: 2002-10-29
-tags: []
+num_views: 2823
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-10-26 15:42:13](https://www.astralpulse.com/forums/index.php?msg=118089), [Risu no Kairu](https://www.astralpulse.com/forums/profile/?u=430) Georgia, USA ##

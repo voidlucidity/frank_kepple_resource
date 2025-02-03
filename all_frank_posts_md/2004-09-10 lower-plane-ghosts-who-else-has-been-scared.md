@@ -1,12 +1,13 @@
 ---
 topic_title: "lower plane ghosts (who else has been scared?)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/lower-plane-ghosts-who-else-has-been-scared
-num_views: 2165
+topic_id: 14366
 num_posts: 6
 date_first: 2004-09-10
 date_last: 2004-09-13
-tags: []
+num_views: 2165
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2004-09-10 17:54:32](https://www.astralpulse.com/forums/index.php?msg=129240), [ryokie](https://www.astralpulse.com/forums/profile/?u=6583) United Kingdom ##

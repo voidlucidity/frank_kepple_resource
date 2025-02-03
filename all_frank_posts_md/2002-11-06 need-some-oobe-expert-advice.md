@@ -1,12 +1,13 @@
 ---
 topic_title: "Need some OOBE Expert Advice"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/need-some-oobe-expert-advice
-num_views: 3103
+topic_id: 2487
 num_posts: 11
 date_first: 2002-11-06
 date_last: 2002-11-09
-tags: []
+num_views: 3103
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (10) [2002-11-06 19:41:08](https://www.astralpulse.com/forums/index.php?msg=118220), [Leviiathan](https://www.astralpulse.com/forums/profile/?u=984) Canada ##

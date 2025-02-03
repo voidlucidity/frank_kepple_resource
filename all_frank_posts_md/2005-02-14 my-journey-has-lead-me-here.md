@@ -1,12 +1,13 @@
 ---
 topic_title: "My Journey Has Lead Me Here"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/my-journey-has-lead-me-here
-num_views: 1879
+topic_id: 17273
 num_posts: 5
 date_first: 2005-02-14
 date_last: 2005-02-14
-tags: []
+num_views: 1879
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-02-14 02:35:09](https://www.astralpulse.com/forums/index.php?msg=149214), [Identity](https://www.astralpulse.com/forums/profile/?u=8380)  ##

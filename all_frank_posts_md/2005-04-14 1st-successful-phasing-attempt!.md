@@ -1,12 +1,13 @@
 ---
 topic_title: "1st successful phasing attempt!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/1st-successful-phasing-attempt%21
-num_views: 10262
+topic_id: 18550
 num_posts: 24
 date_first: 2005-04-14
 date_last: 2005-10-02
-tags: []
+num_views: 10262
 summary: ""
+tags: []
 ---
 
 ## \#0/23 (0) [2005-04-14 19:22:07](https://www.astralpulse.com/forums/index.php?msg=160337), [Prophet](https://www.astralpulse.com/forums/profile/?u=8802) PG, BC, Canada ##

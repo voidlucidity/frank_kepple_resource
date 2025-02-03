@@ -1,12 +1,13 @@
 ---
 topic_title: "Seeking guidance..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/seeking-guidance
-num_views: 2122
+topic_id: 17875
 num_posts: 6
 date_first: 2005-03-09
 date_last: 2005-04-09
-tags: []
+num_views: 2122
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-03-09 03:18:13](https://www.astralpulse.com/forums/index.php?msg=154733), [TheAvatar](https://www.astralpulse.com/forums/profile/?u=8592)  ##

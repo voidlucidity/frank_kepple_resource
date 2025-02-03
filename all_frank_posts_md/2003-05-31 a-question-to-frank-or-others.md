@@ -1,12 +1,13 @@
 ---
 topic_title: "a question to Frank or others"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/a-question-to-frank-or-others
-num_views: 4603
+topic_id: 4758
 num_posts: 12
 date_first: 2003-05-31
 date_last: 2003-06-11
-tags: []
+num_views: 4603
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2003-05-31 08:26:27](https://www.astralpulse.com/forums/index.php?msg=120451), [blink182](https://www.astralpulse.com/forums/profile/?u=2386) United Kingdom ##

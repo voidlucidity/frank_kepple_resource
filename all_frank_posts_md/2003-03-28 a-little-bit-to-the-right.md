@@ -1,12 +1,13 @@
 ---
 topic_title: "A Little Bit to the Right..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/a-little-bit-to-the-right
-num_views: 6800
+topic_id: 3975
 num_posts: 4
 date_first: 2003-03-28
 date_last: 2003-03-29
-tags: []
+num_views: 6800
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2003-03-28 20:21:47](https://www.astralpulse.com/forums/index.php?msg=119691), [Ash](https://www.astralpulse.com/forums/profile/?u=1730) Canada ##

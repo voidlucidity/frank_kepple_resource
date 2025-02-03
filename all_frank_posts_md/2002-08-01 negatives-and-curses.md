@@ -1,12 +1,13 @@
 ---
 topic_title: "negatives and curses"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/negatives-and-curses
-num_views: 3814
+topic_id: 1555
 num_posts: 8
 date_first: 2002-08-01
 date_last: 2002-09-19
-tags: []
+num_views: 3814
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-08-01 13:58:39](https://www.astralpulse.com/forums/index.php?msg=117291), [Savanna](https://www.astralpulse.com/forums/profile/?u=943) USA ##

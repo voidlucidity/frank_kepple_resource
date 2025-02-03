@@ -1,12 +1,13 @@
 ---
 topic_title: "My Take on OOBEs and Astral Projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/my-take-on-oobes-and-astral-projection
-num_views: 2479
+topic_id: 14590
 num_posts: 3
 date_first: 2004-09-24
 date_last: 2004-09-29
-tags: []
+num_views: 2479
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2004-09-24 15:57:07](https://www.astralpulse.com/forums/index.php?msg=129457), AntiGravity  ##

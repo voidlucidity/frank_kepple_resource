@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing rundown question for Frank"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/phasing-rundown-question-for-frank
-num_views: 2470
+topic_id: 19344
 num_posts: 7
 date_first: 2005-06-12
 date_last: 2005-06-16
-tags: []
+num_views: 2470
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-06-12 20:36:26](https://www.astralpulse.com/forums/index.php?msg=166372), [BOATS](https://www.astralpulse.com/forums/profile/?u=4755) USA ##

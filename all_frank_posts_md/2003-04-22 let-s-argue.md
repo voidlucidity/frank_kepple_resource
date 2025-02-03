@@ -1,12 +1,13 @@
 ---
 topic_title: "let's argue"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/let-s-argue
-num_views: 13085
+topic_id: 4267
 num_posts: 48
 date_first: 2003-04-22
 date_last: 2003-05-03
-tags: []
+num_views: 13085
 summary: ""
+tags: []
 ---
 
 ## \#0/47 (47) [2003-04-22 21:57:35](https://www.astralpulse.com/forums/index.php?msg=119976), [fredhedd](https://www.astralpulse.com/forums/profile/?u=692) USA ##

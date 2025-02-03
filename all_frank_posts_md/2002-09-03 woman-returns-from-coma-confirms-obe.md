@@ -1,12 +1,13 @@
 ---
 topic_title: "Woman returns from coma- confirms OBE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/woman-returns-from-coma-confirms-obe
-num_views: 5985
+topic_id: 1821
 num_posts: 4
 date_first: 2002-09-03
 date_last: 2002-09-07
-tags: []
+num_views: 5985
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-09-03 23:22:52](https://www.astralpulse.com/forums/index.php?msg=117556), Leyla  ##

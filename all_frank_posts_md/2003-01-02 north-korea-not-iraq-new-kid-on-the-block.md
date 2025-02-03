@@ -1,12 +1,13 @@
 ---
 topic_title: "North Korea NOT Iraq...new kid on the block..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/north-korea-not-iraq-new-kid-on-the-block
-num_views: 1461
+topic_id: 3001
 num_posts: 3
 date_first: 2003-01-02
 date_last: 2003-01-03
-tags: []
+num_views: 1461
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2003-01-02 14:50:36](https://www.astralpulse.com/forums/index.php?msg=118730), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

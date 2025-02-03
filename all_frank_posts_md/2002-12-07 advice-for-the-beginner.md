@@ -1,12 +1,13 @@
 ---
 topic_title: "Advice for the beginner"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/advice-for-the-beginner
-num_views: 4237
+topic_id: 2814
 num_posts: 14
 date_first: 2002-12-07
 date_last: 2002-12-19
-tags: []
+num_views: 4237
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (13) [2002-12-07 19:00:56](https://www.astralpulse.com/forums/index.php?msg=118544), [freespirit](https://www.astralpulse.com/forums/profile/?u=1564) USA ##

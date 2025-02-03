@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing information"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/phasing-information
-num_views: 2914
+topic_id: 16036
 num_posts: 7
 date_first: 2004-12-25
 date_last: 2005-01-14
-tags: []
+num_views: 2914
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2004-12-25 04:16:35](https://www.astralpulse.com/forums/index.php?msg=139640), Monsolith  ##

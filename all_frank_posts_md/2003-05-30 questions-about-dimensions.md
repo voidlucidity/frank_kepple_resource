@@ -1,12 +1,13 @@
 ---
 topic_title: "Questions about dimensions"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/questions-about-dimensions
-num_views: 4064
+topic_id: 4755
 num_posts: 13
 date_first: 2003-05-30
 date_last: 2003-06-03
-tags: []
+num_views: 4064
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2003-05-30 22:47:20](https://www.astralpulse.com/forums/index.php?msg=120448), [Neanmoine](https://www.astralpulse.com/forums/profile/?u=2420) Canada ##

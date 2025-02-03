@@ -1,12 +1,13 @@
 ---
 topic_title: "Focusing Inward and Visualizing"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/focusing-inward-and-visualizing
-num_views: 12421
+topic_id: 4192
 num_posts: 7
 date_first: 2003-04-15
 date_last: 2003-04-18
-tags: []
+num_views: 12421
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2003-04-15 22:39:15](https://www.astralpulse.com/forums/index.php?msg=119901), [Nick](https://www.astralpulse.com/forums/profile/?u=2080) California ##

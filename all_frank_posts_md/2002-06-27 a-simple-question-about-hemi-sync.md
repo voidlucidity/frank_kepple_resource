@@ -1,12 +1,13 @@
 ---
 topic_title: "A simple question about Hemi-Sync"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/a-simple-question-about-hemi-sync
-num_views: 2254
+topic_id: 1249
 num_posts: 5
 date_first: 2002-06-27
 date_last: 2002-06-29
-tags: []
+num_views: 2254
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2002-06-27 08:08:15](https://www.astralpulse.com/forums/index.php?msg=116987), [shadow_xca](https://www.astralpulse.com/forums/profile/?u=494) Canada ##

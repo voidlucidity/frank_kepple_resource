@@ -1,12 +1,13 @@
 ---
 topic_title: "hemi-sync wave 1"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/hemi-sync-wave-1
-num_views: 5428
+topic_id: 1652
 num_posts: 13
 date_first: 2002-08-12
 date_last: 2002-08-23
-tags: []
+num_views: 5428
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2002-08-12 12:03:29](https://www.astralpulse.com/forums/index.php?msg=117387), alpha  ##

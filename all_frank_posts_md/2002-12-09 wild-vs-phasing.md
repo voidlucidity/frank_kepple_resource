@@ -1,12 +1,13 @@
 ---
 topic_title: "WILD vs. Phasing"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/wild-vs-phasing
-num_views: 3593
+topic_id: 2832
 num_posts: 4
 date_first: 2002-12-09
 date_last: 2002-12-13
-tags: []
+num_views: 3593
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-12-09 18:53:17](https://www.astralpulse.com/forums/index.php?msg=118562), [TheJza](https://www.astralpulse.com/forums/profile/?u=218)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Japanese develop 'female' android"
 topic_url: https://www.astralpulse.com/forums/welcome-to-news-and-media!/japanese-develop-female-android
-num_views: 9873
+topic_id: 19994
 num_posts: 27
 date_first: 2005-07-28
 date_last: 2005-08-24
-tags: []
+num_views: 9873
 summary: ""
+tags: []
 ---
 
 ## \#0/26 (0) [2005-07-28 16:39:41](https://www.astralpulse.com/forums/index.php?msg=171522), runlola  ##

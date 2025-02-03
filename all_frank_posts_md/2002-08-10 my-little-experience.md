@@ -1,12 +1,13 @@
 ---
 topic_title: "My little experience"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/my-little-experience
-num_views: 2405
+topic_id: 1645
 num_posts: 4
 date_first: 2002-08-10
 date_last: 2002-08-12
-tags: []
+num_views: 2405
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-08-10 04:29:49](https://www.astralpulse.com/forums/index.php?msg=117380), [Masilon](https://www.astralpulse.com/forums/profile/?u=998) Italy ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Books on death/dying/afterlife"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/books-on-deathdyingafterlife
-num_views: 2547
+topic_id: 4074
 num_posts: 8
 date_first: 2003-04-05
 date_last: 2003-04-09
-tags: []
+num_views: 2547
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2003-04-05 12:33:15](https://www.astralpulse.com/forums/index.php?msg=119786), [Nerezza](https://www.astralpulse.com/forums/profile/?u=740) Canada ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Should dream and OBE's never be shared?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/should-dream-and-obe-s-never-be-shared
-num_views: 3056
+topic_id: 14316
 num_posts: 10
 date_first: 2004-09-07
 date_last: 2004-09-08
-tags: []
+num_views: 3056
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2004-09-07 02:30:18](https://www.astralpulse.com/forums/index.php?msg=129191), [Faceless](https://www.astralpulse.com/forums/profile/?u=1900) United Kingdom ##

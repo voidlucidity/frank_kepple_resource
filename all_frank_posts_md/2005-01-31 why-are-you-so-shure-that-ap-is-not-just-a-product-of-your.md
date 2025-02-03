@@ -1,12 +1,13 @@
 ---
 topic_title: "Why are you so shure that AP is not just a product of your"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/why-are-you-so-shure-that-ap-is-not-just-a-product-of-your
-num_views: 8675
+topic_id: 16905
 num_posts: 24
 date_first: 2005-01-31
 date_last: 2005-02-15
-tags: []
+num_views: 8675
 summary: ""
+tags: []
 ---
 
 ## \#0/23 (0) [2005-01-31 12:15:45](https://www.astralpulse.com/forums/index.php?msg=146110), [kajaLove](https://www.astralpulse.com/forums/profile/?u=6993)  ##

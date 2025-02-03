@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Planes = Afterlife?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/astral-planes-afterlife
-num_views: 4906
+topic_id: 17092
 num_posts: 7
 date_first: 2005-02-06
 date_last: 2005-02-07
-tags: []
+num_views: 4906
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-02-06 22:56:16](https://www.astralpulse.com/forums/index.php?msg=147602), [Ezekiel L337](https://www.astralpulse.com/forums/profile/?u=8068)  ##

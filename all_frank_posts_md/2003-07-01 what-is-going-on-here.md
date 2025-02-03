@@ -1,12 +1,13 @@
 ---
 topic_title: "What is going on here?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/what-is-going-on-here
-num_views: 2995
+topic_id: 5354
 num_posts: 9
 date_first: 2003-07-01
 date_last: 2003-07-01
-tags: []
+num_views: 2995
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (7) [2003-07-01 15:38:52](https://www.astralpulse.com/forums/index.php?msg=121021), [Squeek](https://www.astralpulse.com/forums/profile/?u=1578) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Getting past \"can't\""
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/getting-past-can-t
-num_views: 2752
+topic_id: 1784
 num_posts: 7
 date_first: 2002-08-30
 date_last: 2002-09-03
-tags: []
+num_views: 2752
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-08-30 16:48:25](https://www.astralpulse.com/forums/index.php?msg=117519), [Tisha](https://www.astralpulse.com/forums/profile/?u=594) USA ##

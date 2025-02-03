@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral danger"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/astral-danger
-num_views: 9256
+topic_id: 560
 num_posts: 25
 date_first: 2002-04-06
 date_last: 2002-04-17
-tags: []
+num_views: 9256
 summary: ""
+tags: []
 ---
 
 ## \#0/24 (24) [2002-04-06 21:46:50](https://www.astralpulse.com/forums/index.php?msg=116315), [Vallk](https://www.astralpulse.com/forums/profile/?u=418) Canada ##

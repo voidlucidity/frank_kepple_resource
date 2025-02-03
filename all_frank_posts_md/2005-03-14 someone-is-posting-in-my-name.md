@@ -1,12 +1,13 @@
 ---
 topic_title: "someone is posting in my name"
 topic_url: https://www.astralpulse.com/forums/forums-bugs-reports-and-questions/someone-is-posting-in-my-name
-num_views: 8338
+topic_id: 17990
 num_posts: 21
 date_first: 2005-03-14
 date_last: 2005-03-17
-tags: []
+num_views: 8338
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (0) [2005-03-14 19:01:20](https://www.astralpulse.com/forums/index.php?msg=155771), [Mustardseed](https://www.astralpulse.com/forums/profile/?u=2232)  ##

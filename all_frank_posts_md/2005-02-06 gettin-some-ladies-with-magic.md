@@ -1,12 +1,13 @@
 ---
 topic_title: "gettin some ladies with magic"
 topic_url: https://www.astralpulse.com/forums/welcome-to-magic!/gettin-some-ladies-with-magic
-num_views: 14496
+topic_id: 17081
 num_posts: 37
 date_first: 2005-02-06
 date_last: 2005-04-08
-tags: []
+num_views: 14496
 summary: ""
+tags: []
 ---
 
 ## \#0/36 (0) [2005-02-06 13:31:04](https://www.astralpulse.com/forums/index.php?msg=147496), [ARCHDRAGON](https://www.astralpulse.com/forums/profile/?u=8060) nellis air force base ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Just another stupid newb with a question"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/just-another-stupid-newb-with-a-question
-num_views: 2049
+topic_id: 16545
 num_posts: 6
 date_first: 2005-01-17
 date_last: 2005-01-27
-tags: []
+num_views: 2049
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-01-17 01:15:20](https://www.astralpulse.com/forums/index.php?msg=143380), ufsrj2  ##

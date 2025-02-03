@@ -1,12 +1,13 @@
 ---
 topic_title: "Can't Stay In My Body!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/can-t-stay-in-my-body%21
-num_views: 1455
+topic_id: 4004
 num_posts: 2
 date_first: 2003-03-31
 date_last: 2003-04-02
-tags: []
+num_views: 1455
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (1) [2003-03-31 11:01:10](https://www.astralpulse.com/forums/index.php?msg=119719), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

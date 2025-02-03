@@ -1,12 +1,13 @@
 ---
 topic_title: "What Is This connection? It's purpose?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/what-is-this-connection-it-s-purpose
-num_views: 5347
+topic_id: 15734
 num_posts: 23
 date_first: 2004-12-10
 date_last: 2005-01-21
-tags: []
+num_views: 5347
 summary: ""
+tags: []
 ---
 
 ## \#0/22 (0) [2004-12-10 19:15:19](https://www.astralpulse.com/forums/index.php?msg=137209), [Graelwyn](https://www.astralpulse.com/forums/profile/?u=7334)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Our Ultimate Reality Book and Forums"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/our-ultimate-reality-book-and-forums-18388
-num_views: 6124
+topic_id: 18388
 num_posts: 3
 date_first: 2005-04-07
 date_last: 2006-03-27
-tags: []
+num_views: 6124
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-04-07 11:49:55](https://www.astralpulse.com/forums/index.php?msg=159303), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

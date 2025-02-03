@@ -1,12 +1,13 @@
 ---
 topic_title: "How can I leave FoC 2?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-permanent-astral-topics!/how-can-i-leave-foc-2
-num_views: 36723
+topic_id: 18538
 num_posts: 30
 date_first: 2005-04-14
 date_last: 2011-09-13
-tags: []
+num_views: 36723
 summary: ""
+tags: []
 ---
 
 ## \#0/29 (0) [2005-04-14 06:30:09](https://www.astralpulse.com/forums/index.php?msg=160223), [Tombo](https://www.astralpulse.com/forums/profile/?u=2799) Switzerland ##

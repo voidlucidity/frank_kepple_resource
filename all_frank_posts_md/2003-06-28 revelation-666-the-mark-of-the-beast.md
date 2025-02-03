@@ -1,12 +1,13 @@
 ---
 topic_title: "REVELATION,666 THE MARK OF THE BEAST"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/revelation-666-the-mark-of-the-beast
-num_views: 2002
+topic_id: 5277
 num_posts: 6
 date_first: 2003-06-28
 date_last: 2003-06-29
-tags: []
+num_views: 2002
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2003-06-28 14:54:25](https://www.astralpulse.com/forums/index.php?msg=120951), [ronaldo](https://www.astralpulse.com/forums/profile/?u=2518) United Kingdom ##

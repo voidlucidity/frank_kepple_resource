@@ -1,12 +1,13 @@
 ---
 topic_title: "Bringing things back."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/bringing-things-back
-num_views: 2293
+topic_id: 1094
 num_posts: 6
 date_first: 2002-06-09
 date_last: 2002-06-11
-tags: []
+num_views: 2293
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-06-09 04:09:37](https://www.astralpulse.com/forums/index.php?msg=116832), [cainam_nazier](https://www.astralpulse.com/forums/profile/?u=166) USA ##

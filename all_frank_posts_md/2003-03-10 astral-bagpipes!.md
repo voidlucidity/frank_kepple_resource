@@ -1,12 +1,13 @@
 ---
 topic_title: "astral bagpipes!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/astral-bagpipes%21
-num_views: 2383
+topic_id: 3761
 num_posts: 3
 date_first: 2003-03-10
 date_last: 2003-03-11
-tags: []
+num_views: 2383
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2003-03-10 11:33:22](https://www.astralpulse.com/forums/index.php?msg=119479), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

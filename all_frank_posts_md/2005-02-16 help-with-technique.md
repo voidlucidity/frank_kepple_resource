@@ -1,12 +1,13 @@
 ---
 topic_title: "Help with technique"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/help-with-technique
-num_views: 2486
+topic_id: 17359
 num_posts: 5
 date_first: 2005-02-16
 date_last: 2005-02-17
-tags: []
+num_views: 2486
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-02-16 17:50:14](https://www.astralpulse.com/forums/index.php?msg=150136), [Time Traveler](https://www.astralpulse.com/forums/profile/?u=7374) Cincinnati OH. ##

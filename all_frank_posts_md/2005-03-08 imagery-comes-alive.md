@@ -1,12 +1,13 @@
 ---
 topic_title: "Imagery comes Alive"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/imagery-comes-alive
-num_views: 2342
+topic_id: 17869
 num_posts: 4
 date_first: 2005-03-08
 date_last: 2005-03-09
-tags: []
+num_views: 2342
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-03-08 19:27:57](https://www.astralpulse.com/forums/index.php?msg=154670), [RenaissanceMan](https://www.astralpulse.com/forums/profile/?u=7651) Australia ##

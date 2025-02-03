@@ -1,12 +1,13 @@
 ---
 topic_title: "Good place to start ..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/good-place-to-start
-num_views: 2177
+topic_id: 17749
 num_posts: 6
 date_first: 2005-03-03
 date_last: 2005-03-05
-tags: []
+num_views: 2177
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-03-03 14:13:00](https://www.astralpulse.com/forums/index.php?msg=153615), [eninrebmun](https://www.astralpulse.com/forums/profile/?u=8551)  ##

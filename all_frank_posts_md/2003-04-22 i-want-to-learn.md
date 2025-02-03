@@ -1,12 +1,13 @@
 ---
 topic_title: "I want to learn"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/i-want-to-learn
-num_views: 1522
+topic_id: 4250
 num_posts: 5
 date_first: 2003-04-22
 date_last: 2003-04-22
-tags: []
+num_views: 1522
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-04-22 02:33:57](https://www.astralpulse.com/forums/index.php?msg=119959), [MasterVampire](https://www.astralpulse.com/forums/profile/?u=2014) Australia ##

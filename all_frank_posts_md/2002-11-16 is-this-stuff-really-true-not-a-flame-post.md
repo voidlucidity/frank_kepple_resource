@@ -1,12 +1,13 @@
 ---
 topic_title: "Is this stuff really true? (not a flame post)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/is-this-stuff-really-true-not-a-flame-post
-num_views: 8914
+topic_id: 2596
 num_posts: 24
 date_first: 2002-11-16
 date_last: 2002-11-24
-tags: []
+num_views: 8914
 summary: ""
+tags: []
 ---
 
 ## \#0/23 (23) [2002-11-16 02:27:07](https://www.astralpulse.com/forums/index.php?msg=118328), [Heimdall](https://www.astralpulse.com/forums/profile/?u=1432) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Retrieval Question"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/retrieval-question
-num_views: 3907
+topic_id: 3017
 num_posts: 3
 date_first: 2003-01-03
 date_last: 2003-01-10
-tags: []
+num_views: 3907
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2003-01-03 23:43:54](https://www.astralpulse.com/forums/index.php?msg=118746), [TheJza](https://www.astralpulse.com/forums/profile/?u=218)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Using your mind/meditation for weight loss?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/using-your-mindmeditation-for-weight-loss
-num_views: 6172
+topic_id: 19413
 num_posts: 17
 date_first: 2005-06-16
 date_last: 2005-06-19
-tags: []
+num_views: 6172
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (0) [2005-06-16 09:15:16](https://www.astralpulse.com/forums/index.php?msg=166838), [dwhite](https://www.astralpulse.com/forums/profile/?u=9168) USA - Ohio ##

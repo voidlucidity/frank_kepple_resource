@@ -1,12 +1,13 @@
 ---
 topic_title: "Regarding Focus 3"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/regarding-focus-3
-num_views: 1751
+topic_id: 19206
 num_posts: 3
 date_first: 2005-06-05
 date_last: 2005-06-09
-tags: []
+num_views: 1751
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-06-05 22:16:20](https://www.astralpulse.com/forums/index.php?msg=165504), [FuggleHop](https://www.astralpulse.com/forums/profile/?u=5084) New Zealand ##

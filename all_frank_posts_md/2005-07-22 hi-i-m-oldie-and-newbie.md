@@ -1,12 +1,13 @@
 ---
 topic_title: "Hi I'm Oldie and Newbie"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/hi-i-m-oldie-and-newbie
-num_views: 3228
+topic_id: 19921
 num_posts: 8
 date_first: 2005-07-22
 date_last: 2005-09-07
-tags: []
+num_views: 3228
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2005-07-22 19:36:07](https://www.astralpulse.com/forums/index.php?msg=171010), [JemKey](https://www.astralpulse.com/forums/profile/?u=9501) United States - SouthEast ##

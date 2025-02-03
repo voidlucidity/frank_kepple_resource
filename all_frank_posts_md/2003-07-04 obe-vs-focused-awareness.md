@@ -1,12 +1,13 @@
 ---
 topic_title: "Obe VS. Focused Awareness"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/obe-vs-focused-awareness
-num_views: 2287
+topic_id: 5418
 num_posts: 2
 date_first: 2003-07-04
 date_last: 2003-07-05
-tags: []
+num_views: 2287
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (1) [2003-07-04 05:23:34](https://www.astralpulse.com/forums/index.php?msg=121083), [Nje789](https://www.astralpulse.com/forums/profile/?u=2010) USA ##

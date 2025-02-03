@@ -1,12 +1,13 @@
 ---
 topic_title: "Locating People Or Enities."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/locating-people-or-enities
-num_views: 3613
+topic_id: 18490
 num_posts: 9
 date_first: 2005-04-11
 date_last: 2005-04-14
-tags: []
+num_views: 3613
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (0) [2005-04-11 19:25:44](https://www.astralpulse.com/forums/index.php?msg=159886), [Manix](https://www.astralpulse.com/forums/profile/?u=5010) Bristol TN, USA ##

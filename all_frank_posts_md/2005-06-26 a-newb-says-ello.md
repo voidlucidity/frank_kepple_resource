@@ -1,12 +1,13 @@
 ---
 topic_title: "a newb says \"ello\""
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/a-newb-says-ello
-num_views: 3794
+topic_id: 19562
 num_posts: 8
 date_first: 2005-06-26
 date_last: 2005-06-27
-tags: []
+num_views: 3794
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2005-06-26 14:55:50](https://www.astralpulse.com/forums/index.php?msg=168026), [Fairlight](https://www.astralpulse.com/forums/profile/?u=9305)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "I ALMOST DID IT!!!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/i-almost-did-it%21%21%21
-num_views: 2154
+topic_id: 18503
 num_posts: 8
 date_first: 2005-04-12
 date_last: 2005-04-12
-tags: []
+num_views: 2154
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2005-04-12 09:01:18](https://www.astralpulse.com/forums/index.php?msg=159947), [izalco](https://www.astralpulse.com/forums/profile/?u=8826)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing and trance"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/phasing-and-trance
-num_views: 4817
+topic_id: 19279
 num_posts: 10
 date_first: 2005-06-09
 date_last: 2005-06-12
-tags: []
+num_views: 4817
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2005-06-09 09:14:01](https://www.astralpulse.com/forums/index.php?msg=166002), stamboe  ##

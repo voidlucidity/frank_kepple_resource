@@ -1,12 +1,13 @@
 ---
 topic_title: "Images in blackness when eyes are closed"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/images-in-blackness-when-eyes-are-closed
-num_views: 4056
+topic_id: 5080
 num_posts: 8
 date_first: 2003-06-17
 date_last: 2003-06-25
-tags: []
+num_views: 4056
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2003-06-17 05:22:13](https://www.astralpulse.com/forums/index.php?msg=120764), [GTP](https://www.astralpulse.com/forums/profile/?u=2456) USA ##

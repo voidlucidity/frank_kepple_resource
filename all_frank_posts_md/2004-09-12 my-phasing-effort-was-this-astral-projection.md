@@ -1,12 +1,13 @@
 ---
 topic_title: "My phasing effort: was this astral projection?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/my-phasing-effort-was-this-astral-projection
-num_views: 3181
+topic_id: 14382
 num_posts: 10
 date_first: 2004-09-12
 date_last: 2004-09-19
-tags: []
+num_views: 3181
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2004-09-12 08:28:15](https://www.astralpulse.com/forums/index.php?msg=129256), [Aprentice](https://www.astralpulse.com/forums/profile/?u=6711) United Kingdom ##

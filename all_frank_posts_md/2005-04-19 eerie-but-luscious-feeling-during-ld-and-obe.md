@@ -1,12 +1,13 @@
 ---
 topic_title: "\"Eerie\"..but luscious..feeling during LD and OBE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/eerie-but-luscious-feeling-during-ld-and-obe
-num_views: 2529
+topic_id: 18622
 num_posts: 4
 date_first: 2005-04-19
 date_last: 2005-04-19
-tags: []
+num_views: 2529
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-04-19 16:50:51](https://www.astralpulse.com/forums/index.php?msg=160977), [michael](https://www.astralpulse.com/forums/profile/?u=432) United Kingdom ##

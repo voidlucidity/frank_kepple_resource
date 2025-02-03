@@ -1,12 +1,13 @@
 ---
 topic_title: "vibrations !"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/vibrations-%21
-num_views: 4802
+topic_id: 909
 num_posts: 18
 date_first: 2002-05-10
 date_last: 2002-05-20
-tags: []
+num_views: 4802
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (17) [2002-05-10 07:12:11](https://www.astralpulse.com/forums/index.php?msg=116651), [quebec](https://www.astralpulse.com/forums/profile/?u=487) Canada ##

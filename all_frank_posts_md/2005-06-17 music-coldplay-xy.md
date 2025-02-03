@@ -1,12 +1,13 @@
 ---
 topic_title: "Music - Coldplay - X&Y"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/music-coldplay-xy
-num_views: 2956
+topic_id: 19438
 num_posts: 7
 date_first: 2005-06-17
 date_last: 2005-06-20
-tags: []
+num_views: 2956
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-06-17 14:34:28](https://www.astralpulse.com/forums/index.php?msg=166978), [Selski](https://www.astralpulse.com/forums/profile/?u=6012) England, UK ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "hemi-sync type stuff"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/hemi-sync-type-stuff
-num_views: 2153
+topic_id: 13678
 num_posts: 5
 date_first: 2004-08-02
 date_last: 2004-08-10
-tags: []
+num_views: 2153
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2004-08-02 17:54:26](https://www.astralpulse.com/forums/index.php?msg=128571), funinfloating111  ##

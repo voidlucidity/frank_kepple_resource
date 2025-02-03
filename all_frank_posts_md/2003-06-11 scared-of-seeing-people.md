@@ -1,12 +1,13 @@
 ---
 topic_title: "Scared of Seeing People"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/scared-of-seeing-people
-num_views: 1716
+topic_id: 4965
 num_posts: 5
 date_first: 2003-06-11
 date_last: 2003-06-13
-tags: []
+num_views: 1716
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-06-11 13:32:56](https://www.astralpulse.com/forums/index.php?msg=120656), [kozzi](https://www.astralpulse.com/forums/profile/?u=2506) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "How does Roberts descriptions compare with Monroes"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/how-does-roberts-descriptions-compare-with-monroes
-num_views: 2579
+topic_id: 1758
 num_posts: 8
 date_first: 2002-08-28
 date_last: 2002-08-29
-tags: []
+num_views: 2579
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-08-28 05:49:30](https://www.astralpulse.com/forums/index.php?msg=117493), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

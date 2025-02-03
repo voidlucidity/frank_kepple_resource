@@ -1,12 +1,13 @@
 ---
 topic_title: "How to shed the junk"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/how-to-shed-the-junk
-num_views: 21196
+topic_id: 14115
 num_posts: 88
 date_first: 2004-08-26
 date_last: 2004-09-19
-tags: []
+num_views: 21196
 summary: ""
+tags: []
 ---
 
 ## \#0/87 (87) [2004-08-26 09:10:58](https://www.astralpulse.com/forums/index.php?msg=128993), [BlackTalon](https://www.astralpulse.com/forums/profile/?u=5768) Canada ##

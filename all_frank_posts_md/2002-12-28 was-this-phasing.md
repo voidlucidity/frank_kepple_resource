@@ -1,12 +1,13 @@
 ---
 topic_title: "Was this PHASING?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/was-this-phasing
-num_views: 7854
+topic_id: 2960
 num_posts: 7
 date_first: 2002-12-28
 date_last: 2003-01-02
-tags: []
+num_views: 7854
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-12-28 09:54:59](https://www.astralpulse.com/forums/index.php?msg=118689), [oohyeah](https://www.astralpulse.com/forums/profile/?u=1567) Hong Kong ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing...Getting really confused here"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/phasing-getting-really-confused-here
-num_views: 4373
+topic_id: 19032
 num_posts: 10
 date_first: 2005-05-25
 date_last: 2005-06-02
-tags: []
+num_views: 4373
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2005-05-25 05:22:06](https://www.astralpulse.com/forums/index.php?msg=164071), [Steve 2B](https://www.astralpulse.com/forums/profile/?u=8938)  ##

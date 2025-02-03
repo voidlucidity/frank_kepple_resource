@@ -1,12 +1,13 @@
 ---
 topic_title: "Uncooperative muscles"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/uncooperative-muscles
-num_views: 3007
+topic_id: 13792
 num_posts: 9
 date_first: 2004-08-09
 date_last: 2004-08-10
-tags: []
+num_views: 3007
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2004-08-09 21:25:29](https://www.astralpulse.com/forums/index.php?msg=128682), [Naiad780](https://www.astralpulse.com/forums/profile/?u=6244) Toronto ##

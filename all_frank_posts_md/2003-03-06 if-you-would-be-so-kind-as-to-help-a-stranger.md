@@ -1,12 +1,13 @@
 ---
 topic_title: "If you would be so kind as to help a stranger..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/if-you-would-be-so-kind-as-to-help-a-stranger
-num_views: 2708
+topic_id: 3723
 num_posts: 10
 date_first: 2003-03-06
 date_last: 2003-03-22
-tags: []
+num_views: 2708
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2003-03-06 18:44:21](https://www.astralpulse.com/forums/index.php?msg=119441), [DIM](https://www.astralpulse.com/forums/profile/?u=1968) USA ##

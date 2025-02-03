@@ -1,12 +1,13 @@
 ---
 topic_title: "Vibes and the Lunar Cycle"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/vibes-and-the-lunar-cycle
-num_views: 2259
+topic_id: 14648
 num_posts: 6
 date_first: 2004-09-28
 date_last: 2004-10-15
-tags: []
+num_views: 2259
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (4) [2004-09-28 17:44:55](https://www.astralpulse.com/forums/index.php?msg=129512), [Palehorse](https://www.astralpulse.com/forums/profile/?u=5313) USA ##

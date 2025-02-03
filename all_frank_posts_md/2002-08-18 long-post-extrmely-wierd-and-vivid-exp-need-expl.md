@@ -1,12 +1,13 @@
 ---
 topic_title: "long post, extrmely wierd and vivid exp. need expl"
 topic_url: https://www.astralpulse.com/forums/welcome-to-dreams!/long-post-extrmely-wierd-and-vivid-exp-need-expl
-num_views: 1864
+topic_id: 1688
 num_posts: 2
 date_first: 2002-08-18
 date_last: 2002-08-19
-tags: []
+num_views: 1864
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (1) [2002-08-18 07:01:18](https://www.astralpulse.com/forums/index.php?msg=117423), [fredhedd](https://www.astralpulse.com/forums/profile/?u=692) USA ##

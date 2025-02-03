@@ -1,12 +1,13 @@
 ---
 topic_title: "requesting a little help"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/requesting-a-little-help
-num_views: 3301
+topic_id: 4556
 num_posts: 7
 date_first: 2003-05-13
 date_last: 2003-06-12
-tags: []
+num_views: 3301
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2003-05-13 13:35:14](https://www.astralpulse.com/forums/index.php?msg=120257), [Terlan](https://www.astralpulse.com/forums/profile/?u=2312) USA ##

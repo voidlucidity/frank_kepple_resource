@@ -1,12 +1,13 @@
 ---
 topic_title: "An Iraqi man in F23"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/an-iraqi-man-in-f23
-num_views: 3077
+topic_id: 3991
 num_posts: 5
 date_first: 2003-03-30
 date_last: 2003-03-30
-tags: []
+num_views: 3077
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-03-30 11:17:44](https://www.astralpulse.com/forums/index.php?msg=119707), [Ginny](https://www.astralpulse.com/forums/profile/?u=1404) USA ##

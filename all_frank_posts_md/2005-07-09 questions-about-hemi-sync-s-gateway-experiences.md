@@ -1,12 +1,13 @@
 ---
 topic_title: "questions about hemi-sync's gateway experiences"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/questions-about-hemi-sync-s-gateway-experiences
-num_views: 2567
+topic_id: 19751
 num_posts: 3
 date_first: 2005-07-09
 date_last: 2005-07-10
-tags: []
+num_views: 2567
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-07-09 22:28:41](https://www.astralpulse.com/forums/index.php?msg=169638), [huckleberry](https://www.astralpulse.com/forums/profile/?u=9395)  ##

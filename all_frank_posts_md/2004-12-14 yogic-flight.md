@@ -1,12 +1,13 @@
 ---
 topic_title: "Yogic Flight"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/yogic-flight
-num_views: 8192
+topic_id: 15844
 num_posts: 22
 date_first: 2004-12-14
 date_last: 2005-06-27
-tags: []
+num_views: 8192
 summary: ""
+tags: []
 ---
 
 ## \#0/21 (0) [2004-12-14 21:33:03](https://www.astralpulse.com/forums/index.php?msg=138052), [Telos](https://www.astralpulse.com/forums/profile/?u=6496)  ##

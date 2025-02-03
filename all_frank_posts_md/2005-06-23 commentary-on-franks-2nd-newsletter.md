@@ -1,12 +1,13 @@
 ---
 topic_title: "Commentary on Franks 2nd Newsletter"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/commentary-on-franks-2nd-newsletter
-num_views: 6906
+topic_id: 19523
 num_posts: 19
 date_first: 2005-06-23
 date_last: 2005-07-01
-tags: []
+num_views: 6906
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (0) [2005-06-23 14:51:58](https://www.astralpulse.com/forums/index.php?msg=167698), [Hans Solo](https://www.astralpulse.com/forums/profile/?u=8848)  ##

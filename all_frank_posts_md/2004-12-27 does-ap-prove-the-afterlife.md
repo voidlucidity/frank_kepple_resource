@@ -1,12 +1,13 @@
 ---
 topic_title: "does ap prove the afterlife"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/does-ap-prove-the-afterlife
-num_views: 4217
+topic_id: 16072
 num_posts: 19
 date_first: 2004-12-27
 date_last: 2005-01-13
-tags: []
+num_views: 4217
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (0) [2004-12-27 23:16:49](https://www.astralpulse.com/forums/index.php?msg=139955), [iank](https://www.astralpulse.com/forums/profile/?u=7738) notts uk ##

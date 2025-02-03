@@ -1,12 +1,13 @@
 ---
 topic_title: "Religious Dogma"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/religious-dogma
-num_views: 3670
+topic_id: 4913
 num_posts: 13
 date_first: 2003-06-09
 date_last: 2003-06-10
-tags: []
+num_views: 3670
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2003-06-09 00:09:17](https://www.astralpulse.com/forums/index.php?msg=120605), [Fat_Turkey](https://www.astralpulse.com/forums/profile/?u=1507) New Zealand ##

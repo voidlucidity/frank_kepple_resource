@@ -1,12 +1,13 @@
 ---
 topic_title: "A man in  SERIOUS doubt..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/a-man-in-serious-doubt
-num_views: 2542
+topic_id: 4073
 num_posts: 7
 date_first: 2003-04-05
 date_last: 2003-04-13
-tags: []
+num_views: 2542
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2003-04-05 12:21:39](https://www.astralpulse.com/forums/index.php?msg=119785), [the_demigod](https://www.astralpulse.com/forums/profile/?u=1479) Poland ##

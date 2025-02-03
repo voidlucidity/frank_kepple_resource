@@ -1,12 +1,13 @@
 ---
 topic_title: "My Biggest Problem"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/my-biggest-problem
-num_views: 6245
+topic_id: 1584
 num_posts: 19
 date_first: 2002-08-03
 date_last: 2002-08-09
-tags: []
+num_views: 6245
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (18) [2002-08-03 13:02:42](https://www.astralpulse.com/forums/index.php?msg=117319), [Jeff_Mash](https://www.astralpulse.com/forums/profile/?u=867) USA - Bay Area ##

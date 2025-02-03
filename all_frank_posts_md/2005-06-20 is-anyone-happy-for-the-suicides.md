@@ -1,12 +1,13 @@
 ---
 topic_title: "Is anyone happy for the suicides?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/is-anyone-happy-for-the-suicides
-num_views: 13659
+topic_id: 19490
 num_posts: 44
 date_first: 2005-06-20
 date_last: 2005-08-04
-tags: []
+num_views: 13659
 summary: ""
+tags: []
 ---
 
 ## \#0/43 (0) [2005-06-20 22:46:05](https://www.astralpulse.com/forums/index.php?msg=167447), [Telos](https://www.astralpulse.com/forums/profile/?u=6496)  ##

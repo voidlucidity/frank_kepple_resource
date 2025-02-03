@@ -1,12 +1,13 @@
 ---
 topic_title: "Pioneers in OBE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/pioneers-in-obe
-num_views: 5024
+topic_id: 18409
 num_posts: 19
 date_first: 2005-04-07
 date_last: 2005-04-25
-tags: []
+num_views: 5024
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (0) [2005-04-07 19:14:00](https://www.astralpulse.com/forums/index.php?msg=159367), [Kazbadan](https://www.astralpulse.com/forums/profile/?u=2956) Portugal ##

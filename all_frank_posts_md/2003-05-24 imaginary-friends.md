@@ -1,12 +1,13 @@
 ---
 topic_title: "Imaginary Friends"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/imaginary-friends
-num_views: 3558
+topic_id: 4677
 num_posts: 9
 date_first: 2003-05-24
 date_last: 2003-05-31
-tags: []
+num_views: 3558
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2003-05-24 20:30:40](https://www.astralpulse.com/forums/index.php?msg=120376), [LJ57](https://www.astralpulse.com/forums/profile/?u=1835) USA ##

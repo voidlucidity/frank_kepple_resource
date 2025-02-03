@@ -1,12 +1,13 @@
 ---
 topic_title: "Communication with the dead"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/communication-with-the-dead
-num_views: 4102
+topic_id: 1505
 num_posts: 8
 date_first: 2002-07-29
 date_last: 2002-09-01
-tags: []
+num_views: 4102
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-07-29 02:19:05](https://www.astralpulse.com/forums/index.php?msg=117242), [Gexx](https://www.astralpulse.com/forums/profile/?u=737) USA ##

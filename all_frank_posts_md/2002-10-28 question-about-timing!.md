@@ -1,12 +1,13 @@
 ---
 topic_title: "question about........................timing!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/question-about-timing%21
-num_views: 2293
+topic_id: 2378
 num_posts: 7
 date_first: 2002-10-28
 date_last: 2002-10-28
-tags: []
+num_views: 2293
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-10-28 08:25:23](https://www.astralpulse.com/forums/index.php?msg=118112), [Lysear](https://www.astralpulse.com/forums/profile/?u=1214) United Kingdom ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Vengeance"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/vengeance
-num_views: 2453
+topic_id: 18351
 num_posts: 9
 date_first: 2005-04-04
 date_last: 2005-04-06
-tags: []
+num_views: 2453
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (0) [2005-04-04 21:47:29](https://www.astralpulse.com/forums/index.php?msg=159015), [Silent Hill](https://www.astralpulse.com/forums/profile/?u=7648) France ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Another Smokey Experiance"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/another-smokey-experiance
-num_views: 2938
+topic_id: 4222
 num_posts: 8
 date_first: 2003-04-19
 date_last: 2003-04-24
-tags: []
+num_views: 2938
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2003-04-19 18:55:52](https://www.astralpulse.com/forums/index.php?msg=119931), [cainam_nazier](https://www.astralpulse.com/forums/profile/?u=166) USA ##

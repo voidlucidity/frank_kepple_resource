@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Proper and Training Zone"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/astral-proper-and-training-zone
-num_views: 6970
+topic_id: 4296
 num_posts: 7
 date_first: 2003-04-25
 date_last: 2003-05-02
-tags: []
+num_views: 6970
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2003-04-25 03:54:53](https://www.astralpulse.com/forums/index.php?msg=120004), [Terry B](https://www.astralpulse.com/forums/profile/?u=2199)  ##

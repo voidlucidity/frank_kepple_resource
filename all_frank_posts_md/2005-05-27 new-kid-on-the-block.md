@@ -1,12 +1,13 @@
 ---
 topic_title: "New Kid on the Block"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/new-kid-on-the-block
-num_views: 1576
+topic_id: 19061
 num_posts: 5
 date_first: 2005-05-27
 date_last: 2005-06-07
-tags: []
+num_views: 1576
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-05-27 11:51:32](https://www.astralpulse.com/forums/index.php?msg=164375), [Jace_321](https://www.astralpulse.com/forums/profile/?u=9091)  ##

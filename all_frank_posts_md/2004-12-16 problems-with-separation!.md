@@ -1,12 +1,13 @@
 ---
 topic_title: "Problems with separation!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/problems-with-separation%21
-num_views: 2435
+topic_id: 15871
 num_posts: 6
 date_first: 2004-12-16
 date_last: 2004-12-19
-tags: []
+num_views: 2435
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2004-12-16 12:37:52](https://www.astralpulse.com/forums/index.php?msg=138350), [x_paddypaws_x](https://www.astralpulse.com/forums/profile/?u=7610) Wales!!!! and darn proud of it ##

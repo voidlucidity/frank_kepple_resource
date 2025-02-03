@@ -1,12 +1,13 @@
 ---
 topic_title: "Relative Plane"
 topic_url: https://www.astralpulse.com/forums/welcome-to-permanent-astral-topics!/relative-plane
-num_views: 33953
+topic_id: 15258
 num_posts: 31
 date_first: 2004-11-11
 date_last: 2015-07-21
-tags: []
+num_views: 33953
 summary: ""
+tags: []
 ---
 
 ## \#0/30 (0) [2004-11-11 23:50:09](https://www.astralpulse.com/forums/index.php?msg=133390), [Dagaz](https://www.astralpulse.com/forums/profile/?u=7325) Charlotte, NC. ##

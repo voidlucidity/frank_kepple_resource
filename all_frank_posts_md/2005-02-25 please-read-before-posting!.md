@@ -1,12 +1,13 @@
 ---
 topic_title: "Please read before posting!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-the-healing-place!/please-read-before-posting%21
-num_views: 20112
+topic_id: 17602
 num_posts: 1
 date_first: 2005-02-25
 date_last: 2005-02-25
-tags: []
+num_views: 20112
 summary: ""
+tags: []
 ---
 
 ## \#0/0 (0) [2005-02-25 15:30:47](https://www.astralpulse.com/forums/index.php?msg=152354), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

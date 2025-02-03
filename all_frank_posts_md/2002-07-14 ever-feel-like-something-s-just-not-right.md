@@ -1,12 +1,13 @@
 ---
 topic_title: "Ever feel like something's just not right?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/ever-feel-like-something-s-just-not-right
-num_views: 4772
+topic_id: 1359
 num_posts: 18
 date_first: 2002-07-14
 date_last: 2002-07-18
-tags: []
+num_views: 4772
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (17) [2002-07-14 10:10:55](https://www.astralpulse.com/forums/index.php?msg=117096), [Grendel](https://www.astralpulse.com/forums/profile/?u=826)  ##

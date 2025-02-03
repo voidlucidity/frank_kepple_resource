@@ -1,12 +1,13 @@
 ---
 topic_title: "From The Depths Of Sin I Rise"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/from-the-depths-of-sin-i-rise
-num_views: 4923
+topic_id: 19555
 num_posts: 15
 date_first: 2005-06-26
 date_last: 2005-06-30
-tags: []
+num_views: 4923
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (0) [2005-06-26 00:03:39](https://www.astralpulse.com/forums/index.php?msg=167958), [PerversionOfEvil](https://www.astralpulse.com/forums/profile/?u=9301) The Omega Age ##

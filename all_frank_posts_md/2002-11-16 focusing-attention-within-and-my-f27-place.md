@@ -1,12 +1,13 @@
 ---
 topic_title: "Focusing Attention Within and my F27 Place"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/focusing-attention-within-and-my-f27-place
-num_views: 32447
+topic_id: 2595
 num_posts: 41
 date_first: 2002-11-16
 date_last: 2007-12-21
-tags: []
+num_views: 32447
 summary: ""
+tags: []
 ---
 
 ## \#0/40 (32) [2002-11-16 01:32:37](https://www.astralpulse.com/forums/index.php?msg=118327), [Ginny](https://www.astralpulse.com/forums/profile/?u=1404) USA ##

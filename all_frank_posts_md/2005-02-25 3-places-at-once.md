@@ -1,12 +1,13 @@
 ---
 topic_title: "3 places at once..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/3-places-at-once
-num_views: 4482
+topic_id: 17600
 num_posts: 11
 date_first: 2005-02-25
 date_last: 2005-05-31
-tags: []
+num_views: 4482
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-02-25 13:22:03](https://www.astralpulse.com/forums/index.php?msg=152342), [catsyniki](https://www.astralpulse.com/forums/profile/?u=7463) Fresno, CA ##

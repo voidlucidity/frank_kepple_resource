@@ -1,12 +1,13 @@
 ---
 topic_title: "Editing/deletion of posts"
 topic_url: https://www.astralpulse.com/forums/forums-bugs-reports-and-questions/editingdeletion-of-posts
-num_views: 4015
+topic_id: 18784
 num_posts: 8
 date_first: 2005-04-29
 date_last: 2005-04-30
-tags: []
+num_views: 4015
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2005-04-29 08:13:56](https://www.astralpulse.com/forums/index.php?msg=162261), [alexd](https://www.astralpulse.com/forums/profile/?u=4455) Australia ##

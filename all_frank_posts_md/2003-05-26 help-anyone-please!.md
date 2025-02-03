@@ -1,12 +1,13 @@
 ---
 topic_title: "HELP....ANYONE? PLEASE!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/help-anyone-please%21
-num_views: 1690
+topic_id: 4699
 num_posts: 4
 date_first: 2003-05-26
 date_last: 2003-05-27
-tags: []
+num_views: 1690
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2003-05-26 04:11:18](https://www.astralpulse.com/forums/index.php?msg=120396), [ashleyastral](https://www.astralpulse.com/forums/profile/?u=2388) USA ##

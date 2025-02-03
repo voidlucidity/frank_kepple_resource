@@ -1,12 +1,13 @@
 ---
 topic_title: "question about levels above astral"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/question-about-levels-above-astral
-num_views: 10086
+topic_id: 3303
 num_posts: 23
 date_first: 2003-02-01
 date_last: 2003-03-03
-tags: []
+num_views: 10086
 summary: ""
+tags: []
 ---
 
 ## \#0/22 (22) [2003-02-01 06:45:32](https://www.astralpulse.com/forums/index.php?msg=119029), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

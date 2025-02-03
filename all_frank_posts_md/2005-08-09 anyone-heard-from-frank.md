@@ -1,12 +1,13 @@
 ---
 topic_title: "Anyone heard from Frank?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/anyone-heard-from-frank
-num_views: 23809
+topic_id: 20159
 num_posts: 46
 date_first: 2005-08-09
 date_last: 2010-02-25
-tags: []
+num_views: 23809
 summary: ""
+tags: []
 ---
 
 ## \#0/45 (0) [2005-08-09 11:49:35](https://www.astralpulse.com/forums/index.php?msg=172508), [Steve 2B](https://www.astralpulse.com/forums/profile/?u=8938)  ##

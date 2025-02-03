@@ -1,12 +1,13 @@
 ---
 topic_title: "Chuckle for the day"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/chuckle-for-the-day
-num_views: 1491
+topic_id: 2706
 num_posts: 3
 date_first: 2002-11-26
 date_last: 2002-11-26
-tags: []
+num_views: 1491
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2002-11-26 08:42:04](https://www.astralpulse.com/forums/index.php?msg=118436), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

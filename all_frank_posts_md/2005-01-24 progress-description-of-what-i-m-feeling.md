@@ -1,12 +1,13 @@
 ---
 topic_title: "Progress?  (Description of What I'm Feeling)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-energy-body-and-the-chakras/progress-description-of-what-i-m-feeling
-num_views: 2292
+topic_id: 16730
 num_posts: 7
 date_first: 2005-01-24
 date_last: 2005-01-25
-tags: []
+num_views: 2292
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-01-24 16:09:03](https://www.astralpulse.com/forums/index.php?msg=144677), [J.K.](https://www.astralpulse.com/forums/profile/?u=7742) Southern MS - USA ##

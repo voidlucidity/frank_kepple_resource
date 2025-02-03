@@ -1,12 +1,13 @@
 ---
 topic_title: "The Learning Triangle (metaphysical joke website)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/the-learning-triangle-metaphysical-joke-website
-num_views: 2976
+topic_id: 19505
 num_posts: 9
 date_first: 2005-06-22
 date_last: 2005-06-26
-tags: []
+num_views: 2976
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (0) [2005-06-22 07:34:33](https://www.astralpulse.com/forums/index.php?msg=167562), [Kyo Kusanagi](https://www.astralpulse.com/forums/profile/?u=9224)  ##

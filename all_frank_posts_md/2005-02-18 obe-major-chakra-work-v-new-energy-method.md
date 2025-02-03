@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE Major Chakra work v. NEW Energy method"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/obe-major-chakra-work-v-new-energy-method
-num_views: 3018
+topic_id: 17414
 num_posts: 7
 date_first: 2005-02-18
 date_last: 2005-04-16
-tags: []
+num_views: 3018
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-02-18 15:56:59](https://www.astralpulse.com/forums/index.php?msg=150490), [peterbrown](https://www.astralpulse.com/forums/profile/?u=8428)  ##

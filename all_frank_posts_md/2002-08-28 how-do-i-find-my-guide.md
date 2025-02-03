@@ -1,12 +1,13 @@
 ---
 topic_title: "How do I find my guide?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/how-do-i-find-my-guide
-num_views: 4474
+topic_id: 1759
 num_posts: 17
 date_first: 2002-08-28
 date_last: 2002-09-06
-tags: []
+num_views: 4474
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (16) [2002-08-28 07:02:34](https://www.astralpulse.com/forums/index.php?msg=117494), [Meg](https://www.astralpulse.com/forums/profile/?u=1090) Australia ##

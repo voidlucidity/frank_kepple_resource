@@ -1,12 +1,13 @@
 ---
 topic_title: "Free Energy"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/free-energy
-num_views: 6101
+topic_id: 1000
 num_posts: 11
 date_first: 2002-05-26
 date_last: 2002-05-28
-tags: []
+num_views: 6101
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (10) [2002-05-26 23:16:40](https://www.astralpulse.com/forums/index.php?msg=116738), [Ashfo](https://www.astralpulse.com/forums/profile/?u=532) New Zealand ##

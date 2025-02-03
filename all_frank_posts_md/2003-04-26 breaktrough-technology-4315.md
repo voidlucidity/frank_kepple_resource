@@ -1,12 +1,13 @@
 ---
 topic_title: "BREAKTROUGH TECHNOLOGY"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/breaktrough-technology-4315
-num_views: 7944
+topic_id: 4315
 num_posts: 8
 date_first: 2003-04-26
 date_last: 2003-04-29
-tags: []
+num_views: 7944
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (-2) 2003-04-26 05:32:38, [noradrenalin](https://www.astralpulse.com/forums/profile/?u=1895) Norway ##

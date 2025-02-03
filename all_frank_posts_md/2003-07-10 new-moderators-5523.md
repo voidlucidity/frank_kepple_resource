@@ -1,12 +1,13 @@
 ---
 topic_title: "New Moderators"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/new-moderators-5523
-num_views: 6607
+topic_id: 5523
 num_posts: 23
 date_first: 2003-07-10
 date_last: 2003-07-31
-tags: []
+num_views: 6607
 summary: ""
+tags: []
 ---
 
 ## \#0/22 (22) [2003-07-10 05:06:23](https://www.astralpulse.com/forums/index.php?msg=121180), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

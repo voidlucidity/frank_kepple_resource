@@ -1,12 +1,13 @@
 ---
 topic_title: "Question regarding ascension"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/question-regarding-ascension
-num_views: 2412
+topic_id: 972
 num_posts: 6
 date_first: 2002-05-20
 date_last: 2002-05-28
-tags: []
+num_views: 2412
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-05-20 14:51:55](https://www.astralpulse.com/forums/index.php?msg=116710), [Kodemaster](https://www.astralpulse.com/forums/profile/?u=426)(Global Moderator) USA ##

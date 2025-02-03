@@ -1,12 +1,13 @@
 ---
 topic_title: "What the hell happened, I mean holy crap!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/what-the-hell-happened-i-mean-holy-crap%21
-num_views: 4300
+topic_id: 17463
 num_posts: 12
 date_first: 2005-02-20
 date_last: 2005-02-22
-tags: []
+num_views: 4300
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (0) [2005-02-20 04:30:17](https://www.astralpulse.com/forums/index.php?msg=150809), [Andali27](https://www.astralpulse.com/forums/profile/?u=6413) Australia ##

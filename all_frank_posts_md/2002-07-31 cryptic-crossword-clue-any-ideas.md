@@ -1,12 +1,13 @@
 ---
 topic_title: "Cryptic crossword clue... any ideas?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/cryptic-crossword-clue-any-ideas
-num_views: 4964
+topic_id: 1533
 num_posts: 14
 date_first: 2002-07-31
 date_last: 2002-08-01
-tags: []
+num_views: 4964
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (13) [2002-07-31 05:55:34](https://www.astralpulse.com/forums/index.php?msg=117270), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

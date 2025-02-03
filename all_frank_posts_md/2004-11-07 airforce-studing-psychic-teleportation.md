@@ -1,12 +1,13 @@
 ---
 topic_title: "Airforce studing psychic teleportation?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/airforce-studing-psychic-teleportation
-num_views: 2388
+topic_id: 15196
 num_posts: 5
 date_first: 2004-11-07
 date_last: 2004-11-11
-tags: []
+num_views: 2388
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2004-11-07 03:34:24](https://www.astralpulse.com/forums/index.php?msg=132747), [Blackstream](https://www.astralpulse.com/forums/profile/?u=4803) USA ##

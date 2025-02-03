@@ -1,12 +1,13 @@
 ---
 topic_title: "Suggestions?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/suggestions
-num_views: 1220
+topic_id: 18525
 num_posts: 3
 date_first: 2005-04-13
 date_last: 2005-04-14
-tags: []
+num_views: 1220
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-04-13 18:01:36](https://www.astralpulse.com/forums/index.php?msg=160142), [Danny](https://www.astralpulse.com/forums/profile/?u=8800) Washington ##

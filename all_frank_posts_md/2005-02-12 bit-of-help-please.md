@@ -1,12 +1,13 @@
 ---
 topic_title: "Bit of help please"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/bit-of-help-please
-num_views: 6859
+topic_id: 17214
 num_posts: 26
 date_first: 2005-02-12
 date_last: 2005-02-18
-tags: []
+num_views: 6859
 summary: ""
+tags: []
 ---
 
 ## \#0/25 (0) [2005-02-12 01:50:03](https://www.astralpulse.com/forums/index.php?msg=148576), [Andali27](https://www.astralpulse.com/forums/profile/?u=6413) Australia ##

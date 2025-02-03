@@ -1,12 +1,13 @@
 ---
 topic_title: "Am I projecting from a dream?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/am-i-projecting-from-a-dream
-num_views: 2540
+topic_id: 662
 num_posts: 4
 date_first: 2002-04-14
 date_last: 2002-04-15
-tags: []
+num_views: 2540
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-04-14 11:27:30](https://www.astralpulse.com/forums/index.php?msg=116413), [DreamSpeak](https://www.astralpulse.com/forums/profile/?u=184)  ##

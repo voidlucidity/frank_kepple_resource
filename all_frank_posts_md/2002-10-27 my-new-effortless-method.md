@@ -1,12 +1,13 @@
 ---
 topic_title: "My new effortless method"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/my-new-effortless-method
-num_views: 7264
+topic_id: 2375
 num_posts: 27
 date_first: 2002-10-27
 date_last: 2002-11-07
-tags: []
+num_views: 7264
 summary: ""
+tags: []
 ---
 
 ## \#0/26 (26) [2002-10-27 22:27:39](https://www.astralpulse.com/forums/index.php?msg=118109), [wierdzly](https://www.astralpulse.com/forums/profile/?u=1073) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Interesting 2012 Article"
 topic_url: https://www.astralpulse.com/forums/welcome-to-news-and-media!/interesting-2012-article
-num_views: 4853
+topic_id: 17724
 num_posts: 13
 date_first: 2005-03-02
 date_last: 2005-03-03
-tags: []
+num_views: 4853
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (0) [2005-03-02 08:26:33](https://www.astralpulse.com/forums/index.php?msg=153406), [no_leaf_clover](https://www.astralpulse.com/forums/profile/?u=1764) Virginia, USA ##

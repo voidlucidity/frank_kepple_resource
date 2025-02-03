@@ -1,12 +1,13 @@
 ---
 topic_title: "Is anyone else turning Psychic?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/is-anyone-else-turning-psychic
-num_views: 3783
+topic_id: 2518
 num_posts: 14
 date_first: 2002-11-10
 date_last: 2002-11-12
-tags: []
+num_views: 3783
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (13) [2002-11-10 03:51:53](https://www.astralpulse.com/forums/index.php?msg=118251), Leyla  ##

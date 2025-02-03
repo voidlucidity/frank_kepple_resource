@@ -1,12 +1,13 @@
 ---
 topic_title: "The Arcturians?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/the-arcturians
-num_views: 5110
+topic_id: 19100
 num_posts: 14
 date_first: 2005-05-30
 date_last: 2005-05-31
-tags: []
+num_views: 5110
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (0) [2005-05-30 12:33:52](https://www.astralpulse.com/forums/index.php?msg=164723), [Scorpyn](https://www.astralpulse.com/forums/profile/?u=8875) Sweden ##

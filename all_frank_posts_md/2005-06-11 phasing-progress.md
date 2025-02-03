@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing Progress?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/phasing-progress
-num_views: 4312
+topic_id: 19326
 num_posts: 12
 date_first: 2005-06-11
 date_last: 2005-06-16
-tags: []
+num_views: 4312
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (0) [2005-06-11 21:06:06](https://www.astralpulse.com/forums/index.php?msg=166246), 9981  ##

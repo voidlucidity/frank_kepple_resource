@@ -1,12 +1,13 @@
 ---
 topic_title: "Art of Seduction: approaching women"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/art-of-seduction-approaching-women
-num_views: 55315
+topic_id: 11059
 num_posts: 144
 date_first: 2004-03-16
 date_last: 2005-06-03
-tags: []
+num_views: 55315
 summary: ""
+tags: []
 ---
 
 ## \#0/143 (41) [2004-03-16 13:54:18](https://www.astralpulse.com/forums/index.php?msg=126089), [Kazbadan](https://www.astralpulse.com/forums/profile/?u=2956) Portugal ##

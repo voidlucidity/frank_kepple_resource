@@ -1,12 +1,13 @@
 ---
 topic_title: "Hell, and all the weirdness that comes with it."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/hell-and-all-the-weirdness-that-comes-with-it
-num_views: 7703
+topic_id: 14410
 num_posts: 17
 date_first: 2004-09-14
 date_last: 2004-09-26
-tags: []
+num_views: 7703
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (16) [2004-09-14 03:55:08](https://www.astralpulse.com/forums/index.php?msg=129282), [Bloom](https://www.astralpulse.com/forums/profile/?u=6916) USA ##

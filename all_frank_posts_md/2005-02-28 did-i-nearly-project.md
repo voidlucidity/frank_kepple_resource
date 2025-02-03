@@ -1,12 +1,13 @@
 ---
 topic_title: "Did I nearly project?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/did-i-nearly-project
-num_views: 1173
+topic_id: 17671
 num_posts: 4
 date_first: 2005-02-28
 date_last: 2005-03-15
-tags: []
+num_views: 1173
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-02-28 11:17:59](https://www.astralpulse.com/forums/index.php?msg=152952), [Outo Otus](https://www.astralpulse.com/forums/profile/?u=8525)  ##

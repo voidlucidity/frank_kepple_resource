@@ -1,12 +1,13 @@
 ---
 topic_title: "Discussing the purpose of the brain..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/discussing-the-purpose-of-the-brain
-num_views: 2986
+topic_id: 3703
 num_posts: 6
 date_first: 2003-03-04
 date_last: 2003-03-05
-tags: []
+num_views: 2986
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2003-03-04 16:01:17](https://www.astralpulse.com/forums/index.php?msg=119421), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

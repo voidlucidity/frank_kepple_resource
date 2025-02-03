@@ -1,12 +1,13 @@
 ---
 topic_title: "Advanced Astral Projector's Corner >"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/advanced-astral-projector-s-corner-gt
-num_views: 9964
+topic_id: 1725
 num_posts: 26
 date_first: 2002-08-24
 date_last: 2002-10-05
-tags: []
+num_views: 9964
 summary: ""
+tags: []
 ---
 
 ## \#0/25 (25) [2002-08-24 17:12:24](https://www.astralpulse.com/forums/index.php?msg=117460), [Blue Light Mystic](https://www.astralpulse.com/forums/profile/?u=123) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Wouldn't a live chat feature be great on astral pulse?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/wouldn-t-a-live-chat-feature-be-great-on-astral-pulse
-num_views: 6144
+topic_id: 17801
 num_posts: 21
 date_first: 2005-03-05
 date_last: 2005-03-06
-tags: []
+num_views: 6144
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (0) [2005-03-05 02:49:45](https://www.astralpulse.com/forums/index.php?msg=153990), [flowdiggity](https://www.astralpulse.com/forums/profile/?u=8346)  ##

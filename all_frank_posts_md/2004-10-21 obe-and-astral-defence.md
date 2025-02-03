@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE and Astral Defence"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/obe-and-astral-defence
-num_views: 8670
+topic_id: 14943
 num_posts: 26
 date_first: 2004-10-21
 date_last: 2004-11-02
-tags: []
+num_views: 8670
 summary: ""
+tags: []
 ---
 
 ## \#0/25 (0) [2004-10-21 23:54:25](https://www.astralpulse.com/forums/index.php?msg=131033), [Tahnor](https://www.astralpulse.com/forums/profile/?u=7188)  ##

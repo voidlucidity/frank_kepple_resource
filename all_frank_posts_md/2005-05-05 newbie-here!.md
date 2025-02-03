@@ -1,12 +1,13 @@
 ---
 topic_title: "Newbie here!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/newbie-here%21
-num_views: 1478
+topic_id: 18922
 num_posts: 4
 date_first: 2005-05-05
 date_last: 2005-06-04
-tags: []
+num_views: 1478
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-05-05 19:57:13](https://www.astralpulse.com/forums/index.php?msg=163372), [KimL.](https://www.astralpulse.com/forums/profile/?u=9058)  ##

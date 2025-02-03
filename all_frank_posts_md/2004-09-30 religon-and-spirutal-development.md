@@ -1,12 +1,13 @@
 ---
 topic_title: "Religon and Spirutal Development"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/religon-and-spirutal-development
-num_views: 3407
+topic_id: 14672
 num_posts: 13
 date_first: 2004-09-30
 date_last: 2004-10-14
-tags: []
+num_views: 3407
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (9) [2004-09-30 01:10:28](https://www.astralpulse.com/forums/index.php?msg=129535), [TheDarkApprentice](https://www.astralpulse.com/forums/profile/?u=6472) New Hampshire ##

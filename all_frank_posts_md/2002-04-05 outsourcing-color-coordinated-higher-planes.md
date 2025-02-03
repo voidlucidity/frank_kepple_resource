@@ -1,12 +1,13 @@
 ---
 topic_title: "\"Outsourcing\" & Color Coordinated Higher Planes"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/outsourcing-color-coordinated-higher-planes
-num_views: 3751
+topic_id: 531
 num_posts: 5
 date_first: 2002-04-05
 date_last: 2002-04-08
-tags: []
+num_views: 3751
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2002-04-05 03:07:03](https://www.astralpulse.com/forums/index.php?msg=116286), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

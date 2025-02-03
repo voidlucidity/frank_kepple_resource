@@ -1,12 +1,13 @@
 ---
 topic_title: "Involuntary pressure sensations in head..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/involuntary-pressure-sensations-in-head
-num_views: 9016
+topic_id: 937
 num_posts: 24
 date_first: 2002-05-15
 date_last: 2002-06-05
-tags: []
+num_views: 9016
 summary: ""
+tags: []
 ---
 
 ## \#0/23 (23) [2002-05-15 07:32:30](https://www.astralpulse.com/forums/index.php?msg=116676), [Kodemaster](https://www.astralpulse.com/forums/profile/?u=426)(Global Moderator) USA ##

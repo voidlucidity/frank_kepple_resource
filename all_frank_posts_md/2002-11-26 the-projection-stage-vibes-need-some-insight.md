@@ -1,12 +1,13 @@
 ---
 topic_title: "The Projection Stage / Vibes (Need some insight)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/the-projection-stage-vibes-need-some-insight
-num_views: 3587
+topic_id: 2714
 num_posts: 11
 date_first: 2002-11-26
 date_last: 2002-11-28
-tags: []
+num_views: 3587
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (10) [2002-11-26 19:07:27](https://www.astralpulse.com/forums/index.php?msg=118444), [Leviiathan](https://www.astralpulse.com/forums/profile/?u=984) Canada ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "spirit guides=useless"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/spirit-guidesuseless
-num_views: 15915
+topic_id: 15813
 num_posts: 46
 date_first: 2004-12-13
 date_last: 2005-01-02
-tags: []
+num_views: 15915
 summary: ""
+tags: []
 ---
 
 ## \#0/45 (0) [2004-12-13 20:00:38](https://www.astralpulse.com/forums/index.php?msg=137823), [aryanknight666](https://www.astralpulse.com/forums/profile/?u=6529) Australia ##

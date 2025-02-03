@@ -1,12 +1,13 @@
 ---
 topic_title: "Simple question."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/simple-question-699
-num_views: 2750
+topic_id: 699
 num_posts: 7
 date_first: 2002-04-17
 date_last: 2002-04-18
-tags: []
+num_views: 2750
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-04-17 05:43:24](https://www.astralpulse.com/forums/index.php?msg=116450), [cainam_nazier](https://www.astralpulse.com/forums/profile/?u=166) USA ##

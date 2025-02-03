@@ -1,12 +1,13 @@
 ---
 topic_title: "Something popped in my head"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/something-popped-in-my-head
-num_views: 12075
+topic_id: 1694
 num_posts: 40
 date_first: 2002-08-20
 date_last: 2002-08-29
-tags: []
+num_views: 12075
 summary: ""
+tags: []
 ---
 
 ## \#0/39 (39) [2002-08-20 12:16:20](https://www.astralpulse.com/forums/index.php?msg=117429), [jilola](https://www.astralpulse.com/forums/profile/?u=755) Ireland ##

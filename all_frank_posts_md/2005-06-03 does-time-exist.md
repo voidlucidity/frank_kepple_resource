@@ -1,12 +1,13 @@
 ---
 topic_title: "Does time exist?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/does-time-exist
-num_views: 4134
+topic_id: 19165
 num_posts: 11
 date_first: 2005-06-03
 date_last: 2005-06-09
-tags: []
+num_views: 4134
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-06-03 15:55:57](https://www.astralpulse.com/forums/index.php?msg=165280), [Yuriy](https://www.astralpulse.com/forums/profile/?u=8678)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "How did you start in metaphysics?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/how-did-you-start-in-metaphysics
-num_views: 3124
+topic_id: 2918
 num_posts: 8
 date_first: 2002-12-19
 date_last: 2002-12-20
-tags: []
+num_views: 3124
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-12-19 20:34:05](https://www.astralpulse.com/forums/index.php?msg=118648), [Bob251](https://www.astralpulse.com/forums/profile/?u=1025) USA ##

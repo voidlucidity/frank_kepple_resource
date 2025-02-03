@@ -1,12 +1,13 @@
 ---
 topic_title: "How do you shut the mind off"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/how-do-you-shut-the-mind-off
-num_views: 5494
+topic_id: 13182
 num_posts: 16
 date_first: 2004-07-07
 date_last: 2004-09-08
-tags: []
+num_views: 5494
 summary: ""
+tags: []
 ---
 
 ## \#0/15 (15) [2004-07-07 08:33:04](https://www.astralpulse.com/forums/index.php?msg=128091), [~Ambrosia~](https://www.astralpulse.com/forums/profile/?u=6317) Canada ##

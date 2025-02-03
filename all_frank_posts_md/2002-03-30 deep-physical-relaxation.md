@@ -1,12 +1,13 @@
 ---
 topic_title: "Deep physical relaxation??"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/deep-physical-relaxation
-num_views: 13557
+topic_id: 469
 num_posts: 35
 date_first: 2002-03-30
 date_last: 2002-04-05
-tags: []
+num_views: 13557
 summary: ""
+tags: []
 ---
 
 ## \#0/34 (34) [2002-03-30 22:00:10](https://www.astralpulse.com/forums/index.php?msg=116226), [DjMidgetMan](https://www.astralpulse.com/forums/profile/?u=278) USA ##

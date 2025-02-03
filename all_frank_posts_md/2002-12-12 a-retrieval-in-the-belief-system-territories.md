@@ -1,12 +1,13 @@
 ---
 topic_title: "a retrieval in the Belief System Territories"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/a-retrieval-in-the-belief-system-territories
-num_views: 3241
+topic_id: 2856
 num_posts: 3
 date_first: 2002-12-12
 date_last: 2002-12-16
-tags: []
+num_views: 3241
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2002-12-12 21:02:34](https://www.astralpulse.com/forums/index.php?msg=118586), [Ginny](https://www.astralpulse.com/forums/profile/?u=1404) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Hemi-Sync  ------>\"Transcendence\""
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/hemi-sync-gt-transcendence
-num_views: 7911
+topic_id: 659
 num_posts: 19
 date_first: 2002-04-14
 date_last: 2002-04-29
-tags: []
+num_views: 7911
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (18) [2002-04-14 03:05:39](https://www.astralpulse.com/forums/index.php?msg=116410), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

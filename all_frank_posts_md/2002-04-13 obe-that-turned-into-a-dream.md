@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE that turned into a dream?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/obe-that-turned-into-a-dream
-num_views: 2674
+topic_id: 651
 num_posts: 4
 date_first: 2002-04-13
 date_last: 2002-04-14
-tags: []
+num_views: 2674
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-04-13 09:11:05](https://www.astralpulse.com/forums/index.php?msg=116402), [Kodemaster](https://www.astralpulse.com/forums/profile/?u=426)(Global Moderator) USA ##

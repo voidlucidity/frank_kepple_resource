@@ -1,12 +1,13 @@
 ---
 topic_title: "Wierd things I do while I sleep"
 topic_url: https://www.astralpulse.com/forums/welcome-to-dreams!/wierd-things-i-do-while-i-sleep
-num_views: 3790
+topic_id: 16515
 num_posts: 11
 date_first: 2005-01-15
 date_last: 2005-01-20
-tags: []
+num_views: 3790
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-01-15 20:12:53](https://www.astralpulse.com/forums/index.php?msg=143149), [Leventis](https://www.astralpulse.com/forums/profile/?u=7980)  ##

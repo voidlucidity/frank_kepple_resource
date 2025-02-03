@@ -1,12 +1,13 @@
 ---
 topic_title: "Putting Knowledge into Practice"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/putting-knowledge-into-practice
-num_views: 3330
+topic_id: 1438
 num_posts: 13
 date_first: 2002-07-21
 date_last: 2002-07-23
-tags: []
+num_views: 3330
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2002-07-21 19:57:14](https://www.astralpulse.com/forums/index.php?msg=117175), [k2sixx](https://www.astralpulse.com/forums/profile/?u=811) USA ##

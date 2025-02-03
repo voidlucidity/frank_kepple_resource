@@ -1,12 +1,13 @@
 ---
 topic_title: "A Cynic's Mystical Terminology"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/a-cynic-s-mystical-terminology
-num_views: 2533
+topic_id: 15178
 num_posts: 6
 date_first: 2004-11-05
 date_last: 2004-11-12
-tags: []
+num_views: 2533
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2004-11-05 22:09:43](https://www.astralpulse.com/forums/index.php?msg=132616), [mactombs](https://www.astralpulse.com/forums/profile/?u=5553) (UT)USA ##

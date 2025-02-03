@@ -1,12 +1,13 @@
 ---
 topic_title: "Sex in the astral plane??"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/sex-in-the-astral-plane
-num_views: 8486
+topic_id: 1775
 num_posts: 11
 date_first: 2002-08-30
 date_last: 2002-09-03
-tags: []
+num_views: 8486
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (10) [2002-08-30 09:06:14](https://www.astralpulse.com/forums/index.php?msg=117510), [Meg](https://www.astralpulse.com/forums/profile/?u=1090) Australia ##

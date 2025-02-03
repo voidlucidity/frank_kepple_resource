@@ -1,12 +1,13 @@
 ---
 topic_title: "3 Short experiences this morning"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/3-short-experiences-this-morning
-num_views: 1991
+topic_id: 18644
 num_posts: 3
 date_first: 2005-04-21
 date_last: 2005-04-21
-tags: []
+num_views: 1991
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-04-21 08:33:38](https://www.astralpulse.com/forums/index.php?msg=161218), [TheJza](https://www.astralpulse.com/forums/profile/?u=218)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "State of trace where astral-body seems loose."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/state-of-trace-where-astral-body-seems-loose
-num_views: 1355
+topic_id: 1844
 num_posts: 4
 date_first: 2002-09-07
 date_last: 2002-09-08
-tags: []
+num_views: 1355
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-09-07 05:06:16](https://www.astralpulse.com/forums/index.php?msg=117579), meanwhileinnowhere  ##

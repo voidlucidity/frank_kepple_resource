@@ -1,12 +1,13 @@
 ---
 topic_title: "Anyone know how to heal a headach?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-healing-discussions!/anyone-know-how-to-heal-a-headach
-num_views: 5446
+topic_id: 1914
 num_posts: 10
 date_first: 2002-09-14
 date_last: 2002-10-04
-tags: []
+num_views: 5446
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2002-09-14 10:09:50](https://www.astralpulse.com/forums/index.php?msg=117648), [General-Army](https://www.astralpulse.com/forums/profile/?u=997) USA ##

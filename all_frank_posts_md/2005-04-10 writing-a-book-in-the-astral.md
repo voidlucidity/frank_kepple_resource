@@ -1,12 +1,13 @@
 ---
 topic_title: "Writing A Book In The Astral."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/writing-a-book-in-the-astral
-num_views: 1849
+topic_id: 18471
 num_posts: 4
 date_first: 2005-04-10
 date_last: 2005-04-10
-tags: []
+num_views: 1849
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-04-10 22:20:19](https://www.astralpulse.com/forums/index.php?msg=159765), [mapreader](https://www.astralpulse.com/forums/profile/?u=8819)  ##

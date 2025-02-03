@@ -1,12 +1,13 @@
 ---
 topic_title: "Newbie incoming"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/newbie-incoming
-num_views: 1524
+topic_id: 15641
 num_posts: 3
 date_first: 2004-12-06
 date_last: 2004-12-06
-tags: []
+num_views: 1524
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2004-12-06 12:18:22](https://www.astralpulse.com/forums/index.php?msg=136446), [Mister Anjilek](https://www.astralpulse.com/forums/profile/?u=7526)  ##

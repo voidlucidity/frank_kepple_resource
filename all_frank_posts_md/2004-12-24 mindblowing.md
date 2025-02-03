@@ -1,12 +1,13 @@
 ---
 topic_title: "mindblowing"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/mindblowing
-num_views: 2446
+topic_id: 16031
 num_posts: 6
 date_first: 2004-12-24
 date_last: 2005-01-05
-tags: []
+num_views: 2446
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2004-12-24 19:09:47](https://www.astralpulse.com/forums/index.php?msg=139583), [PeaceSpirit](https://www.astralpulse.com/forums/profile/?u=892) United Kingdom ##

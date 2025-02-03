@@ -1,12 +1,13 @@
 ---
 topic_title: "My latest OBE-esque experience within a dream"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/my-latest-obe-esque-experience-within-a-dream
-num_views: 2946
+topic_id: 768
 num_posts: 4
 date_first: 2002-04-24
 date_last: 2002-04-25
-tags: []
+num_views: 2946
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-04-24 06:57:03](https://www.astralpulse.com/forums/index.php?msg=116512), [Kodemaster](https://www.astralpulse.com/forums/profile/?u=426)(Global Moderator) USA ##

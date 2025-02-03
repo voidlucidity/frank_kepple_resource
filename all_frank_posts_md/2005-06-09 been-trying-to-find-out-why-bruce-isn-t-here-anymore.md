@@ -1,12 +1,13 @@
 ---
 topic_title: "Been trying to find out why Bruce isn't here anymore"
 topic_url: https://www.astralpulse.com/forums/welcome-to-news-and-media!/been-trying-to-find-out-why-bruce-isn-t-here-anymore
-num_views: 1989
+topic_id: 19282
 num_posts: 2
 date_first: 2005-06-09
 date_last: 2005-06-09
-tags: []
+num_views: 1989
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-06-09 14:07:41](https://www.astralpulse.com/forums/index.php?msg=166025), [biggymatt](https://www.astralpulse.com/forums/profile/?u=2100) USA ##

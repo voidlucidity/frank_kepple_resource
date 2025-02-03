@@ -1,12 +1,13 @@
 ---
 topic_title: "newbie: AP's / physical emotions and fear"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/newbie-ap-s-physical-emotions-and-fear
-num_views: 1553
+topic_id: 19867
 num_posts: 2
 date_first: 2005-07-18
 date_last: 2005-07-18
-tags: []
+num_views: 1553
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-07-18 13:34:08](https://www.astralpulse.com/forums/index.php?msg=170594), [V](https://www.astralpulse.com/forums/profile/?u=9457)  ##

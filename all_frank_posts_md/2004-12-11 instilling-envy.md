@@ -1,12 +1,13 @@
 ---
 topic_title: "Instilling envy"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/instilling-envy
-num_views: 6226
+topic_id: 15752
 num_posts: 26
 date_first: 2004-12-11
 date_last: 2004-12-17
-tags: []
+num_views: 6226
 summary: ""
+tags: []
 ---
 
 ## \#0/25 (0) [2004-12-11 18:27:02](https://www.astralpulse.com/forums/index.php?msg=137361), [Telos](https://www.astralpulse.com/forums/profile/?u=6496)  ##

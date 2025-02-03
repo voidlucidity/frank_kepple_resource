@@ -1,12 +1,13 @@
 ---
 topic_title: "Red Wine Whine"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/red-wine-whine
-num_views: 7331
+topic_id: 1665
 num_posts: 21
 date_first: 2002-08-14
 date_last: 2002-08-23
-tags: []
+num_views: 7331
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (20) [2002-08-14 08:41:35](https://www.astralpulse.com/forums/index.php?msg=117400), [Tisha](https://www.astralpulse.com/forums/profile/?u=594) USA ##

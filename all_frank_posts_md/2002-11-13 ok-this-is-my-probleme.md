@@ -1,12 +1,13 @@
 ---
 topic_title: "Ok this is my probleme"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/ok-this-is-my-probleme
-num_views: 2879
+topic_id: 2559
 num_posts: 10
 date_first: 2002-11-13
 date_last: 2002-11-14
-tags: []
+num_views: 2879
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2002-11-13 06:28:28](https://www.astralpulse.com/forums/index.php?msg=118291), [dani](https://www.astralpulse.com/forums/profile/?u=1405) Israel ##

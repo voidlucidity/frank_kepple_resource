@@ -1,12 +1,13 @@
 ---
 topic_title: "Hemi-Sync... user reports"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/hemi-sync-user-reports
-num_views: 3900
+topic_id: 861
 num_posts: 11
 date_first: 2002-05-04
 date_last: 2002-05-06
-tags: []
+num_views: 3900
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (10) [2002-05-04 04:06:29](https://www.astralpulse.com/forums/index.php?msg=116603), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing? What is really taking place and where am I at?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/phasing-what-is-really-taking-place-and-where-am-i-at
-num_views: 1822
+topic_id: 18438
 num_posts: 4
 date_first: 2005-04-09
 date_last: 2005-04-11
-tags: []
+num_views: 1822
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-04-09 21:22:20](https://www.astralpulse.com/forums/index.php?msg=159612), [BOATS](https://www.astralpulse.com/forums/profile/?u=4755) USA ##

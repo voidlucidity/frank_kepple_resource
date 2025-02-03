@@ -1,12 +1,13 @@
 ---
 topic_title: "Get these sensations? And other Q's."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/get-these-sensations-and-other-q-s
-num_views: 3504
+topic_id: 1078
 num_posts: 10
 date_first: 2002-06-06
 date_last: 2002-06-09
-tags: []
+num_views: 3504
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2002-06-06 14:00:27](https://www.astralpulse.com/forums/index.php?msg=116816), [Patty](https://www.astralpulse.com/forums/profile/?u=673) USA ##

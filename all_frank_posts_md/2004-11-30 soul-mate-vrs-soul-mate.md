@@ -1,12 +1,13 @@
 ---
 topic_title: "Soul Mate Vrs Soul Mate"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/soul-mate-vrs-soul-mate
-num_views: 3289
+topic_id: 15519
 num_posts: 13
 date_first: 2004-11-30
 date_last: 2004-12-02
-tags: []
+num_views: 3289
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (0) [2004-11-30 01:29:40](https://www.astralpulse.com/forums/index.php?msg=135367), [Paradox](https://www.astralpulse.com/forums/profile/?u=6062) USA ##

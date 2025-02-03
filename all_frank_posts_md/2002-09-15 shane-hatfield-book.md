@@ -1,12 +1,13 @@
 ---
 topic_title: "Shane Hatfield  book"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/shane-hatfield-book
-num_views: 3163
+topic_id: 1930
 num_posts: 8
 date_first: 2002-09-15
 date_last: 2002-09-20
-tags: []
+num_views: 3163
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-09-15 16:40:14](https://www.astralpulse.com/forums/index.php?msg=117664), [DG](https://www.astralpulse.com/forums/profile/?u=399) Canada, Montreal ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "The 'White Light' Trap???"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/the-white-light-trap
-num_views: 22756
+topic_id: 17466
 num_posts: 54
 date_first: 2005-02-20
 date_last: 2005-04-14
-tags: []
+num_views: 22756
 summary: ""
+tags: []
 ---
 
 ## \#0/53 (0) [2005-02-20 07:55:16](https://www.astralpulse.com/forums/index.php?msg=150826), [Gman](https://www.astralpulse.com/forums/profile/?u=5240) United Kingdom ##

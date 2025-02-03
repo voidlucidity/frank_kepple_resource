@@ -1,12 +1,13 @@
 ---
 topic_title: "Real Time Zone questions"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/real-time-zone-questions
-num_views: 3050
+topic_id: 14022
 num_posts: 9
 date_first: 2004-08-21
 date_last: 2004-08-24
-tags: []
+num_views: 3050
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2004-08-21 08:09:36](https://www.astralpulse.com/forums/index.php?msg=128904), [The_Fool](https://www.astralpulse.com/forums/profile/?u=4384) Australia ##

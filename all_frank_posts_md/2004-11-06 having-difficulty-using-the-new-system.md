@@ -1,12 +1,13 @@
 ---
 topic_title: "Having difficulty using the NEW System"
 topic_url: https://www.astralpulse.com/forums/welcome-to-energy-body-and-the-chakras/having-difficulty-using-the-new-system
-num_views: 3862
+topic_id: 15182
 num_posts: 12
 date_first: 2004-11-06
 date_last: 2004-11-17
-tags: []
+num_views: 3862
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (0) [2004-11-06 01:12:41](https://www.astralpulse.com/forums/index.php?msg=132627), GroovyGoddess  ##

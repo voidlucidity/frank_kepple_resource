@@ -1,12 +1,13 @@
 ---
 topic_title: "Wild and OBE is like the same things ?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/wild-and-obe-is-like-the-same-things
-num_views: 1583
+topic_id: 2949
 num_posts: 3
 date_first: 2002-12-26
 date_last: 2002-12-29
-tags: []
+num_views: 1583
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2002-12-26 06:39:41](https://www.astralpulse.com/forums/index.php?msg=118678), [dani](https://www.astralpulse.com/forums/profile/?u=1405) Israel ##

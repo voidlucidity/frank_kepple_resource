@@ -1,12 +1,13 @@
 ---
 topic_title: "DOCTOR WHO returns!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/doctor-who-returns%21
-num_views: 4440
+topic_id: 18073
 num_posts: 14
 date_first: 2005-03-19
 date_last: 2005-04-05
-tags: []
+num_views: 4440
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (0) [2005-03-19 16:17:36](https://www.astralpulse.com/forums/index.php?msg=156598), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Which book by Robert Bruce should be read first?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/which-book-by-robert-bruce-should-be-read-first
-num_views: 2176
+topic_id: 2728
 num_posts: 8
 date_first: 2002-11-28
 date_last: 2002-11-29
-tags: []
+num_views: 2176
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (6) [2002-11-28 07:27:49](https://www.astralpulse.com/forums/index.php?msg=118458), [BlueBear](https://www.astralpulse.com/forums/profile/?u=1519) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Waking paralysis"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/waking-paralysis
-num_views: 4377
+topic_id: 1369
 num_posts: 17
 date_first: 2002-07-15
 date_last: 2002-07-26
-tags: []
+num_views: 4377
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (16) [2002-07-15 14:02:17](https://www.astralpulse.com/forums/index.php?msg=117106), [neopete](https://www.astralpulse.com/forums/profile/?u=828) United Kingdom ##

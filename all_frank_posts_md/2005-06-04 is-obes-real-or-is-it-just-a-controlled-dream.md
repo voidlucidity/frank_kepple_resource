@@ -1,12 +1,13 @@
 ---
 topic_title: "Is OBEs real or is it just a controlled dream?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/is-obes-real-or-is-it-just-a-controlled-dream
-num_views: 1184
+topic_id: 19187
 num_posts: 3
 date_first: 2005-06-04
 date_last: 2005-06-06
-tags: []
+num_views: 1184
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-06-04 22:53:57](https://www.astralpulse.com/forums/index.php?msg=165411), [qu1nn](https://www.astralpulse.com/forums/profile/?u=9150)  ##

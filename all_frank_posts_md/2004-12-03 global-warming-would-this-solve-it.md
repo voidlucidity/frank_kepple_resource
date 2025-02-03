@@ -1,12 +1,13 @@
 ---
 topic_title: "Global Warming (would this solve it)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-quantum-physics!/global-warming-would-this-solve-it
-num_views: 9397
+topic_id: 15577
 num_posts: 21
 date_first: 2004-12-03
 date_last: 2005-02-07
-tags: []
+num_views: 9397
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (0) [2004-12-03 10:21:40](https://www.astralpulse.com/forums/index.php?msg=135834), [BirdManKalki](https://www.astralpulse.com/forums/profile/?u=5288)  ##

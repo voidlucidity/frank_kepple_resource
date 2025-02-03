@@ -1,12 +1,13 @@
 ---
 topic_title: "Seeing geometric shapes when coming out of astral journey"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/seeing-geometric-shapes-when-coming-out-of-astral-journey
-num_views: 2111
+topic_id: 15123
 num_posts: 4
 date_first: 2004-11-01
 date_last: 2004-11-04
-tags: []
+num_views: 2111
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2004-11-01 16:19:23](https://www.astralpulse.com/forums/index.php?msg=132138), [Cayla](https://www.astralpulse.com/forums/profile/?u=7259) South Africa ##

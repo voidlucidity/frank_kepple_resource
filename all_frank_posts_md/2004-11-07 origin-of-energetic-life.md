@@ -1,12 +1,13 @@
 ---
 topic_title: "Origin of energetic life"
 topic_url: https://www.astralpulse.com/forums/welcome-to-energy-body-and-the-chakras/origin-of-energetic-life
-num_views: 8462
+topic_id: 15200
 num_posts: 36
 date_first: 2004-11-07
 date_last: 2004-11-13
-tags: []
+num_views: 8462
 summary: ""
+tags: []
 ---
 
 ## \#0/35 (0) [2004-11-07 10:00:33](https://www.astralpulse.com/forums/index.php?msg=132777), [zareste](https://www.astralpulse.com/forums/profile/?u=5316) USA ##

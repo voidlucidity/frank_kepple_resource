@@ -1,12 +1,13 @@
 ---
 topic_title: "3D blackness - grid-like effect"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/3d-blackness-grid-like-effect
-num_views: 4801
+topic_id: 3260
 num_posts: 7
 date_first: 2003-01-24
 date_last: 2003-01-29
-tags: []
+num_views: 4801
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2003-01-24 18:03:30](https://www.astralpulse.com/forums/index.php?msg=118986), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Do I really need to reach a trance state?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/do-i-really-need-to-reach-a-trance-state
-num_views: 4278
+topic_id: 1027
 num_posts: 12
 date_first: 2002-05-29
 date_last: 2002-06-26
-tags: []
+num_views: 4278
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2002-05-29 17:34:27](https://www.astralpulse.com/forums/index.php?msg=116765), [zEfn](https://www.astralpulse.com/forums/profile/?u=627) Croatia ##

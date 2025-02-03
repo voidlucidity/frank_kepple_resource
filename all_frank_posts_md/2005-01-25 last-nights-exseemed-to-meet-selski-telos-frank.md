@@ -1,12 +1,13 @@
 ---
 topic_title: "last nights ex:seemed to meet Selski, Telos & Frank"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/last-nights-exseemed-to-meet-selski-telos-frank
-num_views: 4484
+topic_id: 16744
 num_posts: 17
 date_first: 2005-01-25
 date_last: 2005-01-29
-tags: []
+num_views: 4484
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (0) [2005-01-25 08:57:00](https://www.astralpulse.com/forums/index.php?msg=144835), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

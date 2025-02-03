@@ -1,12 +1,13 @@
 ---
 topic_title: "My buzzing head thing going on"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/my-buzzing-head-thing-going-on
-num_views: 2706
+topic_id: 2011
 num_posts: 8
 date_first: 2002-09-23
 date_last: 2002-09-26
-tags: []
+num_views: 2706
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-09-23 13:16:22](https://www.astralpulse.com/forums/index.php?msg=117745), [Lysear](https://www.astralpulse.com/forums/profile/?u=1214) United Kingdom ##

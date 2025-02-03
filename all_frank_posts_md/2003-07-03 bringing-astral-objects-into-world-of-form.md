@@ -1,12 +1,13 @@
 ---
 topic_title: "bringing astral objects into world of form"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/bringing-astral-objects-into-world-of-form
-num_views: 2373
+topic_id: 5400
 num_posts: 7
 date_first: 2003-07-03
 date_last: 2003-07-05
-tags: []
+num_views: 2373
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2003-07-03 11:18:07](https://www.astralpulse.com/forums/index.php?msg=121065), [Tisha](https://www.astralpulse.com/forums/profile/?u=594) USA ##

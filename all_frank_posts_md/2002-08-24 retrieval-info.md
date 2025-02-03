@@ -1,12 +1,13 @@
 ---
 topic_title: "Retrieval info"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/retrieval-info
-num_views: 3722
+topic_id: 1722
 num_posts: 8
 date_first: 2002-08-24
 date_last: 2003-02-25
-tags: []
+num_views: 3722
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-08-24 06:55:31](https://www.astralpulse.com/forums/index.php?msg=117457), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

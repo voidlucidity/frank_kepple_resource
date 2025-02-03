@@ -1,12 +1,13 @@
 ---
 topic_title: "Leaving Work on Friday - Going to Work on Monday"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/leaving-work-on-friday-going-to-work-on-monday
-num_views: 3028
+topic_id: 17551
 num_posts: 12
 date_first: 2005-02-23
 date_last: 2005-02-23
-tags: []
+num_views: 3028
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (0) [2005-02-23 15:49:39](https://www.astralpulse.com/forums/index.php?msg=151827), [Selski](https://www.astralpulse.com/forums/profile/?u=6012) England, UK ##

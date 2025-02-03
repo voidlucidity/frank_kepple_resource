@@ -1,12 +1,13 @@
 ---
 topic_title: "11-Astral visit to Puerto Rico- 02-13-2005-2:49:43 AM"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/11-astral-visit-to-puerto-rico-02-13-2005-24943-am
-num_views: 3984
+topic_id: 19649
 num_posts: 7
 date_first: 2005-07-02
 date_last: 2005-07-04
-tags: []
+num_views: 3984
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-07-02 14:36:17](https://www.astralpulse.com/forums/index.php?msg=168820), [esotericus](https://www.astralpulse.com/forums/profile/?u=9309) USA ##

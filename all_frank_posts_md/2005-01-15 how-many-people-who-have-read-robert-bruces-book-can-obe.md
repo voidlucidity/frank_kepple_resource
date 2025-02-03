@@ -1,12 +1,13 @@
 ---
 topic_title: "How many people who have read robert bruces book can obe"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/how-many-people-who-have-read-robert-bruces-book-can-obe
-num_views: 3984
+topic_id: 16465
 num_posts: 13
 date_first: 2005-01-15
 date_last: 2005-01-23
-tags: []
+num_views: 3984
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (0) [2005-01-15 01:45:03](https://www.astralpulse.com/forums/index.php?msg=142989), [Syro](https://www.astralpulse.com/forums/profile/?u=7340)  ##

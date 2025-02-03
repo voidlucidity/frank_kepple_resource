@@ -1,12 +1,13 @@
 ---
 topic_title: "Only modarators may post in astral chat?"
 topic_url: https://www.astralpulse.com/forums/forums-bugs-reports-and-questions/only-modarators-may-post-in-astral-chat
-num_views: 3753
+topic_id: 17465
 num_posts: 8
 date_first: 2005-02-20
 date_last: 2005-02-20
-tags: []
+num_views: 3753
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2005-02-20 07:46:01](https://www.astralpulse.com/forums/index.php?msg=150825), [Jenia_San](https://www.astralpulse.com/forums/profile/?u=6035) Israel ##

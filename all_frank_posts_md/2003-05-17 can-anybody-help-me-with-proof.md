@@ -1,12 +1,13 @@
 ---
 topic_title: "Can anybody help me with proof?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/can-anybody-help-me-with-proof
-num_views: 12421
+topic_id: 4603
 num_posts: 49
 date_first: 2003-05-17
 date_last: 2003-05-27
-tags: []
+num_views: 12421
 summary: ""
+tags: []
 ---
 
 ## \#0/48 (48) [2003-05-17 16:56:06](https://www.astralpulse.com/forums/index.php?msg=120304), [Grendel](https://www.astralpulse.com/forums/profile/?u=826)  ##

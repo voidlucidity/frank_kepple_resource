@@ -1,12 +1,13 @@
 ---
 topic_title: "----->Homosexuality  <------"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/gthomosexuality-lt
-num_views: 36329
+topic_id: 4028
 num_posts: 110
 date_first: 2003-04-02
 date_last: 2003-04-11
-tags: []
+num_views: 36329
 summary: ""
+tags: []
 ---
 
 ## \#0/109 (104) [2003-04-02 01:43:25](https://www.astralpulse.com/forums/index.php?msg=119742), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

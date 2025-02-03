@@ -1,12 +1,13 @@
 ---
 topic_title: "Forum Acceptable Use Policy"
 topic_url: https://www.astralpulse.com/forums/forums-bugs-reports-and-questions/forum-acceptable-use-policy
-num_views: 2231
+topic_id: 14804
 num_posts: 1
 date_first: 2004-10-15
 date_last: 2004-10-15
-tags: []
+num_views: 2231
 summary: ""
+tags: []
 ---
 
 ## \#0/0 (0) [2004-10-15 07:42:49](https://www.astralpulse.com/forums/index.php?msg=130152), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

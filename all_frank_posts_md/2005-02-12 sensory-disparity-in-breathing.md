@@ -1,12 +1,13 @@
 ---
 topic_title: "Sensory disparity in breathing"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/sensory-disparity-in-breathing
-num_views: 1685
+topic_id: 17224
 num_posts: 4
 date_first: 2005-02-12
 date_last: 2005-02-14
-tags: []
+num_views: 1685
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-02-12 14:34:30](https://www.astralpulse.com/forums/index.php?msg=148648), [Telos](https://www.astralpulse.com/forums/profile/?u=6496)  ##

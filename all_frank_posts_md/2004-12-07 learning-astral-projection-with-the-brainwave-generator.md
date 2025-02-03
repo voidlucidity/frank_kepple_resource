@@ -1,12 +1,13 @@
 ---
 topic_title: "Learning Astral Projection with the BrainWave Generator"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/learning-astral-projection-with-the-brainwave-generator
-num_views: 31106
+topic_id: 15665
 num_posts: 54
 date_first: 2004-12-07
 date_last: 2006-04-01
-tags: []
+num_views: 31106
 summary: ""
+tags: []
 ---
 
 ## \#0/53 (0) [2004-12-07 12:19:35](https://www.astralpulse.com/forums/index.php?msg=136662), [BriMercer](https://www.astralpulse.com/forums/profile/?u=34) Seattle, WA  www.kaladrious.com ##

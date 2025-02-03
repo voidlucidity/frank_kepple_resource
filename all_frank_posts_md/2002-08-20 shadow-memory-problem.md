@@ -1,12 +1,13 @@
 ---
 topic_title: "Shadow memory problem"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/shadow-memory-problem
-num_views: 1490
+topic_id: 1697
 num_posts: 3
 date_first: 2002-08-20
 date_last: 2002-08-21
-tags: []
+num_views: 1490
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2002-08-20 17:01:40](https://www.astralpulse.com/forums/index.php?msg=117432), [Kodemaster](https://www.astralpulse.com/forums/profile/?u=426)(Global Moderator) USA ##

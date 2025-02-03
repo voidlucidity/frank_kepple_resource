@@ -1,12 +1,13 @@
 ---
 topic_title: "ANYONE AP IN THE DAYTIME??"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/anyone-ap-in-the-daytime
-num_views: 2500
+topic_id: 18541
 num_posts: 6
 date_first: 2005-04-14
 date_last: 2005-04-14
-tags: []
+num_views: 2500
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-04-14 10:49:29](https://www.astralpulse.com/forums/index.php?msg=160246), [izalco](https://www.astralpulse.com/forums/profile/?u=8826)  ##

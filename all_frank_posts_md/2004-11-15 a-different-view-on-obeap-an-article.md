@@ -1,12 +1,13 @@
 ---
 topic_title: "A different view on OBE/AP: an article."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/a-different-view-on-obeap-an-article
-num_views: 32665
+topic_id: 15313
 num_posts: 96
 date_first: 2004-11-15
 date_last: 2005-01-08
-tags: []
+num_views: 32665
 summary: ""
+tags: []
 ---
 
 ## \#0/95 (0) [2004-11-15 17:47:48](https://www.astralpulse.com/forums/index.php?msg=133801), [Xetrov](https://www.astralpulse.com/forums/profile/?u=7348) Holland ##

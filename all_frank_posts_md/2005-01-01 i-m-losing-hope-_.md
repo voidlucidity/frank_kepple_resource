@@ -1,12 +1,13 @@
 ---
 topic_title: "I'm losing hope -_-"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/i-m-losing-hope-_
-num_views: 10736
+topic_id: 16173
 num_posts: 35
 date_first: 2005-01-01
 date_last: 2005-01-15
-tags: []
+num_views: 10736
 summary: ""
+tags: []
 ---
 
 ## \#0/34 (0) [2005-01-01 23:38:13](https://www.astralpulse.com/forums/index.php?msg=140667), [Kiba](https://www.astralpulse.com/forums/profile/?u=7844)  ##

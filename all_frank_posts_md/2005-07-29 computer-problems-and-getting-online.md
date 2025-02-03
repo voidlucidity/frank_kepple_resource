@@ -1,12 +1,13 @@
 ---
 topic_title: "Computer problems and getting online"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/computer-problems-and-getting-online
-num_views: 2051
+topic_id: 20003
 num_posts: 2
 date_first: 2005-07-29
 date_last: 2005-08-03
-tags: []
+num_views: 2051
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-07-29 18:20:19](https://www.astralpulse.com/forums/index.php?msg=171592), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

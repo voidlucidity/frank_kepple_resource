@@ -1,12 +1,13 @@
 ---
 topic_title: "Finally got a date!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/finally-got-a-date%21
-num_views: 13226
+topic_id: 447
 num_posts: 21
 date_first: 2002-03-28
 date_last: 2002-07-11
-tags: []
+num_views: 13226
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (20) [2002-03-28 06:14:11](https://www.astralpulse.com/forums/index.php?msg=116205), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

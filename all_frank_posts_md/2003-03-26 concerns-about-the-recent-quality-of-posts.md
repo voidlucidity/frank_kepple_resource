@@ -1,12 +1,13 @@
 ---
 topic_title: "Concerns about the recent quality of Posts"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/concerns-about-the-recent-quality-of-posts
-num_views: 7081
+topic_id: 3943
 num_posts: 28
 date_first: 2003-03-26
 date_last: 2003-03-30
-tags: []
+num_views: 7081
 summary: ""
+tags: []
 ---
 
 ## \#0/27 (25) [2003-03-26 20:02:58](https://www.astralpulse.com/forums/index.php?msg=119659), [James S](https://www.astralpulse.com/forums/profile/?u=759) Australia ##

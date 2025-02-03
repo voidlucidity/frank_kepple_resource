@@ -1,12 +1,13 @@
 ---
 topic_title: "really need help , guyz"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/really-need-help-guyz
-num_views: 3877
+topic_id: 18263
 num_posts: 10
 date_first: 2005-03-30
 date_last: 2005-03-31
-tags: []
+num_views: 3877
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2005-03-30 02:42:14](https://www.astralpulse.com/forums/index.php?msg=158250), [itsmenoob](https://www.astralpulse.com/forums/profile/?u=8729) Thailand ##

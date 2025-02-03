@@ -1,12 +1,13 @@
 ---
 topic_title: "grabbing vibrations???"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/grabbing-vibrations
-num_views: 3548
+topic_id: 18597
 num_posts: 11
 date_first: 2005-04-17
 date_last: 2005-04-22
-tags: []
+num_views: 3548
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-04-17 23:10:40](https://www.astralpulse.com/forums/index.php?msg=160718), [knightlight](https://www.astralpulse.com/forums/profile/?u=8736) API ##

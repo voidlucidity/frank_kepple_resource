@@ -1,12 +1,13 @@
 ---
 topic_title: "Being Rocket Launched Out of My Body"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/being-rocket-launched-out-of-my-body
-num_views: 3263
+topic_id: 18643
 num_posts: 11
 date_first: 2005-04-21
 date_last: 2005-04-22
-tags: []
+num_views: 3263
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-04-21 05:13:10](https://www.astralpulse.com/forums/index.php?msg=161210), [Selski](https://www.astralpulse.com/forums/profile/?u=6012) England, UK ##

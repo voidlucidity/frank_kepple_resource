@@ -1,12 +1,13 @@
 ---
 topic_title: "Contact III"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/contact-iii
-num_views: 3698
+topic_id: 19636
 num_posts: 7
 date_first: 2005-07-01
 date_last: 2005-07-09
-tags: []
+num_views: 3698
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-07-01 18:36:45](https://www.astralpulse.com/forums/index.php?msg=168715), [David Warner](https://www.astralpulse.com/forums/profile/?u=9331) Grand Rapids Michigan ##

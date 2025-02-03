@@ -1,12 +1,13 @@
 ---
 topic_title: "Possesion"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/possesion
-num_views: 8352
+topic_id: 2713
 num_posts: 26
 date_first: 2002-11-26
 date_last: 2002-12-01
-tags: []
+num_views: 8352
 summary: ""
+tags: []
 ---
 
 ## \#0/25 (25) [2002-11-26 15:47:25](https://www.astralpulse.com/forums/index.php?msg=118443), [Hephaestus](https://www.astralpulse.com/forums/profile/?u=369) United Kingdom ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral experience example"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/astral-experience-example
-num_views: 5704
+topic_id: 619
 num_posts: 6
 date_first: 2002-04-10
 date_last: 2005-05-26
-tags: []
+num_views: 5704
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (2) [2002-04-10 05:05:12](https://www.astralpulse.com/forums/index.php?msg=116371), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

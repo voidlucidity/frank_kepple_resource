@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Dynamics Part 2"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/astral-dynamics-part-2
-num_views: 4091
+topic_id: 370
 num_posts: 4
 date_first: 2002-03-16
 date_last: 2002-03-24
-tags: []
+num_views: 4091
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-03-16 23:18:26](https://www.astralpulse.com/forums/index.php?msg=116129), [DjMidgetMan](https://www.astralpulse.com/forums/profile/?u=278) USA ##

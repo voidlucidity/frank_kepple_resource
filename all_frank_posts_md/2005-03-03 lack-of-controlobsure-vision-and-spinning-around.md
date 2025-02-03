@@ -1,12 +1,13 @@
 ---
 topic_title: "Lack of control/obsure vision and spinning around"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/lack-of-controlobsure-vision-and-spinning-around
-num_views: 1787
+topic_id: 17762
 num_posts: 5
 date_first: 2005-03-03
 date_last: 2005-03-04
-tags: []
+num_views: 1787
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-03-03 19:49:29](https://www.astralpulse.com/forums/index.php?msg=153678), [Andali27](https://www.astralpulse.com/forums/profile/?u=6413) Australia ##

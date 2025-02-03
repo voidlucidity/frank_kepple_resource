@@ -1,12 +1,13 @@
 ---
 topic_title: "Energy body attachments"
 topic_url: https://www.astralpulse.com/forums/welcome-to-psychic-and-paranormal!/energy-body-attachments
-num_views: 9430
+topic_id: 200
 num_posts: 19
 date_first: 2002-02-27
 date_last: 2003-04-28
-tags: []
+num_views: 9430
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (18) [2002-02-27 22:23:22](https://www.astralpulse.com/forums/index.php?msg=115966), [Adam](https://www.astralpulse.com/forums/profile/?u=263) Australia ##

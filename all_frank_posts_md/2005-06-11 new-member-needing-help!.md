@@ -1,12 +1,13 @@
 ---
 topic_title: "New member needing help!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/new-member-needing-help%21
-num_views: 2088
+topic_id: 19328
 num_posts: 6
 date_first: 2005-06-11
 date_last: 2005-06-18
-tags: []
+num_views: 2088
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-06-11 21:21:45](https://www.astralpulse.com/forums/index.php?msg=166250), [Wolfynix](https://www.astralpulse.com/forums/profile/?u=9230) Quebec, Canada ##

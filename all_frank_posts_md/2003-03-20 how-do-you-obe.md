@@ -1,12 +1,13 @@
 ---
 topic_title: "how do you obe"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/how-do-you-obe
-num_views: 3075
+topic_id: 3872
 num_posts: 9
 date_first: 2003-03-20
 date_last: 2003-04-01
-tags: []
+num_views: 3075
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2003-03-20 19:21:22](https://www.astralpulse.com/forums/index.php?msg=119588), [ssjoku](https://www.astralpulse.com/forums/profile/?u=1802) Canada ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "comments and questions"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/comments-and-questions
-num_views: 2740
+topic_id: 1277
 num_posts: 7
 date_first: 2002-07-01
 date_last: 2002-07-02
-tags: []
+num_views: 2740
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-07-01 12:54:12](https://www.astralpulse.com/forums/index.php?msg=117014), [Patty](https://www.astralpulse.com/forums/profile/?u=673) USA ##

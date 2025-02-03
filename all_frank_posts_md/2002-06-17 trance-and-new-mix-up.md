@@ -1,12 +1,13 @@
 ---
 topic_title: "trance and NEW  mix up"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/trance-and-new-mix-up
-num_views: 2365
+topic_id: 1159
 num_posts: 7
 date_first: 2002-06-17
 date_last: 2002-06-18
-tags: []
+num_views: 2365
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-06-17 17:02:44](https://www.astralpulse.com/forums/index.php?msg=116897), [rodentmouse](https://www.astralpulse.com/forums/profile/?u=554) United Kingdom ##

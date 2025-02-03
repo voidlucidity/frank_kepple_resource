@@ -1,12 +1,13 @@
 ---
 topic_title: "new CNN article talks about OBE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/new-cnn-article-talks-about-obe
-num_views: 9111
+topic_id: 1972
 num_posts: 38
 date_first: 2002-09-19
 date_last: 2002-09-27
-tags: []
+num_views: 9111
 summary: ""
+tags: []
 ---
 
 ## \#0/37 (37) [2002-09-19 14:09:26](https://www.astralpulse.com/forums/index.php?msg=117706), [DreamSpeak](https://www.astralpulse.com/forums/profile/?u=184)  ##

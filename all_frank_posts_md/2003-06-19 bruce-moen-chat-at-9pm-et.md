@@ -1,12 +1,13 @@
 ---
 topic_title: "Bruce Moen chat at 9pm ET"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/bruce-moen-chat-at-9pm-et
-num_views: 1522
+topic_id: 5127
 num_posts: 1
 date_first: 2003-06-19
 date_last: 2003-06-19
-tags: []
+num_views: 1522
 summary: ""
+tags: []
 ---
 
 ## \#0/0 (0) [2003-06-19 16:00:07](https://www.astralpulse.com/forums/index.php?msg=120810), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

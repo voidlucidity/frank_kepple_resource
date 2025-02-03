@@ -1,12 +1,13 @@
 ---
 topic_title: "A guide story"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/a-guide-story
-num_views: 4273
+topic_id: 1752
 num_posts: 7
 date_first: 2002-08-28
 date_last: 2010-04-13
-tags: []
+num_views: 4273
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2002-08-28 03:53:29](https://www.astralpulse.com/forums/index.php?msg=11321), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

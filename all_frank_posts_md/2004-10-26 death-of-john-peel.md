@@ -1,12 +1,13 @@
 ---
 topic_title: "Death of John Peel"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/death-of-john-peel
-num_views: 1602
+topic_id: 15008
 num_posts: 4
 date_first: 2004-10-26
 date_last: 2004-10-28
-tags: []
+num_views: 1602
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2004-10-26 16:57:38](https://www.astralpulse.com/forums/index.php?msg=131443), [Selski](https://www.astralpulse.com/forums/profile/?u=6012) England, UK ##

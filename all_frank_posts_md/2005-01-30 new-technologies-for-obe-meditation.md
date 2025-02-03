@@ -1,12 +1,13 @@
 ---
 topic_title: "new technologies for obe & meditation"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/new-technologies-for-obe-meditation
-num_views: 1636
+topic_id: 16887
 num_posts: 4
 date_first: 2005-01-30
 date_last: 2005-01-31
-tags: []
+num_views: 1636
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-01-30 18:35:05](https://www.astralpulse.com/forums/index.php?msg=145953), [Hannah b](https://www.astralpulse.com/forums/profile/?u=4711) Poland ##

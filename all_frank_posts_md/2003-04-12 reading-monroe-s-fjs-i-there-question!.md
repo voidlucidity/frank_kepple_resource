@@ -1,12 +1,13 @@
 ---
 topic_title: "reading Monroe's FJs ......... I-There question!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/reading-monroe-s-fjs-i-there-question%21
-num_views: 6411
+topic_id: 4150
 num_posts: 13
 date_first: 2003-04-12
 date_last: 2003-04-26
-tags: []
+num_views: 6411
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2003-04-12 19:04:03](https://www.astralpulse.com/forums/index.php?msg=119862), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Help the Newbie ^.^"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/help-the-newbie
-num_views: 2483
+topic_id: 13944
 num_posts: 7
 date_first: 2004-08-17
 date_last: 2004-08-31
-tags: []
+num_views: 2483
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2004-08-17 09:30:01](https://www.astralpulse.com/forums/index.php?msg=128828), [Kory01](https://www.astralpulse.com/forums/profile/?u=6259) USA ##

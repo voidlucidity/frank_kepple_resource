@@ -1,12 +1,13 @@
 ---
 topic_title: "English/chinese translation"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/englishchinese-translation
-num_views: 3155
+topic_id: 5007
 num_posts: 11
 date_first: 2003-06-13
 date_last: 2003-06-15
-tags: []
+num_views: 3155
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (10) [2003-06-13 10:46:27](https://www.astralpulse.com/forums/index.php?msg=120694), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

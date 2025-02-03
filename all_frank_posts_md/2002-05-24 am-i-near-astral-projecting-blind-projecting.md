@@ -1,12 +1,13 @@
 ---
 topic_title: "am I near astral projecting? blind projecting?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/am-i-near-astral-projecting-blind-projecting
-num_views: 2383
+topic_id: 995
 num_posts: 4
 date_first: 2002-05-24
 date_last: 2002-05-25
-tags: []
+num_views: 2383
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-05-24 22:09:37](https://www.astralpulse.com/forums/index.php?msg=116733), [weagle](https://www.astralpulse.com/forums/profile/?u=538) Canada ##

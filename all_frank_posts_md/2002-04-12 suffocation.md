@@ -1,12 +1,13 @@
 ---
 topic_title: "suffocation ?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/suffocation
-num_views: 2923
+topic_id: 641
 num_posts: 7
 date_first: 2002-04-12
 date_last: 2002-04-13
-tags: []
+num_views: 2923
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-04-12 07:20:37](https://www.astralpulse.com/forums/index.php?msg=116392), [steveb](https://www.astralpulse.com/forums/profile/?u=420) Australia ##

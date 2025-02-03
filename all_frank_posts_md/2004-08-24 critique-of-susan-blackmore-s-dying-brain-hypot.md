@@ -1,12 +1,13 @@
 ---
 topic_title: "critique of Susan Blackmore's dying brain hypot"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/critique-of-susan-blackmore-s-dying-brain-hypot
-num_views: 6921
+topic_id: 14068
 num_posts: 18
 date_first: 2004-08-24
 date_last: 2004-08-29
-tags: []
+num_views: 6921
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (17) [2004-08-24 00:09:38](https://www.astralpulse.com/forums/index.php?msg=128950), [manuel](https://www.astralpulse.com/forums/profile/?u=1249)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "How did I get to F3oc.. I think?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/how-did-i-get-to-f3oc-i-think
-num_views: 1426
+topic_id: 19811
 num_posts: 2
 date_first: 2005-07-13
 date_last: 2005-07-13
-tags: []
+num_views: 1426
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-07-13 14:34:54](https://www.astralpulse.com/forums/index.php?msg=170082), [Dragonhawk](https://www.astralpulse.com/forums/profile/?u=9345) Adelaide SA, Australia ##

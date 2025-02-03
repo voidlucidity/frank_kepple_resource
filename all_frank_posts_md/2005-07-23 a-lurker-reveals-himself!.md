@@ -1,12 +1,13 @@
 ---
 topic_title: "A lurker reveals himself!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/a-lurker-reveals-himself%21
-num_views: 5326
+topic_id: 19934
 num_posts: 8
 date_first: 2005-07-23
 date_last: 2005-08-04
-tags: []
+num_views: 5326
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2005-07-23 23:44:35](https://www.astralpulse.com/forums/index.php?msg=171116), [Acolyte](https://www.astralpulse.com/forums/profile/?u=9504)  ##

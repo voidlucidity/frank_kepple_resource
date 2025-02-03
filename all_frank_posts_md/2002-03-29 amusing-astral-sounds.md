@@ -1,12 +1,13 @@
 ---
 topic_title: "Amusing Astral Sounds"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/amusing-astral-sounds
-num_views: 8529
+topic_id: 463
 num_posts: 12
 date_first: 2002-03-29
 date_last: 2002-04-08
-tags: []
+num_views: 8529
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2002-03-29 17:36:30](https://www.astralpulse.com/forums/index.php?msg=116220), [Violet](https://www.astralpulse.com/forums/profile/?u=162) Canada ##

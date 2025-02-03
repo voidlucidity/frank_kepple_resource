@@ -1,12 +1,13 @@
 ---
 topic_title: "Chemical enhancements"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/chemical-enhancements
-num_views: 3162
+topic_id: 4017
 num_posts: 12
 date_first: 2003-04-01
 date_last: 2003-04-03
-tags: []
+num_views: 3162
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2003-04-01 07:33:16](https://www.astralpulse.com/forums/index.php?msg=119732), [29MV29](https://www.astralpulse.com/forums/profile/?u=2075) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "how close am i?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/how-close-am-i
-num_views: 4376
+topic_id: 1302
 num_posts: 13
 date_first: 2002-07-06
 date_last: 2002-07-07
-tags: []
+num_views: 4376
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2002-07-06 08:11:46](https://www.astralpulse.com/forums/index.php?msg=117039), [rodentmouse](https://www.astralpulse.com/forums/profile/?u=554) United Kingdom ##

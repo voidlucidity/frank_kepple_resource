@@ -1,12 +1,13 @@
 ---
 topic_title: "Price of Gas will soon go down!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-news-and-media!/price-of-gas-will-soon-go-down%21
-num_views: 4999
+topic_id: 18242
 num_posts: 15
 date_first: 2005-03-28
 date_last: 2005-04-06
-tags: []
+num_views: 4999
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (0) [2005-03-28 17:57:49](https://www.astralpulse.com/forums/index.php?msg=158036), [nisucy](https://www.astralpulse.com/forums/profile/?u=7783) maine, usa ##

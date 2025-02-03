@@ -1,12 +1,13 @@
 ---
 topic_title: "Robert Bruce is confusing and contradicts himself!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/robert-bruce-is-confusing-and-contradicts-himself%21
-num_views: 14596
+topic_id: 3316
 num_posts: 54
 date_first: 2003-02-02
 date_last: 2003-02-10
-tags: []
+num_views: 14596
 summary: ""
+tags: []
 ---
 
 ## \#0/53 (50) [2003-02-02 13:56:44](https://www.astralpulse.com/forums/index.php?msg=119042), [What Tha Phak](https://www.astralpulse.com/forums/profile/?u=1731) USA ##

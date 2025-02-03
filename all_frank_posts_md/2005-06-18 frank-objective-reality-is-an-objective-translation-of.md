@@ -1,12 +1,13 @@
 ---
 topic_title: "Frank-\"objective reality is an objective translation of"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/frank-objective-reality-is-an-objective-translation-of
-num_views: 5658
+topic_id: 19448
 num_posts: 15
 date_first: 2005-06-18
 date_last: 2005-07-08
-tags: []
+num_views: 5658
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (0) [2005-06-18 08:16:59](https://www.astralpulse.com/forums/index.php?msg=167089), [kajaLove](https://www.astralpulse.com/forums/profile/?u=6993)  ##

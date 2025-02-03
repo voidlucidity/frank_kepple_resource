@@ -1,12 +1,13 @@
 ---
 topic_title: "Is this a problem?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/is-this-a-problem
-num_views: 1913
+topic_id: 19759
 num_posts: 6
 date_first: 2005-07-10
 date_last: 2005-07-13
-tags: []
+num_views: 1913
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-07-10 16:27:58](https://www.astralpulse.com/forums/index.php?msg=169713), [Borgcube636](https://www.astralpulse.com/forums/profile/?u=9403)  ##

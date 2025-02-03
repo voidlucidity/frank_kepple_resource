@@ -1,12 +1,13 @@
 ---
 topic_title: "Ramble for the people"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/ramble-for-the-people
-num_views: 4213
+topic_id: 2701
 num_posts: 14
 date_first: 2002-11-25
 date_last: 2002-11-27
-tags: []
+num_views: 4213
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (13) [2002-11-25 19:37:44](https://www.astralpulse.com/forums/index.php?msg=118431), [Tisha](https://www.astralpulse.com/forums/profile/?u=594) USA ##

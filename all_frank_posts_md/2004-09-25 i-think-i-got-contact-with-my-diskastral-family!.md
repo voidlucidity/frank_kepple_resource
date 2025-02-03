@@ -1,12 +1,13 @@
 ---
 topic_title: "I think I got contact with my disk/astral family!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/i-think-i-got-contact-with-my-diskastral-family%21
-num_views: 4429
+topic_id: 14605
 num_posts: 12
 date_first: 2004-09-25
 date_last: 2004-10-03
-tags: []
+num_views: 4429
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2004-09-25 18:26:28](https://www.astralpulse.com/forums/index.php?msg=129471), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Quieting the mind"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/quieting-the-mind
-num_views: 4425
+topic_id: 1953
 num_posts: 15
 date_first: 2002-09-17
 date_last: 2002-09-20
-tags: []
+num_views: 4425
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (14) [2002-09-17 14:21:31](https://www.astralpulse.com/forums/index.php?msg=117687), [quebec](https://www.astralpulse.com/forums/profile/?u=487) Canada ##

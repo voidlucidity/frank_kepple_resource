@@ -1,12 +1,13 @@
 ---
 topic_title: "Houses of the Soul"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/houses-of-the-soul
-num_views: 3557
+topic_id: 15063
 num_posts: 8
 date_first: 2004-10-29
 date_last: 2004-11-02
-tags: []
+num_views: 3557
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2004-10-29 10:36:47](https://www.astralpulse.com/forums/index.php?msg=131780), [kmD](https://www.astralpulse.com/forums/profile/?u=7238) Florida, US ##

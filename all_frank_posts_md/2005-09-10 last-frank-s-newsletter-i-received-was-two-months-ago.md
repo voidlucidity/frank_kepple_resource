@@ -1,12 +1,13 @@
 ---
 topic_title: "Last Frank's newsletter I received was two months ago"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/last-frank-s-newsletter-i-received-was-two-months-ago
-num_views: 9373
+topic_id: 20543
 num_posts: 21
 date_first: 2005-09-10
 date_last: 2005-09-25
-tags: []
+num_views: 9373
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (0) [2005-09-10 04:30:43](https://www.astralpulse.com/forums/index.php?msg=175467), [kajaLove](https://www.astralpulse.com/forums/profile/?u=6993)  ##

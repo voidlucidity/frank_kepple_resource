@@ -1,12 +1,13 @@
 ---
 topic_title: "Dream / OBE last night...."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/dream-obe-last-night
-num_views: 5327
+topic_id: 436
 num_posts: 6
 date_first: 2002-03-26
 date_last: 2002-04-06
-tags: []
+num_views: 5327
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-03-26 13:37:22](https://www.astralpulse.com/forums/index.php?msg=116195), Chris  ##

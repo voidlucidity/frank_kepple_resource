@@ -1,12 +1,13 @@
 ---
 topic_title: "New and needing a few questions answered :)."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/new-and-needing-a-few-questions-answered
-num_views: 3420
+topic_id: 19848
 num_posts: 10
 date_first: 2005-07-16
 date_last: 2005-07-21
-tags: []
+num_views: 3420
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2005-07-16 05:26:11](https://www.astralpulse.com/forums/index.php?msg=170425), [xXAmayaXx](https://www.astralpulse.com/forums/profile/?u=9446) Fresno,CA ##

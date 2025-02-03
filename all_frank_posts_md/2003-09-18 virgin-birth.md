@@ -1,12 +1,13 @@
 ---
 topic_title: "Virgin Birth"
 topic_url: https://www.astralpulse.com/forums/welcome-to-world-cultures-traditions-and-religions!/virgin-birth
-num_views: 12413
+topic_id: 7493
 num_posts: 44
 date_first: 2003-09-18
 date_last: 2005-03-15
-tags: []
+num_views: 12413
 summary: ""
+tags: []
 ---
 
 ## \#0/43 (1) [2003-09-18 04:56:41](https://www.astralpulse.com/forums/index.php?msg=122904), [WalkerInTheWoods](https://www.astralpulse.com/forums/profile/?u=404)  ##

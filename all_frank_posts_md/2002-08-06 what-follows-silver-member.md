@@ -1,12 +1,13 @@
 ---
 topic_title: "What follows \"silver member\"?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/what-follows-silver-member
-num_views: 10404
+topic_id: 1620
 num_posts: 40
 date_first: 2002-08-06
 date_last: 2003-01-10
-tags: []
+num_views: 10404
 summary: ""
+tags: []
 ---
 
 ## \#0/39 (39) [2002-08-06 17:56:22](https://www.astralpulse.com/forums/index.php?msg=117355), Tom  ##

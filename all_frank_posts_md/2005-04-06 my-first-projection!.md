@@ -1,12 +1,13 @@
 ---
 topic_title: "My first Projection!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/my-first-projection%21
-num_views: 3187
+topic_id: 18376
 num_posts: 8
 date_first: 2005-04-06
 date_last: 2005-04-14
-tags: []
+num_views: 3187
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2005-04-06 15:18:25](https://www.astralpulse.com/forums/index.php?msg=159225), NickJW  ##

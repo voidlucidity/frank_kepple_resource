@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Body Shape"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/astral-body-shape
-num_views: 4035
+topic_id: 545
 num_posts: 6
 date_first: 2002-04-05
 date_last: 2002-04-08
-tags: []
+num_views: 4035
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-04-05 20:41:29](https://www.astralpulse.com/forums/index.php?msg=116300), [mombat](https://www.astralpulse.com/forums/profile/?u=415) USA ##

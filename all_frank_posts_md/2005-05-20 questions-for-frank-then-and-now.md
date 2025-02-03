@@ -1,12 +1,13 @@
 ---
 topic_title: "Questions for Frank (Then and Now)"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/questions-for-frank-then-and-now
-num_views: 8356
+topic_id: 18952
 num_posts: 21
 date_first: 2005-05-20
 date_last: 2005-06-01
-tags: []
+num_views: 8356
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (0) [2005-05-20 09:34:36](https://www.astralpulse.com/forums/index.php?msg=163516), Shinobi  ##

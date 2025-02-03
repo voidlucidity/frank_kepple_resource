@@ -1,12 +1,13 @@
 ---
 topic_title: "Believe Systems"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/believe-systems
-num_views: 2791
+topic_id: 17643
 num_posts: 7
 date_first: 2005-02-27
 date_last: 2005-02-28
-tags: []
+num_views: 2791
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-02-27 15:07:38](https://www.astralpulse.com/forums/index.php?msg=152759), [weetabix](https://www.astralpulse.com/forums/profile/?u=664) Canada ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Where will you be on Dec 21, 2012?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-2012-and-the-transition-of-the-ages/where-will-you-be-on-dec-21-2012
-num_views: 45626
+topic_id: 16070
 num_posts: 77
 date_first: 2004-12-27
 date_last: 2005-01-12
-tags: []
+num_views: 45626
 summary: ""
+tags: []
 ---
 
 ## \#0/76 (0) [2004-12-27 19:15:12](https://www.astralpulse.com/forums/index.php?msg=139925), [Teomim](https://www.astralpulse.com/forums/profile/?u=7598) Georgia USA ##

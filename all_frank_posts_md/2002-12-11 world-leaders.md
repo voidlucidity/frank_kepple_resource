@@ -1,12 +1,13 @@
 ---
 topic_title: "World Leaders"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/world-leaders
-num_views: 2692
+topic_id: 2849
 num_posts: 7
 date_first: 2002-12-11
 date_last: 2002-12-15
-tags: []
+num_views: 2692
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-12-11 13:22:57](https://www.astralpulse.com/forums/index.php?msg=118579), [Czm33x](https://www.astralpulse.com/forums/profile/?u=1080) Canada ##

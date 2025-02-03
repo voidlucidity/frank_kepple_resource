@@ -1,12 +1,13 @@
 ---
 topic_title: "How do YOU astral project"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/how-do-you-astral-project-19429
-num_views: 1859
+topic_id: 19429
 num_posts: 4
 date_first: 2005-06-16
 date_last: 2005-06-19
-tags: []
+num_views: 1859
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-06-16 21:20:06](https://www.astralpulse.com/forums/index.php?msg=166928), [IceDragon77](https://www.astralpulse.com/forums/profile/?u=9255) United States ##

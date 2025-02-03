@@ -1,12 +1,13 @@
 ---
 topic_title: "Easy Method for AP"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/easy-method-for-ap
-num_views: 5407
+topic_id: 4054
 num_posts: 12
 date_first: 2003-04-03
 date_last: 2003-04-22
-tags: []
+num_views: 5407
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2003-04-03 13:22:04](https://www.astralpulse.com/forums/index.php?msg=119767), [SBman](https://www.astralpulse.com/forums/profile/?u=1010) USA ##

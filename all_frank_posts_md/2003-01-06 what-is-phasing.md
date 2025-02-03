@@ -1,12 +1,13 @@
 ---
 topic_title: "What is \"Phasing\"?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/what-is-phasing
-num_views: 3736
+topic_id: 3050
 num_posts: 5
 date_first: 2003-01-06
 date_last: 2003-01-14
-tags: []
+num_views: 3736
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-01-06 15:22:35](https://www.astralpulse.com/forums/index.php?msg=118779), [Feelflowz](https://www.astralpulse.com/forums/profile/?u=1701) USA ##

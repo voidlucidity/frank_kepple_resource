@@ -1,12 +1,13 @@
 ---
 topic_title: "Use of imagination"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/use-of-imagination
-num_views: 2941
+topic_id: 19304
 num_posts: 3
 date_first: 2005-06-10
 date_last: 2005-06-11
-tags: []
+num_views: 2941
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-06-10 12:10:07](https://www.astralpulse.com/forums/index.php?msg=166130), [Jeff Caldwell](https://www.astralpulse.com/forums/profile/?u=9073)  ##

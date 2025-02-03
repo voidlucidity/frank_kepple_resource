@@ -1,12 +1,13 @@
 ---
 topic_title: "AP Adventures outside the norm"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/ap-adventures-outside-the-norm
-num_views: 18221
+topic_id: 17850
 num_posts: 57
 date_first: 2005-03-07
 date_last: 2005-04-04
-tags: []
+num_views: 18221
 summary: ""
+tags: []
 ---
 
 ## \#0/56 (0) [2005-03-07 19:51:24](https://www.astralpulse.com/forums/index.php?msg=154472), [Andali27](https://www.astralpulse.com/forums/profile/?u=6413) Australia ##

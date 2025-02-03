@@ -1,12 +1,13 @@
 ---
 topic_title: "More guide questions."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/more-guide-questions
-num_views: 1510
+topic_id: 2585
 num_posts: 2
 date_first: 2002-11-15
 date_last: 2002-11-15
-tags: []
+num_views: 1510
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (1) [2002-11-15 02:32:55](https://www.astralpulse.com/forums/index.php?msg=118317), [cainam_nazier](https://www.astralpulse.com/forums/profile/?u=166) USA ##

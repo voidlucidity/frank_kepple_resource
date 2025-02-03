@@ -1,12 +1,13 @@
 ---
 topic_title: "the astral plane, what is it?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/the-astral-plane-what-is-it
-num_views: 3024
+topic_id: 16054
 num_posts: 8
 date_first: 2004-12-26
 date_last: 2004-12-28
-tags: []
+num_views: 3024
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2004-12-26 17:14:01](https://www.astralpulse.com/forums/index.php?msg=139763), [iank](https://www.astralpulse.com/forums/profile/?u=7738) notts uk ##

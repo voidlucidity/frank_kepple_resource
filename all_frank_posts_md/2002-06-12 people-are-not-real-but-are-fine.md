@@ -1,12 +1,13 @@
 ---
 topic_title: "People are not real but are fine."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/people-are-not-real-but-are-fine
-num_views: 4815
+topic_id: 1115
 num_posts: 12
 date_first: 2002-06-12
 date_last: 2002-06-20
-tags: []
+num_views: 4815
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2002-06-12 18:58:57](https://www.astralpulse.com/forums/index.php?msg=116853), [mkalomiris](https://www.astralpulse.com/forums/profile/?u=687) USA ##

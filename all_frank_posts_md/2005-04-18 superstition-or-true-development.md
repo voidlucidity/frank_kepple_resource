@@ -1,12 +1,13 @@
 ---
 topic_title: "Superstition or true development?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/superstition-or-true-development
-num_views: 1592
+topic_id: 18609
 num_posts: 5
 date_first: 2005-04-18
 date_last: 2005-04-19
-tags: []
+num_views: 1592
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-04-18 18:53:14](https://www.astralpulse.com/forums/index.php?msg=160855), [Dixie](https://www.astralpulse.com/forums/profile/?u=8458)  ##

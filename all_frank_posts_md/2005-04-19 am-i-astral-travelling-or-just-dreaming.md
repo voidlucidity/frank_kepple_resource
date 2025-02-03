@@ -1,12 +1,13 @@
 ---
 topic_title: "Am I astral travelling or just dreaming?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/am-i-astral-travelling-or-just-dreaming
-num_views: 1977
+topic_id: 18623
 num_posts: 4
 date_first: 2005-04-19
 date_last: 2005-04-21
-tags: []
+num_views: 1977
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-04-19 18:11:52](https://www.astralpulse.com/forums/index.php?msg=160989), [majour ka](https://www.astralpulse.com/forums/profile/?u=4095) United Kingdom ##

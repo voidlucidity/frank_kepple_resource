@@ -1,12 +1,13 @@
 ---
 topic_title: "Flickering candlelight after re-entry?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/flickering-candlelight-after-re-entry
-num_views: 1843
+topic_id: 965
 num_posts: 4
 date_first: 2002-05-19
 date_last: 2002-05-20
-tags: []
+num_views: 1843
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-05-19 12:46:02](https://www.astralpulse.com/forums/index.php?msg=116703), [Tisha](https://www.astralpulse.com/forums/profile/?u=594) USA ##

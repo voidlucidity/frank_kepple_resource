@@ -1,12 +1,13 @@
 ---
 topic_title: "Does Anyone Else See Symbols when OBEing?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/does-anyone-else-see-symbols-when-obeing
-num_views: 16432
+topic_id: 221
 num_posts: 25
 date_first: 2002-02-28
 date_last: 2002-07-19
-tags: []
+num_views: 16432
 summary: ""
+tags: []
 ---
 
 ## \#0/24 (24) [2002-02-28 20:14:39](https://www.astralpulse.com/forums/index.php?msg=115986), [Violet](https://www.astralpulse.com/forums/profile/?u=162) Canada ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Internet forum Trolls"
 topic_url: https://www.astralpulse.com/forums/welcome-to-news-and-media!/internet-forum-trolls
-num_views: 3039
+topic_id: 16651
 num_posts: 9
 date_first: 2005-01-21
 date_last: 2005-01-21
-tags: []
+num_views: 3039
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (0) [2005-01-21 06:43:32](https://www.astralpulse.com/forums/index.php?msg=144108), [Eol007](https://www.astralpulse.com/forums/profile/?u=1893)  ##

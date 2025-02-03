@@ -1,12 +1,13 @@
 ---
 topic_title: "Who has helped you most?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/who-has-helped-you-most
-num_views: 6011
+topic_id: 5497
 num_posts: 18
 date_first: 2003-07-08
 date_last: 2003-07-15
-tags: []
+num_views: 6011
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (17) [2003-07-08 19:04:15](https://www.astralpulse.com/forums/index.php?msg=121155), [Links Shadow](https://www.astralpulse.com/forums/profile/?u=2144) USA ##

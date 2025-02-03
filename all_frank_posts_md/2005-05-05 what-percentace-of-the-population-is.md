@@ -1,12 +1,13 @@
 ---
 topic_title: "What percentace of the population is....."
 topic_url: https://www.astralpulse.com/forums/welcome-to-energy-body-and-the-chakras/what-percentace-of-the-population-is
-num_views: 3035
+topic_id: 18924
 num_posts: 8
 date_first: 2005-05-05
 date_last: 2005-05-07
-tags: []
+num_views: 3035
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2005-05-05 22:07:08](https://www.astralpulse.com/forums/index.php?msg=163380), [Joe_Oh](https://www.astralpulse.com/forums/profile/?u=6947) USA ##

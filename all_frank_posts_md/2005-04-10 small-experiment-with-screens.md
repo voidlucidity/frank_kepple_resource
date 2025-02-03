@@ -1,12 +1,13 @@
 ---
 topic_title: "Small Experiment with Screens"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/small-experiment-with-screens
-num_views: 2717
+topic_id: 18447
 num_posts: 10
 date_first: 2005-04-10
 date_last: 2005-04-14
-tags: []
+num_views: 2717
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (0) [2005-04-10 08:58:38](https://www.astralpulse.com/forums/index.php?msg=159654), [Selski](https://www.astralpulse.com/forums/profile/?u=6012) England, UK ##

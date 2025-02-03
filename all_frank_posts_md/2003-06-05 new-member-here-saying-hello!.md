@@ -1,12 +1,13 @@
 ---
 topic_title: "New member here saying hello!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/new-member-here-saying-hello%21
-num_views: 2997
+topic_id: 4857
 num_posts: 10
 date_first: 2003-06-05
 date_last: 2003-06-06
-tags: []
+num_views: 2997
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2003-06-05 05:00:35](https://www.astralpulse.com/forums/index.php?msg=120549), [GTP](https://www.astralpulse.com/forums/profile/?u=2456) USA ##

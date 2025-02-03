@@ -1,12 +1,13 @@
 ---
 topic_title: "What do I do next?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/what-do-i-do-next
-num_views: 2326
+topic_id: 2811
 num_posts: 5
 date_first: 2002-12-07
 date_last: 2002-12-10
-tags: []
+num_views: 2326
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2002-12-07 13:33:09](https://www.astralpulse.com/forums/index.php?msg=118541), [debbi01](https://www.astralpulse.com/forums/profile/?u=1561) USA ##

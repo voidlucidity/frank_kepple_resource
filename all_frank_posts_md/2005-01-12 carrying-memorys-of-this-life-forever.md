@@ -1,12 +1,13 @@
 ---
 topic_title: "Carrying memorys of this life forever"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/carrying-memorys-of-this-life-forever
-num_views: 1768
+topic_id: 16409
 num_posts: 5
 date_first: 2005-01-12
 date_last: 2005-01-13
-tags: []
+num_views: 1768
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-01-12 20:49:47](https://www.astralpulse.com/forums/index.php?msg=142568), [heter](https://www.astralpulse.com/forums/profile/?u=6469) USA ##

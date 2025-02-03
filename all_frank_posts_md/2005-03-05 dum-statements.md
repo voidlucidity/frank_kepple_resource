@@ -1,12 +1,13 @@
 ---
 topic_title: "DUM STATEMENTS"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/dum-statements
-num_views: 2543
+topic_id: 17808
 num_posts: 5
 date_first: 2005-03-05
 date_last: 2005-04-01
-tags: []
+num_views: 2543
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-03-05 13:02:26](https://www.astralpulse.com/forums/index.php?msg=154049), [IequalMC2](https://www.astralpulse.com/forums/profile/?u=8419) UP ##

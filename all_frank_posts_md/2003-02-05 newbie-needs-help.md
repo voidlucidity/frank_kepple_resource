@@ -1,12 +1,13 @@
 ---
 topic_title: "newbie needs help"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/newbie-needs-help
-num_views: 2386
+topic_id: 3377
 num_posts: 7
 date_first: 2003-02-05
 date_last: 2003-02-22
-tags: []
+num_views: 2386
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2003-02-05 19:46:41](https://www.astralpulse.com/forums/index.php?msg=119101), [ravenmoonmyst](https://www.astralpulse.com/forums/profile/?u=1829) USA ##

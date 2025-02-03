@@ -1,12 +1,13 @@
 ---
 topic_title: "Enlightenment"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/enlightenment-1430
-num_views: 4621
+topic_id: 1430
 num_posts: 12
 date_first: 2002-07-21
 date_last: 2002-07-30
-tags: []
+num_views: 4621
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2002-07-21 00:01:41](https://www.astralpulse.com/forums/index.php?msg=117167), [SilverSlider](https://www.astralpulse.com/forums/profile/?u=830) USA ##

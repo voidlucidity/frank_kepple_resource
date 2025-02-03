@@ -1,12 +1,13 @@
 ---
 topic_title: "Hey Frank, got a Fz question..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/hey-frank-got-a-fz-question
-num_views: 6149
+topic_id: 19514
 num_posts: 14
 date_first: 2005-06-22
 date_last: 2005-09-05
-tags: []
+num_views: 6149
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (0) [2005-06-22 18:05:18](https://www.astralpulse.com/forums/index.php?msg=167622), [Joe_Oh](https://www.astralpulse.com/forums/profile/?u=6947) USA ##

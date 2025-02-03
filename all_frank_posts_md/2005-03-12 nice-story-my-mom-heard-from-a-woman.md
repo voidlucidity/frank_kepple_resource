@@ -1,12 +1,13 @@
 ---
 topic_title: "Nice story my mom heard from a woman"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/nice-story-my-mom-heard-from-a-woman
-num_views: 2408
+topic_id: 17951
 num_posts: 7
 date_first: 2005-03-12
 date_last: 2005-03-13
-tags: []
+num_views: 2408
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-03-12 21:22:01](https://www.astralpulse.com/forums/index.php?msg=155484), [Ivanda](https://www.astralpulse.com/forums/profile/?u=8260) Ohio (USA) ##

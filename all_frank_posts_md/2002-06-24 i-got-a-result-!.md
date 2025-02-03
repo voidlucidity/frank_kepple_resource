@@ -1,12 +1,13 @@
 ---
 topic_title: "I got a result...!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/i-got-a-result-%21
-num_views: 3963
+topic_id: 1221
 num_posts: 8
 date_first: 2002-06-24
 date_last: 2002-06-26
-tags: []
+num_views: 3963
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-06-24 10:12:07](https://www.astralpulse.com/forums/index.php?msg=116959), [Tia](https://www.astralpulse.com/forums/profile/?u=50) United Kingdom ##

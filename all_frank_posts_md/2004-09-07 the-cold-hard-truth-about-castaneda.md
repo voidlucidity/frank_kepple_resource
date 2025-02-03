@@ -1,12 +1,13 @@
 ---
 topic_title: "The cold hard truth about Castaneda"
 topic_url: https://www.astralpulse.com/forums/welcome-to-energy-body-and-the-chakras/the-cold-hard-truth-about-castaneda
-num_views: 17234
+topic_id: 14319
 num_posts: 37
 date_first: 2004-09-07
 date_last: 2004-12-23
-tags: []
+num_views: 17234
 summary: ""
+tags: []
 ---
 
 ## \#0/36 (28) [2004-09-07 03:57:30](https://www.astralpulse.com/forums/index.php?msg=129194), [mustang](https://www.astralpulse.com/forums/profile/?u=3062) South Africa ##

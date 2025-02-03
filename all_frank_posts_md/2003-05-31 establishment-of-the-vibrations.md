@@ -1,12 +1,13 @@
 ---
 topic_title: "establishment of the vibrations"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/establishment-of-the-vibrations
-num_views: 1440
+topic_id: 4759
 num_posts: 5
 date_first: 2003-05-31
 date_last: 2003-06-03
-tags: []
+num_views: 1440
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-05-31 08:39:36](https://www.astralpulse.com/forums/index.php?msg=120452), [blink182](https://www.astralpulse.com/forums/profile/?u=2386) United Kingdom ##

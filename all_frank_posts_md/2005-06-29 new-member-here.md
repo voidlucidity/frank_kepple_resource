@@ -1,12 +1,13 @@
 ---
 topic_title: "New member here"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/new-member-here
-num_views: 3558
+topic_id: 19604
 num_posts: 11
 date_first: 2005-06-29
 date_last: 2005-07-04
-tags: []
+num_views: 3558
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-06-29 18:08:06](https://www.astralpulse.com/forums/index.php?msg=168448), [ap](https://www.astralpulse.com/forums/profile/?u=9326) usa ##

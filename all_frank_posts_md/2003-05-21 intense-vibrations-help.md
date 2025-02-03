@@ -1,12 +1,13 @@
 ---
 topic_title: "INTENSE vibrations............help?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/intense-vibrations-help
-num_views: 3477
+topic_id: 4648
 num_posts: 10
 date_first: 2003-05-21
 date_last: 2003-05-25
-tags: []
+num_views: 3477
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2003-05-21 18:54:28](https://www.astralpulse.com/forums/index.php?msg=120349), [strwrs_guru](https://www.astralpulse.com/forums/profile/?u=2207) USA ##

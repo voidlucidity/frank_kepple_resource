@@ -1,12 +1,13 @@
 ---
 topic_title: "Poll: Time of the day for Astral consiousness?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/poll-time-of-the-day-for-astral-consiousness
-num_views: 7188
+topic_id: 2180
 num_posts: 9
 date_first: 2002-10-09
 date_last: 2002-10-18
-tags: []
+num_views: 7188
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2002-10-09 13:39:47](https://www.astralpulse.com/forums/index.php?msg=117914), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

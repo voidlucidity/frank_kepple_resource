@@ -1,12 +1,13 @@
 ---
 topic_title: "what is the nature of void?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/what-is-the-nature-of-void
-num_views: 4467
+topic_id: 4405
 num_posts: 17
 date_first: 2003-05-01
 date_last: 2004-02-13
-tags: []
+num_views: 4467
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (16) [2003-05-01 17:34:15](https://www.astralpulse.com/forums/index.php?msg=120110), [dreamingcarnage](https://www.astralpulse.com/forums/profile/?u=2204) USA ##

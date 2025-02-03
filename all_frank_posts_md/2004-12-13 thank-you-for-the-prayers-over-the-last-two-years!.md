@@ -1,12 +1,13 @@
 ---
 topic_title: "Thank you for the prayers over the last two years!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-the-healing-place!/thank-you-for-the-prayers-over-the-last-two-years%21
-num_views: 1797
+topic_id: 15787
 num_posts: 4
 date_first: 2004-12-13
 date_last: 2004-12-20
-tags: []
+num_views: 1797
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2004-12-13 05:14:47](https://www.astralpulse.com/forums/index.php?msg=137606), [JenniferC](https://www.astralpulse.com/forums/profile/?u=7455)  ##

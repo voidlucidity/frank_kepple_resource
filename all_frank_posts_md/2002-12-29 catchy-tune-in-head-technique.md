@@ -1,12 +1,13 @@
 ---
 topic_title: "Catchy tune in head technique"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/catchy-tune-in-head-technique
-num_views: 6146
+topic_id: 2967
 num_posts: 13
 date_first: 2002-12-29
 date_last: 2003-01-03
-tags: []
+num_views: 6146
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2002-12-29 08:07:34](https://www.astralpulse.com/forums/index.php?msg=118696), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

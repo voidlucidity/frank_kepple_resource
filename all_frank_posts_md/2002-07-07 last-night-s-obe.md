@@ -1,12 +1,13 @@
 ---
 topic_title: "Last night's OBE"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/last-night-s-obe
-num_views: 4938
+topic_id: 1314
 num_posts: 19
 date_first: 2002-07-07
 date_last: 2002-07-14
-tags: []
+num_views: 4938
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (18) [2002-07-07 10:50:14](https://www.astralpulse.com/forums/index.php?msg=117051), [Patty](https://www.astralpulse.com/forums/profile/?u=673) USA ##

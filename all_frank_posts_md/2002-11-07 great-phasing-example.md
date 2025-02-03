@@ -1,12 +1,13 @@
 ---
 topic_title: "Great phasing example:"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/great-phasing-example
-num_views: 8285
+topic_id: 2489
 num_posts: 15
 date_first: 2002-11-07
 date_last: 2002-11-11
-tags: []
+num_views: 8285
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (14) [2002-11-07 03:05:23](https://www.astralpulse.com/forums/index.php?msg=118222), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

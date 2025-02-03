@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE to visit deceased"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/obe-to-visit-deceased
-num_views: 1541
+topic_id: 14902
 num_posts: 4
 date_first: 2004-10-20
 date_last: 2004-10-21
-tags: []
+num_views: 1541
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2004-10-20 00:30:48](https://www.astralpulse.com/forums/index.php?msg=130771), [playa4933](https://www.astralpulse.com/forums/profile/?u=6458) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Haha! Wazzup! From Brazil."
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/haha%21-wazzup%21-from-brazil
-num_views: 2031
+topic_id: 16931
 num_posts: 6
 date_first: 2005-02-01
 date_last: 2005-02-21
-tags: []
+num_views: 2031
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-02-01 15:18:05](https://www.astralpulse.com/forums/index.php?msg=146334), Nexmofo  ##

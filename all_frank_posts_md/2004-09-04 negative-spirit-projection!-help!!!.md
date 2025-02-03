@@ -1,12 +1,13 @@
 ---
 topic_title: "Negative spirit projection! help!!!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/negative-spirit-projection%21-help%21%21%21
-num_views: 4070
+topic_id: 14286
 num_posts: 9
 date_first: 2004-09-04
 date_last: 2004-09-09
-tags: []
+num_views: 4070
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2004-09-04 03:18:08](https://www.astralpulse.com/forums/index.php?msg=129161), [Mistic-Idan](https://www.astralpulse.com/forums/profile/?u=4451) Israel ##

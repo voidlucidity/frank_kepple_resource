@@ -1,12 +1,13 @@
 ---
 topic_title: "Another Newbie saying Hello"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/another-newbie-saying-hello
-num_views: 1811
+topic_id: 16619
 num_posts: 6
 date_first: 2005-01-19
 date_last: 2005-01-21
-tags: []
+num_views: 1811
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-01-19 18:44:16](https://www.astralpulse.com/forums/index.php?msg=143801), [RedWolfHealgDrmr](https://www.astralpulse.com/forums/profile/?u=8083)  ##

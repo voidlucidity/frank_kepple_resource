@@ -1,12 +1,13 @@
 ---
 topic_title: "let's be neutral"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/let-s-be-neutral
-num_views: 4789
+topic_id: 4360
 num_posts: 16
 date_first: 2003-04-29
 date_last: 2003-05-02
-tags: []
+num_views: 4789
 summary: ""
+tags: []
 ---
 
 ## \#0/15 (15) [2003-04-29 14:49:25](https://www.astralpulse.com/forums/index.php?msg=120066), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

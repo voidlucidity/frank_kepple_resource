@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE was actually a lucid dream?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/obe-was-actually-a-lucid-dream
-num_views: 2732
+topic_id: 19354
 num_posts: 7
 date_first: 2005-06-13
 date_last: 2005-06-14
-tags: []
+num_views: 2732
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-06-13 10:59:03](https://www.astralpulse.com/forums/index.php?msg=166439), [magic](https://www.astralpulse.com/forums/profile/?u=9163) SWEDEN ##

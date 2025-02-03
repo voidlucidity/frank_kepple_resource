@@ -1,12 +1,13 @@
 ---
 topic_title: "One more chuckle for '02"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/one-more-chuckle-for-02
-num_views: 2640
+topic_id: 2981
 num_posts: 7
 date_first: 2002-12-31
 date_last: 2003-01-02
-tags: []
+num_views: 2640
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-12-31 11:02:10](https://www.astralpulse.com/forums/index.php?msg=118710), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

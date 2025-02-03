@@ -1,12 +1,13 @@
 ---
 topic_title: "Regression through OBE?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/regression-through-obe
-num_views: 2561
+topic_id: 19202
 num_posts: 8
 date_first: 2005-06-05
 date_last: 2005-06-08
-tags: []
+num_views: 2561
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2005-06-05 19:26:11](https://www.astralpulse.com/forums/index.php?msg=165479), [magic](https://www.astralpulse.com/forums/profile/?u=9163) SWEDEN ##

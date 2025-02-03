@@ -1,12 +1,13 @@
 ---
 topic_title: "Unleashing the furball..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/unleashing-the-furball
-num_views: 2310
+topic_id: 19660
 num_posts: 7
 date_first: 2005-07-03
 date_last: 2005-07-05
-tags: []
+num_views: 2310
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-07-03 08:04:46](https://www.astralpulse.com/forums/index.php?msg=168904), [winged_feline](https://www.astralpulse.com/forums/profile/?u=9353) Australia ##

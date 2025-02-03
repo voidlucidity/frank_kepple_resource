@@ -1,12 +1,13 @@
 ---
 topic_title: "Ethereal Music"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/ethereal-music
-num_views: 6070
+topic_id: 14765
 num_posts: 17
 date_first: 2004-10-13
 date_last: 2005-02-14
-tags: []
+num_views: 6070
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (0) [2004-10-13 10:21:54](https://www.astralpulse.com/forums/index.php?msg=129891), [MisterJingo](https://www.astralpulse.com/forums/profile/?u=2548) United Kingdom ##

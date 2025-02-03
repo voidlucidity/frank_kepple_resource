@@ -1,12 +1,13 @@
 ---
 topic_title: "My first experiences"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/my-first-experiences-1223
-num_views: 1877
+topic_id: 1223
 num_posts: 4
 date_first: 2002-06-24
 date_last: 2002-06-25
-tags: []
+num_views: 1877
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-06-24 17:48:53](https://www.astralpulse.com/forums/index.php?msg=116961), [Clarine](https://www.astralpulse.com/forums/profile/?u=730) Canada ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "i was so close! focus 12"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/i-was-so-close%21-focus-12
-num_views: 1489
+topic_id: 14529
 num_posts: 3
 date_first: 2004-09-21
 date_last: 2004-09-27
-tags: []
+num_views: 1489
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2004-09-21 15:05:27](https://www.astralpulse.com/forums/index.php?msg=129396), funinfloating111  ##

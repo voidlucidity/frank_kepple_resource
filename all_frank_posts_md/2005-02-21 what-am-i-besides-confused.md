@@ -1,12 +1,13 @@
 ---
 topic_title: "What am I besides confused?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/what-am-i-besides-confused
-num_views: 2060
+topic_id: 17506
 num_posts: 6
 date_first: 2005-02-21
 date_last: 2005-02-22
-tags: []
+num_views: 2060
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-02-21 15:34:32](https://www.astralpulse.com/forums/index.php?msg=151255), [Fayebelle](https://www.astralpulse.com/forums/profile/?u=7399) east coast ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Sept 11, your feelings& if should we attack Iraq?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/sept-11-your-feelings-if-should-we-attack-iraq
-num_views: 20390
+topic_id: 1878
 num_posts: 67
 date_first: 2002-09-11
 date_last: 2003-01-24
-tags: []
+num_views: 20390
 summary: ""
+tags: []
 ---
 
 ## \#0/66 (66) [2002-09-11 12:36:18](https://www.astralpulse.com/forums/index.php?msg=117613), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

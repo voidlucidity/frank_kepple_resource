@@ -1,12 +1,13 @@
 ---
 topic_title: "Chapter 3 of my book"
 topic_url: https://www.astralpulse.com/forums/welcome-to-writers-corner!/chapter-3-of-my-book
-num_views: 3198
+topic_id: 5543
 num_posts: 8
 date_first: 2003-07-10
 date_last: 2003-07-13
-tags: []
+num_views: 3198
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (4) [2003-07-10 20:56:49](https://www.astralpulse.com/forums/index.php?msg=121196), [timeless](https://www.astralpulse.com/forums/profile/?u=1601) Canada ##

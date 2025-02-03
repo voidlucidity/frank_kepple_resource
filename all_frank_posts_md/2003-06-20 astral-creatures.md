@@ -1,12 +1,13 @@
 ---
 topic_title: "astral creatures"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/astral-creatures
-num_views: 5631
+topic_id: 5149
 num_posts: 17
 date_first: 2003-06-20
 date_last: 2003-08-13
-tags: []
+num_views: 5631
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (16) [2003-06-20 21:53:48](https://www.astralpulse.com/forums/index.php?msg=120830), [Vicky](https://www.astralpulse.com/forums/profile/?u=2198) USA ##

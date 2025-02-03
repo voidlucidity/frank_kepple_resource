@@ -1,12 +1,13 @@
 ---
 topic_title: "Physical vs. astral mind"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/physical-vs-astral-mind
-num_views: 2216
+topic_id: 4284
 num_posts: 6
 date_first: 2003-04-24
 date_last: 2003-04-29
-tags: []
+num_views: 2216
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2003-04-24 08:56:57](https://www.astralpulse.com/forums/index.php?msg=119992), [TruthSeeker](https://www.astralpulse.com/forums/profile/?u=2191) Norway ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "phasing wierdness"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/phasing-wierdness
-num_views: 1332
+topic_id: 19563
 num_posts: 4
 date_first: 2005-06-26
 date_last: 2005-06-27
-tags: []
+num_views: 1332
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-06-26 16:33:05](https://www.astralpulse.com/forums/index.php?msg=168038), [knightlight](https://www.astralpulse.com/forums/profile/?u=8736) API ##

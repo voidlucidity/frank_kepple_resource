@@ -1,12 +1,13 @@
 ---
 topic_title: "An Electrified Dog/Wolf"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/an-electrified-dogwolf
-num_views: 1598
+topic_id: 18515
 num_posts: 5
 date_first: 2005-04-12
 date_last: 2005-04-13
-tags: []
+num_views: 1598
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-04-12 20:00:12](https://www.astralpulse.com/forums/index.php?msg=160034), [psolano](https://www.astralpulse.com/forums/profile/?u=8837)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Muhammad....A true Saint!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-world-cultures-traditions-and-religions!/muhammad-a-true-saint%21
-num_views: 13473
+topic_id: 7408
 num_posts: 49
 date_first: 2003-09-15
 date_last: 2005-01-04
-tags: []
+num_views: 13473
 summary: ""
+tags: []
 ---
 
 ## \#0/48 (15) [2003-09-15 11:14:28](https://www.astralpulse.com/forums/index.php?msg=122832), [Narrow Path](https://www.astralpulse.com/forums/profile/?u=3442) USA ##

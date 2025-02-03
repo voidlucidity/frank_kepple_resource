@@ -1,12 +1,13 @@
 ---
 topic_title: "Who knows about numerology?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/who-knows-about-numerology
-num_views: 3314
+topic_id: 13094
 num_posts: 10
 date_first: 2004-07-02
 date_last: 2005-01-21
-tags: []
+num_views: 3314
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (7) [2004-07-02 10:27:03](https://www.astralpulse.com/forums/index.php?msg=128008), [majour ka](https://www.astralpulse.com/forums/profile/?u=4095) United Kingdom ##

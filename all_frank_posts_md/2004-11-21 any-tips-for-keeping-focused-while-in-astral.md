@@ -1,12 +1,13 @@
 ---
 topic_title: "any tips for KEEPING focused while in astral?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/any-tips-for-keeping-focused-while-in-astral
-num_views: 2783
+topic_id: 15386
 num_posts: 5
 date_first: 2004-11-21
 date_last: 2004-11-22
-tags: []
+num_views: 2783
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2004-11-21 18:45:39](https://www.astralpulse.com/forums/index.php?msg=134372), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

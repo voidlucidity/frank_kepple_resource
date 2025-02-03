@@ -1,12 +1,13 @@
 ---
 topic_title: "How long can you project for?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/how-long-can-you-project-for
-num_views: 4808
+topic_id: 19439
 num_posts: 19
 date_first: 2005-06-17
 date_last: 2005-06-19
-tags: []
+num_views: 4808
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (0) [2005-06-17 15:37:26](https://www.astralpulse.com/forums/index.php?msg=166983), [BOATS](https://www.astralpulse.com/forums/profile/?u=4755) USA ##

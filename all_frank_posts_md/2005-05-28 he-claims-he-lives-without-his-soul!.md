@@ -1,12 +1,13 @@
 ---
 topic_title: "He claims he lives without ...his soul!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/he-claims-he-lives-without-his-soul%21
-num_views: 3371
+topic_id: 19074
 num_posts: 11
 date_first: 2005-05-28
 date_last: 2005-06-01
-tags: []
+num_views: 3371
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-05-28 19:13:52](https://www.astralpulse.com/forums/index.php?msg=164486), [unordered](https://www.astralpulse.com/forums/profile/?u=9127)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Tesla and Phasing"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/tesla-and-phasing
-num_views: 4494
+topic_id: 19164
 num_posts: 8
 date_first: 2005-06-03
 date_last: 2005-06-13
-tags: []
+num_views: 4494
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (0) [2005-06-03 14:22:14](https://www.astralpulse.com/forums/index.php?msg=165272), [Hans Solo](https://www.astralpulse.com/forums/profile/?u=8848)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "difference between Focus 10 and Focus 12 ?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/difference-between-focus-10-and-focus-12
-num_views: 4107
+topic_id: 2440
 num_posts: 3
 date_first: 2002-11-01
 date_last: 2002-11-02
-tags: []
+num_views: 4107
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2002-11-01 15:04:57](https://www.astralpulse.com/forums/index.php?msg=118174), [napoleon](https://www.astralpulse.com/forums/profile/?u=1352) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "hey sortof a newbie"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/hey-sortof-a-newbie
-num_views: 1532
+topic_id: 18974
 num_posts: 5
 date_first: 2005-05-21
 date_last: 2005-05-23
-tags: []
+num_views: 1532
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-05-21 16:23:34](https://www.astralpulse.com/forums/index.php?msg=163690), [Silent Shadow](https://www.astralpulse.com/forums/profile/?u=9080)  ##

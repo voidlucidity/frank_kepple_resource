@@ -1,12 +1,13 @@
 ---
 topic_title: "OBE vs. Astral vs. Lucid please explain!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/obe-vs-astral-vs-lucid-please-explain%21
-num_views: 2019
+topic_id: 1872
 num_posts: 5
 date_first: 2002-09-11
 date_last: 2002-09-11
-tags: []
+num_views: 2019
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2002-09-11 08:41:40](https://www.astralpulse.com/forums/index.php?msg=117607), [Dog Faced Liar](https://www.astralpulse.com/forums/profile/?u=148)  ##

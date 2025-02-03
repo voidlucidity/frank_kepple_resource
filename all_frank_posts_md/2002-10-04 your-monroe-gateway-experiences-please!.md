@@ -1,12 +1,13 @@
 ---
 topic_title: "Your Monroe Gateway Experiences please!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/your-monroe-gateway-experiences-please%21
-num_views: 24267
+topic_id: 2134
 num_posts: 28
 date_first: 2002-10-04
 date_last: 2005-05-04
-tags: []
+num_views: 24267
 summary: ""
+tags: []
 ---
 
 ## \#0/27 (25) [2002-10-04 09:26:02](https://www.astralpulse.com/forums/index.php?msg=117868), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

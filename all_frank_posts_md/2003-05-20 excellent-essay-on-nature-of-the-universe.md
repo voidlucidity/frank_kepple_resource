@@ -1,12 +1,13 @@
 ---
 topic_title: "Excellent essay on nature of the Universe"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/excellent-essay-on-nature-of-the-universe
-num_views: 2569
+topic_id: 4626
 num_posts: 8
 date_first: 2003-05-20
 date_last: 2003-05-27
-tags: []
+num_views: 2569
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2003-05-20 08:08:09](https://www.astralpulse.com/forums/index.php?msg=120327), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Monroe's year 3000 and all that!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/monroe-s-year-3000-and-all-that%21
-num_views: 3472
+topic_id: 4981
 num_posts: 6
 date_first: 2003-06-12
 date_last: 2003-06-14
-tags: []
+num_views: 3472
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2003-06-12 05:35:16](https://www.astralpulse.com/forums/index.php?msg=120670), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

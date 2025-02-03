@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral or Mental"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/astral-or-mental
-num_views: 1789
+topic_id: 16667
 num_posts: 5
 date_first: 2005-01-21
 date_last: 2005-01-23
-tags: []
+num_views: 1789
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-01-21 18:13:23](https://www.astralpulse.com/forums/index.php?msg=144246), [Radium](https://www.astralpulse.com/forums/profile/?u=5061) Czech Republic ##

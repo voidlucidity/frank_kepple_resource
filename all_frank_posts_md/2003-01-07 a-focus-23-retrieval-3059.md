@@ -1,12 +1,13 @@
 ---
 topic_title: "a Focus 23 retrieval"
 topic_url: https://www.astralpulse.com/forums/welcome-to-permanent-astral-topics!/a-focus-23-retrieval-3059
-num_views: 21068
+topic_id: 3059
 num_posts: 22
 date_first: 2003-01-07
 date_last: 2005-12-06
-tags: []
+num_views: 21068
 summary: ""
+tags: []
 ---
 
 ## \#0/21 (20) [2003-01-07 01:42:55](https://www.astralpulse.com/forums/index.php?msg=118788), [Ginny](https://www.astralpulse.com/forums/profile/?u=1404) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Over 200,000 march in Edinburgh for G8 anti-Poverty March!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-news-and-media!/over-200-000-march-in-edinburgh-for-g8-anti-poverty-march%21
-num_views: 2183
+topic_id: 19659
 num_posts: 4
 date_first: 2005-07-03
 date_last: 2005-07-08
-tags: []
+num_views: 2183
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-07-03 07:14:37](https://www.astralpulse.com/forums/index.php?msg=168900), [Gandalf](https://www.astralpulse.com/forums/profile/?u=850) Scotland ##

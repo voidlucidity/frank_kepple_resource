@@ -1,12 +1,13 @@
 ---
 topic_title: "Moving forwards into FZ"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/moving-forwards-into-fz
-num_views: 2063
+topic_id: 18724
 num_posts: 4
 date_first: 2005-04-25
 date_last: 2005-04-26
-tags: []
+num_views: 2063
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-04-25 19:22:38](https://www.astralpulse.com/forums/index.php?msg=161805), [Shzarnie](https://www.astralpulse.com/forums/profile/?u=8849) Australia/Inside My Mind ##

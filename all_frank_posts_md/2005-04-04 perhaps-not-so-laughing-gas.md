@@ -1,12 +1,13 @@
 ---
 topic_title: "(perhaps not so) laughing gas"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/perhaps-not-so-laughing-gas
-num_views: 6340
+topic_id: 18342
 num_posts: 14
 date_first: 2005-04-04
 date_last: 2005-04-07
-tags: []
+num_views: 6340
 summary: ""
+tags: []
 ---
 
 ## \#0/13 (0) [2005-04-04 14:59:12](https://www.astralpulse.com/forums/index.php?msg=158947), [blull](https://www.astralpulse.com/forums/profile/?u=8388)  ##

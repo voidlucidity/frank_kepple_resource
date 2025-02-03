@@ -1,12 +1,13 @@
 ---
 topic_title: "How do you request a guide on APs?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/how-do-you-request-a-guide-on-aps
-num_views: 7610
+topic_id: 4266
 num_posts: 21
 date_first: 2003-04-22
 date_last: 2003-04-29
-tags: []
+num_views: 7610
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (20) [2003-04-22 21:42:12](https://www.astralpulse.com/forums/index.php?msg=119975), [Links Shadow](https://www.astralpulse.com/forums/profile/?u=2144) USA ##

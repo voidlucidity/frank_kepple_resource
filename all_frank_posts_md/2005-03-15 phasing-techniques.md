@@ -1,12 +1,13 @@
 ---
 topic_title: "Phasing techniques"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/phasing-techniques
-num_views: 2788
+topic_id: 18011
 num_posts: 5
 date_first: 2005-03-15
 date_last: 2005-03-15
-tags: []
+num_views: 2788
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2005-03-15 16:37:21](https://www.astralpulse.com/forums/index.php?msg=155975), Anonymous  ##

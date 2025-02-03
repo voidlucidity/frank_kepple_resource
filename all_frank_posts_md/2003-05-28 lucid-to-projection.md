@@ -1,12 +1,13 @@
 ---
 topic_title: "lucid to projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/lucid-to-projection
-num_views: 9299
+topic_id: 4729
 num_posts: 21
 date_first: 2003-05-28
 date_last: 2003-06-08
-tags: []
+num_views: 9299
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (20) [2003-05-28 13:38:04](https://www.astralpulse.com/forums/index.php?msg=120425), [Psypunk](https://www.astralpulse.com/forums/profile/?u=2190)  ##

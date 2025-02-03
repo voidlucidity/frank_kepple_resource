@@ -1,12 +1,13 @@
 ---
 topic_title: "a F23 retrieval and a bit more"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/a-f23-retrieval-and-a-bit-more
-num_views: 5499
+topic_id: 5378
 num_posts: 13
 date_first: 2003-07-02
 date_last: 2003-07-04
-tags: []
+num_views: 5499
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2003-07-02 11:10:27](https://www.astralpulse.com/forums/index.php?msg=121043), [Ginny](https://www.astralpulse.com/forums/profile/?u=1404) USA ##

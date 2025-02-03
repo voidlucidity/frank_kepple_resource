@@ -1,12 +1,13 @@
 ---
 topic_title: "Thoughts not my own"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/thoughts-not-my-own
-num_views: 2800
+topic_id: 949
 num_posts: 9
 date_first: 2002-05-15
 date_last: 2002-05-18
-tags: []
+num_views: 2800
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2002-05-15 22:47:07](https://www.astralpulse.com/forums/index.php?msg=116688), [utopia](https://www.astralpulse.com/forums/profile/?u=587) USA ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "THIS MAKES ME SAD"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/this-makes-me-sad
-num_views: 16322
+topic_id: 1244
 num_posts: 43
 date_first: 2002-06-26
 date_last: 2002-08-03
-tags: []
+num_views: 16322
 summary: ""
+tags: []
 ---
 
 ## \#0/42 (42) [2002-06-26 15:48:55](https://www.astralpulse.com/forums/index.php?msg=116982), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

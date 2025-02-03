@@ -1,12 +1,13 @@
 ---
 topic_title: "So... Who is the blue lady on the logo?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/so-who-is-the-blue-lady-on-the-logo
-num_views: 3165
+topic_id: 5038
 num_posts: 10
 date_first: 2003-06-14
 date_last: 2003-10-31
-tags: []
+num_views: 3165
 summary: ""
+tags: []
 ---
 
 ## \#0/9 (9) [2003-06-14 22:26:36](https://www.astralpulse.com/forums/index.php?msg=120724), [Risu no Kairu](https://www.astralpulse.com/forums/profile/?u=430) Georgia, USA ##

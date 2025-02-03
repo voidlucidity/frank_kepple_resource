@@ -1,12 +1,13 @@
 ---
 topic_title: "Please somebody shed some light, WILD or OOBE?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/please-somebody-shed-some-light-wild-or-oobe
-num_views: 5373
+topic_id: 1271
 num_posts: 16
 date_first: 2002-07-01
 date_last: 2002-07-06
-tags: []
+num_views: 5373
 summary: ""
+tags: []
 ---
 
 ## \#0/15 (15) [2002-07-01 01:14:18](https://www.astralpulse.com/forums/index.php?msg=117008), [Spencer](https://www.astralpulse.com/forums/profile/?u=317) Japan ##

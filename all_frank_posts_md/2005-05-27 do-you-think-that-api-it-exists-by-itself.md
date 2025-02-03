@@ -1,12 +1,13 @@
 ---
 topic_title: "Do you think that API it exists by itself?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-pulse-island!/do-you-think-that-api-it-exists-by-itself
-num_views: 9627
+topic_id: 19063
 num_posts: 13
 date_first: 2005-05-27
 date_last: 2005-08-22
-tags: []
+num_views: 9627
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (0) [2005-05-27 17:38:14](https://www.astralpulse.com/forums/index.php?msg=164396), [Kazbadan](https://www.astralpulse.com/forums/profile/?u=2956) Portugal ##

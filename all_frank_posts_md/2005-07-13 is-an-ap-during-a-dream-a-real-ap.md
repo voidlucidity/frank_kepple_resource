@@ -1,12 +1,13 @@
 ---
 topic_title: "Is an AP during a dream, a real AP?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/is-an-ap-during-a-dream-a-real-ap
-num_views: 8357
+topic_id: 19814
 num_posts: 13
 date_first: 2005-07-13
 date_last: 2005-07-31
-tags: []
+num_views: 8357
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (0) [2005-07-13 18:13:00](https://www.astralpulse.com/forums/index.php?msg=170110), [RJA](https://www.astralpulse.com/forums/profile/?u=3309) USA ##

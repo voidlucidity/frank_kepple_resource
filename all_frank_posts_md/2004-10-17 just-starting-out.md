@@ -1,12 +1,13 @@
 ---
 topic_title: "Just starting out..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/just-starting-out
-num_views: 1513
+topic_id: 14855
 num_posts: 3
 date_first: 2004-10-17
 date_last: 2004-10-18
-tags: []
+num_views: 1513
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2004-10-17 12:09:31](https://www.astralpulse.com/forums/index.php?msg=130433), [FItz1090](https://www.astralpulse.com/forums/profile/?u=6236) USA ##

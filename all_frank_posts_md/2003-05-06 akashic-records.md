@@ -1,12 +1,13 @@
 ---
 topic_title: "AKASHIC RECORDS..................."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/akashic-records
-num_views: 6694
+topic_id: 4484
 num_posts: 21
 date_first: 2003-05-06
 date_last: 2003-05-09
-tags: []
+num_views: 6694
 summary: ""
+tags: []
 ---
 
 ## \#0/20 (20) [2003-05-06 20:34:17](https://www.astralpulse.com/forums/index.php?msg=120187), [strwrs_guru](https://www.astralpulse.com/forums/profile/?u=2207) USA ##

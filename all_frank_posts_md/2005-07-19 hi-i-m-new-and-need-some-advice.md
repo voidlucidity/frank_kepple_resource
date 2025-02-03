@@ -1,12 +1,13 @@
 ---
 topic_title: "Hi I'm new and need some advice"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/hi-i-m-new-and-need-some-advice
-num_views: 2084
+topic_id: 19884
 num_posts: 4
 date_first: 2005-07-19
 date_last: 2005-07-29
-tags: []
+num_views: 2084
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-07-19 10:16:21](https://www.astralpulse.com/forums/index.php?msg=170675), [PsychicDejaVu](https://www.astralpulse.com/forums/profile/?u=9464)  ##

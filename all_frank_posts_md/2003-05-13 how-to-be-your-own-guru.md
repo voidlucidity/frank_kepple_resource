@@ -1,12 +1,13 @@
 ---
 topic_title: "How to Be Your Own Guru?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/how-to-be-your-own-guru
-num_views: 2910
+topic_id: 4564
 num_posts: 9
 date_first: 2003-05-13
 date_last: 2003-06-04
-tags: []
+num_views: 2910
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2003-05-13 19:04:13](https://www.astralpulse.com/forums/index.php?msg=120265), [Usiimers](https://www.astralpulse.com/forums/profile/?u=553) USA ##

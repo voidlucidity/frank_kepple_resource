@@ -1,12 +1,13 @@
 ---
 topic_title: "the energy body"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/the-energy-body
-num_views: 2452
+topic_id: 1128
 num_posts: 6
 date_first: 2002-06-14
 date_last: 2002-06-15
-tags: []
+num_views: 2452
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (5) [2002-06-14 08:10:33](https://www.astralpulse.com/forums/index.php?msg=116866), [rodentmouse](https://www.astralpulse.com/forums/profile/?u=554) United Kingdom ##

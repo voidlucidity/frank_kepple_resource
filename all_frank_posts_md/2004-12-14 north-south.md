@@ -1,12 +1,13 @@
 ---
 topic_title: "North South"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/north-south
-num_views: 2050
+topic_id: 15824
 num_posts: 7
 date_first: 2004-12-14
 date_last: 2004-12-15
-tags: []
+num_views: 2050
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2004-12-14 05:55:17](https://www.astralpulse.com/forums/index.php?msg=137914), [astral man](https://www.astralpulse.com/forums/profile/?u=7472)  ##

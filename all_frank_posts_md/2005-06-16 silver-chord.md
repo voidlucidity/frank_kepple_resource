@@ -1,12 +1,13 @@
 ---
 topic_title: "Silver chord?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/silver-chord
-num_views: 4036
+topic_id: 19424
 num_posts: 13
 date_first: 2005-06-16
 date_last: 2005-06-18
-tags: []
+num_views: 4036
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (0) [2005-06-16 18:20:38](https://www.astralpulse.com/forums/index.php?msg=166904), [Nikk](https://www.astralpulse.com/forums/profile/?u=9262) United Kingdom ##

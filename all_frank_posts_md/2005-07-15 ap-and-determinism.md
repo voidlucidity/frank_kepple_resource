@@ -1,12 +1,13 @@
 ---
 topic_title: "AP and determinism"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/ap-and-determinism
-num_views: 5358
+topic_id: 19838
 num_posts: 18
 date_first: 2005-07-15
 date_last: 2005-07-17
-tags: []
+num_views: 5358
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (0) [2005-07-15 08:37:18](https://www.astralpulse.com/forums/index.php?msg=170290), [MisterJingo](https://www.astralpulse.com/forums/profile/?u=2548) United Kingdom ##

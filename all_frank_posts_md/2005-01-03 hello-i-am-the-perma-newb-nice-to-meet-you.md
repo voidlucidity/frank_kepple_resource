@@ -1,12 +1,13 @@
 ---
 topic_title: "Hello, I am the perma-newb, nice to meet you."
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/hello-i-am-the-perma-newb-nice-to-meet-you
-num_views: 1513
+topic_id: 16208
 num_posts: 3
 date_first: 2005-01-03
 date_last: 2005-01-09
-tags: []
+num_views: 1513
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-01-03 17:55:00](https://www.astralpulse.com/forums/index.php?msg=140965), [vashts](https://www.astralpulse.com/forums/profile/?u=4001) USA ##

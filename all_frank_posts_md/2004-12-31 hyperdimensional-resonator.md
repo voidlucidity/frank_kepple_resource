@@ -1,12 +1,13 @@
 ---
 topic_title: "Hyperdimensional Resonator"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/hyperdimensional-resonator
-num_views: 5984
+topic_id: 16132
 num_posts: 15
 date_first: 2004-12-31
 date_last: 2005-03-14
-tags: []
+num_views: 5984
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (0) [2004-12-31 08:20:55](https://www.astralpulse.com/forums/index.php?msg=140485), [onewarrior5](https://www.astralpulse.com/forums/profile/?u=7824)  ##

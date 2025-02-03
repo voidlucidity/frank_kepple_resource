@@ -1,12 +1,13 @@
 ---
 topic_title: "New forum subjects"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/new-forum-subjects
-num_views: 6590
+topic_id: 4940
 num_posts: 22
 date_first: 2003-06-10
 date_last: 2003-06-21
-tags: []
+num_views: 6590
 summary: ""
+tags: []
 ---
 
 ## \#0/21 (21) [2003-06-10 10:50:59](https://www.astralpulse.com/forums/index.php?msg=120631), [Adrian](https://www.astralpulse.com/forums/profile/?u=31)(Administrator) East Yorkshire, England ##

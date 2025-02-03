@@ -1,12 +1,13 @@
 ---
 topic_title: "Astral Dynamics by Robert Bruce"
 topic_url: https://www.astralpulse.com/forums/welcome-to-book-reviews!/astral-dynamics-by-robert-bruce
-num_views: 15126
+topic_id: 5035
 num_posts: 24
 date_first: 2003-06-14
 date_last: 2004-07-01
-tags: []
+num_views: 15126
 summary: ""
+tags: []
 ---
 
 ## \#0/23 (22) [2003-06-14 17:25:45](https://www.astralpulse.com/forums/index.php?msg=120721), [Nick](https://www.astralpulse.com/forums/profile/?u=2080) California ##

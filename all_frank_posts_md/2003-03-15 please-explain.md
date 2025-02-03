@@ -1,12 +1,13 @@
 ---
 topic_title: "Please explain"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/please-explain
-num_views: 3039
+topic_id: 3821
 num_posts: 4
 date_first: 2003-03-15
 date_last: 2003-03-16
-tags: []
+num_views: 3039
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2003-03-15 19:33:50](https://www.astralpulse.com/forums/index.php?msg=119538), [Ashy](https://www.astralpulse.com/forums/profile/?u=1423) Australia ##

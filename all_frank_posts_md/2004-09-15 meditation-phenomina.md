@@ -1,12 +1,13 @@
 ---
 topic_title: "Meditation Phenomina"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/meditation-phenomina
-num_views: 4413
+topic_id: 14428
 num_posts: 9
 date_first: 2004-09-15
 date_last: 2004-10-19
-tags: []
+num_views: 4413
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (4) [2004-09-15 13:24:54](https://www.astralpulse.com/forums/index.php?msg=129299), [garypope](https://www.astralpulse.com/forums/profile/?u=6906) USA ##

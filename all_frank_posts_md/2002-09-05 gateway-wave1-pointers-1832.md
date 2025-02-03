@@ -1,12 +1,13 @@
 ---
 topic_title: "Gateway Wave1 pointers"
 topic_url: https://www.astralpulse.com/forums/welcome-to-permanent-astral-topics!/gateway-wave1-pointers-1832
-num_views: 124864
+topic_id: 1832
 num_posts: 166
 date_first: 2002-09-05
 date_last: 2004-10-30
-tags: []
+num_views: 124864
 summary: ""
+tags: []
 ---
 
 ## \#0/165 (159) [2002-09-05 08:55:39](https://www.astralpulse.com/forums/index.php?msg=117567), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Hailstones 'as big as eggs' kill 18"
 topic_url: https://www.astralpulse.com/forums/welcome-to-news-and-media!/hailstones-as-big-as-eggs-kill-18
-num_views: 1833
+topic_id: 18517
 num_posts: 3
 date_first: 2005-04-12
 date_last: 2005-04-18
-tags: []
+num_views: 1833
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-04-12 23:42:02](https://www.astralpulse.com/forums/index.php?msg=160061), [RT](https://www.astralpulse.com/forums/profile/?u=7798) Michigan ##

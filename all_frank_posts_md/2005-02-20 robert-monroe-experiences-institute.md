@@ -1,12 +1,13 @@
 ---
 topic_title: "Robert Monroe, Experiences, Institute"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/robert-monroe-experiences-institute
-num_views: 10123
+topic_id: 17488
 num_posts: 27
 date_first: 2005-02-20
 date_last: 2005-04-15
-tags: []
+num_views: 10123
 summary: ""
+tags: []
 ---
 
 ## \#0/26 (0) [2005-02-20 19:50:53](https://www.astralpulse.com/forums/index.php?msg=151005), [BillionNamesofGod](https://www.astralpulse.com/forums/profile/?u=2745) United Kingdom ##

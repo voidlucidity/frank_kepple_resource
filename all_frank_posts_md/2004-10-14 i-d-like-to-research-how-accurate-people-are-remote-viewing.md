@@ -1,12 +1,13 @@
 ---
 topic_title: "I'd like to research how accurate people are remote viewing"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/i-d-like-to-research-how-accurate-people-are-remote-viewing
-num_views: 12053
+topic_id: 14781
 num_posts: 36
 date_first: 2004-10-14
 date_last: 2005-03-01
-tags: []
+num_views: 12053
 summary: ""
+tags: []
 ---
 
 ## \#0/35 (0) [2004-10-14 01:01:25](https://www.astralpulse.com/forums/index.php?msg=130003), [AuraMassageArt](https://www.astralpulse.com/forums/profile/?u=7095)  ##

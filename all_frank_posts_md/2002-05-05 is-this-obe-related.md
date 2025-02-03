@@ -1,12 +1,13 @@
 ---
 topic_title: "Is this OBE related?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/is-this-obe-related
-num_views: 1575
+topic_id: 865
 num_posts: 4
 date_first: 2002-05-05
 date_last: 2002-05-06
-tags: []
+num_views: 1575
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (3) [2002-05-05 01:03:03](https://www.astralpulse.com/forums/index.php?msg=116607), [cainam_nazier](https://www.astralpulse.com/forums/profile/?u=166) USA ##

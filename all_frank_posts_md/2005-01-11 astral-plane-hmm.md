@@ -1,12 +1,13 @@
 ---
 topic_title: "astral plane? hmm..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/astral-plane-hmm
-num_views: 18058
+topic_id: 16370
 num_posts: 51
 date_first: 2005-01-11
 date_last: 2005-01-24
-tags: []
+num_views: 18058
 summary: ""
+tags: []
 ---
 
 ## \#0/50 (0) [2005-01-11 13:05:01](https://www.astralpulse.com/forums/index.php?msg=142325), [anton1](https://www.astralpulse.com/forums/profile/?u=7975)  ##

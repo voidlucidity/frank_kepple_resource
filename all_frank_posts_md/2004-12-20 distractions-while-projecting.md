@@ -1,12 +1,13 @@
 ---
 topic_title: "Distractions while projecting"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/distractions-while-projecting
-num_views: 1521
+topic_id: 15955
 num_posts: 5
 date_first: 2004-12-20
 date_last: 2004-12-21
-tags: []
+num_views: 1521
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2004-12-20 17:28:31](https://www.astralpulse.com/forums/index.php?msg=138917), [Tempest](https://www.astralpulse.com/forums/profile/?u=7700)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "The Second Coming"
 topic_url: https://www.astralpulse.com/forums/welcome-to-metaphysics!/the-second-coming
-num_views: 8344
+topic_id: 3888
 num_posts: 25
 date_first: 2003-03-22
 date_last: 2003-04-15
-tags: []
+num_views: 8344
 summary: ""
+tags: []
 ---
 
 ## \#0/24 (24) [2003-03-22 07:18:30](https://www.astralpulse.com/forums/index.php?msg=119604), [auraseer](https://www.astralpulse.com/forums/profile/?u=1245) United Kingdom ##

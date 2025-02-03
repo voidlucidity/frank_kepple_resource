@@ -1,12 +1,13 @@
 ---
 topic_title: "I'm back after three years"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/i-m-back-after-three-years
-num_views: 2269
+topic_id: 18996
 num_posts: 7
 date_first: 2005-05-22
 date_last: 2005-05-24
-tags: []
+num_views: 2269
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (0) [2005-05-22 18:24:27](https://www.astralpulse.com/forums/index.php?msg=163810), [Roz](https://www.astralpulse.com/forums/profile/?u=9089) Oregon, USA ##

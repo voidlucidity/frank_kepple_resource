@@ -1,12 +1,13 @@
 ---
 topic_title: "Extreme Projection Locales"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/extreme-projection-locales
-num_views: 10486
+topic_id: 16658
 num_posts: 23
 date_first: 2005-01-21
 date_last: 2005-02-11
-tags: []
+num_views: 10486
 summary: ""
+tags: []
 ---
 
 ## \#0/22 (0) [2005-01-21 13:13:26](https://www.astralpulse.com/forums/index.php?msg=144191), [MadLordNad](https://www.astralpulse.com/forums/profile/?u=7994) Ohio ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "What is an easy method for obtaining and OBE..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/what-is-an-easy-method-for-obtaining-and-obe
-num_views: 2136
+topic_id: 13948
 num_posts: 7
 date_first: 2004-08-17
 date_last: 2004-08-18
-tags: []
+num_views: 2136
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2004-08-17 13:29:42](https://www.astralpulse.com/forums/index.php?msg=128832), [ASMRfruit](https://www.astralpulse.com/forums/profile/?u=6678) USA ##

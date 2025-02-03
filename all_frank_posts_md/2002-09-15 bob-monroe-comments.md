@@ -1,12 +1,13 @@
 ---
 topic_title: "Bob Monroe comments"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/bob-monroe-comments
-num_views: 2552
+topic_id: 1924
 num_posts: 9
 date_first: 2002-09-15
 date_last: 2002-09-17
-tags: []
+num_views: 2552
 summary: ""
+tags: []
 ---
 
 ## \#0/8 (8) [2002-09-15 04:33:15](https://www.astralpulse.com/forums/index.php?msg=117658), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

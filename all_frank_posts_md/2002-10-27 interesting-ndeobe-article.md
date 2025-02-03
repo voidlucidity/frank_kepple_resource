@@ -1,12 +1,13 @@
 ---
 topic_title: "Interesting NDE/OBE article"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/interesting-ndeobe-article
-num_views: 2486
+topic_id: 2361
 num_posts: 5
 date_first: 2002-10-27
 date_last: 2002-10-28
-tags: []
+num_views: 2486
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (3) [2002-10-27 06:20:12](https://www.astralpulse.com/forums/index.php?msg=118095), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##

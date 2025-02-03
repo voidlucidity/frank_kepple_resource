@@ -1,12 +1,13 @@
 ---
 topic_title: "Questions on OBE Mechanics and Meditation"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/questions-on-obe-mechanics-and-meditation
-num_views: 1402
+topic_id: 15339
 num_posts: 4
 date_first: 2004-11-17
 date_last: 2004-11-19
-tags: []
+num_views: 1402
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2004-11-17 22:27:35](https://www.astralpulse.com/forums/index.php?msg=134017), [Asif](https://www.astralpulse.com/forums/profile/?u=379)  ##

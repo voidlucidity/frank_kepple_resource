@@ -1,12 +1,13 @@
 ---
 topic_title: "A question for Frank"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/a-question-for-frank
-num_views: 1887
+topic_id: 19696
 num_posts: 3
 date_first: 2005-07-06
 date_last: 2005-07-07
-tags: []
+num_views: 1887
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (0) [2005-07-06 14:37:54](https://www.astralpulse.com/forums/index.php?msg=169207), [Stillwater](https://www.astralpulse.com/forums/profile/?u=4190) USA ##

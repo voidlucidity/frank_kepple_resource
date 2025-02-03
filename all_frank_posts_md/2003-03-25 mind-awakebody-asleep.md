@@ -1,12 +1,13 @@
 ---
 topic_title: "mind awake/body asleep"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/mind-awakebody-asleep
-num_views: 6070
+topic_id: 3927
 num_posts: 16
 date_first: 2003-03-25
 date_last: 2003-04-01
-tags: []
+num_views: 6070
 summary: ""
+tags: []
 ---
 
 ## \#0/15 (15) [2003-03-25 15:52:53](https://www.astralpulse.com/forums/index.php?msg=119643), [nstkd8](https://www.astralpulse.com/forums/profile/?u=1483) USA ##

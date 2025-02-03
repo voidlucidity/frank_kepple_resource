@@ -1,12 +1,13 @@
 ---
 topic_title: "Being out of body, but the body still awake."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/being-out-of-body-but-the-body-still-awake
-num_views: 5065
+topic_id: 18691
 num_posts: 17
 date_first: 2005-04-23
 date_last: 2005-04-28
-tags: []
+num_views: 5065
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (0) [2005-04-23 22:28:03](https://www.astralpulse.com/forums/index.php?msg=161577), [katrinamaria](https://www.astralpulse.com/forums/profile/?u=8920)  ##

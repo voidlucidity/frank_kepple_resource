@@ -1,12 +1,13 @@
 ---
 topic_title: "weird start is it normal??"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/weird-start-is-it-normal
-num_views: 2552
+topic_id: 2853
 num_posts: 8
 date_first: 2002-12-12
 date_last: 2008-09-13
-tags: []
+num_views: 2552
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (4) [2002-12-12 10:44:38](https://www.astralpulse.com/forums/index.php?msg=118583), [biba](https://www.astralpulse.com/forums/profile/?u=1585) Netherlands ##

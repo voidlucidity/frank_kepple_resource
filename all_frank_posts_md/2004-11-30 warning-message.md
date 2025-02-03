@@ -1,12 +1,13 @@
 ---
 topic_title: "Warning Message"
 topic_url: https://www.astralpulse.com/forums/forums-bugs-reports-and-questions/warning-message
-num_views: 2799
+topic_id: 15530
 num_posts: 4
 date_first: 2004-11-30
 date_last: 2004-11-30
-tags: []
+num_views: 2799
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2004-11-30 12:25:27](https://www.astralpulse.com/forums/index.php?msg=135424), [Selski](https://www.astralpulse.com/forums/profile/?u=6012) England, UK ##

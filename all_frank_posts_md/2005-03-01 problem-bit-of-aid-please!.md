@@ -1,12 +1,13 @@
 ---
 topic_title: "Problem, bit of aid please!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/problem-bit-of-aid-please%21
-num_views: 1977
+topic_id: 17706
 num_posts: 2
 date_first: 2005-03-01
 date_last: 2005-03-02
-tags: []
+num_views: 1977
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-03-01 16:50:17](https://www.astralpulse.com/forums/index.php?msg=153290), [Andali27](https://www.astralpulse.com/forums/profile/?u=6413) Australia ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "Budding Lucid Dreamer here, new to Astral Projection"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/budding-lucid-dreamer-here-new-to-astral-projection
-num_views: 2555
+topic_id: 19637
 num_posts: 6
 date_first: 2005-07-01
 date_last: 2005-07-03
-tags: []
+num_views: 2555
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-07-01 18:57:54](https://www.astralpulse.com/forums/index.php?msg=168717), [Forw4rd](https://www.astralpulse.com/forums/profile/?u=9342)  ##

@@ -1,12 +1,13 @@
 ---
 topic_title: "meeting others and time"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/meeting-others-and-time
-num_views: 1684
+topic_id: 16248
 num_posts: 4
 date_first: 2005-01-04
 date_last: 2005-01-05
-tags: []
+num_views: 1684
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-01-04 23:41:55](https://www.astralpulse.com/forums/index.php?msg=141213), [lucid dancer](https://www.astralpulse.com/forums/profile/?u=577) USA ##

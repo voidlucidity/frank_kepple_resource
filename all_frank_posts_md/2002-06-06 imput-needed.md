@@ -1,12 +1,13 @@
 ---
 topic_title: "Imput needed..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/imput-needed
-num_views: 2541
+topic_id: 1076
 num_posts: 7
 date_first: 2002-06-06
 date_last: 2002-06-07
-tags: []
+num_views: 2541
 summary: ""
+tags: []
 ---
 
 ## \#0/6 (6) [2002-06-06 10:30:26](https://www.astralpulse.com/forums/index.php?msg=116814), [shadow_xca](https://www.astralpulse.com/forums/profile/?u=494) Canada ##

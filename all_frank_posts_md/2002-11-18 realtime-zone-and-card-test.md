@@ -1,12 +1,13 @@
 ---
 topic_title: "realtime zone and card test"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/realtime-zone-and-card-test
-num_views: 3344
+topic_id: 2615
 num_posts: 8
 date_first: 2002-11-18
 date_last: 2002-11-24
-tags: []
+num_views: 3344
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-11-18 09:09:45](https://www.astralpulse.com/forums/index.php?msg=118346), [telecaster](https://www.astralpulse.com/forums/profile/?u=347) Finland ##

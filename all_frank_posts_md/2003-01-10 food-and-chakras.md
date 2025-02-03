@@ -1,12 +1,13 @@
 ---
 topic_title: "Food and Chakras"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/food-and-chakras
-num_views: 3377
+topic_id: 3090
 num_posts: 13
 date_first: 2003-01-10
 date_last: 2003-01-17
-tags: []
+num_views: 3377
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (12) [2003-01-10 17:03:41](https://www.astralpulse.com/forums/index.php?msg=118819), [silva](https://www.astralpulse.com/forums/profile/?u=1718) USA ##

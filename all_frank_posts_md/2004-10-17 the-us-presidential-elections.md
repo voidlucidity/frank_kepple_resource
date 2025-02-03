@@ -1,12 +1,13 @@
 ---
 topic_title: "The US Presidential Elections."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/the-us-presidential-elections
-num_views: 37969
+topic_id: 14858
 num_posts: 102
 date_first: 2004-10-17
 date_last: 2004-11-10
-tags: []
+num_views: 37969
 summary: ""
+tags: []
 ---
 
 ## \#0/101 (0) [2004-10-17 18:02:03](https://www.astralpulse.com/forums/index.php?msg=130465), [cainam_nazier](https://www.astralpulse.com/forums/profile/?u=166) USA ##

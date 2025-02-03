@@ -1,12 +1,13 @@
 ---
 topic_title: "What is all this new age crap?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/what-is-all-this-new-age-crap
-num_views: 25877
+topic_id: 1351
 num_posts: 82
 date_first: 2002-07-13
 date_last: 2003-06-19
-tags: []
+num_views: 25877
 summary: ""
+tags: []
 ---
 
 ## \#0/81 (81) [2002-07-13 02:01:09](https://www.astralpulse.com/forums/index.php?msg=117088), [aphexcoil](https://www.astralpulse.com/forums/profile/?u=820) USA ##

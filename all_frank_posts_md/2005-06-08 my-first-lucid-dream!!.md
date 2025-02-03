@@ -1,12 +1,13 @@
 ---
 topic_title: "My First Lucid dream!!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/my-first-lucid-dream%21%21
-num_views: 1275
+topic_id: 19272
 num_posts: 2
 date_first: 2005-06-08
 date_last: 2005-06-08
-tags: []
+num_views: 1275
 summary: ""
+tags: []
 ---
 
 ## \#0/1 (0) [2005-06-08 22:08:30](https://www.astralpulse.com/forums/index.php?msg=165947), [Icarus](https://www.astralpulse.com/forums/profile/?u=8324)  ##

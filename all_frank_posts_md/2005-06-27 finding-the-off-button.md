@@ -1,12 +1,13 @@
 ---
 topic_title: "Finding the off button?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/finding-the-off-button
-num_views: 9757
+topic_id: 19573
 num_posts: 28
 date_first: 2005-06-27
 date_last: 2005-07-11
-tags: []
+num_views: 9757
 summary: ""
+tags: []
 ---
 
 ## \#0/27 (0) [2005-06-27 09:50:49](https://www.astralpulse.com/forums/index.php?msg=168166), [Steve 2B](https://www.astralpulse.com/forums/profile/?u=8938)  ##

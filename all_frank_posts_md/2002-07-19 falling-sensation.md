@@ -1,12 +1,13 @@
 ---
 topic_title: "Falling sensation."
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/falling-sensation
-num_views: 4027
+topic_id: 1411
 num_posts: 15
 date_first: 2002-07-19
 date_last: 2002-07-23
-tags: []
+num_views: 4027
 summary: ""
+tags: []
 ---
 
 ## \#0/14 (14) [2002-07-19 09:08:35](https://www.astralpulse.com/forums/index.php?msg=117148), meanwhileinnowhere  ##

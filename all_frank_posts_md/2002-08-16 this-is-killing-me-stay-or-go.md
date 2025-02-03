@@ -1,12 +1,13 @@
 ---
 topic_title: "This is killing me - - stay or go?"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/this-is-killing-me-stay-or-go
-num_views: 6215
+topic_id: 1681
 num_posts: 19
 date_first: 2002-08-16
 date_last: 2002-09-05
-tags: []
+num_views: 6215
 summary: ""
+tags: []
 ---
 
 ## \#0/18 (18) [2002-08-16 14:04:27](https://www.astralpulse.com/forums/index.php?msg=117416), [Tisha](https://www.astralpulse.com/forums/profile/?u=594) USA ##

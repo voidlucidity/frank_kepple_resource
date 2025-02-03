@@ -1,12 +1,13 @@
 ---
 topic_title: "Mind travel - your thoughts please."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/mind-travel-your-thoughts-please
-num_views: 5720
+topic_id: 1976
 num_posts: 16
 date_first: 2002-09-19
 date_last: 2002-10-02
-tags: []
+num_views: 5720
 summary: ""
+tags: []
 ---
 
 ## \#0/15 (15) [2002-09-19 21:56:13](https://www.astralpulse.com/forums/index.php?msg=117710), [James S](https://www.astralpulse.com/forums/profile/?u=759) Australia ##

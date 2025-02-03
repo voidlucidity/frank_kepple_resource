@@ -1,12 +1,13 @@
 ---
 topic_title: "Odd Experience..."
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-consciousness!/odd-experience
-num_views: 3144
+topic_id: 19821
 num_posts: 6
 date_first: 2005-07-14
 date_last: 2005-07-17
-tags: []
+num_views: 3144
 summary: ""
+tags: []
 ---
 
 ## \#0/5 (0) [2005-07-14 02:26:01](https://www.astralpulse.com/forums/index.php?msg=170160), [m3th](https://www.astralpulse.com/forums/profile/?u=9397)  ##

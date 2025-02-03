@@ -1,12 +1,13 @@
 ---
 topic_title: "SO MAD at myself"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/so-mad-at-myself
-num_views: 4044
+topic_id: 18185
 num_posts: 11
 date_first: 2005-03-26
 date_last: 2005-04-10
-tags: []
+num_views: 4044
 summary: ""
+tags: []
 ---
 
 ## \#0/10 (0) [2005-03-26 10:25:28](https://www.astralpulse.com/forums/index.php?msg=157670), [Ivanda](https://www.astralpulse.com/forums/profile/?u=8260) Ohio (USA) ##

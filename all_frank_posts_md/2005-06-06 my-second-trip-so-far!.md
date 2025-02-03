@@ -1,12 +1,13 @@
 ---
 topic_title: "My second trip so far!"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/my-second-trip-so-far%21
-num_views: 1618
+topic_id: 19211
 num_posts: 4
 date_first: 2005-06-06
 date_last: 2005-06-07
-tags: []
+num_views: 1618
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-06-06 01:49:53](https://www.astralpulse.com/forums/index.php?msg=165530), [daan](https://www.astralpulse.com/forums/profile/?u=7846) China ##

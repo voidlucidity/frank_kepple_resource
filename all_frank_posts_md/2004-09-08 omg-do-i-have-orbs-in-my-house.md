@@ -1,12 +1,13 @@
 ---
 topic_title: "OMG DO I HAVE ORBS IN MY HOUSE???"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/omg-do-i-have-orbs-in-my-house
-num_views: 6085
+topic_id: 14346
 num_posts: 20
 date_first: 2004-09-08
 date_last: 2004-09-12
-tags: []
+num_views: 6085
 summary: ""
+tags: []
 ---
 
 ## \#0/19 (19) [2004-09-08 23:06:34](https://www.astralpulse.com/forums/index.php?msg=129221), [YoungOldSoul](https://www.astralpulse.com/forums/profile/?u=6851) USA ##

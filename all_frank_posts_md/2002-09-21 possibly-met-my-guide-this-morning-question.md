@@ -1,12 +1,13 @@
 ---
 topic_title: "Possibly met my guide this morning -  Question"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/possibly-met-my-guide-this-morning-question
-num_views: 4526
+topic_id: 1989
 num_posts: 12
 date_first: 2002-09-21
 date_last: 2002-09-24
-tags: []
+num_views: 4526
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2002-09-21 21:00:20](https://www.astralpulse.com/forums/index.php?msg=117723), [Jeff_Mash](https://www.astralpulse.com/forums/profile/?u=867) USA - Bay Area ##

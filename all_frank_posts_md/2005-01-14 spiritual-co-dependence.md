@@ -1,12 +1,13 @@
 ---
 topic_title: "Spiritual Co-Dependence"
 topic_url: https://www.astralpulse.com/forums/welcome-to-spiritual-evolution!/spiritual-co-dependence
-num_views: 1675
+topic_id: 16453
 num_posts: 4
 date_first: 2005-01-14
 date_last: 2005-01-15
-tags: []
+num_views: 1675
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-01-14 16:59:23](https://www.astralpulse.com/forums/index.php?msg=142922), [Rastus](https://www.astralpulse.com/forums/profile/?u=6268) USA ##

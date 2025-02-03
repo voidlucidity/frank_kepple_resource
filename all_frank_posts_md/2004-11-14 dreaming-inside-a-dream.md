@@ -1,12 +1,13 @@
 ---
 topic_title: "Dreaming inside a dream"
 topic_url: https://www.astralpulse.com/forums/welcome-to-dreams!/dreaming-inside-a-dream
-num_views: 1824
+topic_id: 15295
 num_posts: 5
 date_first: 2004-11-14
 date_last: 2004-11-20
-tags: []
+num_views: 1824
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (0) [2004-11-14 17:57:22](https://www.astralpulse.com/forums/index.php?msg=133709), [Innerfocus](https://www.astralpulse.com/forums/profile/?u=7274)  ##

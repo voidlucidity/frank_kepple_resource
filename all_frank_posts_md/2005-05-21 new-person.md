@@ -1,12 +1,13 @@
 ---
 topic_title: "New Person"
 topic_url: https://www.astralpulse.com/forums/welcome-to-members-introductions!/new-person
-num_views: 1565
+topic_id: 18977
 num_posts: 4
 date_first: 2005-05-21
 date_last: 2005-05-22
-tags: []
+num_views: 1565
 summary: ""
+tags: []
 ---
 
 ## \#0/3 (0) [2005-05-21 20:29:31](https://www.astralpulse.com/forums/index.php?msg=163708), [Pixie15](https://www.astralpulse.com/forums/profile/?u=9082) Ohio ##

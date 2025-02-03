@@ -1,12 +1,13 @@
 ---
 topic_title: "Lost the knack"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/lost-the-knack
-num_views: 2627
+topic_id: 2673
 num_posts: 8
 date_first: 2002-11-23
 date_last: 2002-11-24
-tags: []
+num_views: 2627
 summary: ""
+tags: []
 ---
 
 ## \#0/7 (7) [2002-11-23 22:38:23](https://www.astralpulse.com/forums/index.php?msg=118403), [helen](https://www.astralpulse.com/forums/profile/?u=1488) United Kingdom ##

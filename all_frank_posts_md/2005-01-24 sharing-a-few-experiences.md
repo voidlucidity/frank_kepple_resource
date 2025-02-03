@@ -1,12 +1,13 @@
 ---
 topic_title: "Sharing a Few Experiences"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/sharing-a-few-experiences
-num_views: 4225
+topic_id: 16711
 num_posts: 17
 date_first: 2005-01-24
 date_last: 2005-01-25
-tags: []
+num_views: 4225
 summary: ""
+tags: []
 ---
 
 ## \#0/16 (0) [2005-01-24 07:46:45](https://www.astralpulse.com/forums/index.php?msg=144568), [Selski](https://www.astralpulse.com/forums/profile/?u=6012) England, UK ##

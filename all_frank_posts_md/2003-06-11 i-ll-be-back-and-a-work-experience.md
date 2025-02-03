@@ -1,12 +1,13 @@
 ---
 topic_title: "\"I'll be back\"- and A Work Experience"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-projection-experiences!/i-ll-be-back-and-a-work-experience
-num_views: 3992
+topic_id: 4964
 num_posts: 5
 date_first: 2003-06-11
 date_last: 2003-06-16
-tags: []
+num_views: 3992
 summary: ""
+tags: []
 ---
 
 ## \#0/4 (4) [2003-06-11 11:51:47](https://www.astralpulse.com/forums/index.php?msg=120655), [sweet_celestial_sounds](https://www.astralpulse.com/forums/profile/?u=1975) USA ##

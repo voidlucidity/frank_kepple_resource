@@ -1,12 +1,13 @@
 ---
 topic_title: "New to this Forum"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/new-to-this-forum
-num_views: 6186
+topic_id: 484
 num_posts: 18
 date_first: 2002-04-01
 date_last: 2002-04-03
-tags: []
+num_views: 6186
 summary: ""
+tags: []
 ---
 
 ## \#0/17 (17) [2002-04-01 16:43:16](https://www.astralpulse.com/forums/index.php?msg=116239), [Barbara](https://www.astralpulse.com/forums/profile/?u=396) United Kingdom ##

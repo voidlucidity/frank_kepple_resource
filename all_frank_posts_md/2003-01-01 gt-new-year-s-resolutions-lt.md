@@ -1,12 +1,13 @@
 ---
 topic_title: "-----> New Year's RESOLUTIONS <-----"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/gt-new-year-s-resolutions-lt
-num_views: 1738
+topic_id: 2992
 num_posts: 3
 date_first: 2003-01-01
 date_last: 2003-01-01
-tags: []
+num_views: 1738
 summary: ""
+tags: []
 ---
 
 ## \#0/2 (2) [2003-01-01 15:10:33](https://www.astralpulse.com/forums/index.php?msg=118721), [PeacefulWarrior](https://www.astralpulse.com/forums/profile/?u=230) USA ##

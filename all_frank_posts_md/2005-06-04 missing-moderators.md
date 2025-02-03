@@ -1,12 +1,13 @@
 ---
 topic_title: "Missing Moderators"
 topic_url: https://www.astralpulse.com/forums/welcome-to-astral-chat!/missing-moderators
-num_views: 5028
+topic_id: 19177
 num_posts: 13
 date_first: 2005-06-04
 date_last: 2005-06-13
-tags: []
+num_views: 5028
 summary: ""
+tags: []
 ---
 
 ## \#0/12 (0) [2005-06-04 09:16:55](https://www.astralpulse.com/forums/index.php?msg=165363), [Kazbadan](https://www.astralpulse.com/forums/profile/?u=2956) Portugal ##

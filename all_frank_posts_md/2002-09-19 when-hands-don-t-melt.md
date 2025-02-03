@@ -1,12 +1,13 @@
 ---
 topic_title: "When hands don't melt"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/when-hands-don-t-melt
-num_views: 3386
+topic_id: 1968
 num_posts: 12
 date_first: 2002-09-19
 date_last: 2002-09-20
-tags: []
+num_views: 3386
 summary: ""
+tags: []
 ---
 
 ## \#0/11 (11) [2002-09-19 05:43:22](https://www.astralpulse.com/forums/index.php?msg=117702), [Frank](https://www.astralpulse.com/forums/profile/?u=359) France ##
