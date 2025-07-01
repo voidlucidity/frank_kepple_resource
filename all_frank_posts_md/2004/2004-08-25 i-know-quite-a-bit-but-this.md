@@ -1,5 +1,5 @@
 ---
-topic_title: "I know quite a bit but this\"
+topic_title: "I know quite a bit but this"
 topic_url: https://www.astralpulse.com/forums/welcome-to-out-of-body-experiences!/i-know-quite-a-bit-but-this
 topic_id: 14101
 num_posts: 13
